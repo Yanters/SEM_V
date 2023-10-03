@@ -13,9 +13,8 @@ import java.util.stream.Collectors;
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
-    private final static List<String> policeNames = List.of("Irek", "Arek", "Franio", "Jan", "Maciej");
+    private final static List<String> policeNames = List.of("Irek", "Arek","Konrad", "Franio", "Jan", "Maciej","Radek");
     private final static List<String> ticketReasons = List.of("Parkowanie na zakazie", "Sprawca wypadku", "DUI", "Potracenie pieszego na przejsciu", "Nie uzywanie sygnalizacji");
-    private final static Map<String, String> map = new HashMap<>();
     public static void main(String[] args) {
         // 1
         Random rand = new Random();
@@ -26,7 +25,7 @@ public class Main {
         }
 
         for (Policeman p : policemans) {
-            for (int i = 0; i < rand.nextInt(5) + 3; i++) {
+            for (int i = 0; i < rand.nextInt(10) + 3; i++) {
                 p.writeTicket(Ticket.builder().policeman(p).reason(ticketReasons.get(rand.nextInt(5))).price(rand.nextInt(500) + 100).build());
             }
         }
@@ -76,7 +75,7 @@ public class Main {
         int customThreadPoolSize = 5;
         ForkJoinPool customThreadPool = new ForkJoinPool(customThreadPoolSize);
 
-// Use parallel streams with the custom thread pool to perform the task on each category.
+        // Use parallel streams with the custom thread pool to perform the task on each category.
         tickets.stream()
                 .parallel()
                 .collect(Collectors.groupingBy(Ticket::getReason)) // Group by category
