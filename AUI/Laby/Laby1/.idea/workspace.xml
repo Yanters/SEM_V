@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ca6754a8-2f2e-4a3a-b3f1-99e8cb024c05" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entities/Policeman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Policeman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entities/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entities/Ticket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ticketDataDTO.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ticketDataDTO.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laby2/src/main/java/com/example/spring_app/dataInitializing/AppCommandLineRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laby2/src/main/java/com/example/spring_app/dataInitializing/AppCommandLineRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laby2/src/main/java/com/example/spring_app/dataInitializing/DataInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laby2/src/main/java/com/example/spring_app/dataInitializing/DataInitializer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/fajer/SEM_V/AUI/Laby/Laby1",
+    "last_opened_file_path": "C:/Users/fajer/SEM_V/AUI/Laby/Laby2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,6 +57,7 @@
       <updated>1696315735115</updated>
       <workItem from="1696315736122" duration="5201000" />
       <workItem from="1696332908453" duration="5703000" />
+      <workItem from="1697531425400" duration="499000" />
     </task>
     <servers />
   </component>

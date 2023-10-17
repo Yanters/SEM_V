@@ -270,8 +270,8 @@ public class DataInitializer {
       "Improper Cell Phone Usage", "Committing Traffic Violations", "Lack of a Valid Driver’s License",
       "Expired Vehicle Registration", "Aggravated Assault", "Aggravated Battery");
 
-  private final PolicemanService policemanServiceJPA;
-  private final TicketService ticketServiceJPA;
+  private final PolicemanService policemenService;
+  private final TicketService ticketService;
 
   @PostConstruct
   public void init() {
@@ -281,13 +281,13 @@ public class DataInitializer {
       Policeman policeman = Policeman.builder().id(UUID.randomUUID()).name(names.get(rand.nextInt(names.size())))
           .rank(rand.nextInt(80) + 20)
           .build();
-      Policeman newPoliceman = policemanServiceJPA.createPoliceman(policeman);
+      Policeman newPoliceman = policemenService.createPoliceman(policeman);
       Integer numberOfTickets = rand.nextInt(5) + 3;
       for (int j = 0; j < numberOfTickets; j++) {
         Ticket ticket = Ticket.builder().id(UUID.randomUUID())
-            .reason(ticketReasons.get(rand.nextInt(ticketReasons.size())))
+            .reason(ticketReasons.get(rand.nextInt(ticketReasons.size()))).price(rand.nextInt(1000) + 100)
             .policeman(newPoliceman).build();
-        ticketServiceJPA.createTicket(ticket);
+        ticketService.createTicket(ticket);
       }
     }
   }

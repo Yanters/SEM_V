@@ -37,6 +37,7 @@ public class TicketServiceJPA implements TicketService {
 
   @Override
   public void deleteTicket(UUID ticketId) {
+    System.out.println("Deleting ticket with id: " + ticketId);
     ticketRepository.deleteById(ticketId);
   }
 }

@@ -1,6 +1,7 @@
 package com.example.spring_app.entities;
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
@@ -29,7 +30,7 @@ public class Policeman implements Comparable<Policeman> {
 
     @Builder.Default
     @EqualsAndHashCode.Exclude
-    @OneToMany(mappedBy = "policeman")
+    @OneToMany(mappedBy = "policeman", fetch = FetchType.LAZY)
     @ToString.Exclude
     private List<Ticket> tickets = new ArrayList<>();
 

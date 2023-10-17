@@ -23,7 +23,7 @@ public class Ticket implements Comparable<Ticket> {
     private Integer price;
 
     @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "policemans_id")
+    @JoinColumn(name = "policeman_id")
     private Policeman policeman;
 
     // A constructor that sets the policeman field and adds the ticket to the
