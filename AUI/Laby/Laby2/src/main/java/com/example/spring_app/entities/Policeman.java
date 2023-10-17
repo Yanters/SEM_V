@@ -23,7 +23,6 @@ import java.util.UUID;
 @Table(name = "policemans")
 public class Policeman implements Comparable<Policeman> {
     @Id
-    // @GeneratedValue(generator = "UUID")
     private UUID id;
     private String name;
     private Integer rank;

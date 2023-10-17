@@ -20,18 +20,6 @@ public class AppCommandLineRunner implements CommandLineRunner {
   private final PolicemanService policemanService;
   private final TicketService ticketService;
 
-  private static void displayCommands() {
-    System.out.println();
-    System.out.println("Pick option:");
-    System.out.println("1. List of all");
-    System.out.println("2. List of all policemen");
-    System.out.println("3. List of all tickets");
-    System.out.println("4. Add new ticket");
-    System.out.println("5. Delete ticket");
-    System.out.println("*. Exit");
-    System.out.println();
-  }
-
   @Transactional
   @Override
   public void run(String... args) throws Exception {
@@ -66,20 +54,16 @@ public class AppCommandLineRunner implements CommandLineRunner {
     System.exit(0);
   }
 
-  private void displayPolicemens() {
-    System.out.println("Displaying all policemen");
-    List<Policeman> policeman = policemanService.getAllPolicemen();
-    for (int i = 0; i < policeman.size(); i++) {
-      System.out.println("[" + i + "] " + policeman.get(i));
-    }
-  }
-
-  private void displayTickets() {
-    System.out.println("Displaying all tickets");
-    List<Ticket> tickets = ticketService.getAllTickets();
-    for (int i = 0; i < tickets.size(); i++) {
-      System.out.println("[" + i + "] " + tickets.get(i));
-    }
+  private static void displayCommands() {
+    System.out.println();
+    System.out.println("Pick option:");
+    System.out.println("1. List of all");
+    System.out.println("2. List of all policemen");
+    System.out.println("3. List of all tickets");
+    System.out.println("4. Add new ticket");
+    System.out.println("5. Delete ticket");
+    System.out.println("*. Exit");
+    System.out.println();
   }
 
   private void displayTree() {
@@ -93,6 +77,22 @@ public class AppCommandLineRunner implements CommandLineRunner {
       for (int i = 0; i < ticketsList.size(); i++) {
         System.out.println("    [" + i + "] " + ticketsList.get(i));
       }
+    }
+  }
+
+  private void displayPolicemens() {
+    System.out.println("Displaying all policemen");
+    List<Policeman> policeman = policemanService.getAllPolicemen();
+    for (int i = 0; i < policeman.size(); i++) {
+      System.out.println("[" + i + "] " + policeman.get(i));
+    }
+  }
+
+  private void displayTickets() {
+    System.out.println("Displaying all tickets");
+    List<Ticket> tickets = ticketService.getAllTickets();
+    for (int i = 0; i < tickets.size(); i++) {
+      System.out.println("[" + i + "] " + tickets.get(i));
     }
   }
 

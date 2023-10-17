@@ -17,7 +17,6 @@ import java.util.UUID;
 public class Ticket implements Comparable<Ticket> {
 
     @Id
-    // @GeneratedValue(generator = "UUID")
     private UUID id;
     private String reason;
     private Integer price;
