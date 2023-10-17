@@ -12,7 +12,7 @@ public interface TicketService {
 
   List<Ticket> getAllTickets();
 
-  List<Ticket> getTicketsByTicketName(String ticketName);
+  List<Ticket> getTicketsByPolicemanName(String policemanName);
 
   Boolean isTicketExist(UUID ticketId);
 

@@ -26,8 +26,8 @@ public class TicketServiceJPA implements TicketService {
   }
 
   @Override
-  public List<Ticket> getTicketsByTicketName(String ticketName) {
-    return ticketRepository.findByTicketName(ticketName);
+  public List<Ticket> getTicketsByPolicemanName(String policemanName) {
+    return ticketRepository.findByPolicemanName(policemanName);
   }
 
   @Override

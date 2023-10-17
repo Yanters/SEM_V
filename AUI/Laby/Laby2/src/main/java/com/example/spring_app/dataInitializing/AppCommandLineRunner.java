@@ -46,17 +46,22 @@ public class AppCommandLineRunner implements CommandLineRunner {
             break;
           case "3":
             addNewTicket(scanner);
+            scanner.nextLine();
             break;
           case "4":
             deleteElement(scanner);
+            scanner.nextLine();
             break;
           case "5":
             displayTree();
             break;
           default:
-            return;
+            throw new RuntimeException("Exiting");
         }
       }
+    } catch (Exception e) {
+      System.out.println("Exiting");
+      // e.printStackTrace();
     }
   }
 
