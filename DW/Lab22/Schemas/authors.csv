@@ -1,0 +1,300 @@
+ID,Imię,Nazwisko,Katedra,Tytuł naukowy,email
+1,Marcin,Lejk,Katedra Systemów Mikroelektronicznych,doktor,marcin.lejk@studentbook.com
+2,Justyna,Dziewit,Katedra Sygnałów i Systemów,profesor,justyna.dziewit@studentbook.com
+3,Norbert,Ziętal,Katedra Sieci Teleinformacyjnych,profesor,norbert.ziętal@studentbook.com
+4,Ksawery,Jarmuła,Katedra Inżynierii Biomedycznej,doktor habilitowny,ksawery.jarmuła@studentbook.com
+5,Bartek,Furmankiewicz,Katedra Inżynierii Oprogramowania,doktor habilitowny,bartek.furmankiewicz@studentbook.com
+6,Kaja,Igras,Katedra Inżynierii Biomedycznej,doktor habilitowny,kaja.igras@studentbook.com
+7,Antoni,Matyka,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,antoni.matyka@studentbook.com
+8,Fabian,Kretowicz,Katedra Architektury Systemów Komputerowych,doktor,fabian.kretowicz@studentbook.com
+9,Agnieszka,Siarkiewicz,Katedra Inteligentnych Systemów Interaktywnych,profesor,agnieszka.siarkiewicz@studentbook.com
+10,Malwina,Andruszko,Katedra Inżynierii Mikrofalowej i Antenowej,magister,malwina.andruszko@studentbook.com
+11,Julianna,Krysta,Katedra Teleinformatyki,profesor,julianna.krysta@studentbook.com
+12,Tymoteusz,Wocial,Katedra Inteligentnych Systemów Interaktywnych,inżynier,tymoteusz.wocial@studentbook.com
+13,Anita,Zbroszczyk,Katedra Metrologii i Optoelektroniki,doktor habilitowny,anita.zbroszczyk@studentbook.com
+14,Ksawery,Czuj,Katedra Inteligentnych Systemów Interaktywnych,magister,ksawery.czuj@studentbook.com
+15,Roksana,Wąsek,Katedra Inżynierii Biomedycznej,inżynier,roksana.wąsek@studentbook.com
+16,Agnieszka,Wosiek,Katedra Sygnałów i Systemów,doktor habilitowny,agnieszka.wosiek@studentbook.com
+17,Nataniel,Rycerz,Katedra Inżynierii Materiałów Funkcjonalnych,magister,nataniel.rycerz@studentbook.com
+18,Marianna,Sabała,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,marianna.sabała@studentbook.com
+19,Monika,Micał,Katedra Inżynierii Biomedycznej,inżynier,monika.micał@studentbook.com
+20,Ryszard,Dawidek,Katedra Teleinformatyki,inżynier,ryszard.dawidek@studentbook.com
+21,Damian,Franczuk,Katedra Systemów Multimedialnych,profesor,damian.franczuk@studentbook.com
+22,Krystyna,Kęsek,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,krystyna.kęsek@studentbook.com
+23,Ada,Kurzak,Katedra Algorytmów i Modelowania Systemów,profesor,ada.kurzak@studentbook.com
+24,Aleks,Maleszka,Katedra Inżynierii Oprogramowania,profesor,aleks.maleszka@studentbook.com
+25,Tomasz,Prokurat,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,tomasz.prokurat@studentbook.com
+26,Emil,Dzika,Katedra Algorytmów i Modelowania Systemów,doktor,emil.dzika@studentbook.com
+27,Kamila,Maruszczyk,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,kamila.maruszczyk@studentbook.com
+28,Oskar,Panicz,Katedra Sygnałów i Systemów,doktor habilitowny,oskar.panicz@studentbook.com
+29,Dagmara,Pieszak,Katedra Architektury Systemów Komputerowych,profesor,dagmara.pieszak@studentbook.com
+30,Anna Maria,Godyń,Katedra Metrologii i Optoelektroniki,profesor,anna maria.godyń@studentbook.com
+31,Dariusz,Grabas,Katedra Systemów Mikroelektronicznych,magister,dariusz.grabas@studentbook.com
+32,Norbert,Krzysztoszek,Katedra Inżynierii Materiałów Funkcjonalnych,profesor,norbert.krzysztoszek@studentbook.com
+33,Aurelia,Albin,Katedra Sieci Teleinformacyjnych,doktor habilitowny,aurelia.albin@studentbook.com
+34,Jacek,Komperda,Katedra Architektury Systemów Komputerowych,magister,jacek.komperda@studentbook.com
+35,Rafał,Protasiuk,Katedra Sygnałów i Systemów,profesor,rafał.protasiuk@studentbook.com
+36,Marcel,Grupa,Katedra Metrologii i Optoelektroniki,profesor,marcel.grupa@studentbook.com
+37,Witold,Moczko,Katedra Architektury Systemów Komputerowych,inżynier,witold.moczko@studentbook.com
+38,Igor,Dmoch,Katedra Inżynierii Oprogramowania,magister,igor.dmoch@studentbook.com
+39,Natan,Wołczyk,Katedra Systemów Decyzyjnych i Robotyki,inżynier,natan.wołczyk@studentbook.com
+40,Maciej,Przeniosło,Katedra Systemów Decyzyjnych i Robotyki,profesor,maciej.przeniosło@studentbook.com
+41,Jacek,Budzich,Katedra Systemów Multimedialnych,doktor habilitowny,jacek.budzich@studentbook.com
+42,Gabriel,Bohdanowicz,Katedra Inżynierii Biomedycznej,inżynier,gabriel.bohdanowicz@studentbook.com
+43,Filip,Czubaszek,Katedra Inżynierii Mikrofalowej i Antenowej,profesor,filip.czubaszek@studentbook.com
+44,Ernest,Bodzak,Katedra Inżynierii Oprogramowania,doktor habilitowny,ernest.bodzak@studentbook.com
+45,Natasza,Ellwart,Katedra Sieci Teleinformacyjnych,profesor,natasza.ellwart@studentbook.com
+46,Kaja,Kołtuniak,Katedra Systemów i Sieci Radiokomunikacyjnych,inżynier,kaja.kołtuniak@studentbook.com
+47,Klara,Sidorczuk,Katedra Sygnałów i Systemów,magister,klara.sidorczuk@studentbook.com
+48,Stanisław,Grabczak,Katedra Systemów Multimedialnych,profesor,stanisław.grabczak@studentbook.com
+49,Bartek,Olbrych,Katedra Sieci Teleinformacyjnych,doktor habilitowny,bartek.olbrych@studentbook.com
+50,Błażej,Hadała,Katedra Systemów Mikroelektronicznych,doktor habilitowny,błażej.hadała@studentbook.com
+51,Dawid,Matraszek,Katedra Sieci Teleinformacyjnych,inżynier,dawid.matraszek@studentbook.com
+52,Nela,Handzel,Katedra Inżynierii Oprogramowania,profesor,nela.handzel@studentbook.com
+53,Anastazja,Sypień,Katedra Systemów Geoinformatycznych,inżynier,anastazja.sypień@studentbook.com
+54,Adrianna,Malon,Katedra Inżynierii Materiałów Funkcjonalnych,doktor,adrianna.malon@studentbook.com
+55,Nela,Litwiniuk,Katedra Systemów Mikroelektronicznych,profesor,nela.litwiniuk@studentbook.com
+56,Tomasz,Basista,Katedra Inteligentnych Systemów Interaktywnych,doktor,tomasz.basista@studentbook.com
+57,Mariusz,Ciaś,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,mariusz.ciaś@studentbook.com
+58,Anita,Łobacz,Katedra Sieci Teleinformacyjnych,doktor,anita.łobacz@studentbook.com
+59,Róża,Stoltmann,Katedra Inżynierii Oprogramowania,doktor,róża.stoltmann@studentbook.com
+60,Kazimierz,Murach,Katedra Teleinformatyki,inżynier,kazimierz.murach@studentbook.com
+61,Wiktor,Kolanko,Katedra Sieci Teleinformacyjnych,magister,wiktor.kolanko@studentbook.com
+62,Igor,Andziak,Katedra Sygnałów i Systemów,profesor,igor.andziak@studentbook.com
+63,Olaf,Pancerz,Katedra Inteligentnych Systemów Interaktywnych,doktor,olaf.pancerz@studentbook.com
+64,Adam,Przybyś,Katedra Systemów Mikroelektronicznych,doktor,adam.przybyś@studentbook.com
+65,Ewa,Bylina,Katedra Systemów Multimedialnych,inżynier,ewa.bylina@studentbook.com
+66,Franciszek,Gregorek,Katedra Systemów i Sieci Radiokomunikacyjnych,profesor,franciszek.gregorek@studentbook.com
+67,Tola,Matyszczak,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,tola.matyszczak@studentbook.com
+68,Cezary,Dziedzina,Katedra Systemów Geoinformatycznych,doktor habilitowny,cezary.dziedzina@studentbook.com
+69,Nicole,Mojsa,Katedra Inżynierii Biomedycznej,doktor,nicole.mojsa@studentbook.com
+70,Angelika,Kulisz,Katedra Systemów Mikroelektronicznych,doktor habilitowny,angelika.kulisz@studentbook.com
+71,Bianka,Czuj,Katedra Systemów Multimedialnych,profesor,bianka.czuj@studentbook.com
+72,Marek,Świerszcz,Katedra Systemów Geoinformatycznych,magister,marek.świerszcz@studentbook.com
+73,Leonard,Tutka,Katedra Inżynierii Biomedycznej,inżynier,leonard.tutka@studentbook.com
+74,Eryk,Krzyśków,Katedra Inżynierii Mikrofalowej i Antenowej,doktor habilitowny,eryk.krzyśków@studentbook.com
+75,Marek,Sapa,Katedra Sygnałów i Systemów,inżynier,marek.sapa@studentbook.com
+76,Urszula,Piątkiewicz,Katedra Sygnałów i Systemów,doktor habilitowny,urszula.piątkiewicz@studentbook.com
+77,Anna Maria,Orszulik,Katedra Architektury Systemów Komputerowych,inżynier,anna maria.orszulik@studentbook.com
+78,Oskar,Zbiciak,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor,oskar.zbiciak@studentbook.com
+79,Hubert,Matuszyk,Katedra Systemów Decyzyjnych i Robotyki,inżynier,hubert.matuszyk@studentbook.com
+80,Tadeusz,Nyk,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,tadeusz.nyk@studentbook.com
+81,Fabian,Sochaj,Katedra Systemów Multimedialnych,magister,fabian.sochaj@studentbook.com
+82,Franciszek,Margas,Katedra Inżynierii Materiałów Funkcjonalnych,doktor,franciszek.margas@studentbook.com
+83,Oliwier,Uzar,Katedra Sieci Teleinformacyjnych,magister,oliwier.uzar@studentbook.com
+84,Ada,Bielas,Katedra Teleinformatyki,magister,ada.bielas@studentbook.com
+85,Marcelina,Korgul,Katedra Systemów Decyzyjnych i Robotyki,magister,marcelina.korgul@studentbook.com
+86,Mariusz,Osman,Katedra Teleinformatyki,profesor,mariusz.osman@studentbook.com
+87,Szymon,Kamieniak,Katedra Inteligentnych Systemów Interaktywnych,doktor,szymon.kamieniak@studentbook.com
+88,Franciszek,Włodyka,Katedra Teleinformatyki,doktor habilitowny,franciszek.włodyka@studentbook.com
+89,Kamila,Kidoń,Katedra Algorytmów i Modelowania Systemów,profesor,kamila.kidoń@studentbook.com
+90,Marcelina,Lewek,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,marcelina.lewek@studentbook.com
+91,Anita,Lorens,Katedra Teleinformatyki,profesor,anita.lorens@studentbook.com
+92,Ernest,Nazimek,Katedra Inżynierii Biomedycznej,magister,ernest.nazimek@studentbook.com
+93,Karina,Mazan,Katedra Systemów Multimedialnych,magister,karina.mazan@studentbook.com
+94,Mieszko,Flieger,Katedra Systemów i Sieci Radiokomunikacyjnych,magister,mieszko.flieger@studentbook.com
+95,Oliwier,Smoczyk,Katedra Algorytmów i Modelowania Systemów,magister,oliwier.smoczyk@studentbook.com
+96,Sonia,Janiszek,Katedra Teleinformatyki,magister,sonia.janiszek@studentbook.com
+97,Jakub,Rosołek,Katedra Inżynierii Oprogramowania,doktor habilitowny,jakub.rosołek@studentbook.com
+98,Albert,Rochowiak,Katedra Inteligentnych Systemów Interaktywnych,doktor,albert.rochowiak@studentbook.com
+99,Alan,Świerad,Katedra Inżynierii Mikrofalowej i Antenowej,profesor,alan.świerad@studentbook.com
+100,Anita,Trzpil,Katedra Inżynierii Biomedycznej,doktor,anita.trzpil@studentbook.com
+101,Kalina,Olkowicz,Katedra Systemów Multimedialnych,profesor,kalina.olkowicz@studentbook.com
+102,Ewa,Bogdał,Katedra Inteligentnych Systemów Interaktywnych,inżynier,ewa.bogdał@studentbook.com
+103,Leon,Becker,Katedra Teleinformatyki,inżynier,leon.becker@studentbook.com
+104,Rafał,Steciuk,Katedra Systemów Decyzyjnych i Robotyki,magister,rafał.steciuk@studentbook.com
+105,Konstanty,Banek,Katedra Sygnałów i Systemów,inżynier,konstanty.banek@studentbook.com
+106,Konrad,Morcinek,Katedra Algorytmów i Modelowania Systemów,magister,konrad.morcinek@studentbook.com
+107,Angelika,Ścieszka,Katedra Inżynierii Mikrofalowej i Antenowej,magister,angelika.ścieszka@studentbook.com
+108,Julita,Narożny,Katedra Systemów Geoinformatycznych,profesor,julita.narożny@studentbook.com
+109,Witold,Ważny,Katedra Systemów Multimedialnych,doktor habilitowny,witold.ważny@studentbook.com
+110,Juliusz,Szczepaniec,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,juliusz.szczepaniec@studentbook.com
+111,Szymon,Łakota,Katedra Inteligentnych Systemów Interaktywnych,inżynier,szymon.łakota@studentbook.com
+112,Łukasz,Rode,Katedra Inżynierii Mikrofalowej i Antenowej,magister,łukasz.rode@studentbook.com
+113,Stefan,Lenarcik,Katedra Systemów Decyzyjnych i Robotyki,magister,stefan.lenarcik@studentbook.com
+114,Ida,Lemieszek,Katedra Inteligentnych Systemów Interaktywnych,profesor,ida.lemieszek@studentbook.com
+115,Kornelia,Garncarek,Katedra Systemów Mikroelektronicznych,doktor,kornelia.garncarek@studentbook.com
+116,Kacper,Pawela,Katedra Systemów i Sieci Radiokomunikacyjnych,inżynier,kacper.pawela@studentbook.com
+117,Mateusz,Procek,Katedra Inżynierii Biomedycznej,profesor,mateusz.procek@studentbook.com
+118,Tobiasz,Druszcz,Katedra Inteligentnych Systemów Interaktywnych,profesor,tobiasz.druszcz@studentbook.com
+119,Jacek,Skup,Katedra Architektury Systemów Komputerowych,doktor,jacek.skup@studentbook.com
+120,Natasza,Szpyt,Katedra Systemów Mikroelektronicznych,profesor,natasza.szpyt@studentbook.com
+121,Tomasz,Miozga,Katedra Metrologii i Optoelektroniki,doktor habilitowny,tomasz.miozga@studentbook.com
+122,Nikodem,Raszkiewicz,Katedra Metrologii i Optoelektroniki,magister,nikodem.raszkiewicz@studentbook.com
+123,Melania,Flisiak,Katedra Teleinformatyki,doktor,melania.flisiak@studentbook.com
+124,Ignacy,Bulak,Katedra Inżynierii Mikrofalowej i Antenowej,magister,ignacy.bulak@studentbook.com
+125,Iwo,Makosz,Katedra Sygnałów i Systemów,doktor,iwo.makosz@studentbook.com
+126,Ada,Lindner,Katedra Sieci Teleinformacyjnych,magister,ada.lindner@studentbook.com
+127,Sebastian,Midura,Katedra Sieci Teleinformacyjnych,doktor habilitowny,sebastian.midura@studentbook.com
+128,Adrian,Drobik,Katedra Systemów Multimedialnych,inżynier,adrian.drobik@studentbook.com
+129,Janina,Gamrat,Katedra Algorytmów i Modelowania Systemów,profesor,janina.gamrat@studentbook.com
+130,Nataniel,Superson,Katedra Architektury Systemów Komputerowych,magister,nataniel.superson@studentbook.com
+131,Błażej,Kurcz,Katedra Metrologii i Optoelektroniki,doktor habilitowny,błażej.kurcz@studentbook.com
+132,Marek,Liśkiewicz,Katedra Sygnałów i Systemów,magister,marek.liśkiewicz@studentbook.com
+133,Dagmara,Szkaradek,Katedra Systemów Decyzyjnych i Robotyki,profesor,dagmara.szkaradek@studentbook.com
+134,Patryk,Michniak,Katedra Metrologii i Optoelektroniki,inżynier,patryk.michniak@studentbook.com
+135,Angelika,Drobny,Katedra Inżynierii Materiałów Funkcjonalnych,magister,angelika.drobny@studentbook.com
+136,Rafał,Jantos,Katedra Systemów Mikroelektronicznych,profesor,rafał.jantos@studentbook.com
+137,Gustaw,Żelasko,Katedra Inżynierii Oprogramowania,profesor,gustaw.żelasko@studentbook.com
+138,Arkadiusz,Rochowiak,Katedra Systemów Decyzyjnych i Robotyki,magister,arkadiusz.rochowiak@studentbook.com
+139,Paweł,Prejs,Katedra Architektury Systemów Komputerowych,doktor,paweł.prejs@studentbook.com
+140,Aleksander,Rycerz,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,aleksander.rycerz@studentbook.com
+141,Błażej,Szklarek,Katedra Inżynierii Materiałów Funkcjonalnych,magister,błażej.szklarek@studentbook.com
+142,Michał,Rębiś,Katedra Inżynierii Mikrofalowej i Antenowej,profesor,michał.rębiś@studentbook.com
+143,Adrian,Młyńczak,Katedra Teleinformatyki,doktor habilitowny,adrian.młyńczak@studentbook.com
+144,Monika,Fronczek,Katedra Inżynierii Materiałów Funkcjonalnych,doktor,monika.fronczek@studentbook.com
+145,Aurelia,Młot,Katedra Inżynierii Materiałów Funkcjonalnych,inżynier,aurelia.młot@studentbook.com
+146,Sandra,Rzeszut,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,sandra.rzeszut@studentbook.com
+147,Michał,Rudolf,Katedra Architektury Systemów Komputerowych,profesor,michał.rudolf@studentbook.com
+148,Tadeusz,Związek,Katedra Inżynierii Mikrofalowej i Antenowej,profesor,tadeusz.związek@studentbook.com
+149,Tomasz,Chmara,Katedra Teleinformatyki,profesor,tomasz.chmara@studentbook.com
+150,Witold,Kandziora,Katedra Inżynierii Biomedycznej,magister,witold.kandziora@studentbook.com
+151,Marika,Macias,Katedra Systemów Mikroelektronicznych,doktor,marika.macias@studentbook.com
+152,Ewa,Sobuś,Katedra Sieci Teleinformacyjnych,doktor,ewa.sobuś@studentbook.com
+153,Kamil,Lula,Katedra Inżynierii Oprogramowania,doktor habilitowny,kamil.lula@studentbook.com
+154,Olaf,Podgórny,Katedra Systemów Decyzyjnych i Robotyki,doktor,olaf.podgórny@studentbook.com
+155,Miłosz,Jessa,Katedra Systemów Mikroelektronicznych,profesor,miłosz.jessa@studentbook.com
+156,Marek,Szylar,Katedra Sieci Teleinformacyjnych,doktor habilitowny,marek.szylar@studentbook.com
+157,Julianna,Hajdasz,Katedra Sieci Teleinformacyjnych,magister,julianna.hajdasz@studentbook.com
+158,Hubert,Długajczyk,Katedra Inżynierii Mikrofalowej i Antenowej,profesor,hubert.długajczyk@studentbook.com
+159,Agnieszka,Stempel,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,agnieszka.stempel@studentbook.com
+160,Kornel,Rykała,Katedra Systemów Geoinformatycznych,inżynier,kornel.rykała@studentbook.com
+161,Lidia,Ksel,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,lidia.ksel@studentbook.com
+162,Stefan,Posmyk,Katedra Teleinformatyki,magister,stefan.posmyk@studentbook.com
+163,Jerzy,Szmurło,Katedra Algorytmów i Modelowania Systemów,profesor,jerzy.szmurło@studentbook.com
+164,Julian,Czerepak,Katedra Systemów Mikroelektronicznych,doktor habilitowny,julian.czerepak@studentbook.com
+165,Antoni,Sommer,Katedra Teleinformatyki,doktor,antoni.sommer@studentbook.com
+166,Igor,Stempel,Katedra Inżynierii Biomedycznej,inżynier,igor.stempel@studentbook.com
+167,Szymon,Neubauer,Katedra Metrologii i Optoelektroniki,profesor,szymon.neubauer@studentbook.com
+168,Damian,Fiołka,Katedra Inżynierii Materiałów Funkcjonalnych,doktor habilitowny,damian.fiołka@studentbook.com
+169,Julita,Suchta,Katedra Architektury Systemów Komputerowych,doktor habilitowny,julita.suchta@studentbook.com
+170,Maciej,Bochnak,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,maciej.bochnak@studentbook.com
+171,Angelika,Kuchciak,Katedra Metrologii i Optoelektroniki,doktor habilitowny,angelika.kuchciak@studentbook.com
+172,Gustaw,Pelka,Katedra Metrologii i Optoelektroniki,magister,gustaw.pelka@studentbook.com
+173,Alan,Bejma,Katedra Architektury Systemów Komputerowych,doktor habilitowny,alan.bejma@studentbook.com
+174,Julianna,Kuliberda,Katedra Inteligentnych Systemów Interaktywnych,inżynier,julianna.kuliberda@studentbook.com
+175,Elżbieta,Mandrysz,Katedra Teleinformatyki,magister,elżbieta.mandrysz@studentbook.com
+176,Ewa,Pal,Katedra Systemów i Sieci Radiokomunikacyjnych,inżynier,ewa.pal@studentbook.com
+177,Alex,Policht,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,alex.policht@studentbook.com
+178,Miłosz,Bazylewicz,Katedra Teleinformatyki,inżynier,miłosz.bazylewicz@studentbook.com
+179,Rafał,Klos,Katedra Inteligentnych Systemów Interaktywnych,doktor habilitowny,rafał.klos@studentbook.com
+180,Kornelia,Woźniczko,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,kornelia.woźniczko@studentbook.com
+181,Cezary,Sudak,Katedra Systemów Multimedialnych,profesor,cezary.sudak@studentbook.com
+182,Agnieszka,Kazana,Katedra Inżynierii Materiałów Funkcjonalnych,doktor,agnieszka.kazana@studentbook.com
+183,Juliusz,Wyroba,Katedra Systemów Mikroelektronicznych,magister,juliusz.wyroba@studentbook.com
+184,Fryderyk,Breś,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,fryderyk.breś@studentbook.com
+185,Oskar,Kustosz,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,oskar.kustosz@studentbook.com
+186,Eryk,Stosio,Katedra Sygnałów i Systemów,doktor habilitowny,eryk.stosio@studentbook.com
+187,Maks,Komander,Katedra Systemów Multimedialnych,inżynier,maks.komander@studentbook.com
+188,Krzysztof,Aleksandrzak,Katedra Algorytmów i Modelowania Systemów,profesor,krzysztof.aleksandrzak@studentbook.com
+189,Oliwier,Nieszporek,Katedra Sygnałów i Systemów,doktor habilitowny,oliwier.nieszporek@studentbook.com
+190,Angelika,Galik,Katedra Inteligentnych Systemów Interaktywnych,doktor,angelika.galik@studentbook.com
+191,Oskar,Kielczyk,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,oskar.kielczyk@studentbook.com
+192,Patryk,Solnica,Katedra Inżynierii Materiałów Funkcjonalnych,magister,patryk.solnica@studentbook.com
+193,Wojciech,Matla,Katedra Teleinformatyki,doktor,wojciech.matla@studentbook.com
+194,Kalina,Sutor,Katedra Systemów Decyzyjnych i Robotyki,magister,kalina.sutor@studentbook.com
+195,Kornelia,Petryk,Katedra Inżynierii Mikrofalowej i Antenowej,magister,kornelia.petryk@studentbook.com
+196,Ryszard,Klaja,Katedra Systemów Multimedialnych,doktor,ryszard.klaja@studentbook.com
+197,Wiktor,Herbut,Katedra Systemów i Sieci Radiokomunikacyjnych,inżynier,wiktor.herbut@studentbook.com
+198,Ewa,Siudek,Katedra Metrologii i Optoelektroniki,doktor,ewa.siudek@studentbook.com
+199,Witold,Pachołek,Katedra Teleinformatyki,magister,witold.pachołek@studentbook.com
+200,Witold,Supernak,Katedra Inżynierii Materiałów Funkcjonalnych,inżynier,witold.supernak@studentbook.com
+201,Rafał,Miechowicz,Katedra Inteligentnych Systemów Interaktywnych,magister,rafał.miechowicz@studentbook.com
+202,Adrianna,Smela,Katedra Systemów Decyzyjnych i Robotyki,doktor,adrianna.smela@studentbook.com
+203,Lidia,Świergiel,Katedra Architektury Systemów Komputerowych,inżynier,lidia.świergiel@studentbook.com
+204,Justyna,Mila,Katedra Systemów Decyzyjnych i Robotyki,doktor,justyna.mila@studentbook.com
+205,Oskar,Wlazły,Katedra Systemów Decyzyjnych i Robotyki,magister,oskar.wlazły@studentbook.com
+206,Sebastian,Wandzel,Katedra Metrologii i Optoelektroniki,profesor,sebastian.wandzel@studentbook.com
+207,Hubert,Kuryś,Katedra Sieci Teleinformacyjnych,magister,hubert.kuryś@studentbook.com
+208,Mikołaj,Szpyrka,Katedra Inżynierii Mikrofalowej i Antenowej,magister,mikołaj.szpyrka@studentbook.com
+209,Dawid,Łakota,Katedra Architektury Systemów Komputerowych,doktor habilitowny,dawid.łakota@studentbook.com
+210,Melania,Ziemkiewicz,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,melania.ziemkiewicz@studentbook.com
+211,Albert,Cymbała,Katedra Teleinformatyki,doktor,albert.cymbała@studentbook.com
+212,Elżbieta,Makosz,Katedra Systemów Mikroelektronicznych,profesor,elżbieta.makosz@studentbook.com
+213,Justyna,Łudzik,Katedra Inżynierii Oprogramowania,profesor,justyna.łudzik@studentbook.com
+214,Eryk,Protasiuk,Katedra Metrologii i Optoelektroniki,doktor,eryk.protasiuk@studentbook.com
+215,Kalina,Tomzik,Katedra Teleinformatyki,magister,kalina.tomzik@studentbook.com
+216,Cezary,Saj,Katedra Systemów Geoinformatycznych,magister,cezary.saj@studentbook.com
+217,Konstanty,Bondyra,Katedra Inżynierii Materiałów Funkcjonalnych,profesor,konstanty.bondyra@studentbook.com
+218,Witold,Lulek,Katedra Systemów Decyzyjnych i Robotyki,doktor,witold.lulek@studentbook.com
+219,Krystian,Łodej,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,krystian.łodej@studentbook.com
+220,Aleks,Haponiuk,Katedra Systemów Multimedialnych,magister,aleks.haponiuk@studentbook.com
+221,Ignacy,Kozon,Katedra Systemów Geoinformatycznych,doktor,ignacy.kozon@studentbook.com
+222,Mariusz,Kral,Katedra Inżynierii Biomedycznej,inżynier,mariusz.kral@studentbook.com
+223,Kalina,Waleczek,Katedra Inteligentnych Systemów Interaktywnych,doktor habilitowny,kalina.waleczek@studentbook.com
+224,Józef,Grymuza,Katedra Sieci Teleinformacyjnych,magister,józef.grymuza@studentbook.com
+225,Eliza,Szałas,Katedra Inżynierii Materiałów Funkcjonalnych,doktor,eliza.szałas@studentbook.com
+226,Marianna,Chlebek,Katedra Inżynierii Materiałów Funkcjonalnych,doktor habilitowny,marianna.chlebek@studentbook.com
+227,Adam,Miodek,Katedra Systemów Mikroelektronicznych,doktor habilitowny,adam.miodek@studentbook.com
+228,Radosław,Pindral,Katedra Teleinformatyki,magister,radosław.pindral@studentbook.com
+229,Dawid,Biegała,Katedra Inteligentnych Systemów Interaktywnych,inżynier,dawid.biegała@studentbook.com
+230,Rozalia,Dobosiewicz,Katedra Inżynierii Mikrofalowej i Antenowej,magister,rozalia.dobosiewicz@studentbook.com
+231,Marek,Brodawka,Katedra Inżynierii Materiałów Funkcjonalnych,doktor habilitowny,marek.brodawka@studentbook.com
+232,Janina,Walo,Katedra Metrologii i Optoelektroniki,inżynier,janina.walo@studentbook.com
+233,Blanka,Budzyń,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,blanka.budzyń@studentbook.com
+234,Monika,Galik,Katedra Inteligentnych Systemów Interaktywnych,magister,monika.galik@studentbook.com
+235,Ewa,Szumacher,Katedra Inteligentnych Systemów Interaktywnych,doktor,ewa.szumacher@studentbook.com
+236,Iwo,Olma,Katedra Architektury Systemów Komputerowych,profesor,iwo.olma@studentbook.com
+237,Emil,Betka,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,emil.betka@studentbook.com
+238,Ksawery,Dułak,Katedra Architektury Systemów Komputerowych,doktor,ksawery.dułak@studentbook.com
+239,Ada,Kurbiel,Katedra Architektury Systemów Komputerowych,magister,ada.kurbiel@studentbook.com
+240,Adam,Kalista,Katedra Algorytmów i Modelowania Systemów,profesor,adam.kalista@studentbook.com
+241,Sylwia,Palus,Katedra Sygnałów i Systemów,profesor,sylwia.palus@studentbook.com
+242,Anita,Ernst,Katedra Inżynierii Materiałów Funkcjonalnych,inżynier,anita.ernst@studentbook.com
+243,Konstanty,Trochimiuk,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,konstanty.trochimiuk@studentbook.com
+244,Albert,Skałka,Katedra Sieci Teleinformacyjnych,doktor habilitowny,albert.skałka@studentbook.com
+245,Gabriel,Fijoł,Katedra Teleinformatyki,doktor habilitowny,gabriel.fijoł@studentbook.com
+246,Tola,Sobstyl,Katedra Inżynierii Biomedycznej,profesor,tola.sobstyl@studentbook.com
+247,Jan,Aleksa,Katedra Systemów Mikroelektronicznych,profesor,jan.aleksa@studentbook.com
+248,Aleks,Piotrkowicz,Katedra Inżynierii Materiałów Funkcjonalnych,inżynier,aleks.piotrkowicz@studentbook.com
+249,Olgierd,Królczyk,Katedra Inżynierii Materiałów Funkcjonalnych,doktor habilitowny,olgierd.królczyk@studentbook.com
+250,Krystian,Konieczek,Katedra Systemów Mikroelektronicznych,magister,krystian.konieczek@studentbook.com
+251,Albert,Goj,Katedra Systemów Mikroelektronicznych,profesor,albert.goj@studentbook.com
+252,Anna Maria,Seta,Katedra Inżynierii Biomedycznej,doktor habilitowny,anna maria.seta@studentbook.com
+253,Anastazja,Feliniak,Katedra Architektury Systemów Komputerowych,profesor,anastazja.feliniak@studentbook.com
+254,Gabriel,Pielach,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,gabriel.pielach@studentbook.com
+255,Kazimierz,Lepka,Katedra Systemów Multimedialnych,inżynier,kazimierz.lepka@studentbook.com
+256,Mikołaj,Zadka,Katedra Systemów Geoinformatycznych,doktor habilitowny,mikołaj.zadka@studentbook.com
+257,Maksymilian,Wałek,Katedra Systemów Multimedialnych,inżynier,maksymilian.wałek@studentbook.com
+258,Dominik,Kurc,Katedra Systemów Multimedialnych,doktor habilitowny,dominik.kurc@studentbook.com
+259,Grzegorz,Kabza,Katedra Architektury Systemów Komputerowych,magister,grzegorz.kabza@studentbook.com
+260,Grzegorz,Trybała,Katedra Metrologii i Optoelektroniki,profesor,grzegorz.trybała@studentbook.com
+261,Kazimierz,Bakalarczyk,Katedra Systemów Multimedialnych,profesor,kazimierz.bakalarczyk@studentbook.com
+262,Cyprian,Szalast,Katedra Metrologii i Optoelektroniki,inżynier,cyprian.szalast@studentbook.com
+263,Bianka,Berus,Katedra Algorytmów i Modelowania Systemów,doktor,bianka.berus@studentbook.com
+264,Rafał,Kossak,Katedra Inżynierii Oprogramowania,profesor,rafał.kossak@studentbook.com
+265,Natan,Trepczyk,Katedra Systemów Multimedialnych,profesor,natan.trepczyk@studentbook.com
+266,Marianna,Jeka,Katedra Sieci Teleinformacyjnych,doktor habilitowny,marianna.jeka@studentbook.com
+267,Bruno,Roter,Katedra Teleinformatyki,inżynier,bruno.roter@studentbook.com
+268,Kacper,Mytnik,Katedra Inżynierii Mikrofalowej i Antenowej,inżynier,kacper.mytnik@studentbook.com
+269,Klara,Pitura,Katedra Systemów Multimedialnych,magister,klara.pitura@studentbook.com
+270,Kajetan,Hadaś,Katedra Inżynierii Biomedycznej,magister,kajetan.hadaś@studentbook.com
+271,Leonard,Pierzak,Katedra Inteligentnych Systemów Interaktywnych,inżynier,leonard.pierzak@studentbook.com
+272,Roksana,Dudała,Katedra Architektury Systemów Komputerowych,inżynier,roksana.dudała@studentbook.com
+273,Malwina,Słupik,Katedra Inżynierii Materiałów Funkcjonalnych,profesor,malwina.słupik@studentbook.com
+274,Nela,Lemanowicz,Katedra Inteligentnych Systemów Interaktywnych,inżynier,nela.lemanowicz@studentbook.com
+275,Szymon,Nagórka,Katedra Systemów Mikroelektronicznych,profesor,szymon.nagórka@studentbook.com
+276,Aleks,Kidoń,Katedra Architektury Systemów Komputerowych,inżynier,aleks.kidoń@studentbook.com
+277,Tomasz,Nickel,Katedra Architektury Systemów Komputerowych,profesor,tomasz.nickel@studentbook.com
+278,Konrad,Becker,Katedra Teleinformatyki,doktor habilitowny,konrad.becker@studentbook.com
+279,Damian,Mikoda,Katedra Systemów i Sieci Radiokomunikacyjnych,inżynier,damian.mikoda@studentbook.com
+280,Iwo,Misztela,Katedra Inżynierii Biomedycznej,doktor habilitowny,iwo.misztela@studentbook.com
+281,Franciszek,Latuszek,Katedra Systemów Mikroelektronicznych,magister,franciszek.latuszek@studentbook.com
+282,Tadeusz,Matraszek,Katedra Systemów Mikroelektronicznych,inżynier,tadeusz.matraszek@studentbook.com
+283,Leonard,Kubisz,Katedra Algorytmów i Modelowania Systemów,profesor,leonard.kubisz@studentbook.com
+284,Malwina,Skonieczka,Katedra Systemów Mikroelektronicznych,doktor,malwina.skonieczka@studentbook.com
+285,Kajetan,Mokwa,Katedra Inżynierii Mikrofalowej i Antenowej,doktor,kajetan.mokwa@studentbook.com
+286,Marcelina,Popielarczyk,Katedra Inżynierii Oprogramowania,profesor,marcelina.popielarczyk@studentbook.com
+287,Adam,Działak,Katedra Inżynierii Biomedycznej,doktor habilitowny,adam.działak@studentbook.com
+288,Tola,Basa,Katedra Sieci Teleinformacyjnych,doktor,tola.basa@studentbook.com
+289,Andrzej,Szmalec,Katedra Systemów Mikroelektronicznych,profesor,andrzej.szmalec@studentbook.com
+290,Jędrzej,Saran,Katedra Inżynierii Biomedycznej,magister,jędrzej.saran@studentbook.com
+291,Arkadiusz,Stupak,Katedra Inteligentnych Systemów Interaktywnych,magister,arkadiusz.stupak@studentbook.com
+292,Mariusz,Pielka,Katedra Architektury Systemów Komputerowych,profesor,mariusz.pielka@studentbook.com
+293,Mikołaj,Reimann,Katedra Inżynierii Oprogramowania,profesor,mikołaj.reimann@studentbook.com
+294,Igor,Chochół,Katedra Metrologii i Optoelektroniki,doktor habilitowny,igor.chochół@studentbook.com
+295,Nela,Jamrożek,Katedra Algorytmów i Modelowania Systemów,doktor,nela.jamrożek@studentbook.com
+296,Kamil,Leśna,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,kamil.leśna@studentbook.com
+297,Anastazja,Jaroszuk,Katedra Teleinformatyki,profesor,anastazja.jaroszuk@studentbook.com
+298,Paweł,Jośko,Katedra Inżynierii Biomedycznej,magister,paweł.jośko@studentbook.com
+299,Krystian,Osica,Katedra Algorytmów i Modelowania Systemów,doktor habilitowny,krystian.osica@studentbook.com
