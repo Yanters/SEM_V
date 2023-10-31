@@ -53,4 +53,12 @@ public class TicketController {
     ticketService.deleteTicket(ticketId);
     return ResponseEntity.ok().build();
   }
+
+  @GetMapping("/api/policemans/{policemanId}/tickets")
+  public ResponseEntity<GetTicketsResponse> getPolicemanTickets(@PathVariable("policemanId") UUID policemanId) {
+    return ResponseEntity.ok(GetTicketsResponse.builder()
+        .tickets(ticketService.getTicketsByPolicemanId(policemanId).stream()
+            .map(ticketMapper::ticketToTicketDTO).toList())
+        .build());
+  }
 }

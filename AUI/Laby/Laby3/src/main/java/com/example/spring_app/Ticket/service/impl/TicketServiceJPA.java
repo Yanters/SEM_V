@@ -31,6 +31,13 @@ public class TicketServiceJPA implements TicketService {
   }
 
   @Override
+  public List<Ticket> getTicketsByPolicemanId(UUID policemanId) {
+     // Get all tickets by policeman id
+     return ticketRepository.findAll().stream()
+             .filter(ticket -> ticket.getPoliceman().getId().equals(policemanId)).toList();
+  }
+
+  @Override
   public Optional<Ticket> getTicketById(UUID ticketId) {
     return ticketRepository.findById(ticketId);
   }

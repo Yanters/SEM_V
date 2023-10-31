@@ -12,4 +12,6 @@ public interface TicketRepository extends JpaRepository<Ticket, UUID> {
   Optional<Ticket> findByPolicemanName(String policemanName);
 
   Optional<Ticket> findByReason(String reason);
+
+  Optional<Ticket> getTicketsByPolicemanId(UUID policemanId);
 }

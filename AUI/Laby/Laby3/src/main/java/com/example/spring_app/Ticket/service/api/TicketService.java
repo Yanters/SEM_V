@@ -15,6 +15,8 @@ public interface TicketService {
 
   Optional<Ticket> getTicketsByPolicemanName(String policemanName);
 
+  List<Ticket> getTicketsByPolicemanId(UUID policemanId);
+
   Optional<Ticket> getTicketById(UUID ticketId);
 
   Optional<Ticket> getTicketByReason(String reason);
@@ -22,4 +24,5 @@ public interface TicketService {
   void updateTicket(UUID ticketId, Ticket ticket);
 
   void deleteTicket(UUID ticketId);
+
 }

@@ -39,10 +39,13 @@ public class PolicemanController {
   @PutMapping("/api/policemans/{policemanId}")
   public ResponseEntity<Void> putPoliceman(@PathVariable UUID policemanId,
       @RequestBody PutPolicemanRequest putPolicemanRequest) {
-    // print the request body
-    System.out.println(putPolicemanRequest);
+        try{
     policemanService.updatePoliceman(policemanId, policemanMapper.putPolicemanDTOToPoliceman(putPolicemanRequest));
     return ResponseEntity.ok().build();
+        }
+        catch(Exception e){
+            return ResponseEntity.badRequest().build();
+        }
   }
 
   @DeleteMapping("/api/policemans/{policemanId}")

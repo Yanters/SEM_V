@@ -4,21 +4,25 @@ GET http://localhost:8080/api/policemans
 
 ### Get policeman by id
 
-GET http://localhost:8080/api/policemans/234a2578-d792-448a-97eb-a2a8c27c913d
+GET http://localhost:8080/api/policemans/e7995e9d-fac6-4193-81f8-23b5df2cabf7
+
+### Get policeman tickets by id
+
+GET http://localhost:8080/api/policemans/e7995e9d-fac6-4193-81f8-23b5df2cabf7/tickets
 
 ### Update policeman
 
-PUT http://localhost:8080/api/policemans/234a2578-d792-448a-97eb-a2a8c27c913d
+PUT http://localhost:8080/api/policemans/e7995e9d-fac6-4193-81f8-23b5df2cabf8
 Content-Type: application/json
 
 {
-    "name": "Policeman Update",
+    "name": "Policeman Update 2",
     "rank": 57
 }
 
 ### Delete policeman
 
-DELETE http://localhost:8080/api/policemans/234a2578-d792-448a-97eb-a2a8c27c913d
+DELETE http://localhost:8080/api/policemans/e7995e9d-fac6-4193-81f8-23b5df2cabf7
 
 
 
@@ -30,15 +34,15 @@ GET http://localhost:8080/api/tickets
 
 ### Get ticket by id
 
-GET http://localhost:8080/api/tickets/87621c46-8b38-4bc9-a13c-a353a0dd6121
+GET http://localhost:8080/api/tickets/fd966772-21d0-4ec2-a3c3-0a587c227023
 
 ### Update ticket
 
-PUT http://localhost:8080/api/tickets/87621c46-8b38-4bc9-a13c-a353a0dd6121
+PUT http://localhost:8080/api/tickets/fd966772-21d0-4ec2-a3c3-0a587c227023
 Content-Type: application/json
 
 {
-    "policeman": "4b695da9-2141-40d8-9cfa-8212f81be2aa",
+    "policeman": "e7995e9d-fac6-4193-81f8-23b5df2cabf7",
     "reason": "Ticket Update Reasoning",
     "price": 9090
 }
