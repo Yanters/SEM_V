@@ -1,0 +1,53 @@
+### Get all policemans
+
+GET http://localhost:8080/api/policemans
+
+### Get policeman by id
+
+GET http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001
+
+### Get policeman tickets by id
+
+GET http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001/tickets
+
+### Update policeman
+
+PUT http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001
+Content-Type: application/json
+
+{
+    "name": "Policeman Update 2",
+    "rank": 57
+}
+
+### Delete policeman
+
+DELETE http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001
+
+
+
+
+
+### Get all tickets
+
+GET http://localhost:8080/api/tickets
+
+### Get ticket by id
+
+GET http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000006
+
+### Update ticket
+
+PUT http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000006
+Content-Type: application/json
+
+{
+    "policeman": "00000000-0000-0000-0000-000000000003",
+    "reason": "Ticket Update Reasoning 2",
+    "price": 11
+}
+
+### Delete ticket
+
+DELETE http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000006
+
