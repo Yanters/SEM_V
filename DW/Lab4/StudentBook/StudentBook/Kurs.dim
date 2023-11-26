@@ -1,0 +1,265 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="955dff01-b061-482a-8791-5341ef829e88" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Kurs</ID>
+  <Name>Kurs</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3710" scrolltop="-5979" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="12197" y="16801" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Kurs" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="4736" height="4842" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e000080120000ea120000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_Kurs" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-3710</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-5979</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="d35cb746-a3b8-4916-965b-a1bbf848ac1e">
+    <DataSourceViewID>Student Book View</DataSourceViewID>
+  </Source>
+  <UnknownMember>Visible</UnknownMember>
+  <ErrorConfiguration dwd:design-time-name="430e4685-e755-4706-b803-212f0eeafe05">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="9ef37ad3-58b1-4c42-8ecf-e8535c24b169">
+      <ID>ID</ID>
+      <Name>ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e6efe1de-439c-4a4f-8b47-7737c13c5b99">
+          <DataType>Double</DataType>
+          <NullProcessing>UnknownMember</NullProcessing>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e072a421-5e63-4444-9b31-1c69629c4d70">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>ID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="2032b2f2-ae36-4466-a55b-ad53ca481c34">
+          <AttributeID>ID Data Utworzenia</AttributeID>
+          <Name>ID Data Utworzenia</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="122be47f-7c76-476b-97c7-c9ea9fe09756">
+          <AttributeID>Nazwa</AttributeID>
+          <Name>Nazwa</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ccb38b8c-7382-4f5c-ac8a-731809464a33">
+          <AttributeID>Kategoria</AttributeID>
+          <Name>Kategoria</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="81043bc3-f41d-4800-9a4c-3c1fdc5318f8">
+          <AttributeID>Czy Posiada Forum</AttributeID>
+          <Name>Czy Posiada Forum</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f5f1ca52-e800-4022-9798-df79ad40b275">
+          <AttributeID>Czy Posiada Konsultacje</AttributeID>
+          <Name>Czy Posiada Konsultacje</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="2eace9e6-121d-4ce7-9cb3-94a7fc368b6f">
+          <AttributeID>Czy Posiada Testy</AttributeID>
+          <Name>Czy Posiada Testy</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="4b168756-fd4b-46be-bf6e-9e7d9d12b5f3">
+          <AttributeID>Szacowania Dlugosc Kursu</AttributeID>
+          <Name>Szacowania Dlugosc Kursu</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="35873ec5-6a0c-4b22-8a9a-a61dd41b8790">
+          <AttributeID>Semestr</AttributeID>
+          <Name>Semestr</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d3a3197e-6c1b-4fa9-b030-088c6e067d8c">
+      <ID>ID Data Utworzenia</ID>
+      <Name>ID Data Utworzenia</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="aed76bbb-53ee-41ea-a123-5b623e35214c">
+          <DataType>Double</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="fc30d155-f1e3-4e6e-b896-4df69901ea9e">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>ID_data_utworzenia</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="bf448e22-1ef1-4585-a370-d9499e964e49">
+      <ID>Nazwa</ID>
+      <Name>Nazwa</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="90bfe27b-0c47-4ed7-b2b6-fe81f6c1653c">
+          <DataType>WChar</DataType>
+          <DataSize>100</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f34cfa49-6fff-4b27-8b38-894f5a0d5b2c">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Nazwa</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="94b74a92-aa9b-4d0d-9f09-be2d973d62f0">
+      <ID>Kategoria</ID>
+      <Name>Kategoria</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="1cdd5694-ef60-4f97-b6b9-e67a12de0178">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a79fd482-ac3c-4060-ae2b-bb1a6b411eff">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Kategoria</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="a90310aa-982c-43bd-9f95-69ebed7e3e65">
+      <ID>Czy Posiada Forum</ID>
+      <Name>Czy Posiada Forum</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="db854d21-e397-4af9-8272-3b0b6d456da9">
+          <DataType>WChar</DataType>
+          <DataSize>25</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="01d1d9c6-024d-4362-98f6-d19bdb7a4935">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Czy_posiada_forum</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="7c0054ec-fa4a-4f25-9547-f69ac0ca072b">
+      <ID>Czy Posiada Konsultacje</ID>
+      <Name>Czy Posiada Konsultacje</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8544c6a8-bc44-43ba-b3e8-2f280e98d645">
+          <DataType>WChar</DataType>
+          <DataSize>25</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="b48095ba-397e-4c50-aa1d-3ec35660cdb5">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Czy_posiada_konsultacje</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="530223f7-bce3-4999-b068-a0303971e86d">
+      <ID>Czy Posiada Testy</ID>
+      <Name>Czy Posiada Testy</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="c3f5364b-0b89-47f7-baed-11bd517a0090">
+          <DataType>WChar</DataType>
+          <DataSize>25</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="9a259c5d-b446-4acb-b35e-80b30012e7fb">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Czy_posiada_testy</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="553e0a2f-f6b1-4c62-801b-cf925b91274f">
+      <ID>Szacowania Dlugosc Kursu</ID>
+      <Name>Szacowania Dlugosc Kursu</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="16fd8f11-faa2-4edf-8c7a-ed4155bd32b5">
+          <DataType>WChar</DataType>
+          <DataSize>15</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6d9927c1-4d89-4995-9cd4-579251296761">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Szacowania_dlugosc_kursu</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="97ccb380-c7ee-4c9d-acf4-722e98db9549">
+      <ID>Semestr</ID>
+      <Name>Semestr</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b2b0e6ce-c916-4be6-8baa-2e14c14d4ee7">
+          <DataType>WChar</DataType>
+          <DataSize>9</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c8fec99f-b2ea-4e43-aa00-ecf18171b0ca">
+            <TableID>dbo_Kurs</TableID>
+            <ColumnID>Semestr</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

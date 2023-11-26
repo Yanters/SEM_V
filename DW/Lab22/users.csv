@@ -1,0 +1,1000 @@
+ID,Imię,Nazwisko,Płeć,Data urodzenia,Adres,Odznaki
+1,Oskar,Szybiak,mężczyzna,23-09-2002,plac Wodna 923 42-072 Wodzisław Śląski,['Kreatywny Problem Solver']
+2,Wiktor,Wochnik,mężczyzna,15-02-1990,ulica Krokusowa 109 40-324 Mysłowice,"['Doskonały Komunikator', 'Kreatywny Problem Solver']"
+3,Jędrzej,Boksa,mężczyzna,03-11-1993,al. Daleka 85/33 02-055 Białystok,"['Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+4,Bruno,Ciesielczyk,mężczyzna,11-06-1992,pl. Zakole 99/36 88-309 Krotoszyn,"['Technologiczny Wizjoner', 'Innowacyjny Programista']"
+5,Bianka,Rajtar,kobieta,10-12-1985,pl. Gajowa 86/47 99-103 Wołomin,"['Wielki Odkrywca', 'Doskonały Komunikator', 'Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+6,Stanisław,Wódka,mężczyzna,21-10-2002,al. Koralowa 60/41 78-279 Bartoszyce,[]
+7,Leonard,Kiełbus,mężczyzna,29-06-1993,aleja Kazimierza Wielkiego 281 88-097 Poznań,['Guru Matematyki']
+8,Dawid,Rysz,mężczyzna,08-09-1990,aleja Krzywa 44/86 51-181 Słupsk,"['Kreatywny Problem Solver', 'Zaangażowany Twórca', 'Kreatywny Problem Solver']"
+9,Aleksander,Imiołczyk,mężczyzna,21-04-1995,aleja Listopada 36/78 88-750 Bełchatów,"['Zaangażowany Twórca', 'Guru Matematyki', 'Zaangażowany Twórca']"
+10,Adrianna,Maraszek,kobieta,17-09-1986,pl. Zacisze 35/81 08-795 Świecie,['Mistrz Kodowania']
+11,Witold,Ledzion,mężczyzna,30-03-1992,plac Kaszubska 148 95-473 Piotrków Trybunalski,"['Guru Matematyki', 'Zaangażowany Twórca', 'Doskonały Komunikator']"
+12,Olgierd,Koman,mężczyzna,26-12-1992,aleja Wilcza 40 66-629 Marki,"['Wielki Odkrywca', 'Wielki Odkrywca']"
+13,Borys,Macha,mężczyzna,26-02-1999,ulica Kreta 42 80-796 Mława,"['Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+14,Sonia,Dzienisz,kobieta,15-01-1993,pl. Chmielna 89/47 09-937 Lubliniec,[]
+15,Julianna,Patrzałek,kobieta,10-07-1985,ul. Lipowa 189 87-782 Krotoszyn,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ambitny Naukowiec', 'Zaangażowany Twórca']"
+16,Krzysztof,Plizga,mężczyzna,12-12-1995,plac Skargi 44/97 23-972 Nysa,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Guru Matematyki']"
+17,Marek,Rudzik,mężczyzna,24-12-1997,pl. Osiedlowa 78/28 32-615 Mława,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+18,Aniela,Rolak,kobieta,11-04-1989,al. Malinowa 39 52-186 Police,['Technologiczny Wizjoner']
+19,Mateusz,Godzwon,mężczyzna,28-11-1997,plac Stefana Batorego 165 85-415 Zabrze,[]
+20,Natan,Forma,mężczyzna,26-02-1990,ul. Floriana 41 85-845 Goleniów,[]
+21,Malwina,Bandyk,kobieta,25-01-1986,al. Jaworowa 68/16 61-438 Mikołów,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Zaangażowany Twórca']"
+22,Sebastian,Noszczyk,mężczyzna,22-11-1987,plac Rumiankowa 802 38-643 Rzeszów,['Mistrz Kodowania']
+23,Janina,Salwin,kobieta,09-03-1998,pl. Rolnicza 21/68 12-542 Kalisz,"['Doskonały Komunikator', 'Technologiczny Wizjoner']"
+24,Maksymilian,Fidler,mężczyzna,13-11-1990,ulica Łąkowa 88/02 69-342 Brzeg,[]
+25,Miłosz,Huczko,mężczyzna,21-01-2005,aleja Poziomkowa 536 15-761 Bielsko-Biała,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca']"
+26,Damian,Nazar,mężczyzna,26-07-1985,al. Orzechowa 613 56-766 Łomża,"['Mistrz Kodowania', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+27,Mikołaj,Broś,mężczyzna,27-08-2004,al. Batalionów Chłopskich 90 43-682 Malbork,['Mistrz Kodowania']
+28,Leon,Ufniarz,mężczyzna,05-11-1984,al. Krakowska 84 65-607 Starachowice,['Guru Matematyki']
+29,Sylwia,Szpila,kobieta,28-01-1995,al. Stroma 17/93 54-622 Starachowice,"['Technologiczny Wizjoner', 'Guru Matematyki', 'Guru Matematyki']"
+30,Józef,Bartoszczyk,mężczyzna,30-07-1988,plac Wybickiego 218 51-305 Zamość,"['Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+31,Mikołaj,Martyka,mężczyzna,29-08-1994,pl. Orzeszkowej 65/02 29-201 Piła,"['Ambitny Naukowiec', 'Guru Matematyki', 'Ekspercki Analizator Danych']"
+32,Stanisław,Welenc,mężczyzna,09-03-2003,al. Zakole 024 61-187 Mława,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+33,Sandra,Bondaruk,kobieta,07-06-1989,ul. Sokola 71 52-604 Knurów,[]
+34,Kajetan,Rzeźniczek,mężczyzna,06-01-1999,ulica Poprzeczna 702 44-339 Świnoujście,"['Zaangażowany Twórca', 'Ambitny Naukowiec', 'Ambitny Naukowiec', 'Ekspercki Analizator Danych']"
+35,Anna Maria,Dziewit,kobieta,12-04-1986,plac Wysoka 49 10-552 Lublin,"['Guru Matematyki', 'Zaangażowany Twórca']"
+36,Artur,Hrabia,mężczyzna,17-02-1998,al. Rolnicza 995 89-283 Oleśnica,"['Zaangażowany Twórca', 'Ambitny Naukowiec', 'Doskonały Komunikator']"
+37,Anna Maria,Stachewicz,kobieta,26-11-1985,plac Władysława Jagiełły 08 93-705 Słupsk,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+38,Alex,Fidos,mężczyzna,27-03-1990,al. Bankowa 45 45-083 Zakopane,[]
+39,Michał,Wiech,mężczyzna,21-02-1998,plac Odrzańska 538 78-957 Tomaszów Mazowiecki,['Doskonały Komunikator']
+40,Alan,Świerszcz,mężczyzna,14-03-1997,ul. Pułaskiego 89/26 21-606 Czechowice-Dziedzice,[]
+41,Alan,Stochmal,mężczyzna,20-09-2003,al. Słowackiego 50 97-036 Nowy Dwór Mazowiecki,[]
+42,Ewa,Lubera,kobieta,14-02-1995,al. Nowa 504 28-132 Nowa Sól,"['Guru Matematyki', 'Mistrz Kodowania', 'Guru Matematyki']"
+43,Artur,Lampart,mężczyzna,07-06-1993,al. Floriana 15 41-630 Tczew,"['Doskonały Komunikator', 'Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+44,Jerzy,Romejko,mężczyzna,11-05-1990,ul. Zwycięstwa 555 54-556 Koło,[]
+45,Eryk,Ślebioda,mężczyzna,16-06-1983,ulica Słowianska 36/44 50-484 Gdańsk,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Guru Matematyki']"
+46,Marianna,Toczko,kobieta,12-12-1983,plac Zakole 98/74 44-672 Gliwice,"['Innowacyjny Programista', 'Zaangażowany Twórca']"
+47,Adrian,Nyc,mężczyzna,13-06-1997,plac Gajowa 83 75-434 Starachowice,"['Innowacyjny Programista', 'Innowacyjny Programista', 'Guru Matematyki', 'Wielki Odkrywca']"
+48,Franciszek,Delikat,mężczyzna,07-01-1998,pl. Żwirowa 51/44 87-768 Krosno,"['Wielki Odkrywca', 'Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+49,Bianka,Raba,kobieta,12-05-1997,aleja Krasickiego 83 17-504 Czechowice-Dziedzice,"['Guru Matematyki', 'Innowacyjny Programista', 'Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+50,Robert,Łyczak,mężczyzna,21-08-2004,pl. Piłsudskiego 69/06 03-477 Siedlce,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+51,Justyna,Boduch,kobieta,10-08-1991,plac Szarych Szeregów 50 17-427 Zamość,[]
+52,Agnieszka,Piechura,kobieta,16-09-1983,plac Widokowa 05/09 80-363 Oświęcim,"['Mistrz Kodowania', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+53,Paweł,Chlipała,mężczyzna,20-12-1991,aleja Źródlana 68 71-929 Dąbrowa Górnicza,"['Zaangażowany Twórca', 'Ambitny Naukowiec']"
+54,Paweł,Dukat,mężczyzna,30-05-1987,pl. Zaułek 928 72-016 Kołobrzeg,['Ekspercki Analizator Danych']
+55,Tadeusz,Martyn,mężczyzna,17-08-2005,al. Rózana 687 90-209 Wejherowo,['Wielki Odkrywca']
+56,Maks,Łaciak,mężczyzna,02-04-1998,aleja Podwale 34/56 15-471 Rybnik,['Kreatywny Problem Solver']
+57,Mateusz,Hadała,mężczyzna,26-05-1988,ulica Stolarska 24 58-965 Kołobrzeg,['Ekspercki Analizator Danych']
+58,Marcin,Pioch,mężczyzna,04-12-1993,al. Myśliwska 432 74-426 Zielona Góra,"['Mistrz Kodowania', 'Innowacyjny Programista']"
+59,Borys,Sudak,mężczyzna,14-05-1989,ulica Graniczna 32/95 49-053 Kościerzyna,[]
+60,Aleksander,Raźniak,mężczyzna,26-08-1984,al. Wąska 22/94 37-673 Koszalin,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+61,Malwina,Kudela,kobieta,20-03-2003,aleja Spacerowa 49 45-680 Sieradz,"['Ambitny Naukowiec', 'Doskonały Komunikator']"
+62,Marcelina,Łosiak,kobieta,22-04-2002,pl. Grabowa 82/12 30-919 Nowy Dwór Mazowiecki,['Mistrz Kodowania']
+63,Róża,Golczyk,kobieta,05-12-1983,aleja Pałacowa 76/22 16-781 Ciechanów,['Wielki Odkrywca']
+64,Stefan,Karpeta,mężczyzna,03-08-1995,pl. Młyńska 04/77 02-636 Pruszcz Gdański,"['Ambitny Naukowiec', 'Innowacyjny Programista']"
+65,Tymon,Gwardiak,mężczyzna,23-05-1995,ulica Kolorowa 07/39 49-857 Oświęcim,['Technologiczny Wizjoner']
+66,Paweł,Klin,mężczyzna,03-09-2004,pl. Odrzańska 188 97-742 Wałcz,"['Guru Matematyki', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Doskonały Komunikator']"
+67,Tomasz,Drewicz,mężczyzna,29-07-1993,aleja Lwowska 09/42 41-009 Pabianice,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+68,Oskar,Prokopiak,mężczyzna,22-12-2001,al. Niepodległości 69 40-041 Piła,[]
+69,Grzegorz,Fołta,mężczyzna,09-03-1983,al. Turystyczna 89/94 63-538 Łódź,[]
+70,Rafał,Gaudyn,mężczyzna,05-10-1983,pl. Szeroka 767 24-258 Białogard,"['Ekspercki Analizator Danych', 'Kreatywny Problem Solver']"
+71,Cezary,Truchel,mężczyzna,08-06-1992,ul. Piaskowa 700 02-944 Szczecin,"['Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+72,Artur,Gąbka,mężczyzna,21-01-2001,plac Lotnicza 48/87 63-105 Sanok,"['Wielki Odkrywca', 'Zaangażowany Twórca', 'Innowacyjny Programista', 'Guru Matematyki']"
+73,Inga,Suchta,kobieta,03-03-1998,ul. Bursztynowa 86 72-502 Gdańsk,"['Doskonały Komunikator', 'Guru Matematyki', 'Kreatywny Problem Solver']"
+74,Apolonia,Kobos,kobieta,08-01-1989,plac Chmielna 01/66 07-265 Pszczyna,"['Doskonały Komunikator', 'Kreatywny Problem Solver']"
+75,Norbert,Gapys,mężczyzna,06-01-2003,al. Dąbrowskiej 42/49 44-954 Suwałki,[]
+76,Mateusz,Wieczerzak,mężczyzna,18-03-1985,aleja Podmiejska 51/23 92-475 Zabrze,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+77,Cyprian,Kurcz,mężczyzna,11-06-1983,pl. Sybiraków 08 79-946 Czechowice-Dziedzice,"['Mistrz Kodowania', 'Technologiczny Wizjoner']"
+78,Jeremi,Godyń,mężczyzna,28-03-1999,aleja Wróblewskiego 33/90 05-120 Swarzędz,[]
+79,Rozalia,Naczk,kobieta,14-08-1988,al. Żwirowa 409 18-666 Zgierz,"['Kreatywny Problem Solver', 'Guru Matematyki']"
+80,Aurelia,Kościk,kobieta,04-04-1997,aleja Toruńska 56 11-699 Reda,"['Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+81,Melania,Kanik,kobieta,18-04-2004,aleja Kasprowicza 02 84-475 Inowrocław,"['Doskonały Komunikator', 'Wielki Odkrywca', 'Innowacyjny Programista', 'Mistrz Kodowania']"
+82,Dariusz,Zyguła,mężczyzna,26-11-1987,pl. Truskawkowa 85/65 99-038 Bochnia,[]
+83,Olaf,Wołodźko,mężczyzna,14-01-1996,pl. Szafirowa 91 46-960 Radom,['Innowacyjny Programista']
+84,Leonard,Starościak,mężczyzna,27-09-1984,al. Paderewskiego 299 81-972 Wyszków,"['Ekspercki Analizator Danych', 'Mistrz Kodowania', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+85,Inga,Jaroch,kobieta,11-05-1999,ul. Rybacka 64/85 71-527 Kościerzyna,[]
+86,Roksana,Fraś,kobieta,28-05-1995,pl. Zdrojowa 23/81 43-463 Swarzędz,"['Guru Matematyki', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+87,Łukasz,Banachowicz,mężczyzna,25-02-1983,aleja Szkolna 849 75-603 Opole,['Kreatywny Problem Solver']
+88,Adam,Goliasz,mężczyzna,28-03-1990,pl. Klonowa 64 32-299 Sosnowiec,"['Mistrz Kodowania', 'Zaangażowany Twórca']"
+89,Ewelina,Balawender,kobieta,16-02-2003,ulica Młynarska 936 13-115 Czerwionka-Leszczyny,['Technologiczny Wizjoner']
+90,Mieszko,Szczechowicz,mężczyzna,10-11-1995,aleja Czereśniowa 89 10-661 Dąbrowa Górnicza,[]
+91,Robert,Buksa,mężczyzna,12-02-1989,pl. Jeziorna 22/04 94-530 Płońsk,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+92,Fabian,Zbrzeźniak,mężczyzna,26-11-2000,plac Traugutta 33 95-467 Nysa,[]
+93,Emil,Kutera,mężczyzna,05-04-2003,al. Jeziorna 02 45-225 Chełm,['Innowacyjny Programista']
+94,Sonia,Karwan,kobieta,18-11-1985,plac Cicha 413 08-560 Kędzierzyn-Koźle,"['Kreatywny Problem Solver', 'Innowacyjny Programista', 'Guru Matematyki']"
+95,Elżbieta,Jarczak,kobieta,30-03-1990,ul. Irysowa 519 20-439 Knurów,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Technologiczny Wizjoner', 'Guru Matematyki']"
+96,Ewa,Bródka,kobieta,25-03-1996,plac Graniczna 68/04 68-465 Biała Podlaska,['Ambitny Naukowiec']
+97,Aurelia,Klęczar,kobieta,10-05-2000,al. Wierzbowa 84 66-423 Augustów,['Ambitny Naukowiec']
+98,Jerzy,Szelest,mężczyzna,29-08-1985,plac Akacjowa 654 71-327 Łomża,['Doskonały Komunikator']
+99,Elżbieta,Zamora,kobieta,10-03-2001,al. Strzelecka 56 93-948 Lubin,['Zaangażowany Twórca']
+100,Filip,Dorynek,mężczyzna,11-12-2000,ul. Rózana 292 48-344 Siemianowice Śląskie,[]
+101,Alex,Pilich,mężczyzna,08-09-1990,ul. Zacisze 72 79-571 Nowa Sól,['Ekspercki Analizator Danych']
+102,Stanisław,Dziewa,mężczyzna,02-04-2001,pl. Solidarnosci 05 52-877 Tarnowskie Góry,"['Wielki Odkrywca', 'Guru Matematyki', 'Innowacyjny Programista', 'Zaangażowany Twórca']"
+103,Julianna,Ratka,kobieta,05-07-1990,ul. Brzozowa 04/61 92-435 Śrem,"['Wielki Odkrywca', 'Doskonały Komunikator']"
+104,Stefan,Twardzik,mężczyzna,19-12-1991,ulica Głowackiego 652 56-389 Środa Wielkopolska,[]
+105,Melania,Michalkiewicz,kobieta,21-01-1989,plac Jesionowa 80/91 56-861 Nowy Dwór Mazowiecki,['Mistrz Kodowania']
+106,Mieszko,Erdmann,mężczyzna,15-11-1997,ulica Żeromskiego 989 65-598 Zgorzelec,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+107,Stefan,Pabisiak,mężczyzna,08-10-1999,al. Podgórna 78/24 43-168 Chełm,"['Doskonały Komunikator', 'Innowacyjny Programista', 'Wielki Odkrywca', 'Technologiczny Wizjoner']"
+108,Mateusz,Mądro,mężczyzna,31-10-2001,al. Myśliwska 584 85-867 Ełk,"['Kreatywny Problem Solver', 'Ambitny Naukowiec', 'Doskonały Komunikator']"
+109,Julianna,Kunda,kobieta,12-04-1994,aleja Młynarska 96/62 23-332 Czerwionka-Leszczyny,"['Ambitny Naukowiec', 'Technologiczny Wizjoner']"
+110,Antoni,Godyń,mężczyzna,08-02-1996,plac Asnyka 64/97 96-290 Jarocin,[]
+111,Krystyna,Hyjek,kobieta,31-07-1983,al. Srebrna 44/75 83-626 Lubartów,['Zaangażowany Twórca']
+112,Ernest,Brańka,mężczyzna,04-11-1983,plac Cmentarna 339 52-650 Jarocin,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Innowacyjny Programista']"
+113,Jan,Gierek,mężczyzna,04-05-1991,aleja Turkusowa 194 82-210 Wołomin,"['Wielki Odkrywca', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner']"
+114,Franciszek,Lesner,mężczyzna,16-02-1983,al. Kossaka 55/54 55-411 Poznań,"['Doskonały Komunikator', 'Kreatywny Problem Solver', 'Guru Matematyki', 'Kreatywny Problem Solver']"
+115,Konstanty,Fąferek,mężczyzna,23-09-1992,pl. Żeromskiego 756 06-606 Lublin,['Ambitny Naukowiec']
+116,Antoni,Senger,mężczyzna,07-03-1986,al. Jagodowa 21 01-408 Mińsk Mazowiecki,"['Guru Matematyki', 'Kreatywny Problem Solver', 'Mistrz Kodowania', 'Wielki Odkrywca']"
+117,Ksawery,Marchlewicz,mężczyzna,25-04-1997,aleja Majowa 912 21-367 Zielona Góra,"['Wielki Odkrywca', 'Zaangażowany Twórca', 'Doskonały Komunikator']"
+118,Olgierd,Fedyk,mężczyzna,19-10-1992,ul. Radosna 08 89-512 Świętochłowice,"['Mistrz Kodowania', 'Guru Matematyki', 'Kreatywny Problem Solver']"
+119,Marek,Maszota,mężczyzna,06-12-2004,ulica Akacjowa 994 99-598 Siedlce,"['Technologiczny Wizjoner', 'Doskonały Komunikator']"
+120,Franciszek,Naglik,mężczyzna,25-03-1984,aleja Widokowa 974 48-533 Warszawa,['Technologiczny Wizjoner']
+121,Albert,Malka,mężczyzna,15-02-1997,pl. Targowa 31 26-087 Starachowice,"['Innowacyjny Programista', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+122,Leon,Kosznik,mężczyzna,01-10-1984,ul. Korczaka 56 25-728 Świebodzice,[]
+123,Monika,Olearczyk,kobieta,20-04-1992,pl. Reymonta 28 24-567 Cieszyn,"['Ambitny Naukowiec', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+124,Agnieszka,Łodej,kobieta,03-03-1986,pl. Młyńska 73 86-418 Otwock,[]
+125,Lidia,Proch,kobieta,13-07-1991,ul. Zielona 31/63 74-249 Środa Wielkopolska,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+126,Maksymilian,Widuch,mężczyzna,25-08-1984,pl. Jałowcowa 588 14-580 Bielsk Podlaski,['Technologiczny Wizjoner']
+127,Borys,Słowiak,mężczyzna,02-04-1986,al. Mała 324 63-998 Krotoszyn,[]
+128,Dariusz,Jezior,mężczyzna,15-11-2003,al. Dąbrowskiego 91 27-177 Swarzędz,"['Mistrz Kodowania', 'Technologiczny Wizjoner']"
+129,Kazimierz,Trawka,mężczyzna,13-08-1985,ulica Podgórna 347 91-722 Poznań,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+130,Eliza,Kwapisiewicz,kobieta,27-06-2003,al. Maczka 997 59-862 Bełchatów,"['Doskonały Komunikator', 'Guru Matematyki']"
+131,Agnieszka,Wydmuch,kobieta,08-07-1994,ul. Malczewskiego 03/70 78-286 Police,[]
+132,Dorota,Świadek,kobieta,04-10-1999,plac Sucharskiego 498 32-303 Pabianice,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+133,Mariusz,Bachanek,mężczyzna,23-07-1983,aleja Nadrzeczna 33/91 52-819 Racibórz,['Mistrz Kodowania']
+134,Jakub,Chuchla,mężczyzna,01-06-1983,plac Wypoczynkowa 973 86-228 Szczecin,['Technologiczny Wizjoner']
+135,Olaf,Wawszczak,mężczyzna,19-04-1992,aleja Dąbrowskiej 11/23 08-301 Kętrzyn,[]
+136,Marcin,Pierzak,mężczyzna,18-11-1990,ul. Promienna 90 70-125 Kościerzyna,[]
+137,Miłosz,Gajcy,mężczyzna,20-03-1991,pl. Kaliska 01/88 91-672 Wieluń,['Kreatywny Problem Solver']
+138,Bianka,Kafel,kobieta,25-07-1987,aleja Reymonta 29 52-020 Wągrowiec,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Wielki Odkrywca', 'Ambitny Naukowiec']"
+139,Melania,Tryc,kobieta,17-11-1997,ul. Sienkiewicza 633 83-042 Piastów,"['Guru Matematyki', 'Innowacyjny Programista', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+140,Anastazja,Buszta,kobieta,29-12-2003,ul. Mazurska 42 08-648 Głogów,"['Mistrz Kodowania', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+141,Roksana,Sztaba,kobieta,12-04-1993,aleja Krakowska 50 52-297 Łomża,"['Innowacyjny Programista', 'Technologiczny Wizjoner', 'Doskonały Komunikator']"
+142,Bartek,Linek,mężczyzna,15-12-1997,al. Nadrzeczna 83/79 94-249 Głogów,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+143,Artur,Trzyna,mężczyzna,21-07-2005,plac Rejtana 02 97-932 Radom,['Guru Matematyki']
+144,Fabian,Startek,mężczyzna,17-09-1990,ulica Porzeczkowa 09/13 17-771 Dębica,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Mistrz Kodowania']"
+145,Liwia,Wojak,kobieta,02-04-2002,ul. Letnia 619 84-856 Nysa,"['Wielki Odkrywca', 'Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+146,Józef,Błasik,mężczyzna,26-07-2003,ul. Mokra 377 14-743 Września,['Guru Matematyki']
+147,Cyprian,Piotrak,mężczyzna,01-09-1987,ul. Rolna 04 25-326 Piastów,"['Wielki Odkrywca', 'Ambitny Naukowiec']"
+148,Dorota,Frelich,kobieta,17-11-1982,ul. Jarzębinowa 96 79-530 Kielce,"['Doskonały Komunikator', 'Guru Matematyki', 'Wielki Odkrywca']"
+149,Monika,Dubel,kobieta,28-02-1983,aleja Andersa 00 68-527 Olkusz,"['Ambitny Naukowiec', 'Mistrz Kodowania']"
+150,Bruno,Wincenciak,mężczyzna,12-02-1998,plac Gajowa 65/86 66-785 Września,"['Ambitny Naukowiec', 'Innowacyjny Programista']"
+151,Mateusz,Jajko,mężczyzna,08-05-1983,pl. Lisia 54 16-614 Sosnowiec,['Kreatywny Problem Solver']
+152,Filip,Królczyk,mężczyzna,24-11-1987,plac Jagodowa 46 80-947 Kraśnik,[]
+153,Klara,Drgas,kobieta,19-08-1986,pl. Słoneczna 368 82-816 Sosnowiec,"['Kreatywny Problem Solver', 'Kreatywny Problem Solver']"
+154,Marianna,Hynek,kobieta,03-10-1986,plac Magnoliowa 78/04 23-489 Czeladź,[]
+155,Franciszek,Wiak,mężczyzna,22-01-1995,aleja Podwale 20/58 68-982 Iława,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Mistrz Kodowania']"
+156,Tymon,Penar,mężczyzna,30-07-1983,ulica Floriana 68 42-973 Wieluń,[]
+157,Michał,Kuza,mężczyzna,11-08-2000,al. Brzoskwiniowa 167 49-927 Tarnów,['Wielki Odkrywca']
+158,Iwo,Dyszkiewicz,mężczyzna,18-03-2000,ul. Głowackiego 99/22 60-360 Chojnice,['Zaangażowany Twórca']
+159,Marcelina,Osojca,kobieta,27-04-1987,al. Władysława Jagiełły 37/42 71-885 Sanok,['Zaangażowany Twórca']
+160,Paweł,Holewa,mężczyzna,10-04-1997,aleja Sportowa 654 62-036 Sopot,"['Mistrz Kodowania', 'Guru Matematyki', 'Wielki Odkrywca', 'Mistrz Kodowania']"
+161,Cyprian,Smagacz,mężczyzna,26-09-1984,aleja Bukowa 88 45-661 Opole,['Innowacyjny Programista']
+162,Arkadiusz,Teterycz,mężczyzna,28-05-1994,ulica Jana Pawła II 72/05 28-472 Środa Wielkopolska,"['Ambitny Naukowiec', 'Guru Matematyki']"
+163,Kaja,Działak,kobieta,16-06-1986,ul. Szymanowskiego 99 09-627 Czeladź,"['Kreatywny Problem Solver', 'Innowacyjny Programista', 'Doskonały Komunikator', 'Mistrz Kodowania']"
+164,Dorota,Pawliczak,kobieta,23-12-1995,ulica Listopada 37 77-366 Bielawa,['Guru Matematyki']
+165,Karina,Dudała,kobieta,18-02-1990,pl. Krakowska 01/75 72-388 Wałbrzych,"['Wielki Odkrywca', 'Ambitny Naukowiec', 'Mistrz Kodowania', 'Mistrz Kodowania']"
+166,Karol,Ludwik,mężczyzna,04-05-1985,aleja Żeglarska 53 50-261 Ruda Śląska,"['Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+167,Tadeusz,Miękus,mężczyzna,21-05-2003,aleja Grzybowa 93/93 19-929 Wałbrzych,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+168,Ada,Warczak,kobieta,06-01-1989,ulica Azaliowa 644 74-494 Zielona Góra,['Guru Matematyki']
+169,Gaja,Wielgo,kobieta,12-06-1985,al. Jana Sobieskiego 85/64 53-292 Kluczbork,"['Mistrz Kodowania', 'Ambitny Naukowiec', 'Kreatywny Problem Solver']"
+170,Janina,Senger,kobieta,11-12-1999,aleja Storczykowa 53/68 40-005 Rzeszów,"['Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+171,Kazimierz,Bembenek,mężczyzna,28-08-2003,ulica Plater 11/81 18-022 Ełk,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+172,Lidia,Nagórka,kobieta,02-04-1996,plac Orzechowa 64 70-136 Jawor,['Wielki Odkrywca']
+173,Olgierd,Dacko,mężczyzna,01-09-2004,plac Fredry 72 96-181 Dębica,['Ambitny Naukowiec']
+174,Alex,Mieszała,mężczyzna,08-05-1994,plac Władysława Łokietka 55/17 73-869 Łomża,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+175,Maurycy,Bracha,mężczyzna,03-06-1995,ulica Miłosza 35/10 25-444 Stalowa Wola,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+176,Sebastian,Borkowicz,mężczyzna,24-08-1996,pl. Rolna 18 68-684 Grodzisk Mazowiecki,"['Guru Matematyki', 'Mistrz Kodowania']"
+177,Maks,Orszulik,mężczyzna,18-08-1984,ul. Źródlana 73/43 78-703 Świętochłowice,"['Kreatywny Problem Solver', 'Innowacyjny Programista']"
+178,Marek,Jędruch,mężczyzna,08-10-1997,ulica Jodłowa 08 28-048 Nowa Sól,['Ambitny Naukowiec']
+179,Gustaw,Kiedrowicz,mężczyzna,04-01-1987,al. Nowowiejska 381 58-497 Gorlice,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+180,Patryk,Skierka,mężczyzna,19-05-1999,ul. Towarowa 005 43-067 Jaworzno,"['Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+181,Filip,Gronkiewicz,mężczyzna,13-03-2000,ulica Rubinowa 028 27-093 Zduńska Wola,[]
+182,Dawid,Dzwonnik,mężczyzna,01-07-2000,plac Klasztorna 18 19-225 Włocławek,"['Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+183,Anita,Jereczek,kobieta,19-11-1987,pl. Makuszyńskiego 53 46-033 Wągrowiec,"['Technologiczny Wizjoner', 'Guru Matematyki', 'Doskonały Komunikator']"
+184,Tymoteusz,Gogacz,mężczyzna,20-07-1998,pl. Dąbrowskiej 28 42-576 Rumia,"['Zaangażowany Twórca', 'Zaangażowany Twórca']"
+185,Sonia,Ważny,kobieta,28-02-1988,al. Konopnickiej 99 01-320 Biłgoraj,[]
+186,Tadeusz,Molka,mężczyzna,18-01-1984,al. Sikorskiego 63/08 24-062 Chełm,['Guru Matematyki']
+187,Ada,Liedtke,kobieta,13-04-1996,aleja Stawowa 631 28-713 Zduńska Wola,"['Ekspercki Analizator Danych', 'Wielki Odkrywca', 'Guru Matematyki']"
+188,Miłosz,Gaudyn,mężczyzna,25-11-1982,al. Rolna 958 57-714 Koło,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Doskonały Komunikator', 'Kreatywny Problem Solver']"
+189,Szymon,Rymarz,mężczyzna,30-08-1986,al. Okulickiego 69 71-671 Jasło,[]
+190,Marcin,Rajczak,mężczyzna,14-07-1999,al. Chełmońskiego 12 15-600 Mława,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+191,Maksymilian,Żach,mężczyzna,12-06-1994,pl. Powstańców Śląskich 13/74 16-176 Nowy Targ,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+192,Malwina,Sularz,kobieta,14-05-1998,aleja Poniatowskiego 61/83 63-986 Kościan,[]
+193,Witold,Soczewka,mężczyzna,20-08-1986,pl. Składowa 08/26 37-373 Mysłowice,[]
+194,Norbert,Rząd,mężczyzna,18-06-2003,pl. Boczna 03/50 30-887 Świnoujście,"['Technologiczny Wizjoner', 'Wielki Odkrywca', 'Zaangażowany Twórca']"
+195,Klara,Pokrzywa,kobieta,05-07-1992,al. Strażacka 58/09 85-392 Koło,[]
+196,Kaja,Jaje,kobieta,23-01-1983,pl. Zbożowa 575 46-235 Tarnobrzeg,['Ekspercki Analizator Danych']
+197,Ernest,Dziewior,mężczyzna,06-04-1996,aleja Jana 59 56-129 Lubliniec,"['Mistrz Kodowania', 'Technologiczny Wizjoner', 'Wielki Odkrywca']"
+198,Bartek,Nazar,mężczyzna,11-05-2005,ulica Fredry 23 39-737 Piotrków Trybunalski,['Kreatywny Problem Solver']
+199,Eryk,Haraburda,mężczyzna,30-04-2005,ulica Porzeczkowa 85 85-775 Chojnice,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Ambitny Naukowiec']"
+200,Grzegorz,Forysiak,mężczyzna,16-09-1997,pl. Jana 716 87-932 Oława,[]
+201,Róża,Lepak,kobieta,22-05-2001,ulica Sarnia 77/86 25-231 Piastów,[]
+202,Leonard,Amanowicz,mężczyzna,24-12-1990,al. Łąkowa 11/17 18-416 Białystok,[]
+203,Norbert,Dąbroś,mężczyzna,04-01-1993,aleja Orzeszkowej 775 13-691 Lębork,[]
+204,Kacper,Drygała,mężczyzna,31-01-1998,ulica Orla 86/08 53-882 Poznań,[]
+205,Klara,Beker,kobieta,09-11-1996,plac Mickiewicza 09 75-286 Grodzisk Mazowiecki,['Mistrz Kodowania']
+206,Kaja,Pazera,kobieta,22-07-2005,al. Cmentarna 13 22-569 Przemyśl,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+207,Maurycy,Gumienny,mężczyzna,30-06-1983,al. Kwiatowa 79/37 51-849 Tczew,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Guru Matematyki']"
+208,Liwia,Woszczak,kobieta,12-03-1989,al. Stroma 780 55-034 Ostrołęka,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+209,Daniel,Jarosik,mężczyzna,25-03-1988,ul. Ściegiennego 10/68 32-085 Swarzędz,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec']"
+210,Liwia,Grzenia,kobieta,03-03-1990,ulica Jadwigi 071 36-877 Piekary Śląskie,"['Wielki Odkrywca', 'Ekspercki Analizator Danych', 'Guru Matematyki', 'Doskonały Komunikator']"
+211,Iwo,Sus,mężczyzna,09-02-1989,al. Cicha 66/87 92-573 Słupsk,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner']"
+212,Wiktor,Drożdżal,mężczyzna,19-07-1983,pl. Wczasowa 38/55 40-748 Gliwice,"['Doskonały Komunikator', 'Innowacyjny Programista', 'Technologiczny Wizjoner']"
+213,Mieszko,Kafel,mężczyzna,13-05-1987,al. Prusa 616 52-395 Bielawa,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Wielki Odkrywca']"
+214,Bianka,Młyńczak,kobieta,24-01-1991,ulica Prusa 94 86-618 Bielawa,"['Guru Matematyki', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+215,Maks,Gospodarek,mężczyzna,12-02-1991,al. Koralowa 845 08-333 Bielsk Podlaski,"['Zaangażowany Twórca', 'Doskonały Komunikator']"
+216,Patryk,Słobodzian,mężczyzna,22-02-1991,al. Towarowa 735 93-253 Skawina,"['Kreatywny Problem Solver', 'Wielki Odkrywca', 'Ambitny Naukowiec', 'Technologiczny Wizjoner']"
+217,Ewa,Mydlarz,kobieta,14-04-1984,al. Krokusowa 32/72 70-965 Lublin,"['Innowacyjny Programista', 'Doskonały Komunikator', 'Guru Matematyki', 'Innowacyjny Programista']"
+218,Jerzy,Fidos,mężczyzna,09-10-1997,ul. Nadbrzeżna 277 15-618 Radom,['Mistrz Kodowania']
+219,Róża,Sobiło,kobieta,01-10-2005,pl. Witosa 657 95-365 Żagań,"['Mistrz Kodowania', 'Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+220,Sandra,Łosiewicz,kobieta,08-06-1994,ul. Długa 12 71-237 Jastrzębie-Zdrój,"['Wielki Odkrywca', 'Kreatywny Problem Solver']"
+221,Ernest,Sajnóg,mężczyzna,26-04-2001,plac Hallera 29 88-913 Jasło,"['Mistrz Kodowania', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+222,Dawid,Długozima,mężczyzna,13-08-1992,plac Cicha 293 50-679 Polkowice,"['Zaangażowany Twórca', 'Guru Matematyki', 'Ambitny Naukowiec']"
+223,Ewelina,Żabierek,kobieta,09-02-1987,ulica Nadrzeczna 833 41-779 Kwidzyn,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Doskonały Komunikator', 'Innowacyjny Programista']"
+224,Karol,Reichel,mężczyzna,13-04-1987,pl. Konwaliowa 78/46 85-871 Goleniów,"['Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+225,Jacek,Grygorowicz,mężczyzna,21-03-1991,ul. Jaśminowa 705 13-495 Ostrołęka,['Ambitny Naukowiec']
+226,Olgierd,Bródka,mężczyzna,28-07-1995,ulica Liliowa 74/84 38-064 Siemianowice Śląskie,"['Mistrz Kodowania', 'Ambitny Naukowiec']"
+227,Konstanty,Mirocha,mężczyzna,21-07-1985,ul. Wiśniowa 89 59-905 Zamość,['Kreatywny Problem Solver']
+228,Damian,Łukasz,mężczyzna,28-08-1994,ulica Parkowa 234 29-580 Bielawa,"['Mistrz Kodowania', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+229,Hubert,Małyszek,mężczyzna,23-02-1992,plac Wilcza 88 98-885 Oława,['Ekspercki Analizator Danych']
+230,Sylwia,Glica,kobieta,18-08-1991,ulica Źródlana 73 54-862 Kielce,"['Wielki Odkrywca', 'Innowacyjny Programista', 'Guru Matematyki', 'Doskonały Komunikator']"
+231,Marcin,Goś,mężczyzna,18-01-1984,plac Prusa 897 34-023 Bytom,['Innowacyjny Programista']
+232,Sara,Basaj,kobieta,02-05-1987,pl. Lisia 89/99 44-190 Środa Wielkopolska,"['Wielki Odkrywca', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+233,Arkadiusz,Piechna,mężczyzna,01-02-1991,al. Lisia 02 31-783 Knurów,['Mistrz Kodowania']
+234,Kornel,Drop,mężczyzna,04-10-2002,ulica Kwiatowa 36 85-089 Piaseczno,[]
+235,Artur,Kusio,mężczyzna,17-01-2001,ulica Liliowa 496 48-244 Kutno,['Zaangażowany Twórca']
+236,Mariusz,Chwała,mężczyzna,03-09-2001,pl. Bydgoska 77/36 44-141 Olsztyn,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+237,Kornelia,Kolarz,kobieta,02-09-1984,aleja Srebrna 55/63 24-846 Łódź,"['Guru Matematyki', 'Guru Matematyki']"
+238,Aniela,Biesaga,kobieta,13-02-1989,plac Lawendowa 79 49-960 Środa Wielkopolska,"['Doskonały Komunikator', 'Wielki Odkrywca', 'Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+239,Miłosz,Okła,mężczyzna,18-02-2000,pl. Wczasowa 00 92-587 Goleniów,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Guru Matematyki', 'Ekspercki Analizator Danych']"
+240,Nicole,Paśnik,mężczyzna,26-08-2005,ul. Kilińskiego 138 51-260 Jarosław,"['Technologiczny Wizjoner', 'Innowacyjny Programista', 'Doskonały Komunikator', 'Ambitny Naukowiec']"
+241,Grzegorz,Betlej,mężczyzna,08-02-1997,aleja Mostowa 626 09-220 Ostrołęka,[]
+242,Urszula,Pasich,kobieta,08-09-2005,pl. Gdańska 358 74-989 Legnica,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+243,Sylwia,Bulak,kobieta,21-09-2002,aleja Olchowa 62/87 74-995 Police,['Kreatywny Problem Solver']
+244,Leonard,Dębniak,mężczyzna,02-03-2002,ul. Okrężna 557 42-101 Czechowice-Dziedzice,['Guru Matematyki']
+245,Janina,Kosowicz,kobieta,09-04-1989,plac Majowa 061 26-314 Olkusz,['Technologiczny Wizjoner']
+246,Piotr,Kazimierczyk,mężczyzna,04-10-1986,ulica Malinowa 166 77-023 Pszczyna,['Wielki Odkrywca']
+247,Ernest,Fugiel,mężczyzna,29-12-1993,ul. Wróblewskiego 90/87 53-149 Siemianowice Śląskie,[]
+248,Grzegorz,Dłubak,mężczyzna,30-06-1985,ulica Morcinka 25/19 70-358 Szczecinek,[]
+249,Fryderyk,Patora,mężczyzna,05-07-1993,ul. Łanowa 28 99-965 Łuków,['Zaangażowany Twórca']
+250,Krzysztof,Plebanek,mężczyzna,17-04-1994,pl. Krakowska 775 39-797 Swarzędz,[]
+251,Arkadiusz,Cieniuch,mężczyzna,29-04-1990,pl. Jana 443 06-245 Nowa Sól,[]
+252,Kajetan,Bystroń,mężczyzna,28-01-1990,pl. Nowa 20 32-564 Turek,"['Doskonały Komunikator', 'Zaangażowany Twórca']"
+253,Nikodem,Policht,mężczyzna,11-04-1988,al. Malczewskiego 504 55-489 Jelenia Góra,['Guru Matematyki']
+254,Przemysław,Apostel,mężczyzna,18-10-2001,pl. Letniskowa 70 35-454 Rumia,"['Ekspercki Analizator Danych', 'Wielki Odkrywca', 'Wielki Odkrywca', 'Zaangażowany Twórca']"
+255,Gaja,Sygut,kobieta,16-01-1992,plac Składowa 859 55-593 Nowa Sól,"['Mistrz Kodowania', 'Innowacyjny Programista', 'Zaangażowany Twórca', 'Wielki Odkrywca']"
+256,Bianka,Przewoźna,kobieta,05-06-1984,aleja Tuwima 99 57-462 Jastrzębie-Zdrój,['Zaangażowany Twórca']
+257,Jędrzej,Klus,mężczyzna,01-04-2004,ulica Waryńskiego 766 11-259 Chrzanów,"['Kreatywny Problem Solver', 'Innowacyjny Programista', 'Ambitny Naukowiec', 'Technologiczny Wizjoner']"
+258,Justyna,Moryc,kobieta,13-04-1987,aleja Zielna 18 21-614 Koszalin,['Ekspercki Analizator Danych']
+259,Hubert,Wysota,mężczyzna,25-09-1991,aleja Dobra 814 26-353 Otwock,[]
+260,Franciszek,Rajczyk,mężczyzna,22-03-2001,ul. Ptasia 028 30-458 Szczytno,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Kreatywny Problem Solver']"
+261,Nataniel,Strug,mężczyzna,17-07-1998,ulica Szkolna 084 46-889 Kalisz,['Technologiczny Wizjoner']
+262,Mateusz,Godyń,mężczyzna,30-10-1992,ulica Rolnicza 74/86 18-604 Biłgoraj,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Kreatywny Problem Solver']"
+263,Ada,Połom,kobieta,17-10-1989,aleja Torowa 18 46-733 Reda,['Mistrz Kodowania']
+264,Kamil,Kozdra,mężczyzna,08-07-1988,aleja Gałczynskiego 78/95 89-946 Ełk,"['Wielki Odkrywca', 'Ambitny Naukowiec']"
+265,Rozalia,Wiercigroch,kobieta,30-04-1996,ulica Wiązowa 34 16-172 Police,[]
+266,Jerzy,Tlałka,mężczyzna,30-11-2004,plac Szarych Szeregów 87/65 87-803 Czerwionka-Leszczyny,[]
+267,Ewa,Dyszy,kobieta,16-08-1984,aleja Ściegiennego 14/43 51-042 Bochnia,"['Kreatywny Problem Solver', 'Zaangażowany Twórca', 'Innowacyjny Programista', 'Ambitny Naukowiec']"
+268,Rozalia,Machul,kobieta,07-03-1997,ul. Nadrzeczna 39 91-702 Wałbrzych,"['Zaangażowany Twórca', 'Wielki Odkrywca', 'Doskonały Komunikator']"
+269,Jakub,Siewert,mężczyzna,09-12-1982,pl. Browarna 388 51-089 Włocławek,"['Doskonały Komunikator', 'Guru Matematyki', 'Zaangażowany Twórca', 'Ambitny Naukowiec']"
+270,Błażej,Flasza,mężczyzna,02-08-2004,plac Solidarnosci 840 25-203 Cieszyn,[]
+271,Borys,Matla,mężczyzna,04-06-1995,al. Bema 76 12-308 Brzeg,[]
+272,Jan,Ścibisz,mężczyzna,25-03-1984,plac Miarki 27 44-629 Tarnów,"['Guru Matematyki', 'Doskonały Komunikator', 'Mistrz Kodowania', 'Ekspercki Analizator Danych']"
+273,Adrianna,Marosz,kobieta,17-05-1991,plac Wąska 07/91 31-428 Gorlice,['Technologiczny Wizjoner']
+274,Konrad,Ziarek,mężczyzna,30-11-1982,ulica Cicha 848 55-901 Radomsko,"['Innowacyjny Programista', 'Wielki Odkrywca', 'Doskonały Komunikator', 'Ambitny Naukowiec']"
+275,Melania,Klepka,kobieta,20-01-1991,ulica Grottgera 925 55-661 Śrem,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Wielki Odkrywca', 'Doskonały Komunikator']"
+276,Oliwier,Burczak,mężczyzna,08-05-1990,ulica Tartaczna 079 48-539 Łuków,['Ekspercki Analizator Danych']
+277,Oliwier,Pioch,mężczyzna,17-01-1986,al. Turystyczna 181 84-631 Mielec,[]
+278,Bruno,Niemczuk,mężczyzna,25-04-1986,aleja Floriana 32 45-480 Kraśnik,[]
+279,Witold,Makulec,mężczyzna,28-05-2000,pl. Szymanowskiego 463 72-451 Kluczbork,['Ekspercki Analizator Danych']
+280,Leon,Seidel,mężczyzna,28-12-1998,pl. Sucharskiego 646 47-780 Opole,"['Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+281,Agnieszka,Szpala,kobieta,25-03-1983,ulica Borówkowa 37 74-304 Giżycko,"['Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Innowacyjny Programista', 'Ambitny Naukowiec']"
+282,Gustaw,Oleszczak,mężczyzna,08-03-2003,ulica Browarna 87 12-650 Mielec,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner', 'Guru Matematyki', 'Doskonały Komunikator']"
+283,Iwo,Grzelczyk,mężczyzna,02-11-2003,ulica Morska 91 04-235 Ostrowiec Świętokrzyski,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Guru Matematyki', 'Kreatywny Problem Solver']"
+284,Maurycy,Pabisiak,mężczyzna,17-11-1992,al. Agrestowa 834 49-269 Kwidzyn,"['Kreatywny Problem Solver', 'Guru Matematyki', 'Wielki Odkrywca']"
+285,Mateusz,Reimann,mężczyzna,12-09-1985,al. Piaskowa 210 73-448 Ełk,[]
+286,Kacper,Supeł,mężczyzna,19-04-1985,ulica Hutnicza 54/89 40-901 Bielsko-Biała,"['Ambitny Naukowiec', 'Innowacyjny Programista', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+287,Lidia,Rejniak,kobieta,18-05-2003,ulica Piłsudskiego 095 16-691 Bydgoszcz,"['Wielki Odkrywca', 'Zaangażowany Twórca', 'Guru Matematyki']"
+288,Julianna,Hajdukiewicz,kobieta,30-10-1987,ulica Hallera 575 39-608 Ruda Śląska,"['Innowacyjny Programista', 'Doskonały Komunikator', 'Guru Matematyki']"
+289,Natasza,Potyrała,kobieta,01-10-1987,ul. Olchowa 69 56-464 Zamość,"['Innowacyjny Programista', 'Wielki Odkrywca', 'Wielki Odkrywca']"
+290,Maks,Wawrzonek,mężczyzna,20-01-1994,ulica Rolna 519 81-116 Nowy Sącz,[]
+291,Leonard,Hirsch,mężczyzna,19-03-1992,pl. Wczasowa 59 17-392 Olsztyn,"['Guru Matematyki', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+292,Nicole,Balawender,mężczyzna,14-06-1988,aleja Magnoliowa 07 61-541 Piekary Śląskie,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Zaangażowany Twórca', 'Innowacyjny Programista']"
+293,Malwina,Grzelec,kobieta,03-10-1994,aleja Mieszka I 53/39 18-275 Olkusz,"['Innowacyjny Programista', 'Technologiczny Wizjoner', 'Doskonały Komunikator', 'Technologiczny Wizjoner']"
+294,Ewa,Ułanowicz,kobieta,06-05-1987,al. Niepodległości 62 99-541 Toruń,"['Guru Matematyki', 'Guru Matematyki']"
+295,Melania,Kochel,kobieta,13-06-1985,aleja Krakowska 884 92-065 Żary,[]
+296,Albert,Marach,mężczyzna,31-08-2004,pl. Łąkowa 35/66 69-013 Czeladź,"['Innowacyjny Programista', 'Mistrz Kodowania', 'Technologiczny Wizjoner']"
+297,Alan,Gabrych,mężczyzna,05-09-2000,al. Jaśminowa 05 48-276 Łuków,"['Technologiczny Wizjoner', 'Wielki Odkrywca', 'Zaangażowany Twórca']"
+298,Oskar,Pietrasiak,mężczyzna,15-10-1990,ul. Wiązowa 48/49 38-184 Gliwice,[]
+299,Janina,Garncarek,kobieta,11-10-1987,aleja Chmielna 32 27-689 Łowicz,"['Wielki Odkrywca', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Ambitny Naukowiec']"
+300,Nicole,Kochanowicz,mężczyzna,07-04-1999,ulica Majowa 31/53 54-331 Krosno,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+301,Jakub,Cymer,mężczyzna,10-07-2003,ulica Mazowiecka 68/44 64-384 Kędzierzyn-Koźle,['Zaangażowany Twórca']
+302,Robert,Klęczar,mężczyzna,29-10-2003,ulica Wodna 115 25-741 Piaseczno,"['Technologiczny Wizjoner', 'Innowacyjny Programista']"
+303,Krystyna,Forysiak,kobieta,07-11-1990,plac Kolorowa 52/81 49-629 Tarnów,"['Wielki Odkrywca', 'Ambitny Naukowiec', 'Guru Matematyki']"
+304,Patryk,Gregorek,mężczyzna,23-09-1989,ulica Wypoczynkowa 61/66 99-189 Lębork,"['Zaangażowany Twórca', 'Technologiczny Wizjoner', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+305,Aurelia,Gumienny,kobieta,02-12-1991,aleja Promienna 049 50-195 Pabianice,"['Guru Matematyki', 'Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca']"
+306,Ewa,Jędryczka,kobieta,03-09-1985,al. Piaskowa 489 02-240 Łaziska Górne,[]
+307,Damian,Nieszporek,mężczyzna,24-08-2004,aleja Bankowa 866 32-609 Kalisz,"['Ekspercki Analizator Danych', 'Innowacyjny Programista', 'Wielki Odkrywca']"
+308,Damian,Wiszowata,mężczyzna,15-07-2003,pl. Jana III Sobieskiego 354 61-814 Przemyśl,"['Doskonały Komunikator', 'Doskonały Komunikator']"
+309,Ewelina,Poczta,kobieta,17-05-1992,aleja Wiatraczna 349 77-668 Ełk,[]
+310,Nicole,Płócienniczak,mężczyzna,22-09-1992,aleja Żwirowa 02 89-381 Koło,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych']"
+311,Jeremi,Felisiak,mężczyzna,02-02-1986,pl. Daszyńskiego 96 71-951 Piotrków Trybunalski,[]
+312,Melania,Kozon,kobieta,10-06-2000,pl. Agrestowa 67/49 36-198 Świnoujście,"['Doskonały Komunikator', 'Innowacyjny Programista']"
+313,Kornel,Helman,mężczyzna,09-08-1988,ul. Zdrojowa 55/10 23-871 Oława,"['Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Wielki Odkrywca']"
+314,Tadeusz,Żero,mężczyzna,09-08-2003,aleja Witosa 504 59-697 Jawor,[]
+315,Marcin,Seweryniak,mężczyzna,07-10-2003,ul. Spacerowa 93 09-225 Pabianice,[]
+316,Justyna,Superson,kobieta,08-08-1989,ul. Mazowiecka 517 01-669 Tarnobrzeg,"['Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Guru Matematyki']"
+317,Maksymilian,Szyma,mężczyzna,29-04-2005,ul. Kruczkowskiego 170 85-141 Środa Wielkopolska,"['Kreatywny Problem Solver', 'Guru Matematyki', 'Guru Matematyki', 'Doskonały Komunikator']"
+318,Wiktor,Łodej,mężczyzna,10-03-1985,al. Wiejska 36 34-778 Radom,"['Mistrz Kodowania', 'Doskonały Komunikator', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+319,Kamila,Grund,kobieta,08-10-1996,ulica Chmielna 196 77-315 Lubliniec,"['Doskonały Komunikator', 'Innowacyjny Programista', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+320,Krystyna,Kozubal,kobieta,23-01-1991,al. Krasickiego 026 95-278 Radom,[]
+321,Przemysław,Pajek,mężczyzna,28-02-1997,ul. Leśna 250 16-621 Katowice,['Ambitny Naukowiec']
+322,Anna Maria,Kopyść,kobieta,25-11-2004,pl. Ptasia 98 73-291 Starachowice,"['Technologiczny Wizjoner', 'Innowacyjny Programista', 'Guru Matematyki', 'Wielki Odkrywca']"
+323,Konrad,Pleban,mężczyzna,22-04-1994,ulica Słowackiego 558 21-103 Kościerzyna,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Guru Matematyki', 'Doskonały Komunikator']"
+324,Kaja,Łaciak,kobieta,14-12-1999,pl. Bolesława Krzywoustego 88 58-912 Jastrzębie-Zdrój,['Guru Matematyki']
+325,Błażej,Małyszek,mężczyzna,27-10-1983,plac Kamienna 67/66 93-371 Reda,['Technologiczny Wizjoner']
+326,Marianna,Klinkosz,kobieta,21-04-1995,aleja Mostowa 381 34-069 Olkusz,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+327,Sandra,Choina,kobieta,28-08-2004,plac Słoneczna 813 33-187 Katowice,"['Kreatywny Problem Solver', 'Innowacyjny Programista', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+328,Jacek,Senator,mężczyzna,06-07-1989,aleja Rybacka 88 78-647 Płock,"['Ambitny Naukowiec', 'Innowacyjny Programista', 'Guru Matematyki', 'Mistrz Kodowania']"
+329,Antoni,Kliszcz,mężczyzna,14-09-1995,aleja Moniuszki 226 53-084 Białogard,"['Kreatywny Problem Solver', 'Mistrz Kodowania', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+330,Maciej,Patyna,mężczyzna,12-07-1987,al. Powstańców Wielkopolskich 23/02 51-046 Radom,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Innowacyjny Programista']"
+331,Rafał,Czura,mężczyzna,18-03-2003,aleja Perłowa 824 65-980 Zielona Góra,[]
+332,Karol,Hrabia,mężczyzna,17-03-1983,pl. Agrestowa 64 02-258 Śrem,['Ambitny Naukowiec']
+333,Jacek,Smal,mężczyzna,18-07-2000,al. Okrzei 152 26-518 Świecie,"['Wielki Odkrywca', 'Guru Matematyki', 'Ekspercki Analizator Danych']"
+334,Monika,Balik,kobieta,14-07-1992,ulica Wolności 75/31 15-433 Wieluń,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Mistrz Kodowania', 'Innowacyjny Programista']"
+335,Andrzej,Latko,mężczyzna,02-02-1992,al. Broniewskiego 90/70 54-719 Jarocin,"['Innowacyjny Programista', 'Guru Matematyki', 'Ambitny Naukowiec', 'Guru Matematyki']"
+336,Elżbieta,Soliwoda,kobieta,27-07-2001,aleja Księżycowa 67/95 37-575 Ostrów Mazowiecka,"['Wielki Odkrywca', 'Mistrz Kodowania', 'Ambitny Naukowiec', 'Technologiczny Wizjoner']"
+337,Cezary,Fitas,mężczyzna,25-10-1990,ulica Lelewela 60 04-491 Jasło,['Guru Matematyki']
+338,Lidia,Piłka,kobieta,14-11-2000,pl. Kaszubska 968 80-104 Radom,[]
+339,Adrianna,Tatarek,kobieta,15-01-2004,ul. Bursztynowa 74/91 28-960 Piotrków Trybunalski,"['Ambitny Naukowiec', 'Ambitny Naukowiec', 'Doskonały Komunikator']"
+340,Patryk,Hadała,mężczyzna,02-06-1993,pl. Kopernika 230 85-700 Mława,[]
+341,Stefan,Godzwon,mężczyzna,10-02-1987,ul. Sybiraków 22/28 37-905 Słupsk,['Guru Matematyki']
+342,Marcel,Kabala,mężczyzna,31-03-1997,aleja Torowa 47 72-969 Żywiec,"['Mistrz Kodowania', 'Innowacyjny Programista', 'Mistrz Kodowania', 'Mistrz Kodowania']"
+343,Eryk,Huczek,mężczyzna,22-03-1995,plac Zwycięstwa 82/20 96-985 Jelenia Góra,[]
+344,Olaf,Langiewicz,mężczyzna,05-04-2004,pl. Kraszewskiego 624 09-029 Przemyśl,[]
+345,Grzegorz,Chochół,mężczyzna,21-10-1989,aleja Konopnickiej 54/64 77-470 Legnica,['Technologiczny Wizjoner']
+346,Damian,Zugaj,mężczyzna,25-06-1990,pl. Borowa 847 40-212 Stalowa Wola,"['Innowacyjny Programista', 'Zaangażowany Twórca']"
+347,Marcin,Smardz,mężczyzna,27-10-1989,pl. Matejki 54/62 68-803 Myszków,"['Doskonały Komunikator', 'Guru Matematyki', 'Doskonały Komunikator']"
+348,Tadeusz,Handke,mężczyzna,13-12-1992,ul. Niepodległości 898 17-747 Lębork,"['Ekspercki Analizator Danych', 'Kreatywny Problem Solver']"
+349,Franciszek,Laszuk,mężczyzna,27-03-2004,al. Wyzwolenia 879 26-747 Zielona Góra,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+350,Jerzy,Garncarek,mężczyzna,17-11-1983,aleja Borówkowa 27/08 23-364 Cieszyn,[]
+351,Krystyna,Walencik,kobieta,23-05-1984,aleja Gałczynskiego 16 36-556 Dębica,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Ekspercki Analizator Danych']"
+352,Jakub,Kołak,mężczyzna,30-08-1994,plac Fiołkowa 30 38-237 Tarnów,"['Innowacyjny Programista', 'Guru Matematyki']"
+353,Gaja,Polakiewicz,kobieta,23-10-1996,al. Podgórna 676 84-008 Wrocław,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+354,Sonia,Rode,kobieta,22-11-1993,al. Srebrna 031 50-960 Zgorzelec,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+355,Michał,Skubała,mężczyzna,27-01-1989,aleja Ptasia 63/66 09-254 Wągrowiec,['Ambitny Naukowiec']
+356,Marek,Listwan,mężczyzna,29-04-1985,plac Kilińskiego 20 82-946 Starogard Gdański,[]
+357,Antoni,Dziuban,mężczyzna,06-10-1997,ul. Pałacowa 87 18-722 Kalisz,[]
+358,Błażej,Sobiło,mężczyzna,10-02-1998,aleja Turystyczna 592 34-527 Piaseczno,"['Technologiczny Wizjoner', 'Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+359,Natan,Furgała,mężczyzna,09-08-2003,aleja Ciasna 943 39-981 Jaworzno,"['Ekspercki Analizator Danych', 'Guru Matematyki']"
+360,Marek,Żok,mężczyzna,27-02-1989,pl. Ściegiennego 57/43 55-789 Słupsk,"['Guru Matematyki', 'Wielki Odkrywca']"
+361,Borys,Karpik,mężczyzna,21-02-1984,ulica Ceglana 775 67-770 Jasło,[]
+362,Maurycy,Matula,mężczyzna,24-05-1992,al. Nowa 330 11-943 Płock,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Innowacyjny Programista']"
+363,Przemysław,Roskosz,mężczyzna,12-10-1984,plac Azaliowa 35/78 38-944 Kościerzyna,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner']"
+364,Andrzej,Szałaj,mężczyzna,24-12-2002,aleja Nowa 541 60-759 Zielona Góra,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Ambitny Naukowiec', 'Guru Matematyki']"
+365,Piotr,Pajdak,mężczyzna,04-11-2002,al. Letnia 04/76 38-930 Kętrzyn,"['Guru Matematyki', 'Wielki Odkrywca', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+366,Sylwia,Wandzel,kobieta,18-01-2005,pl. Klonowa 46/53 46-100 Wałbrzych,['Guru Matematyki']
+367,Sandra,Bartłomiejczyk,kobieta,08-06-1983,al. Cedrowa 31 09-452 Oława,"['Ambitny Naukowiec', 'Ambitny Naukowiec']"
+368,Iwo,Glenc,mężczyzna,17-03-2003,plac Kwiatowa 839 96-961 Jarocin,['Ambitny Naukowiec']
+369,Antoni,Gwizdek,mężczyzna,23-11-1997,al. Broniewskiego 780 76-446 Żary,[]
+370,Kacper,Jędrak,mężczyzna,29-10-1999,aleja Wczasowa 365 67-032 Łowicz,[]
+371,Leonard,Suchora,mężczyzna,12-04-2002,ul. Tulipanowa 760 63-932 Kętrzyn,[]
+372,Kaja,Łukowiak,kobieta,19-01-1999,aleja Solidarnosci 517 21-204 Katowice,['Kreatywny Problem Solver']
+373,Julianna,Mizia,kobieta,05-09-1991,ulica Podmiejska 712 29-329 Brodnica,"['Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+374,Aniela,Machul,kobieta,27-12-1990,aleja Borowa 44 18-467 Pruszcz Gdański,"['Guru Matematyki', 'Mistrz Kodowania', 'Innowacyjny Programista', 'Innowacyjny Programista']"
+375,Marcelina,Jajko,kobieta,21-11-1990,aleja Dolna 630 21-738 Skawina,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+376,Kajetan,Prystupa,mężczyzna,23-09-1993,plac Bema 853 42-032 Wejherowo,"['Guru Matematyki', 'Mistrz Kodowania', 'Zaangażowany Twórca', 'Wielki Odkrywca']"
+377,Leon,Ziętal,mężczyzna,20-12-1995,aleja Robotnicza 58/14 85-424 Swarzędz,"['Kreatywny Problem Solver', 'Ambitny Naukowiec', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+378,Paweł,Pastor,mężczyzna,04-09-1986,ulica Lazurowa 48/62 16-354 Wyszków,[]
+379,Szymon,Mularz,mężczyzna,02-01-1994,al. Słowackiego 51 83-633 Oleśnica,['Mistrz Kodowania']
+380,Monika,Meissner,kobieta,26-06-1995,al. Jana Pawła II 49 68-571 Piekary Śląskie,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Guru Matematyki']"
+381,Hubert,Biegała,mężczyzna,14-03-1998,ulica Plażowa 67 33-923 Leszno,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+382,Norbert,Patalas,mężczyzna,30-04-1987,al. Zaciszna 92 59-636 Koło,[]
+383,Sonia,Łodyga,kobieta,21-02-1996,plac Jodłowa 29/02 18-515 Lubin,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Mistrz Kodowania']"
+384,Paweł,Dzikiewicz,mężczyzna,05-04-1992,plac Rzemieślnicza 70/07 33-569 Lubartów,[]
+385,Jakub,Nieradko,mężczyzna,27-08-1992,ulica Morska 06/85 79-991 Legionowo,['Mistrz Kodowania']
+386,Norbert,Hołota,mężczyzna,26-03-1987,ul. Jana III Sobieskiego 82/58 62-807 Jarocin,"['Zaangażowany Twórca', 'Doskonały Komunikator']"
+387,Janina,Pryk,kobieta,19-01-1984,plac Wrocławska 68/29 91-096 Piekary Śląskie,"['Wielki Odkrywca', 'Technologiczny Wizjoner']"
+388,Konstanty,Rajtar,mężczyzna,18-08-2003,pl. Śląska 66/19 34-851 Żyrardów,[]
+389,Róża,Łapot,kobieta,02-01-1992,plac Jesionowa 38/86 94-022 Zgorzelec,"['Mistrz Kodowania', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+390,Oliwier,Cyrek,mężczyzna,22-08-1999,al. Magnoliowa 448 83-805 Szczecinek,[]
+391,Radosław,Łyskawa,mężczyzna,25-11-1989,pl. Bursztynowa 11 59-822 Lubliniec,['Kreatywny Problem Solver']
+392,Malwina,Jośko,kobieta,01-07-2001,aleja Turkusowa 386 07-674 Lublin,['Innowacyjny Programista']
+393,Konrad,Knysak,mężczyzna,16-03-2005,ulica Szeroka 26/05 27-857 Oława,['Doskonały Komunikator']
+394,Stanisław,Siedlarz,mężczyzna,10-11-2000,plac Słonecznikowa 544 99-770 Nowy Sącz,['Ambitny Naukowiec']
+395,Ewa,Szumny,kobieta,26-06-1996,pl. Skośna 73 35-752 Czeladź,"['Zaangażowany Twórca', 'Doskonały Komunikator', 'Doskonały Komunikator', 'Zaangażowany Twórca']"
+396,Wiktor,Deryło,mężczyzna,09-06-1990,aleja Batalionów Chłopskich 61/25 95-079 Otwock,"['Innowacyjny Programista', 'Technologiczny Wizjoner']"
+397,Cezary,Druszcz,mężczyzna,29-05-1996,ulica Mickiewicza 28/28 18-181 Szczecinek,"['Zaangażowany Twórca', 'Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+398,Anastazja,Wota,kobieta,15-04-2005,aleja Morelowa 229 04-156 Lubartów,[]
+399,Filip,Skubis,mężczyzna,10-09-1999,plac Lawendowa 709 38-662 Olsztyn,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca']"
+400,Olgierd,Łyczak,mężczyzna,17-06-1983,plac Pomorska 70 12-843 Chorzów,"['Guru Matematyki', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych', 'Ambitny Naukowiec']"
+401,Arkadiusz,Torbus,mężczyzna,09-09-1993,pl. Łąkowa 41/40 60-281 Pruszków,"['Technologiczny Wizjoner', 'Guru Matematyki', 'Technologiczny Wizjoner', 'Mistrz Kodowania']"
+402,Marianna,Uliasz,kobieta,04-10-1983,aleja Drzymały 35/21 87-902 Nysa,[]
+403,Ewa,Stempniak,kobieta,17-05-2001,ul. Letnia 58 49-192 Świebodzice,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Zaangażowany Twórca']"
+404,Eliza,Żybura,kobieta,24-10-1983,ulica Traugutta 053 24-079 Żagań,[]
+405,Malwina,Szlęk,kobieta,19-05-1994,ul. Witosa 85 01-096 Kwidzyn,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Mistrz Kodowania', 'Kreatywny Problem Solver']"
+406,Paweł,Nyk,mężczyzna,03-07-1992,aleja Jabłoniowa 276 13-260 Płock,['Kreatywny Problem Solver']
+407,Olgierd,Rysz,mężczyzna,27-10-2005,ulica Cicha 867 14-252 Olkusz,"['Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+408,Aniela,Niemira,kobieta,22-12-1988,ulica Kamienna 09/71 85-481 Czerwionka-Leszczyny,"['Wielki Odkrywca', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+409,Julianna,Bek,kobieta,27-10-1985,pl. Kochanowskiego 834 18-237 Kłodzko,['Innowacyjny Programista']
+410,Marianna,Dzieża,kobieta,25-01-1998,pl. Środkowa 42/48 88-212 Wrocław,['Kreatywny Problem Solver']
+411,Emil,Flisek,mężczyzna,26-09-1987,pl. Bałtycka 16 78-506 Wałcz,['Doskonały Komunikator']
+412,Ewelina,Piekarek,kobieta,11-07-1992,pl. Targowa 51 85-206 Bartoszyce,['Ekspercki Analizator Danych']
+413,Elżbieta,Kandzia,kobieta,16-10-1998,ul. Władysława Łokietka 63 60-418 Łomża,[]
+414,Iwo,Klisz,mężczyzna,29-06-1989,al. Kolorowa 286 72-131 Mielec,['Ekspercki Analizator Danych']
+415,Janina,Pietrus,kobieta,01-03-2002,aleja Władysława Jagiełły 53 01-347 Tarnobrzeg,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+416,Borys,Kojder,mężczyzna,09-10-1986,ulica Piastowska 00 81-486 Tychy,"['Guru Matematyki', 'Ekspercki Analizator Danych', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+417,Krzysztof,Znojek,mężczyzna,20-08-2005,al. Grunwaldzka 520 41-743 Racibórz,[]
+418,Ernest,Polasik,mężczyzna,18-03-2002,plac Górska 91 06-629 Tczew,"['Mistrz Kodowania', 'Guru Matematyki', 'Wielki Odkrywca']"
+419,Dawid,Mosur,mężczyzna,18-01-1997,ul. Matejki 71/30 53-993 Wieluń,"['Wielki Odkrywca', 'Doskonały Komunikator', 'Technologiczny Wizjoner']"
+420,Kamila,Kubek,kobieta,21-01-1999,ulica Nałkowskiej 62/35 52-667 Kętrzyn,[]
+421,Marika,Kazana,kobieta,21-07-1997,aleja Narcyzowa 36/21 50-036 Pruszków,[]
+422,Dominik,Perlik,mężczyzna,14-05-2003,aleja Działkowa 54/80 16-907 Radomsko,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+423,Marika,Cholewka,kobieta,24-11-1994,aleja Zaułek 49/65 59-902 Sanok,"['Ekspercki Analizator Danych', 'Innowacyjny Programista', 'Ambitny Naukowiec', 'Guru Matematyki']"
+424,Borys,Broszkiewicz,mężczyzna,28-10-2002,ulica Grzybowa 116 06-023 Malbork,"['Innowacyjny Programista', 'Wielki Odkrywca', 'Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+425,Julian,Łukowicz,mężczyzna,23-05-1993,aleja Orzeszkowej 67/47 12-749 Brzeg,['Kreatywny Problem Solver']
+426,Robert,Glonek,mężczyzna,23-05-1986,pl. Glówna 07/21 49-084 Krosno,"['Zaangażowany Twórca', 'Ambitny Naukowiec']"
+427,Alex,Fogiel,mężczyzna,03-05-1996,ulica Konwaliowa 81/65 69-937 Gniezno,[]
+428,Mariusz,Czochara,mężczyzna,16-12-1984,aleja Wyzwolenia 22/16 84-180 Żory,[]
+429,Aurelia,Babiuch,kobieta,01-11-1983,ul. Rolna 20 30-911 Gliwice,[]
+430,Damian,Łaś,mężczyzna,01-06-1995,al. Ceglana 93/36 77-996 Gorlice,"['Wielki Odkrywca', 'Wielki Odkrywca']"
+431,Szymon,Suchora,mężczyzna,16-01-1986,aleja Powstańców Wielkopolskich 00 02-155 Zgorzelec,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+432,Eliza,Maćków,kobieta,05-07-1994,ul. Lubelska 13 99-405 Świebodzice,['Zaangażowany Twórca']
+433,Paweł,Mila,mężczyzna,16-10-1993,pl. Kalinowa 74/27 86-888 Katowice,['Technologiczny Wizjoner']
+434,Mariusz,Przystupa,mężczyzna,23-11-1999,pl. Cedrowa 16/39 73-856 Zambrów,"['Kreatywny Problem Solver', 'Mistrz Kodowania', 'Mistrz Kodowania', 'Zaangażowany Twórca']"
+435,Konstanty,Żuberek,mężczyzna,14-05-1988,ulica Ciasna 26 58-329 Mysłowice,['Ambitny Naukowiec']
+436,Maksymilian,Siara,mężczyzna,05-07-2001,aleja Krzywa 672 65-878 Zakopane,['Innowacyjny Programista']
+437,Ryszard,Wojtyś,mężczyzna,03-07-2004,aleja Piastowska 15/67 92-183 Sieradz,['Ambitny Naukowiec']
+438,Ewelina,Dziwak,kobieta,15-01-2004,aleja Zwycięstwa 994 83-778 Goleniów,"['Innowacyjny Programista', 'Wielki Odkrywca']"
+439,Konstanty,Tworzydło,mężczyzna,25-04-1994,al. Olchowa 23 36-232 Pruszków,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Wielki Odkrywca', 'Technologiczny Wizjoner']"
+440,Maurycy,Olearczyk,mężczyzna,14-05-1996,plac Lawendowa 50 16-940 Ostrołęka,['Zaangażowany Twórca']
+441,Albert,Markiel,mężczyzna,09-09-1991,ul. Zapolskiej 55 66-569 Grudziądz,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Wielki Odkrywca']"
+442,Albert,Dydak,mężczyzna,25-11-2004,pl. Perłowa 601 47-660 Augustów,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+443,Sonia,Wasiuk,kobieta,27-03-1995,aleja Brzechwy 48 04-793 Kraków,"['Ambitny Naukowiec', 'Innowacyjny Programista', 'Zaangażowany Twórca']"
+444,Emil,Joniak,mężczyzna,13-05-1990,pl. Wyszyńskiego 652 16-802 Tczew,"['Ekspercki Analizator Danych', 'Wielki Odkrywca']"
+445,Natasza,Truchan,kobieta,10-10-1986,al. Kolejowa 77/46 51-037 Chełm,"['Ekspercki Analizator Danych', 'Innowacyjny Programista', 'Innowacyjny Programista', 'Ambitny Naukowiec']"
+446,Janina,Śnieg,kobieta,26-08-1992,aleja Wiosenna 10/95 02-784 Radom,[]
+447,Radosław,Szłapka,mężczyzna,29-12-1985,plac Strumykowa 90/54 62-837 Grodzisk Mazowiecki,"['Innowacyjny Programista', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+448,Marcelina,Cogiel,kobieta,17-10-2004,ul. Kamienna 35/13 44-519 Nowy Dwór Mazowiecki,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver', 'Zaangażowany Twórca', 'Doskonały Komunikator']"
+449,Albert,Piszcz,mężczyzna,23-04-1988,ul. Morcinka 547 19-336 Lubliniec,['Kreatywny Problem Solver']
+450,Tadeusz,Sularz,mężczyzna,07-08-1997,ul. Pocztowa 26/00 26-617 Łódź,"['Mistrz Kodowania', 'Kreatywny Problem Solver', 'Mistrz Kodowania']"
+451,Miłosz,Tryka,mężczyzna,09-08-1993,al. Dworska 09 33-840 Goleniów,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Doskonały Komunikator', 'Ambitny Naukowiec']"
+452,Maciej,Ufniarz,mężczyzna,17-11-1991,al. Jadwigi 427 42-333 Nysa,['Mistrz Kodowania']
+453,Aniela,Kołtuniak,kobieta,24-05-1984,pl. Mokra 648 29-507 Śrem,"['Doskonały Komunikator', 'Zaangażowany Twórca', 'Guru Matematyki', 'Doskonały Komunikator']"
+454,Ksawery,Siemieńczuk,mężczyzna,20-03-2002,plac Glówna 215 11-934 Ostrów Mazowiecka,"['Mistrz Kodowania', 'Kreatywny Problem Solver']"
+455,Filip,Michalkiewicz,mężczyzna,09-06-2004,ul. Gajowa 328 01-571 Grodzisk Mazowiecki,"['Doskonały Komunikator', 'Kreatywny Problem Solver']"
+456,Aleks,Gąbka,mężczyzna,19-01-1986,aleja Środkowa 543 42-327 Białogard,"['Zaangażowany Twórca', 'Doskonały Komunikator']"
+457,Alex,Bienia,mężczyzna,23-07-1987,al. Poznańska 125 60-372 Łaziska Górne,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+458,Piotr,Ochnio,mężczyzna,20-08-1995,aleja Jałowcowa 55 12-128 Żyrardów,"['Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+459,Adam,Wywiał,mężczyzna,22-12-1982,pl. Chmielna 698 92-903 Chrzanów,['Guru Matematyki']
+460,Oliwier,Naczk,mężczyzna,21-03-2005,pl. Letnia 11 26-615 Rumia,"['Wielki Odkrywca', 'Ekspercki Analizator Danych', 'Guru Matematyki', 'Guru Matematyki']"
+461,Krystian,Jasnoch,mężczyzna,17-06-1995,plac Dworska 25/63 07-231 Bochnia,[]
+462,Aurelia,Leszcz,kobieta,01-12-1991,plac Sikorskiego 990 09-665 Zgorzelec,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Doskonały Komunikator']"
+463,Cezary,Kapcia,mężczyzna,30-06-1984,al. Plażowa 326 38-093 Dąbrowa Górnicza,[]
+464,Roksana,Anders,kobieta,27-06-2001,plac Niecała 779 92-757 Kołobrzeg,[]
+465,Apolonia,Mrózek,kobieta,27-10-1991,al. Solidarnosci 886 23-322 Koszalin,[]
+466,Dagmara,Kożuszek,kobieta,26-09-2000,plac Rolnicza 634 86-165 Zakopane,[]
+467,Antoni,Moczko,mężczyzna,20-01-1991,ul. Daszyńskiego 662 95-395 Płock,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Guru Matematyki', 'Technologiczny Wizjoner']"
+468,Ignacy,Łyś,mężczyzna,24-01-1991,ul. Błękitna 910 67-446 Bydgoszcz,['Technologiczny Wizjoner']
+469,Nela,Pietrasiak,kobieta,21-01-1988,ulica Mieszka I 474 97-078 Sopot,"['Guru Matematyki', 'Doskonały Komunikator']"
+470,Kornelia,Kretek,kobieta,12-12-1991,ulica Krzywa 592 05-466 Stargard Szczeciński,"['Innowacyjny Programista', 'Kreatywny Problem Solver']"
+471,Natasza,Ciapa,kobieta,10-05-2000,ulica Wojska Polskiego 13/57 62-145 Żary,['Ekspercki Analizator Danych']
+472,Karol,Ślimak,mężczyzna,13-05-2005,pl. Wesoła 416 80-166 Wejherowo,"['Innowacyjny Programista', 'Guru Matematyki', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+473,Ewelina,Strzępek,kobieta,24-03-2005,ul. Cicha 409 92-437 Białystok,"['Mistrz Kodowania', 'Zaangażowany Twórca']"
+474,Kacper,Kijas,mężczyzna,12-05-1986,ulica Chabrowa 160 74-480 Leszno,"['Wielki Odkrywca', 'Mistrz Kodowania', 'Doskonały Komunikator', 'Doskonały Komunikator']"
+475,Stefan,Patora,mężczyzna,14-08-1995,ul. Wolności 01 46-123 Pabianice,"['Technologiczny Wizjoner', 'Innowacyjny Programista']"
+476,Juliusz,Kierepka,mężczyzna,27-01-1999,ul. Glówna 780 71-281 Sieradz,['Kreatywny Problem Solver']
+477,Maksymilian,Kubina,mężczyzna,04-05-1984,aleja Młynarska 50/83 27-576 Wyszków,"['Ekspercki Analizator Danych', 'Wielki Odkrywca', 'Wielki Odkrywca', 'Guru Matematyki']"
+478,Dawid,Domian,mężczyzna,27-07-1996,ulica Piwna 289 55-286 Bielawa,[]
+479,Krystian,Wojtalewicz,mężczyzna,19-01-1996,plac Piwna 888 87-135 Chełm,[]
+480,Norbert,Radziewicz,mężczyzna,15-08-1989,plac Makuszyńskiego 03/50 02-302 Luboń,['Wielki Odkrywca']
+481,Artur,Kocoł,mężczyzna,03-12-1997,plac Bydgoska 929 18-280 Kluczbork,"['Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+482,Anita,Supernak,kobieta,11-07-2003,plac Fiołkowa 228 85-835 Gorlice,['Kreatywny Problem Solver']
+483,Nataniel,Berendt,mężczyzna,19-06-2004,pl. Północna 16/81 86-539 Żagań,[]
+484,Ryszard,Jagiełka,mężczyzna,08-03-1989,plac Partyzantów 61 54-633 Lubin,[]
+485,Julita,Berek,kobieta,19-11-1995,aleja Rybacka 69 27-942 Marki,['Kreatywny Problem Solver']
+486,Klara,Wałek,kobieta,10-05-2001,ulica Wodna 42 69-131 Tychy,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+487,Jan,Szyma,mężczyzna,19-11-1983,aleja Jesienna 65/43 39-745 Racibórz,"['Guru Matematyki', 'Innowacyjny Programista', 'Innowacyjny Programista']"
+488,Rafał,Łakota,mężczyzna,29-08-1987,ulica Staffa 48 81-529 Lębork,"['Doskonały Komunikator', 'Guru Matematyki', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+489,Adam,Cibor,mężczyzna,27-03-2003,plac Klasztorna 37 72-603 Ostrów Wielkopolski,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Doskonały Komunikator']"
+490,Tymoteusz,Trzyna,mężczyzna,14-02-1990,pl. Szafirowa 205 10-491 Sopot,"['Innowacyjny Programista', 'Doskonały Komunikator', 'Mistrz Kodowania', 'Guru Matematyki']"
+491,Fabian,Loba,mężczyzna,08-01-1983,pl. Wróblewskiego 47/83 67-931 Żywiec,"['Zaangażowany Twórca', 'Mistrz Kodowania', 'Guru Matematyki']"
+492,Marcin,Konsek,mężczyzna,10-04-2000,ulica Moniuszki 43/78 44-170 Pszczyna,[]
+493,Marek,Garbaciak,mężczyzna,20-02-1997,aleja Krakowska 38 82-952 Przemyśl,[]
+494,Oliwier,Żołnierczyk,mężczyzna,03-03-1983,pl. Moniuszki 48 92-301 Kraśnik,"['Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+495,Aurelia,Januszko,kobieta,19-11-1987,aleja Bema 94 01-682 Malbork,['Technologiczny Wizjoner']
+496,Marcelina,Cygal,kobieta,11-01-1984,ul. Wiosenna 103 61-435 Chełm,"['Mistrz Kodowania', 'Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+497,Rozalia,Gula,kobieta,07-05-1993,plac Reja 289 87-333 Radom,"['Zaangażowany Twórca', 'Wielki Odkrywca']"
+498,Aniela,Łapot,kobieta,29-01-2005,ulica Miodowa 884 48-878 Kołobrzeg,[]
+499,Arkadiusz,Fronczyk,mężczyzna,02-06-1991,ulica Rzemieślnicza 33 29-981 Oława,"['Kreatywny Problem Solver', 'Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+500,Piotr,Pernak,mężczyzna,12-04-1994,ul. Słowackiego 27 42-666 Przemyśl,"['Guru Matematyki', 'Ambitny Naukowiec', 'Zaangażowany Twórca']"
+501,Apolonia,Dubis,kobieta,06-03-1991,ulica Kalinowa 68 65-223 Sanok,"['Ambitny Naukowiec', 'Wielki Odkrywca', 'Wielki Odkrywca']"
+502,Urszula,Wyrwał,kobieta,29-10-1990,ulica Królewska 15/57 99-729 Opole,['Technologiczny Wizjoner']
+503,Mariusz,Bociek,mężczyzna,12-11-1993,pl. Pułaskiego 75/68 52-247 Inowrocław,['Kreatywny Problem Solver']
+504,Ewa,Leks,kobieta,01-07-2004,plac Browarna 642 02-394 Bielsk Podlaski,"['Guru Matematyki', 'Ambitny Naukowiec']"
+505,Oskar,Uliczka,mężczyzna,17-02-2000,ulica Wolności 305 77-442 Lubartów,"['Guru Matematyki', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+506,Miłosz,Filak,mężczyzna,19-03-1996,al. Ściegiennego 90 24-488 Kutno,[]
+507,Aleks,Skwira,mężczyzna,15-06-1992,plac Strumykowa 23 03-347 Włocławek,[]
+508,Dawid,Parkitna,mężczyzna,11-10-1990,aleja Konwaliowa 47/06 98-646 Koszalin,[]
+509,Olgierd,Rajch,mężczyzna,25-08-1989,aleja Jarzębinowa 73/06 32-285 Będzin,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+510,Kajetan,Olearczyk,mężczyzna,17-03-2002,ulica Wilcza 51/44 01-374 Piekary Śląskie,"['Guru Matematyki', 'Doskonały Komunikator', 'Guru Matematyki']"
+511,Klara,Bugno,kobieta,07-10-1999,ulica Poniatowskiego 86/94 45-822 Inowrocław,[]
+512,Ewa,Lemiesz,kobieta,25-08-1987,aleja Solidarnosci 29/78 77-770 Augustów,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Guru Matematyki']"
+513,Franciszek,Uroda,mężczyzna,26-07-1996,pl. Lawendowa 03 78-940 Knurów,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Mistrz Kodowania']"
+514,Michał,Wawrzeńczyk,mężczyzna,10-08-2003,pl. Irysowa 34 87-970 Ełk,"['Mistrz Kodowania', 'Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+515,Tadeusz,Dacko,mężczyzna,05-10-1991,aleja Wyspiańskiego 35/23 07-343 Nowy Dwór Mazowiecki,[]
+516,Gaja,Szczepaniuk,kobieta,08-12-1994,plac Władysława Jagiełły 91 18-164 Poznań,[]
+517,Anastazja,Szulist,kobieta,02-07-1991,al. Rzeczna 256 36-791 Brodnica,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Ambitny Naukowiec', 'Ambitny Naukowiec']"
+518,Ksawery,Gierat,mężczyzna,06-12-1995,ul. Sikorskiego 36 52-797 Bielsk Podlaski,[]
+519,Bruno,Witkowicz,mężczyzna,31-03-1999,pl. Nadbrzeżna 74 05-148 Wałcz,[]
+520,Marcel,Bartela,mężczyzna,27-07-1992,al. Wiosenna 06 15-340 Myszków,"['Kreatywny Problem Solver', 'Guru Matematyki', 'Ambitny Naukowiec', 'Doskonały Komunikator']"
+521,Adam,Smardz,mężczyzna,11-03-1998,ulica Wschodnia 10 14-924 Zgierz,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver']"
+522,Anita,Gołek,kobieta,01-08-1996,ul. Chabrowa 52/91 45-595 Luboń,"['Doskonały Komunikator', 'Wielki Odkrywca']"
+523,Kornelia,Piaścik,kobieta,16-05-1986,ul. Dworska 28/10 11-291 Chełm,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Guru Matematyki']"
+524,Adrianna,Dering,kobieta,03-04-2005,plac Pułaskiego 940 46-758 Włocławek,[]
+525,Paweł,Paśnik,mężczyzna,21-05-2001,plac Hutnicza 81 03-365 Starogard Gdański,"['Kreatywny Problem Solver', 'Zaangażowany Twórca']"
+526,Ksawery,Makaruk,mężczyzna,15-10-1996,pl. Władysława Łokietka 16/86 76-997 Pabianice,"['Wielki Odkrywca', 'Ambitny Naukowiec']"
+527,Klara,Dejneka,kobieta,08-09-1988,ul. Cegielniana 58 99-263 Nowy Sącz,[]
+528,Nicole,Januchta,mężczyzna,01-07-1994,al. Sikorskiego 29/28 96-210 Ostrowiec Świętokrzyski,"['Wielki Odkrywca', 'Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+529,Adam,Miodek,mężczyzna,04-07-1984,ul. Zakole 94/57 94-640 Szczecinek,[]
+530,Fabian,Skupin,mężczyzna,24-11-1997,pl. Brzoskwiniowa 27/72 02-516 Dzierżoniów,"['Mistrz Kodowania', 'Ambitny Naukowiec', 'Ambitny Naukowiec', 'Ambitny Naukowiec']"
+531,Rozalia,Łokietek,kobieta,14-02-2005,ul. Cegielniana 85 43-094 Puławy,"['Guru Matematyki', 'Innowacyjny Programista', 'Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+532,Norbert,Sporysz,mężczyzna,28-10-1988,pl. Waryńskiego 23 83-157 Sieradz,"['Guru Matematyki', 'Ambitny Naukowiec']"
+533,Maksymilian,Joszko,mężczyzna,19-03-1998,plac Zapolskiej 49 30-825 Jelenia Góra,[]
+534,Melania,Przeniosło,kobieta,09-11-1984,al. Porzeczkowa 306 27-881 Myszków,['Doskonały Komunikator']
+535,Jakub,Szłapka,mężczyzna,01-04-1994,pl. Lelewela 460 39-078 Czechowice-Dziedzice,"['Ambitny Naukowiec', 'Mistrz Kodowania', 'Zaangażowany Twórca', 'Wielki Odkrywca']"
+536,Bianka,Zimoląg,kobieta,27-10-2000,ulica Hallera 259 11-520 Bydgoszcz,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Guru Matematyki', 'Innowacyjny Programista']"
+537,Michał,Miszkiewicz,mężczyzna,11-05-2000,plac Plater 603 64-189 Kraśnik,"['Wielki Odkrywca', 'Zaangażowany Twórca']"
+538,Kamil,Fras,mężczyzna,27-08-1992,pl. Łączna 07 93-335 Jawor,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec']"
+539,Agnieszka,Doroszkiewicz,kobieta,11-03-1992,pl. Rajska 781 79-644 Ostrołęka,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+540,Eryk,Chalimoniuk,mężczyzna,16-09-1985,aleja Kolonia 88 94-049 Włocławek,"['Innowacyjny Programista', 'Wielki Odkrywca']"
+541,Karina,Karpik,kobieta,16-08-2004,plac Sawickiej 88 87-828 Białystok,"['Doskonały Komunikator', 'Innowacyjny Programista', 'Technologiczny Wizjoner']"
+542,Adrian,Miksza,mężczyzna,04-11-1989,aleja Szeroka 63/41 85-452 Lubartów,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+543,Nataniel,Szmelter,mężczyzna,05-02-2003,pl. Młyńska 017 84-088 Chrzanów,"['Ambitny Naukowiec', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+544,Mateusz,Wyciszkiewicz,mężczyzna,30-01-1998,al. Rynek 18/91 79-955 Szczytno,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+545,Łukasz,Tutka,mężczyzna,18-11-2000,plac Wiosenna 82/34 64-140 Piastów,"['Doskonały Komunikator', 'Wielki Odkrywca']"
+546,Sebastian,Stranc,mężczyzna,12-07-1988,ul. Szafirowa 776 90-202 Jarocin,[]
+547,Olgierd,Zimoląg,mężczyzna,04-01-2002,ul. Klasztorna 23 95-016 Bartoszyce,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+548,Iwo,Synak,mężczyzna,30-07-1999,ulica Fabryczna 330 97-984 Września,"['Mistrz Kodowania', 'Doskonały Komunikator']"
+549,Tobiasz,Linek,mężczyzna,26-08-1989,aleja Głowackiego 48/55 11-670 Grodzisk Mazowiecki,"['Doskonały Komunikator', 'Zaangażowany Twórca', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+550,Cyprian,Dorna,mężczyzna,24-08-1998,pl. Wiejska 265 58-262 Tarnowskie Góry,[]
+551,Ewa,Kopyt,kobieta,18-08-2005,al. Narutowicza 35 24-495 Leszno,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Doskonały Komunikator', 'Zaangażowany Twórca']"
+552,Konrad,Wiza,mężczyzna,17-10-1985,ul. Ptasia 49 93-080 Siemianowice Śląskie,['Ambitny Naukowiec']
+553,Aurelia,Ćmiel,kobieta,24-01-1983,plac Piłsudskiego 504 52-354 Elbląg,[]
+554,Maks,Polewka,mężczyzna,12-09-2000,ul. Cicha 05 72-120 Piaseczno,['Guru Matematyki']
+555,Tola,Jodko,kobieta,25-12-1988,ulica Chełmońskiego 382 54-680 Jarosław,[]
+556,Kaja,Sznura,kobieta,30-11-2003,ul. Waryńskiego 51 67-701 Kielce,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Mistrz Kodowania', 'Kreatywny Problem Solver']"
+557,Aurelia,Wika,kobieta,11-12-1996,al. Jana III Sobieskiego 72 08-568 Pabianice,[]
+558,Ksawery,Starościak,mężczyzna,11-02-1993,ul. Warszawska 15 83-412 Białystok,['Wielki Odkrywca']
+559,Marianna,Leżoń,kobieta,19-11-2002,plac Sportowa 671 61-786 Giżycko,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+560,Konstanty,Strzelczak,mężczyzna,19-02-1998,plac Piękna 25/01 96-463 Grudziądz,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Wielki Odkrywca', 'Wielki Odkrywca']"
+561,Karol,Chołody,mężczyzna,28-08-2003,pl. Rejtana 66 80-853 Tarnów,"['Innowacyjny Programista', 'Mistrz Kodowania']"
+562,Arkadiusz,Bereś,mężczyzna,26-05-1987,al. Zakątek 08 19-095 Tarnowskie Góry,"['Wielki Odkrywca', 'Kreatywny Problem Solver', 'Guru Matematyki']"
+563,Nela,Stempel,kobieta,19-06-1987,ul. Młyńska 449 46-332 Skarżysko-Kamienna,"['Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Mistrz Kodowania']"
+564,Jakub,Bartoszak,mężczyzna,01-02-2000,ulica Wiejska 34/47 33-798 Wejherowo,['Ekspercki Analizator Danych']
+565,Gustaw,Druszcz,mężczyzna,07-09-2001,pl. Azaliowa 74/05 29-413 Szczecin,[]
+566,Patryk,Dawiec,mężczyzna,09-12-1995,ul. Krasickiego 93 85-363 Ruda Śląska,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+567,Lidia,Pik,kobieta,29-10-2002,plac Jaworowa 448 17-864 Jelenia Góra,[]
+568,Krystyna,Kempny,kobieta,20-05-2002,ul. Dobra 19 28-726 Łowicz,['Ekspercki Analizator Danych']
+569,Gabriel,Dzienisz,mężczyzna,15-07-1985,plac Turkusowa 91/48 60-972 Śrem,[]
+570,Andrzej,Budzich,mężczyzna,02-07-2000,pl. Krzywa 336 99-885 Marki,"['Innowacyjny Programista', 'Guru Matematyki', 'Guru Matematyki', 'Ambitny Naukowiec']"
+571,Konrad,Cieloch,mężczyzna,09-02-1999,aleja Kazimierza Wielkiego 754 26-677 Tomaszów Mazowiecki,['Zaangażowany Twórca']
+572,Ernest,Chachuła,mężczyzna,09-02-2001,ul. Okulickiego 580 78-944 Częstochowa,[]
+573,Sebastian,Kuźnia,mężczyzna,05-04-1997,ul. Mieszka I 82/37 37-669 Dzierżoniów,['Innowacyjny Programista']
+574,Robert,Wojtyna,mężczyzna,30-04-2000,ul. Parkowa 26 53-323 Ostrowiec Świętokrzyski,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+575,Rafał,Szpyrka,mężczyzna,02-05-1992,al. Tuwima 10 04-119 Mińsk Mazowiecki,[]
+576,Wiktor,Kuncewicz,mężczyzna,23-11-1984,plac Poznańska 36/09 10-037 Nowy Sącz,[]
+577,Olaf,Bosek,mężczyzna,12-05-1991,ulica Jaworowa 878 59-713 Skarżysko-Kamienna,"['Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Doskonały Komunikator']"
+578,Michał,Budzeń,mężczyzna,20-10-1996,aleja Wspólna 99 67-025 Kościan,['Technologiczny Wizjoner']
+579,Janina,Dyjach,kobieta,30-01-1998,aleja Orkana 47 60-413 Starogard Gdański,['Doskonały Komunikator']
+580,Jacek,Maksym,mężczyzna,18-08-1992,al. Śląska 50/34 29-816 Krotoszyn,['Guru Matematyki']
+581,Miłosz,Dzienis,mężczyzna,08-01-1985,al. Wyspiańskiego 58/93 03-877 Łowicz,[]
+582,Olgierd,Bąkiewicz,mężczyzna,26-10-2005,aleja Nadbrzeżna 50/84 44-627 Wyszków,['Ambitny Naukowiec']
+583,Krystyna,Góraj,kobieta,28-03-1995,pl. Źródlana 61/13 67-370 Bielsko-Biała,[]
+584,Radosław,Buszka,mężczyzna,04-04-2001,plac Chmielna 43 85-754 Chełm,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+585,Szymon,Nagórka,mężczyzna,16-07-1989,plac Wypoczynkowa 81 44-492 Wałcz,"['Guru Matematyki', 'Guru Matematyki', 'Kreatywny Problem Solver', 'Innowacyjny Programista']"
+586,Emil,Kułach,mężczyzna,23-05-1997,al. Osiedlowa 003 47-436 Tarnobrzeg,"['Innowacyjny Programista', 'Innowacyjny Programista', 'Innowacyjny Programista', 'Innowacyjny Programista']"
+587,Mieszko,Wacławczyk,mężczyzna,22-02-1985,aleja Plater 23 20-079 Tarnowskie Góry,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Doskonały Komunikator']"
+588,Roksana,Wiesiołek,kobieta,26-08-1989,ul. Mickiewicza 184 93-013 Skawina,"['Technologiczny Wizjoner', 'Doskonały Komunikator']"
+589,Julita,Nijak,kobieta,30-10-2001,ul. Kwiatowa 04/62 94-826 Luboń,['Zaangażowany Twórca']
+590,Marcin,Pituła,mężczyzna,21-07-2000,ul. Jagodowa 63/14 41-666 Polkowice,"['Guru Matematyki', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+591,Robert,Posmyk,mężczyzna,04-10-1996,pl. Nadrzeczna 619 20-908 Oława,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver']"
+592,Marianna,Dybaś,kobieta,09-06-1983,aleja Szpitalna 70 35-439 Wyszków,[]
+593,Konrad,Kielich,mężczyzna,30-12-1997,plac Malinowa 079 90-585 Malbork,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+594,Marika,Kochel,kobieta,14-05-1993,ulica Słowicza 95/72 58-544 Kłodzko,['Zaangażowany Twórca']
+595,Urszula,Taczała,kobieta,24-07-2004,al. Ogrodowa 311 53-592 Ełk,['Doskonały Komunikator']
+596,Antoni,Kwapień,mężczyzna,10-03-1989,ulica Kolorowa 663 04-575 Czeladź,['Doskonały Komunikator']
+597,Roksana,Budzyń,kobieta,15-10-1996,pl. Piłsudskiego 21/98 70-294 Gniezno,['Innowacyjny Programista']
+598,Konrad,Wawryniuk,mężczyzna,10-05-1993,pl. Sosnowa 47/46 14-598 Żyrardów,"['Kreatywny Problem Solver', 'Guru Matematyki']"
+599,Krzysztof,Linke,mężczyzna,26-05-1999,al. Brzechwy 994 68-351 Leszno,"['Mistrz Kodowania', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+600,Dariusz,Husak,mężczyzna,28-06-1987,pl. Graniczna 409 19-490 Tarnobrzeg,[]
+601,Wiktor,Kierepka,mężczyzna,20-12-1982,aleja Dojazdowa 24/73 41-768 Ostrów Mazowiecka,"['Wielki Odkrywca', 'Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+602,Marcin,Kurz,mężczyzna,24-12-1997,ulica Morska 71 75-102 Łomża,['Technologiczny Wizjoner']
+603,Radosław,Hutyra,mężczyzna,24-08-1990,aleja Wrzosowa 16 29-508 Brodnica,[]
+604,Grzegorz,Drej,mężczyzna,06-05-1994,al. Żwirowa 19/23 75-815 Zielona Góra,"['Guru Matematyki', 'Innowacyjny Programista']"
+605,Paweł,Marcińczyk,mężczyzna,01-09-1986,ul. Kruczkowskiego 51 84-812 Chojnice,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Wielki Odkrywca']"
+606,Igor,Kościelak,mężczyzna,23-07-2000,plac Brzozowa 80/55 80-515 Kędzierzyn-Koźle,"['Wielki Odkrywca', 'Innowacyjny Programista', 'Innowacyjny Programista']"
+607,Natan,Hornik,mężczyzna,30-10-1988,pl. Krucza 59 48-244 Sosnowiec,"['Technologiczny Wizjoner', 'Mistrz Kodowania']"
+608,Artur,Frukacz,mężczyzna,29-08-2001,pl. Leszczynowa 136 08-081 Opole,"['Ambitny Naukowiec', 'Zaangażowany Twórca']"
+609,Anita,Kusek,kobieta,19-01-1993,pl. Wolności 12/27 79-181 Racibórz,['Zaangażowany Twórca']
+610,Kornel,Zielke,mężczyzna,08-02-1984,pl. Kasprowicza 55 46-446 Zamość,"['Wielki Odkrywca', 'Technologiczny Wizjoner']"
+611,Melania,Sładek,kobieta,16-09-1996,ul. Dolna 036 31-992 Lubartów,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Guru Matematyki']"
+612,Gabriel,Łudzik,mężczyzna,23-11-1988,plac Lelewela 58/90 12-859 Brodnica,"['Wielki Odkrywca', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver']"
+613,Eryk,Cop,mężczyzna,14-10-1991,ulica Topolowa 35/61 26-136 Kłodzko,['Ambitny Naukowiec']
+614,Sylwia,Mordal,kobieta,08-10-1993,ul. Jana Pawła II 83/84 04-635 Nowy Targ,['Innowacyjny Programista']
+615,Konstanty,Kuban,mężczyzna,07-09-1989,aleja Willowa 09/47 53-439 Ostróda,[]
+616,Błażej,Stanisławek,mężczyzna,18-04-1987,ulica Pszenna 32/85 76-532 Ząbki,"['Zaangażowany Twórca', 'Zaangażowany Twórca']"
+617,Arkadiusz,Koniecko,mężczyzna,22-10-1984,aleja Radosna 686 36-836 Sochaczew,"['Mistrz Kodowania', 'Innowacyjny Programista', 'Mistrz Kodowania']"
+618,Maurycy,Rzońca,mężczyzna,22-01-1983,ulica Piwna 39/64 93-668 Bolesławiec,['Guru Matematyki']
+619,Melania,Dybka,kobieta,14-08-1986,aleja Żwirowa 48 52-513 Piastów,"['Guru Matematyki', 'Kreatywny Problem Solver']"
+620,Tomasz,Jędraszek,mężczyzna,05-05-1985,pl. Stawowa 61/55 25-531 Ełk,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Zaangażowany Twórca']"
+621,Julita,Mosiołek,kobieta,27-08-1995,plac Leszczynowa 62/61 55-820 Ostrowiec Świętokrzyski,"['Ambitny Naukowiec', 'Ambitny Naukowiec']"
+622,Anita,Drewniok,kobieta,13-08-1985,ul. Mickiewicza 32/94 04-216 Myszków,"['Guru Matematyki', 'Wielki Odkrywca', 'Wielki Odkrywca', 'Kreatywny Problem Solver']"
+623,Kamila,Kilar,kobieta,30-08-1989,pl. Partyzantów 32/72 02-564 Puławy,"['Wielki Odkrywca', 'Kreatywny Problem Solver']"
+624,Jakub,Bryczek,mężczyzna,07-11-2003,plac Kościuszki 794 61-963 Żagań,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+625,Justyna,Haponiuk,kobieta,23-09-1992,pl. Wąska 447 03-281 Zgorzelec,['Zaangażowany Twórca']
+626,Sylwia,Gemza,kobieta,10-11-1991,al. Kolonia 24 65-356 Żyrardów,"['Zaangażowany Twórca', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+627,Maks,Latacz,mężczyzna,06-10-2002,ulica Poprzeczna 39/02 79-673 Wołomin,[]
+628,Norbert,Fojt,mężczyzna,16-02-2003,ulica Tuwima 38/94 15-185 Starachowice,['Ambitny Naukowiec']
+629,Adrian,Wowra,mężczyzna,12-04-1995,aleja Hutnicza 78 07-772 Chełm,['Technologiczny Wizjoner']
+630,Eliza,Rejmak,kobieta,06-08-1992,pl. Klasztorna 91/69 11-286 Nowa Ruda,[]
+631,Michał,Cieciora,mężczyzna,06-08-1986,pl. Kolorowa 85 50-932 Ełk,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Guru Matematyki']"
+632,Marcelina,Galuba,kobieta,29-06-1996,plac Bema 88 28-254 Chrzanów,['Zaangażowany Twórca']
+633,Blanka,Owsianka,kobieta,29-04-1999,aleja Wodna 33 52-086 Puławy,"['Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+634,Marcel,Grochowina,mężczyzna,25-01-2002,ul. Malczewskiego 74 88-288 Częstochowa,['Kreatywny Problem Solver']
+635,Aniela,Perlik,kobieta,06-03-1987,plac Myśliwska 658 89-371 Sandomierz,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Doskonały Komunikator', 'Guru Matematyki']"
+636,Borys,Stwora,mężczyzna,15-07-1994,plac Partyzantów 86/46 64-782 Łowicz,"['Mistrz Kodowania', 'Wielki Odkrywca', 'Zaangażowany Twórca', 'Ambitny Naukowiec']"
+637,Monika,Antoszczyk,kobieta,02-12-2002,al. Poziomkowa 057 94-653 Turek,"['Wielki Odkrywca', 'Technologiczny Wizjoner', 'Wielki Odkrywca', 'Ambitny Naukowiec']"
+638,Arkadiusz,Juśkiewicz,mężczyzna,12-03-1985,al. Wieniawskiego 75/34 70-745 Mława,['Technologiczny Wizjoner']
+639,Kajetan,Radko,mężczyzna,11-09-1984,al. Diamentowa 001 51-489 Żywiec,['Ekspercki Analizator Danych']
+640,Julianna,Pikula,kobieta,18-03-1988,aleja Miodowa 81 62-434 Zambrów,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Ambitny Naukowiec']"
+641,Andrzej,Podkowa,mężczyzna,07-09-2003,plac Morelowa 43 95-481 Żary,[]
+642,Ksawery,Rzeszutko,mężczyzna,12-08-1993,pl. Kościuszki 73/96 71-133 Reda,"['Mistrz Kodowania', 'Innowacyjny Programista']"
+643,Aurelia,Pych,kobieta,25-04-2001,pl. Krucza 61 36-774 Wrocław,"['Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+644,Aniela,Dietrich,kobieta,17-01-1992,pl. Jagiellońska 074 26-131 Olsztyn,[]
+645,Patryk,Zarzeczna,mężczyzna,28-06-1998,ulica Gołębia 06/45 03-321 Świętochłowice,"['Wielki Odkrywca', 'Zaangażowany Twórca']"
+646,Jakub,Mejer,mężczyzna,16-08-2000,aleja Dworska 67 81-225 Zawiercie,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Guru Matematyki']"
+647,Julianna,Waloszczyk,kobieta,17-06-1986,al. Gołębia 62 83-394 Gorzów Wielkopolski,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+648,Damian,Wójs,mężczyzna,01-12-1995,ulica Dworska 029 97-812 Oświęcim,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Guru Matematyki', 'Innowacyjny Programista']"
+649,Dagmara,Rej,kobieta,25-11-1994,ul. Wiślana 64 58-355 Częstochowa,"['Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Technologiczny Wizjoner']"
+650,Leonard,Broncel,mężczyzna,20-06-2004,ulica Dworcowa 61 48-429 Gliwice,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+651,Tymon,Komsta,mężczyzna,19-12-1986,ulica Partyzantów 99 57-692 Wągrowiec,[]
+652,Oliwier,Trybuś,mężczyzna,16-12-1997,al. Jagodowa 095 57-285 Koło,[]
+653,Kamila,Grymuza,kobieta,01-10-1987,ulica Stawowa 880 71-247 Skierniewice,"['Wielki Odkrywca', 'Mistrz Kodowania']"
+654,Róża,Bogusiewicz,kobieta,15-10-1984,aleja Składowa 35/39 77-604 Nowy Dwór Mazowiecki,"['Ambitny Naukowiec', 'Ambitny Naukowiec', 'Innowacyjny Programista', 'Kreatywny Problem Solver']"
+655,Bruno,Fidler,mężczyzna,18-03-2002,ul. Zakole 690 18-131 Czerwionka-Leszczyny,['Mistrz Kodowania']
+656,Apolonia,Stanaszek,kobieta,18-10-1996,pl. Browarna 05 48-842 Rumia,['Ekspercki Analizator Danych']
+657,Ernest,Front,mężczyzna,26-08-1991,pl. Kusocińskiego 405 28-968 Ostrów Mazowiecka,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Zaangażowany Twórca']"
+658,Konrad,Pacura,mężczyzna,16-02-1997,ulica Lipowa 189 04-388 Dębica,['Guru Matematyki']
+659,Nikodem,Teper,mężczyzna,18-05-1992,pl. Łabędzia 80/37 91-840 Jasło,"['Kreatywny Problem Solver', 'Mistrz Kodowania', 'Zaangażowany Twórca', 'Mistrz Kodowania']"
+660,Krzysztof,Rozmiarek,mężczyzna,03-03-1985,ulica Grabowa 06 56-979 Chrzanów,"['Guru Matematyki', 'Doskonały Komunikator']"
+661,Adam,Żugaj,mężczyzna,03-07-1986,al. Morcinka 55/87 43-240 Mikołów,"['Mistrz Kodowania', 'Guru Matematyki', 'Innowacyjny Programista']"
+662,Nela,Kudłacik,kobieta,25-03-1993,aleja Radosna 319 66-856 Rzeszów,[]
+663,Kamila,Sławik,kobieta,12-11-1984,ul. Odrzańska 78 12-197 Tarnowskie Góry,['Wielki Odkrywca']
+664,Tymon,Ścibisz,mężczyzna,02-01-1986,al. Turystyczna 93 48-716 Olsztyn,['Innowacyjny Programista']
+665,Wojciech,Cyrulik,mężczyzna,01-05-1985,plac Kolejowa 53/91 61-597 Sochaczew,['Guru Matematyki']
+666,Jeremi,Zacharczuk,mężczyzna,15-03-2002,plac Wiklinowa 80/69 63-435 Szczecin,"['Zaangażowany Twórca', 'Mistrz Kodowania', 'Kreatywny Problem Solver']"
+667,Monika,Wawak,kobieta,08-11-1984,aleja Broniewskiego 41/53 96-005 Ostrołęka,[]
+668,Sebastian,Milczarczyk,mężczyzna,13-11-1991,pl. Porzeczkowa 12/09 43-442 Chrzanów,"['Kreatywny Problem Solver', 'Guru Matematyki', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+669,Kaja,Trzepizur,kobieta,25-01-1991,al. Jaskółcza 48/42 89-008 Płońsk,['Ekspercki Analizator Danych']
+670,Bianka,Hornik,kobieta,25-05-1993,plac Strumykowa 43/29 78-037 Zgierz,[]
+671,Stanisław,Szyjka,mężczyzna,24-10-1992,ulica Torowa 99 76-082 Lubartów,"['Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+672,Gaja,Manista,kobieta,15-01-1989,pl. Konwaliowa 43 60-739 Nowy Dwór Mazowiecki,"['Innowacyjny Programista', 'Guru Matematyki', 'Wielki Odkrywca']"
+673,Kaja,Zbrożek,kobieta,07-01-1986,plac Piaskowa 936 73-533 Knurów,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner', 'Technologiczny Wizjoner']"
+674,Gaja,Czesak,kobieta,26-03-2002,pl. Krzywa 200 22-026 Bytom,"['Guru Matematyki', 'Wielki Odkrywca', 'Kreatywny Problem Solver', 'Guru Matematyki']"
+675,Olgierd,Młynarz,mężczyzna,14-11-1995,pl. Armii Krajowej 478 42-204 Świętochłowice,"['Guru Matematyki', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Innowacyjny Programista']"
+676,Jacek,Jasnoch,mężczyzna,28-11-2004,al. Wiślana 62/16 15-191 Wołomin,['Ambitny Naukowiec']
+677,Miłosz,Fidura,mężczyzna,27-09-1991,ulica Warszawska 015 50-147 Biłgoraj,"['Kreatywny Problem Solver', 'Guru Matematyki', 'Ekspercki Analizator Danych']"
+678,Oskar,Młyńczak,mężczyzna,30-03-2001,aleja Wolności 42 60-135 Knurów,"['Innowacyjny Programista', 'Guru Matematyki', 'Innowacyjny Programista', 'Ambitny Naukowiec']"
+679,Adam,Saczuk,mężczyzna,22-05-1988,ul. Chełmońskiego 607 59-197 Płock,"['Wielki Odkrywca', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+680,Agnieszka,Korkosz,kobieta,23-08-1992,ul. Nałkowskiej 36/45 43-933 Pruszków,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+681,Jakub,Andrukiewicz,mężczyzna,10-08-1991,pl. Cyprysowa 51/27 94-006 Łuków,['Technologiczny Wizjoner']
+682,Sandra,Orpel,kobieta,04-09-1995,ulica Żeglarska 431 23-733 Jarocin,"['Doskonały Komunikator', 'Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Kreatywny Problem Solver']"
+683,Maksymilian,Janka,mężczyzna,17-02-1997,aleja Sarnia 769 62-268 Leszno,"['Guru Matematyki', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+684,Bruno,Koźlak,mężczyzna,03-11-1994,ul. Kielecka 32/04 71-758 Kłodzko,['Doskonały Komunikator']
+685,Inga,Strzała,kobieta,30-11-1997,aleja Korfantego 80 40-786 Kościan,['Guru Matematyki']
+686,Krystian,Luberda,mężczyzna,16-09-1991,aleja Jadwigi 71/53 29-060 Świętochłowice,"['Innowacyjny Programista', 'Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+687,Damian,Getka,mężczyzna,13-01-2001,ulica Modrzewiowa 66/53 32-014 Zduńska Wola,"['Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+688,Julianna,Orwat,kobieta,25-04-1998,ulica Browarna 595 95-341 Lubartów,"['Kreatywny Problem Solver', 'Innowacyjny Programista']"
+689,Ewelina,Rajtar,kobieta,10-12-2000,pl. Zielna 340 08-644 Starachowice,"['Innowacyjny Programista', 'Ekspercki Analizator Danych', 'Guru Matematyki', 'Mistrz Kodowania']"
+690,Artur,Przekwas,mężczyzna,28-12-1988,ul. Rataja 45/10 44-306 Cieszyn,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych']"
+691,Leon,Wasilewicz,mężczyzna,03-11-1994,aleja Wilcza 18 77-963 Wodzisław Śląski,"['Guru Matematyki', 'Mistrz Kodowania']"
+692,Dawid,Plona,mężczyzna,03-04-1999,ul. Strażacka 40 72-916 Siemianowice Śląskie,"['Doskonały Komunikator', 'Ambitny Naukowiec']"
+693,Maksymilian,Martyka,mężczyzna,28-02-1985,ul. Słoneczna 051 52-124 Piastów,"['Mistrz Kodowania', 'Technologiczny Wizjoner', 'Mistrz Kodowania', 'Kreatywny Problem Solver']"
+694,Szymon,Burczak,mężczyzna,24-11-1989,aleja Andersa 974 42-547 Gniezno,"['Ambitny Naukowiec', 'Kreatywny Problem Solver']"
+695,Łukasz,Styn,mężczyzna,13-06-2002,aleja Bydgoska 136 48-116 Przemyśl,"['Ekspercki Analizator Danych', 'Mistrz Kodowania', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+696,Lidia,Rajda,kobieta,19-11-1988,plac Podleśna 077 22-446 Bielsko-Biała,"['Mistrz Kodowania', 'Mistrz Kodowania']"
+697,Leonard,Kalisiak,mężczyzna,10-07-2002,al. Tęczowa 23 94-461 Sochaczew,"['Mistrz Kodowania', 'Mistrz Kodowania']"
+698,Bartek,Chatys,mężczyzna,15-01-2001,plac Targowa 55/58 15-413 Ostrołęka,"['Doskonały Komunikator', 'Zaangażowany Twórca', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+699,Filip,Kultys,mężczyzna,08-02-1991,pl. Piwna 32/22 61-835 Toruń,[]
+700,Róża,Leżoń,kobieta,13-02-2002,plac Jałowcowa 07 88-248 Nowy Targ,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Kreatywny Problem Solver', 'Zaangażowany Twórca']"
+701,Fabian,Wilma,mężczyzna,01-08-2005,pl. Wybickiego 827 87-178 Gdańsk,"['Zaangażowany Twórca', 'Mistrz Kodowania', 'Kreatywny Problem Solver']"
+702,Kalina,Bzymek,kobieta,02-08-2004,aleja Gołębia 79 18-860 Gdańsk,['Zaangażowany Twórca']
+703,Dagmara,Korbel,kobieta,06-02-1991,al. Dąbrowskiego 349 54-763 Będzin,[]
+704,Gustaw,Paździora,mężczyzna,21-12-1986,ul. Słowianska 182 27-293 Żyrardów,['Ambitny Naukowiec']
+705,Jan,Wiciak,mężczyzna,17-11-1987,pl. Sybiraków 17 78-900 Wągrowiec,['Ambitny Naukowiec']
+706,Fryderyk,Paszkowiak,mężczyzna,09-09-1990,aleja Łączna 26 07-873 Krosno,"['Wielki Odkrywca', 'Kreatywny Problem Solver']"
+707,Karol,Plich,mężczyzna,16-11-1997,ulica Zaułek 489 67-390 Tomaszów Mazowiecki,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+708,Grzegorz,Macheta,mężczyzna,02-09-1991,al. Wiosenna 43/59 76-522 Żagań,"['Doskonały Komunikator', 'Zaangażowany Twórca']"
+709,Kornel,Becker,mężczyzna,08-11-2001,ul. Górnicza 011 36-079 Szczecinek,['Doskonały Komunikator']
+710,Alex,Nojman,mężczyzna,28-04-2005,plac Cisowa 571 64-140 Łaziska Górne,"['Wielki Odkrywca', 'Technologiczny Wizjoner']"
+711,Aleksander,Wyroślak,mężczyzna,06-04-1999,plac Zachodnia 22 25-186 Czerwionka-Leszczyny,[]
+712,Justyna,Stasica,kobieta,09-02-1997,plac Młynarska 55 51-200 Chełm,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+713,Sara,Kosowicz,kobieta,01-10-1985,pl. Czarnieckiego 47/42 66-316 Malbork,"['Zaangażowany Twórca', 'Mistrz Kodowania']"
+714,Antoni,Troka,mężczyzna,12-05-1992,pl. Truskawkowa 172 52-392 Bielsko-Biała,[]
+715,Bianka,Szabla,kobieta,03-11-1987,plac Tylna 77/53 18-497 Puławy,"['Mistrz Kodowania', 'Kreatywny Problem Solver']"
+716,Miłosz,Kierepka,mężczyzna,17-08-2004,ulica Maja 02 24-298 Łaziska Górne,"['Zaangażowany Twórca', 'Innowacyjny Programista', 'Wielki Odkrywca']"
+717,Róża,Bona,kobieta,23-06-1987,plac Okrzei 71/31 70-383 Piekary Śląskie,['Doskonały Komunikator']
+718,Marek,Węgrzyniak,mężczyzna,31-10-2003,aleja Chabrowa 83 56-953 Świętochłowice,"['Kreatywny Problem Solver', 'Wielki Odkrywca']"
+719,Adrian,Delekta,mężczyzna,03-06-1988,ul. Morcinka 052 73-011 Dzierżoniów,[]
+720,Melania,Droś,kobieta,23-02-2005,aleja Jana Pawła II 73 54-274 Oława,['Zaangażowany Twórca']
+721,Cezary,Jarosiewicz,mężczyzna,18-02-1991,al. Czarnieckiego 14/42 28-079 Białogard,"['Guru Matematyki', 'Guru Matematyki', 'Wielki Odkrywca']"
+722,Maks,Ryndak,mężczyzna,14-12-1988,ulica Cegielniana 02 43-445 Ruda Śląska,"['Innowacyjny Programista', 'Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+723,Fryderyk,Komperda,mężczyzna,28-10-1998,ulica Wojska Polskiego 04/95 46-930 Wągrowiec,"['Guru Matematyki', 'Technologiczny Wizjoner', 'Doskonały Komunikator', 'Zaangażowany Twórca']"
+724,Ryszard,Smolka,mężczyzna,14-03-2002,plac Morska 21/30 95-466 Przemyśl,"['Kreatywny Problem Solver', 'Wielki Odkrywca']"
+725,Eryk,Jędrys,mężczyzna,27-02-2003,plac Wiślana 271 35-138 Kielce,[]
+726,Jacek,Pasieczna,mężczyzna,19-05-1997,al. Pogodna 004 66-940 Skierniewice,"['Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+727,Sonia,Skierka,kobieta,17-09-1991,ulica Dolna 60/05 41-983 Ostróda,"['Doskonały Komunikator', 'Guru Matematyki']"
+728,Angelika,Osada,kobieta,21-08-1985,al. Majowa 17 08-539 Kutno,"['Ambitny Naukowiec', 'Guru Matematyki', 'Ambitny Naukowiec']"
+729,Marek,Dydak,mężczyzna,08-06-1999,al. Poznańska 689 26-606 Zabrze,"['Kreatywny Problem Solver', 'Zaangażowany Twórca']"
+730,Maks,Hadała,mężczyzna,01-11-1999,al. Pogodna 626 55-520 Ostrołęka,"['Kreatywny Problem Solver', 'Doskonały Komunikator', 'Ekspercki Analizator Danych']"
+731,Iwo,Przybycień,mężczyzna,08-02-1989,aleja Agrestowa 541 48-672 Marki,"['Zaangażowany Twórca', 'Zaangażowany Twórca']"
+732,Alex,Chorążewicz,mężczyzna,21-02-1998,al. Jana Pawła II 05/33 04-909 Wołomin,[]
+733,Łukasz,Włodarz,mężczyzna,13-06-1987,ul. Perłowa 09/51 32-430 Brodnica,['Kreatywny Problem Solver']
+734,Łukasz,Wydrych,mężczyzna,31-08-1992,ul. Mokra 791 04-690 Bielsko-Biała,"['Guru Matematyki', 'Zaangażowany Twórca']"
+735,Olaf,Prawdzik,mężczyzna,24-05-2004,ulica Żeromskiego 793 54-566 Nowa Sól,[]
+736,Adrianna,Żmija,kobieta,07-09-1983,aleja Malinowa 86/78 10-515 Siemianowice Śląskie,[]
+737,Janina,Szmaj,kobieta,19-08-1992,aleja Ludowa 907 23-667 Kluczbork,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+738,Marcel,Dybał,mężczyzna,24-02-1990,plac Kielecka 786 76-327 Jawor,"['Wielki Odkrywca', 'Doskonały Komunikator']"
+739,Tomasz,Kazana,mężczyzna,18-12-1987,plac Makowa 053 90-550 Świecie,"['Doskonały Komunikator', 'Wielki Odkrywca']"
+740,Blanka,Surdyk,kobieta,05-07-1983,aleja Szarych Szeregów 42 85-186 Września,"['Zaangażowany Twórca', 'Wielki Odkrywca']"
+741,Kaja,Majczyna,kobieta,20-03-2001,plac Harcerska 42 87-571 Rzeszów,"['Ekspercki Analizator Danych', 'Wielki Odkrywca']"
+742,Dagmara,Litwińczuk,kobieta,02-02-2000,ul. Sucharskiego 159 08-275 Warszawa,"['Doskonały Komunikator', 'Guru Matematyki', 'Kreatywny Problem Solver']"
+743,Konrad,Zacharczuk,mężczyzna,02-04-2000,al. Orzechowa 54 97-348 Nowa Sól,['Technologiczny Wizjoner']
+744,Mariusz,Mądrzak,mężczyzna,19-11-1987,ulica Częstochowska 43 72-283 Łowicz,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+745,Sonia,Gal,kobieta,07-06-1984,ul. Bankowa 16/86 29-859 Łuków,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+746,Inga,Matacz,kobieta,19-02-1998,plac Poniatowskiego 15 16-864 Żyrardów,[]
+747,Adam,Żółkiewicz,mężczyzna,29-01-2002,ul. Złota 33/24 04-677 Bielsko-Biała,['Guru Matematyki']
+748,Karina,Merchel,kobieta,09-03-1997,al. Widok 476 25-412 Częstochowa,[]
+749,Kazimierz,Windak,mężczyzna,01-01-1988,ulica Spółdzielcza 71 97-376 Pabianice,[]
+750,Cezary,Jeka,mężczyzna,29-03-2002,pl. Nadbrzeżna 780 96-766 Augustów,[]
+751,Eryk,Piechura,mężczyzna,09-09-2002,pl. Królewska 29 33-733 Jaworzno,"['Technologiczny Wizjoner', 'Wielki Odkrywca']"
+752,Gaja,Śmieja,kobieta,28-02-1983,ulica Żytnia 10/36 05-165 Świętochłowice,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+753,Urszula,Kiciak,kobieta,04-05-1985,ul. Jeziorna 53/97 95-045 Kraśnik,"['Technologiczny Wizjoner', 'Wielki Odkrywca', 'Mistrz Kodowania', 'Ambitny Naukowiec']"
+754,Jacek,Glazer,mężczyzna,17-12-1994,ul. Zielona 141 75-533 Świebodzice,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+755,Patryk,Klejna,mężczyzna,30-05-2002,aleja Myśliwska 03 26-354 Płock,[]
+756,Konrad,Olewniczak,mężczyzna,12-12-1996,aleja Rolnicza 17/13 82-720 Sopot,[]
+757,Grzegorz,Wyroślak,mężczyzna,24-09-2003,al. Olchowa 789 31-651 Płońsk,"['Innowacyjny Programista', 'Innowacyjny Programista']"
+758,Ida,Rząd,kobieta,06-12-1986,ul. Maja 750 01-892 Jastrzębie-Zdrój,"['Guru Matematyki', 'Guru Matematyki', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+759,Róża,Droździk,kobieta,18-05-1997,ulica Lipowa 262 10-962 Krosno,"['Mistrz Kodowania', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+760,Bartek,Jaroch,mężczyzna,30-08-1994,ul. Północna 02/89 19-353 Lubartów,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Zaangażowany Twórca', 'Mistrz Kodowania']"
+761,Marika,Ruchała,kobieta,24-04-2003,plac Opolska 846 83-771 Gliwice,"['Innowacyjny Programista', 'Technologiczny Wizjoner']"
+762,Sara,Dela,kobieta,04-10-1988,aleja Wysoka 671 07-748 Szczecinek,['Mistrz Kodowania']
+763,Apolonia,Rajchel,kobieta,19-06-1998,ulica Lotnicza 57 97-656 Kielce,['Ekspercki Analizator Danych']
+764,Bruno,Pędzik,mężczyzna,11-03-1995,ul. Hallera 52 40-928 Ostróda,"['Ambitny Naukowiec', 'Guru Matematyki', 'Wielki Odkrywca']"
+765,Tobiasz,Szajek,mężczyzna,30-03-1984,aleja Sienkiewicza 76 14-676 Kluczbork,"['Wielki Odkrywca', 'Wielki Odkrywca']"
+766,Bianka,Pilarek,kobieta,20-01-1989,plac Poprzeczna 459 93-101 Skarżysko-Kamienna,"['Zaangażowany Twórca', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+767,Mariusz,Mol,mężczyzna,05-10-2003,pl. Drzymały 84 16-592 Toruń,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych', 'Guru Matematyki']"
+768,Angelika,Kopciuch,kobieta,04-09-2001,plac Toruńska 26 96-706 Świnoujście,"['Kreatywny Problem Solver', 'Doskonały Komunikator']"
+769,Angelika,Pielech,kobieta,01-11-1991,ul. Wąska 62 54-891 Zielona Góra,[]
+770,Tomasz,Dudziec,mężczyzna,04-01-1994,pl. Zakątek 88 59-929 Świdnica,['Zaangażowany Twórca']
+771,Alan,Froń,mężczyzna,31-12-1994,al. Bociania 46/98 51-709 Białystok,"['Doskonały Komunikator', 'Guru Matematyki', 'Doskonały Komunikator']"
+772,Bianka,Fabiszak,kobieta,13-04-1985,pl. Wiejska 97 67-358 Krotoszyn,[]
+773,Kamila,Dułak,kobieta,27-09-1998,ulica Strzelecka 116 53-528 Zawiercie,[]
+774,Tymon,Erdmann,mężczyzna,01-10-1988,ulica Mazowiecka 34 27-328 Włocławek,"['Zaangażowany Twórca', 'Innowacyjny Programista', 'Mistrz Kodowania']"
+775,Blanka,Galos,kobieta,26-10-1995,aleja Jastrzębia 77 84-616 Ełk,"['Technologiczny Wizjoner', 'Technologiczny Wizjoner']"
+776,Maciej,Burczak,mężczyzna,23-03-1995,ulica Odrzańska 719 88-943 Pszczyna,[]
+777,Przemysław,Krysta,mężczyzna,11-09-1985,pl. Brzoskwiniowa 889 79-802 Iława,"['Technologiczny Wizjoner', 'Ambitny Naukowiec']"
+778,Julian,Ziegler,mężczyzna,28-06-1990,pl. Składowa 448 79-677 Sanok,"['Mistrz Kodowania', 'Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Kreatywny Problem Solver']"
+779,Nicole,Kubiaczyk,mężczyzna,13-11-1996,plac Popiełuszki 73 82-135 Ciechanów,['Ekspercki Analizator Danych']
+780,Anna Maria,Rozmiarek,kobieta,15-09-2001,ulica Pocztowa 62 84-379 Oława,[]
+781,Marcin,Wołodźko,mężczyzna,29-11-1994,ulica Zaułek 82 59-771 Gorlice,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+782,Jeremi,Truchan,mężczyzna,21-01-1992,pl. Wypoczynkowa 76/32 74-883 Turek,[]
+783,Kazimierz,Cebulak,mężczyzna,01-03-1985,plac Pszenna 645 80-023 Skawina,[]
+784,Natan,Lada,mężczyzna,15-05-1996,aleja Kielecka 583 83-509 Lublin,"['Doskonały Komunikator', 'Guru Matematyki', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+785,Albert,Friedrich,mężczyzna,06-01-2005,ul. Górna 59 10-283 Jawor,"['Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+786,Grzegorz,Furgała,mężczyzna,16-06-2004,plac Staszica 96 79-123 Wodzisław Śląski,['Innowacyjny Programista']
+787,Gustaw,Zielke,mężczyzna,15-09-1999,aleja Matejki 10 48-663 Zawiercie,"['Kreatywny Problem Solver', 'Wielki Odkrywca', 'Ambitny Naukowiec']"
+788,Ksawery,Solarczyk,mężczyzna,05-08-1992,al. Młynarska 661 16-477 Jelenia Góra,[]
+789,Olga,Kościesza,kobieta,02-02-1996,al. Żwirki i Wigury 80/61 43-144 Ostrołęka,[]
+790,Aleks,Powierża,mężczyzna,16-10-1983,ul. Sportowa 81/51 83-012 Lębork,"['Innowacyjny Programista', 'Kreatywny Problem Solver', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+791,Jan,Łudzik,mężczyzna,15-06-1994,al. Kusocińskiego 31 64-833 Dębica,[]
+792,Olaf,Osada,mężczyzna,09-02-1995,plac Bolesława Krzywoustego 614 44-219 Olkusz,['Doskonały Komunikator']
+793,Julian,Sądej,mężczyzna,04-09-1991,aleja Dworcowa 32 80-084 Tczew,['Wielki Odkrywca']
+794,Anita,Sajewicz,kobieta,21-04-1992,aleja Rynek 49/49 33-847 Chrzanów,"['Ambitny Naukowiec', 'Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Mistrz Kodowania']"
+795,Wiktor,Piekart,mężczyzna,21-01-1991,aleja Lipca 08/42 57-537 Jelenia Góra,['Doskonały Komunikator']
+796,Maciej,Wasilewicz,mężczyzna,07-02-1984,ul. Lwowska 718 92-269 Mielec,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+797,Olaf,Dzienisz,mężczyzna,26-03-2000,pl. Żwirki i Wigury 66/92 52-642 Brodnica,[]
+798,Arkadiusz,Listwan,mężczyzna,12-06-1991,aleja Mieszka I 41 35-721 Częstochowa,['Technologiczny Wizjoner']
+799,Sara,Ciećko,kobieta,31-12-1989,aleja Rzemieślnicza 84/15 01-802 Skawina,"['Guru Matematyki', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+800,Monika,Meissner,kobieta,02-09-2004,plac Żabia 98 10-626 Radom,[]
+801,Jędrzej,Miąsko,mężczyzna,16-08-1989,ulica Widok 94/32 56-345 Jarosław,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Doskonały Komunikator']"
+802,Filip,Dybaś,mężczyzna,30-08-1985,pl. Plażowa 83 46-379 Racibórz,[]
+803,Emil,Rubaj,mężczyzna,14-02-1986,aleja Rejtana 57/82 10-933 Lubin,['Guru Matematyki']
+804,Inga,Zubel,kobieta,05-02-2002,ul. Powstańców Śląskich 14 27-875 Zawiercie,"['Guru Matematyki', 'Doskonały Komunikator', 'Kreatywny Problem Solver']"
+805,Urszula,Fikus,kobieta,20-04-2000,ulica Strażacka 52/56 61-435 Bolesławiec,"['Technologiczny Wizjoner', 'Wielki Odkrywca', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+806,Kamila,Ciołczyk,kobieta,12-06-1999,plac Kazimierza Wielkiego 476 51-175 Pruszków,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Guru Matematyki']"
+807,Marcin,Smela,mężczyzna,13-09-2002,ulica Kopernika 02/44 79-520 Zamość,"['Innowacyjny Programista', 'Kreatywny Problem Solver']"
+808,Fabian,Banyś,mężczyzna,24-06-1999,ulica Tuwima 976 27-038 Starogard Gdański,"['Ambitny Naukowiec', 'Kreatywny Problem Solver', 'Doskonały Komunikator']"
+809,Maurycy,Kwasek,mężczyzna,11-01-1999,ul. Hutnicza 237 95-121 Biłgoraj,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Zaangażowany Twórca']"
+810,Roksana,Ścieszka,kobieta,03-08-1985,plac Mokra 75/64 20-365 Bielsko-Biała,"['Guru Matematyki', 'Ambitny Naukowiec', 'Ambitny Naukowiec', 'Guru Matematyki']"
+811,Ida,Rabiej,kobieta,21-08-1994,pl. Stawowa 398 01-071 Kwidzyn,"['Guru Matematyki', 'Kreatywny Problem Solver']"
+812,Kaja,Krzempek,kobieta,04-10-1985,aleja Makowa 029 32-957 Łódź,['Guru Matematyki']
+813,Lidia,Związek,kobieta,28-03-2003,ulica Rubinowa 13/64 04-546 Świętochłowice,[]
+814,Tymon,Parus,mężczyzna,28-02-1993,ulica Miła 131 54-142 Przemyśl,"['Innowacyjny Programista', 'Zaangażowany Twórca']"
+815,Anastazja,Szymaniuk,kobieta,20-06-1986,aleja Górna 64/01 42-336 Knurów,"['Mistrz Kodowania', 'Zaangażowany Twórca', 'Mistrz Kodowania']"
+816,Fryderyk,Maras,mężczyzna,04-08-1987,ulica Żurawia 98 22-747 Polkowice,['Guru Matematyki']
+817,Olgierd,Jędruszczak,mężczyzna,01-03-1999,ul. Okulickiego 95 88-639 Gdańsk,['Ambitny Naukowiec']
+818,Liwia,Sołek,kobieta,14-01-1997,plac Skłodowskiej-Curie 115 63-513 Wyszków,['Guru Matematyki']
+819,Ryszard,Korzeniak,mężczyzna,23-03-1999,al. Rumiankowa 32/69 81-802 Piła,"['Kreatywny Problem Solver', 'Doskonały Komunikator']"
+820,Ernest,Nytko,mężczyzna,19-03-2001,al. Olchowa 68/85 07-752 Ostrowiec Świętokrzyski,"['Guru Matematyki', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+821,Stanisław,Gogół,mężczyzna,17-03-1983,al. Zbożowa 94 72-967 Krosno,"['Zaangażowany Twórca', 'Wielki Odkrywca', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+822,Ernest,Dyś,mężczyzna,07-10-1998,aleja Koralowa 48 59-581 Knurów,"['Guru Matematyki', 'Innowacyjny Programista', 'Zaangażowany Twórca', 'Doskonały Komunikator']"
+823,Miłosz,Budych,mężczyzna,15-12-2003,aleja Zachodnia 02/01 68-541 Olkusz,[]
+824,Norbert,Smolec,mężczyzna,25-11-2004,plac Mokra 83/54 71-189 Kwidzyn,"['Zaangażowany Twórca', 'Innowacyjny Programista']"
+825,Jeremi,Klinkosz,mężczyzna,06-11-1985,plac Dojazdowa 139 63-429 Będzin,"['Ambitny Naukowiec', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+826,Borys,Delikat,mężczyzna,28-09-1999,pl. Sportowa 60 14-317 Świecie,[]
+827,Aurelia,Kieca,kobieta,14-03-1995,plac Majowa 27/13 01-914 Kętrzyn,"['Guru Matematyki', 'Ekspercki Analizator Danych']"
+828,Wiktor,Kusztal,mężczyzna,26-01-1995,al. Słoneczna 11/35 38-411 Katowice,['Doskonały Komunikator']
+829,Tomasz,Cyganik,mężczyzna,12-11-1989,ulica Łanowa 99/01 09-397 Mława,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+830,Jerzy,Cebo,mężczyzna,23-06-1986,pl. Wiązowa 80/12 77-655 Sopot,[]
+831,Mikołaj,Nicewicz,mężczyzna,17-09-1986,aleja Wyzwolenia 04/65 30-561 Gniezno,"['Technologiczny Wizjoner', 'Mistrz Kodowania', 'Ekspercki Analizator Danych', 'Mistrz Kodowania']"
+832,Adam,Kupaj,mężczyzna,06-12-1993,pl. Mazowiecka 07 57-894 Siedlce,"['Technologiczny Wizjoner', 'Wielki Odkrywca']"
+833,Norbert,Jakubiuk,mężczyzna,02-11-1983,al. Słowianska 168 44-924 Sochaczew,"['Kreatywny Problem Solver', 'Wielki Odkrywca', 'Wielki Odkrywca']"
+834,Sonia,Dawiec,kobieta,23-02-1998,plac Kolejowa 440 03-327 Sochaczew,['Ambitny Naukowiec']
+835,Karina,Smykała,kobieta,13-07-1988,aleja Słowicza 79 08-764 Koło,['Guru Matematyki']
+836,Arkadiusz,Woroch,mężczyzna,27-03-1993,ulica Wrocławska 987 20-919 Jaworzno,[]
+837,Kornelia,Buchalik,kobieta,12-06-1989,al. Zbożowa 15/43 03-441 Zakopane,"['Technologiczny Wizjoner', 'Ekspercki Analizator Danych']"
+838,Ignacy,Fryś,mężczyzna,03-08-1989,al. Żurawia 74/34 60-084 Włocławek,[]
+839,Anita,Trzop,kobieta,17-03-1991,plac Robotnicza 131 75-291 Kwidzyn,[]
+840,Franciszek,Gill,mężczyzna,10-08-1985,ul. Niecała 099 48-039 Gorlice,['Mistrz Kodowania']
+841,Michał,Stoch,mężczyzna,25-04-1984,ulica Pszenna 12 70-099 Sopot,['Kreatywny Problem Solver']
+842,Dariusz,Hennig,mężczyzna,08-05-1986,ulica Cmentarna 68/92 38-268 Wałcz,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+843,Krystyna,Dolega,kobieta,24-04-1992,al. Pułaskiego 47/16 65-499 Bełchatów,"['Zaangażowany Twórca', 'Doskonały Komunikator']"
+844,Konstanty,Laszkiewicz,mężczyzna,28-02-1994,plac Majowa 70 23-597 Ełk,"['Guru Matematyki', 'Zaangażowany Twórca', 'Ambitny Naukowiec', 'Zaangażowany Twórca']"
+845,Jan,Gruza,mężczyzna,28-05-1995,ulica Południowa 88/04 69-190 Dzierżoniów,"['Zaangażowany Twórca', 'Wielki Odkrywca']"
+846,Mateusz,Płodzień,mężczyzna,11-08-2000,al. Morska 95/19 93-493 Białogard,"['Doskonały Komunikator', 'Ambitny Naukowiec', 'Innowacyjny Programista']"
+847,Liwia,Kulon,kobieta,02-02-1997,ul. Wspólna 38/61 40-831 Legnica,"['Guru Matematyki', 'Ekspercki Analizator Danych', 'Zaangażowany Twórca']"
+848,Monika,Wziątek,kobieta,27-06-1997,al. Polna 26/22 73-874 Świdnica,"['Ambitny Naukowiec', 'Innowacyjny Programista']"
+849,Marek,Dytko,mężczyzna,17-04-1990,aleja Pocztowa 10 03-594 Chojnice,"['Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Wielki Odkrywca', 'Ambitny Naukowiec']"
+850,Kajetan,Sarosiek,mężczyzna,04-02-1988,pl. Jeżynowa 587 51-573 Szczytno,['Innowacyjny Programista']
+851,Justyna,Bartuś,kobieta,17-10-1985,plac Urocza 869 91-148 Ruda Śląska,"['Kreatywny Problem Solver', 'Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Doskonały Komunikator']"
+852,Justyna,Siergiej,kobieta,13-04-1995,aleja Sybiraków 64/09 07-506 Ełk,[]
+853,Paweł,Lemieszek,mężczyzna,09-01-1990,pl. Wieniawskiego 85/54 11-024 Racibórz,"['Zaangażowany Twórca', 'Kreatywny Problem Solver', 'Wielki Odkrywca']"
+854,Inga,Cal,kobieta,08-11-1992,aleja Poziomkowa 513 01-006 Kłodzko,[]
+855,Olaf,Palak,mężczyzna,05-02-1999,al. Maczka 83/11 10-737 Sochaczew,['Mistrz Kodowania']
+856,Sandra,Moskalik,kobieta,18-03-2002,pl. Zakole 58/64 08-216 Skierniewice,[]
+857,Maciej,Majzner,mężczyzna,18-07-1995,ulica Witosa 465 39-063 Wrocław,"['Guru Matematyki', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+858,Iwo,Gorzelańczyk,mężczyzna,13-04-1999,plac Krasickiego 18/10 36-967 Śrem,[]
+859,Julian,Świech,mężczyzna,27-09-1991,aleja Fiołkowa 59 30-441 Szczecinek,"['Ekspercki Analizator Danych', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+860,Ryszard,Garczarek,mężczyzna,03-01-1988,aleja Szafirowa 93 31-828 Dzierżoniów,[]
+861,Nikodem,Balawender,mężczyzna,05-03-2001,plac Rataja 900 87-595 Oleśnica,"['Kreatywny Problem Solver', 'Doskonały Komunikator']"
+862,Maks,Klus,mężczyzna,26-07-1988,pl. Lipowa 80/77 99-827 Kościan,"['Technologiczny Wizjoner', 'Doskonały Komunikator', 'Technologiczny Wizjoner', 'Mistrz Kodowania']"
+863,Sylwia,Majos,kobieta,01-07-2002,pl. Dworcowa 28 17-891 Lubin,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych', 'Wielki Odkrywca']"
+864,Krystyna,Dyjas,kobieta,05-01-1994,ul. Piękna 87 44-545 Sandomierz,"['Ekspercki Analizator Danych', 'Guru Matematyki', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+865,Grzegorz,Kleban,mężczyzna,16-06-1988,aleja Narutowicza 521 47-092 Kłodzko,"['Wielki Odkrywca', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+866,Elżbieta,Makosz,kobieta,23-04-1994,al. Turystyczna 13/61 85-463 Olsztyn,"['Zaangażowany Twórca', 'Technologiczny Wizjoner']"
+867,Melania,Nowotka,kobieta,03-11-1984,pl. Irysowa 02 58-030 Piła,['Guru Matematyki']
+868,Tymoteusz,Wincenciak,mężczyzna,12-11-1994,ul. Szkolna 55 61-460 Goleniów,[]
+869,Alex,Jany,mężczyzna,09-02-1998,al. Kalinowa 145 95-013 Siemianowice Śląskie,['Kreatywny Problem Solver']
+870,Aniela,Smolka,kobieta,28-06-1996,ulica Odrzańska 96/68 30-722 Nowy Targ,['Mistrz Kodowania']
+871,Wiktor,Szarzec,mężczyzna,06-02-1994,ul. Nowowiejska 26/43 90-522 Opole,"['Innowacyjny Programista', 'Mistrz Kodowania']"
+872,Rafał,Andrukiewicz,mężczyzna,14-04-1986,plac Sadowa 23 83-576 Bełchatów,['Mistrz Kodowania']
+873,Szymon,Linkiewicz,mężczyzna,12-05-1990,pl. Azaliowa 559 16-816 Bielawa,"['Ambitny Naukowiec', 'Innowacyjny Programista']"
+874,Gabriel,Ważna,mężczyzna,13-12-2000,pl. Pomorska 482 96-738 Jastrzębie-Zdrój,['Doskonały Komunikator']
+875,Krystyna,Szczesiak,kobieta,29-07-1992,ulica Tartaczna 39 98-234 Szczecinek,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych']"
+876,Maciej,Gregorczuk,mężczyzna,22-08-1991,ulica Zaciszna 683 48-813 Iława,"['Doskonały Komunikator', 'Mistrz Kodowania', 'Doskonały Komunikator']"
+877,Marcelina,Lesiewicz,kobieta,16-03-1992,aleja Sikorskiego 19 85-242 Żagań,['Mistrz Kodowania']
+878,Piotr,Stefankiewicz,mężczyzna,20-01-2001,al. Kaliska 048 04-414 Czerwionka-Leszczyny,[]
+879,Alan,Janc,mężczyzna,29-02-1984,ulica Powstańców 93/50 18-739 Knurów,"['Ekspercki Analizator Danych', 'Wielki Odkrywca', 'Doskonały Komunikator']"
+880,Blanka,Orkisz,kobieta,26-01-1985,plac Częstochowska 15 79-858 Mława,"['Innowacyjny Programista', 'Ambitny Naukowiec', 'Ambitny Naukowiec']"
+881,Adam,Kasperczak,mężczyzna,22-05-1984,ul. Powstańców Śląskich 71 60-721 Oława,"['Kreatywny Problem Solver', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+882,Gustaw,Podgórna,mężczyzna,23-12-2003,pl. Andersa 19 77-227 Mielec,[]
+883,Nela,Hamerla,kobieta,05-06-1992,plac Warszawska 53/74 09-679 Koło,"['Mistrz Kodowania', 'Innowacyjny Programista', 'Doskonały Komunikator']"
+884,Kacper,Nytko,mężczyzna,16-10-2002,pl. Chopina 119 02-308 Gorlice,['Ekspercki Analizator Danych']
+885,Marika,Forma,kobieta,10-06-1998,ulica Skrajna 01 04-323 Pruszków,[]
+886,Jeremi,Glapiak,mężczyzna,26-08-2001,pl. Żwirowa 839 26-134 Bartoszyce,['Ekspercki Analizator Danych']
+887,Kamila,Mazik,kobieta,09-03-1984,al. Kazimierza Wielkiego 51/60 27-988 Biała Podlaska,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver', 'Innowacyjny Programista', 'Ambitny Naukowiec']"
+888,Eliza,Legutko,kobieta,30-08-1984,ul. Sikorskiego 50 33-961 Zawiercie,['Zaangażowany Twórca']
+889,Natasza,Małocha,kobieta,19-04-1996,ul. Tęczowa 15/25 91-044 Bytom,"['Kreatywny Problem Solver', 'Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+890,Maks,Naglik,mężczyzna,25-03-2003,ulica Wypoczynkowa 22/89 27-323 Gdańsk,['Ambitny Naukowiec']
+891,Sara,Kościelak,kobieta,29-05-2003,aleja Kasprowicza 24/17 71-294 Włocławek,"['Mistrz Kodowania', 'Kreatywny Problem Solver', 'Ambitny Naukowiec']"
+892,Maksymilian,Pietrek,mężczyzna,12-11-1983,pl. Plażowa 10 34-190 Kalisz,['Mistrz Kodowania']
+893,Anita,Kaliciak,kobieta,15-03-1995,aleja Leśna 055 66-773 Kutno,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver', 'Wielki Odkrywca', 'Mistrz Kodowania']"
+894,Sebastian,Glegoła,mężczyzna,30-09-1994,ulica Lawendowa 97/32 40-453 Elbląg,"['Ekspercki Analizator Danych', 'Mistrz Kodowania']"
+895,Igor,Korzekwa,mężczyzna,27-03-1990,ul. Podmiejska 03/15 20-329 Tomaszów Mazowiecki,"['Innowacyjny Programista', 'Innowacyjny Programista']"
+896,Julianna,Delekta,kobieta,02-08-1995,al. Bałtycka 10/54 89-455 Oświęcim,"['Mistrz Kodowania', 'Kreatywny Problem Solver']"
+897,Adrian,Myrcha,mężczyzna,26-01-1997,aleja Radosna 96/12 50-676 Zielona Góra,"['Zaangażowany Twórca', 'Technologiczny Wizjoner', 'Innowacyjny Programista', 'Innowacyjny Programista']"
+898,Tola,Palak,kobieta,25-10-2005,ulica Cegielniana 42/25 29-128 Knurów,"['Innowacyjny Programista', 'Mistrz Kodowania', 'Wielki Odkrywca']"
+899,Dawid,Łokaj,mężczyzna,17-05-1998,ulica Kowalska 509 01-558 Bytom,"['Wielki Odkrywca', 'Doskonały Komunikator']"
+900,Hubert,Kobza,mężczyzna,16-02-1987,al. Swierkowa 06/74 26-151 Przemyśl,['Doskonały Komunikator']
+901,Krystyna,Szyba,kobieta,01-10-1983,al. Traugutta 288 50-850 Jasło,"['Wielki Odkrywca', 'Mistrz Kodowania', 'Mistrz Kodowania']"
+902,Arkadiusz,Łaskawiec,mężczyzna,29-12-1982,pl. Malczewskiego 67/55 63-088 Wrocław,"['Innowacyjny Programista', 'Technologiczny Wizjoner', 'Innowacyjny Programista']"
+903,Oliwier,Golenia,mężczyzna,05-12-1992,ul. Fiołkowa 774 33-207 Tychy,['Mistrz Kodowania']
+904,Bruno,Panuś,mężczyzna,29-04-1991,pl. Kościuszki 584 97-075 Biała Podlaska,"['Kreatywny Problem Solver', 'Ambitny Naukowiec', 'Ekspercki Analizator Danych']"
+905,Filip,Mostek,mężczyzna,02-12-1991,ulica Wojciecha 994 20-377 Polkowice,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+906,Aleksander,Nagórka,mężczyzna,24-07-1992,plac Kreta 72 79-328 Olsztyn,[]
+907,Anita,Rozumek,kobieta,11-09-2000,al. Wieniawskiego 754 84-131 Ostrów Wielkopolski,"['Wielki Odkrywca', 'Guru Matematyki', 'Technologiczny Wizjoner']"
+908,Filip,Płodzień,mężczyzna,22-05-1990,al. Pułaskiego 08 37-300 Tychy,"['Doskonały Komunikator', 'Ambitny Naukowiec']"
+909,Justyna,Greszta,kobieta,24-09-2003,plac Polna 71/01 40-037 Szczytno,"['Technologiczny Wizjoner', 'Wielki Odkrywca']"
+910,Konstanty,Kowara,mężczyzna,08-04-1999,ul. Orkana 65 83-291 Dzierżoniów,"['Doskonały Komunikator', 'Wielki Odkrywca', 'Innowacyjny Programista']"
+911,Ewa,Maślankiewicz,kobieta,12-11-1992,ulica Długa 87 45-141 Płońsk,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Doskonały Komunikator', 'Kreatywny Problem Solver']"
+912,Bartek,Kopyt,mężczyzna,21-12-1983,ulica Sikorskiego 07 09-916 Wyszków,[]
+913,Juliusz,Bitner,mężczyzna,07-01-1991,ulica Odrzańska 05/86 63-751 Rzeszów,[]
+914,Mariusz,Juraszczyk,mężczyzna,31-03-1987,al. Wałowa 51/48 73-180 Września,['Guru Matematyki']
+915,Bartek,Kenig,mężczyzna,12-10-1988,pl. Działkowa 59/66 94-338 Jaworzno,"['Ambitny Naukowiec', 'Kreatywny Problem Solver', 'Mistrz Kodowania', 'Mistrz Kodowania']"
+916,Oskar,Kasper,mężczyzna,22-07-1986,ulica Cedrowa 11 74-978 Krotoszyn,['Zaangażowany Twórca']
+917,Marek,Druszcz,mężczyzna,03-12-2001,pl. Wiklinowa 14 04-657 Jelenia Góra,"['Innowacyjny Programista', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+918,Leon,Bejma,mężczyzna,16-09-1986,pl. Fabryczna 583 65-451 Kołobrzeg,[]
+919,Olga,Sady,kobieta,04-11-1988,aleja Dąbrowskiej 56/36 26-492 Gorzów Wielkopolski,"['Ekspercki Analizator Danych', 'Zaangażowany Twórca', 'Doskonały Komunikator', 'Wielki Odkrywca']"
+920,Dagmara,Prochownik,kobieta,29-05-1991,plac Jesienna 09/26 14-179 Stalowa Wola,"['Technologiczny Wizjoner', 'Ambitny Naukowiec', 'Zaangażowany Twórca']"
+921,Gustaw,Szłapa,mężczyzna,18-12-1991,al. Kolorowa 96/27 60-449 Ciechanów,"['Zaangażowany Twórca', 'Zaangażowany Twórca']"
+922,Anastazja,Waloch,kobieta,07-07-1987,plac Zbożowa 538 75-070 Cieszyn,['Kreatywny Problem Solver']
+923,Iwo,Skiepko,mężczyzna,25-11-1997,al. Wrocławska 752 42-345 Sieradz,"['Wielki Odkrywca', 'Ekspercki Analizator Danych']"
+924,Ewelina,Kasznia,kobieta,02-12-1999,plac Brzechwy 60 62-158 Chełm,"['Ekspercki Analizator Danych', 'Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Wielki Odkrywca']"
+925,Sylwia,Karmelita,kobieta,11-01-1997,ulica Kolonia 09/87 58-670 Rzeszów,"['Innowacyjny Programista', 'Ekspercki Analizator Danych', 'Kreatywny Problem Solver', 'Guru Matematyki']"
+926,Konrad,Kajdas,mężczyzna,23-01-1991,ulica Brzechwy 85 98-542 Tychy,[]
+927,Melania,Browarczyk,kobieta,12-12-1993,ul. Wiatraczna 30/45 47-106 Siedlce,"['Guru Matematyki', 'Zaangażowany Twórca', 'Guru Matematyki']"
+928,Mariusz,Pietrak,mężczyzna,24-06-1997,al. Brzechwy 06 26-437 Ostrowiec Świętokrzyski,[]
+929,Daniel,Wódka,mężczyzna,22-02-2003,ul. Toruńska 13/04 40-739 Wyszków,"['Technologiczny Wizjoner', 'Mistrz Kodowania']"
+930,Kamil,Jędrak,mężczyzna,06-04-1989,ulica Jeziorna 28 03-632 Piotrków Trybunalski,[]
+931,Adrianna,Kott,kobieta,08-03-2002,aleja Pogodna 19 05-153 Zgierz,"['Zaangażowany Twórca', 'Kreatywny Problem Solver']"
+932,Hubert,Wojtera,mężczyzna,05-04-1986,ul. Powstańców Śląskich 13/77 81-845 Krotoszyn,"['Ambitny Naukowiec', 'Ambitny Naukowiec', 'Mistrz Kodowania']"
+933,Olgierd,Block,mężczyzna,21-12-2000,aleja Jabłoniowa 647 19-840 Głogów,"['Guru Matematyki', 'Wielki Odkrywca']"
+934,Kazimierz,Gumienny,mężczyzna,17-07-2000,ulica Boczna 83/14 13-769 Świętochłowice,"['Mistrz Kodowania', 'Kreatywny Problem Solver']"
+935,Andrzej,Stawczyk,mężczyzna,07-07-1997,ulica Mostowa 09 71-299 Jarocin,"['Zaangażowany Twórca', 'Ambitny Naukowiec', 'Wielki Odkrywca']"
+936,Stefan,Jagiełka,mężczyzna,16-01-1995,ulica Łączna 213 54-688 Świdnik,['Ambitny Naukowiec']
+937,Albert,Składanek,mężczyzna,12-07-2001,al. Wieniawskiego 40/67 57-001 Zduńska Wola,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+938,Gaja,Graj,kobieta,30-10-1988,plac Zaułek 53/36 29-996 Siedlce,"['Guru Matematyki', 'Doskonały Komunikator', 'Guru Matematyki', 'Technologiczny Wizjoner']"
+939,Fryderyk,Prokopczyk,mężczyzna,04-01-1991,aleja Zapolskiej 058 27-732 Katowice,"['Ambitny Naukowiec', 'Innowacyjny Programista', 'Innowacyjny Programista', 'Ekspercki Analizator Danych']"
+940,Karol,Bas,mężczyzna,29-11-1996,plac Lubelska 71/13 79-940 Jelenia Góra,[]
+941,Kajetan,Horbacz,mężczyzna,25-11-1988,pl. Wybickiego 84 79-759 Łaziska Górne,"['Mistrz Kodowania', 'Innowacyjny Programista']"
+942,Adrian,Strządała,mężczyzna,22-08-1993,aleja Poziomkowa 67/65 88-219 Siemianowice Śląskie,['Zaangażowany Twórca']
+943,Fabian,Miechowicz,mężczyzna,26-05-1990,aleja Jaworowa 17 35-123 Przemyśl,"['Technologiczny Wizjoner', 'Wielki Odkrywca', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+944,Ryszard,Anders,mężczyzna,21-11-1997,aleja Ciasna 39/23 09-567 Toruń,['Zaangażowany Twórca']
+945,Ewelina,Szelest,kobieta,02-03-1987,plac Tulipanowa 21 63-972 Słupsk,"['Mistrz Kodowania', 'Wielki Odkrywca']"
+946,Ernest,Kość,mężczyzna,11-10-2001,al. Cmentarna 84/97 60-635 Śrem,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych']"
+947,Melania,Bochnak,kobieta,26-11-2003,plac Parkowa 38/24 42-671 Olsztyn,"['Technologiczny Wizjoner', 'Doskonały Komunikator', 'Kreatywny Problem Solver']"
+948,Lidia,Żyto,kobieta,29-12-2000,aleja Spółdzielcza 52 85-611 Gorzów Wielkopolski,"['Ambitny Naukowiec', 'Technologiczny Wizjoner']"
+949,Kamila,Grund,kobieta,03-02-1995,ulica Narutowicza 63/95 76-784 Malbork,['Mistrz Kodowania']
+950,Gaja,Solich,kobieta,28-12-1987,pl. Wesoła 30 15-301 Gdynia,"['Kreatywny Problem Solver', 'Mistrz Kodowania', 'Doskonały Komunikator', 'Kreatywny Problem Solver']"
+951,Mikołaj,Joniak,mężczyzna,24-08-1996,ulica Majowa 57 12-063 Giżycko,[]
+952,Ewelina,Glegoła,kobieta,07-05-1991,plac Jabłoniowa 937 47-839 Dąbrowa Górnicza,"['Innowacyjny Programista', 'Innowacyjny Programista', 'Zaangażowany Twórca']"
+953,Olgierd,Zięciak,mężczyzna,24-04-1997,plac Gdańska 997 09-312 Tarnowskie Góry,[]
+954,Stanisław,Świgoń,mężczyzna,29-06-1996,al. Chełmońskiego 62/25 40-808 Gniezno,[]
+955,Aurelia,Szykuła,kobieta,01-08-1988,plac Poprzeczna 70/25 92-753 Wrocław,[]
+956,Tola,Bona,kobieta,23-02-1983,pl. Młynarska 01/16 92-729 Jelenia Góra,['Ambitny Naukowiec']
+957,Ewelina,Sporek,kobieta,12-08-2001,aleja Ogrodowa 24/46 46-142 Augustów,"['Doskonały Komunikator', 'Zaangażowany Twórca']"
+958,Bartek,Dyczko,mężczyzna,22-06-1990,ulica Orzechowa 16 36-086 Radom,"['Wielki Odkrywca', 'Guru Matematyki']"
+959,Jerzy,Ścibior,mężczyzna,13-05-1988,ulica Jana 86 76-235 Mikołów,['Kreatywny Problem Solver']
+960,Julian,Drela,mężczyzna,03-07-2000,aleja Czereśniowa 00/79 18-311 Głogów,['Ekspercki Analizator Danych']
+961,Gabriel,Nestorowicz,mężczyzna,01-12-1987,pl. Krasickiego 19 11-381 Kościan,[]
+962,Apolonia,Skalik,kobieta,08-02-1990,al. Krasickiego 79 14-606 Zgorzelec,[]
+963,Bianka,Bakun,kobieta,03-09-1996,ul. Mała 546 06-060 Ostrów Mazowiecka,"['Kreatywny Problem Solver', 'Ekspercki Analizator Danych']"
+964,Igor,Sych,mężczyzna,05-07-1996,ulica Malczewskiego 913 91-872 Jaworzno,[]
+965,Tola,Zimoń,kobieta,30-05-1998,ulica Topolowa 78/47 53-948 Wołomin,['Zaangażowany Twórca']
+966,Tobiasz,Kowala,mężczyzna,12-03-1984,plac Jana Sobieskiego 38/60 60-988 Kielce,"['Doskonały Komunikator', 'Ekspercki Analizator Danych', 'Innowacyjny Programista']"
+967,Blanka,Dobroń,kobieta,23-12-2003,ulica Wypoczynkowa 79/12 03-562 Skarżysko-Kamienna,"['Innowacyjny Programista', 'Doskonały Komunikator']"
+968,Józef,Halik,mężczyzna,27-09-1987,plac Listopada 413 86-193 Warszawa,[]
+969,Maksymilian,Mirga,mężczyzna,05-05-1993,al. Jaśminowa 73/00 84-619 Ruda Śląska,"['Ambitny Naukowiec', 'Technologiczny Wizjoner', 'Zaangażowany Twórca', 'Wielki Odkrywca']"
+970,Marika,Drewnik,kobieta,26-02-2001,al. Jana 879 50-340 Zawiercie,"['Zaangażowany Twórca', 'Innowacyjny Programista']"
+971,Kalina,Sołtysek,kobieta,02-04-1997,ulica Złota 117 34-785 Gdańsk,"['Kreatywny Problem Solver', 'Kreatywny Problem Solver', 'Zaangażowany Twórca']"
+972,Jan,Kostek,mężczyzna,29-07-1999,aleja Łąkowa 261 72-215 Katowice,"['Innowacyjny Programista', 'Ekspercki Analizator Danych', 'Wielki Odkrywca']"
+973,Sara,Marcol,kobieta,02-08-1992,al. Krzywa 66/20 84-444 Kętrzyn,[]
+974,Jędrzej,Biegała,mężczyzna,11-12-1987,pl. Radosna 288 51-552 Kołobrzeg,"['Wielki Odkrywca', 'Kreatywny Problem Solver']"
+975,Tymon,Pałgan,mężczyzna,25-08-1992,aleja Malinowa 397 18-858 Tarnowskie Góry,[]
+976,Dagmara,Ludwiniak,kobieta,18-01-1985,al. Letniskowa 319 81-042 Łomża,[]
+977,Nikodem,Mikosz,mężczyzna,02-08-1998,al. Przemysłowa 180 18-869 Zgorzelec,[]
+978,Kajetan,Kunka,mężczyzna,18-08-1984,ul. Magnoliowa 17 54-554 Reda,"['Wielki Odkrywca', 'Technologiczny Wizjoner']"
+979,Albert,Knysak,mężczyzna,06-07-1994,aleja Jaskółcza 894 63-186 Gorzów Wielkopolski,"['Innowacyjny Programista', 'Wielki Odkrywca']"
+980,Tadeusz,Barcz,mężczyzna,02-11-1987,ulica Odrzańska 59/26 03-557 Koło,[]
+981,Janina,Salomon,kobieta,05-07-1990,ulica Brzoskwiniowa 702 50-567 Gliwice,"['Ambitny Naukowiec', 'Ekspercki Analizator Danych', 'Technologiczny Wizjoner', 'Zaangażowany Twórca']"
+982,Aurelia,Bachanek,kobieta,06-05-1986,al. Nadrzeczna 07 53-728 Lubartów,[]
+983,Stefan,Szymula,mężczyzna,05-11-1998,pl. Narutowicza 700 79-972 Wołomin,"['Ekspercki Analizator Danych', 'Ekspercki Analizator Danych']"
+984,Olaf,Dzidek,mężczyzna,27-06-1991,al. Strumykowa 96 70-007 Koło,"['Zaangażowany Twórca', 'Zaangażowany Twórca', 'Ekspercki Analizator Danych']"
+985,Patryk,Fiedler,mężczyzna,02-12-1982,plac Rajska 21 67-395 Szczytno,[]
+986,Lidia,Naglik,kobieta,13-03-1997,plac Kolejowa 02/16 45-481 Biłgoraj,"['Ekspercki Analizator Danych', 'Technologiczny Wizjoner', 'Kreatywny Problem Solver', 'Innowacyjny Programista']"
+987,Eryk,Smoter,mężczyzna,23-09-2005,al. Wesoła 82/60 32-315 Jelenia Góra,"['Technologiczny Wizjoner', 'Innowacyjny Programista', 'Kreatywny Problem Solver', 'Technologiczny Wizjoner']"
+988,Leon,Kozaczuk,mężczyzna,19-08-1995,aleja Jana Pawła II 385 15-889 Chełm,['Doskonały Komunikator']
+989,Ida,Hamera,kobieta,14-05-1992,ulica Polna 75/61 55-625 Kościerzyna,"['Doskonały Komunikator', 'Doskonały Komunikator', 'Innowacyjny Programista']"
+990,Norbert,Franaszek,mężczyzna,05-08-2001,ulica Dobra 430 37-896 Będzin,[]
+991,Stefan,Trzcionka,mężczyzna,19-03-1992,ul. Śląska 35/08 72-842 Bochnia,"['Technologiczny Wizjoner', 'Kreatywny Problem Solver']"
+992,Szymon,Gęgotek,mężczyzna,18-02-1998,plac Owocowa 816 19-658 Elbląg,"['Ambitny Naukowiec', 'Mistrz Kodowania', 'Mistrz Kodowania', 'Innowacyjny Programista']"
+993,Radosław,Muc,mężczyzna,21-01-1998,plac Wrzosowa 64 27-998 Skierniewice,['Ekspercki Analizator Danych']
+994,Konstanty,Ziarek,mężczyzna,25-01-2001,pl. Młyńska 244 42-590 Rybnik,['Innowacyjny Programista']
+995,Tobiasz,Oleksik,mężczyzna,13-07-2002,ul. Myśliwska 56 45-218 Police,"['Ambitny Naukowiec', 'Doskonały Komunikator', 'Technologiczny Wizjoner']"
+996,Julita,Czochara,kobieta,07-05-1996,ulica Dojazdowa 082 46-248 Ząbki,"['Doskonały Komunikator', 'Technologiczny Wizjoner', 'Mistrz Kodowania', 'Guru Matematyki']"
+997,Ewa,Snoch,kobieta,21-12-1999,pl. Wyszyńskiego 44/74 26-694 Knurów,"['Zaangażowany Twórca', 'Innowacyjny Programista', 'Mistrz Kodowania']"
+998,Robert,Budych,mężczyzna,07-09-1986,pl. Krucza 667 07-115 Piaseczno,['Zaangażowany Twórca']
+999,Adam,Orman,mężczyzna,04-11-2001,ulica Władysława Łokietka 05/28 86-998 Tczew,[]

@@ -7,7 +7,7 @@ fake = Faker('pl_PL')
 
 badges = ("Mistrz Kodowania", "Ekspercki Analizator Danych", "Innowacyjny Programista",
           "Guru Matematyki", "Ambitny Naukowiec", "Doskonały Komunikator", "Zaangażowany Twórca",
-          "Technologiczny Wizjoner", "Kreatywny Problem Solver", "Wielki Odkrywca")
+          "Technologiczny Wizjoner", "Kreatywny Problem Solver", "Wielki Odkrywca", "Passionate Full-stack developer")
 
 
 # Generowanie danych dla użytkowników
@@ -18,7 +18,7 @@ def generate_user_data(user_id):
         gender = 'kobieta'
     else:
         gender = 'mężczyzna'
-    birth_date = fake.date_of_birth(minimum_age=18, maximum_age=40).strftime('%d-%m-%Y')
+    birth_date = fake.date_of_birth(minimum_age=18, maximum_age=40).strftime('%Y-%m-%d')
     address = fake.address()
     address = address.replace('\n', ' ')
     user_badges = []
@@ -31,7 +31,7 @@ def generate_user_data(user_id):
 
 # Tworzenie danych dla użytkowników i zapis do pliku CSV
 def create_users_csv(file_name, usersT1, usersT2, is_New=False):
-    header = ["ID", "Imię", "Nazwisko", "Płeć", "Data urodzenia", "Adres", "Odznaki"]
+    header = ["ID", "Imie", "Nazwisko", "Płeć", "Data urodzenia", "Adres", "Odznaki"]
     data = [header]
 
     if is_New:
@@ -47,7 +47,7 @@ def create_users_csv(file_name, usersT1, usersT2, is_New=False):
         user_data = generate_user_data(i)
         data.append(user_data)
     
-    with open(file_name, file_mode, newline='', encoding='utf-8') as file:
+    with open(file_name, file_mode, newline='', encoding='windows-1250') as file:
         writer = csv.writer(file)
         writer.writerows(data)
 

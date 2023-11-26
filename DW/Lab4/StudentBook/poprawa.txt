@@ -1,0 +1,3 @@
+autoincrement na kluczach
+w dacie jedna hierarchia
+Dwie Daty w dimension usage

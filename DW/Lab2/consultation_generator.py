@@ -27,12 +27,13 @@ def generate_consultations_sql_data(consultationsT1, consultationsT2, coursesT1,
     with open('dane_konsultacji.sql', file_mode, encoding='utf-8') as file:
         if not is_New:
             file.write('''
-            CREATE TABLE Kurs (
-                ID INTEGER PRIMARY KEY,
-                ID_Kursu INTEGER,
+            CREATE TABLE Konsultacje (
+                ID INT IDENTITY(1,1) PRIMARY KEY,
+                ID_Kurs INTEGER,
                 Godzina DATE,
                 Prowadzacy INTEGER,
-                Czas_trwania INTEGER
+                Czas_trwania INTEGER,
+                FOREIGN KEY (ID_Kurs) REFERENCES Kurs(ID)
             );
             ''')
 
@@ -41,7 +42,6 @@ def generate_consultations_sql_data(consultationsT1, consultationsT2, coursesT1,
             duration = random.randint(1, 4) * 30  # Czas trwania w minutach
 
             data = (
-                i,
                 random.randint(courses_start_parameter, courses_end_parameter),
                 consultation_date.strftime('%H:%M'),
                 random.randint(authors_start_parameter, authors_end_parameter),
@@ -49,7 +49,7 @@ def generate_consultations_sql_data(consultationsT1, consultationsT2, coursesT1,
             )
 
             insert_query = '''
-            INSERT INTO Konsultacje (ID, ID_kurs, Godzina, Prowadzacy, Czas_trwania)
+            INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
             VALUES {};
             '''.format(data)
             file.write(insert_query)

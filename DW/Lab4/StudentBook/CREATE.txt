@@ -1,0 +1,60 @@
+CREATE DATABASE StudentBook
+GO
+
+/*Data jest nazwą zarezerwowaną i należy ją stworzyć przez query bazy danych StudnetBook*/
+CREATE TABLE Data (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Rok INT,
+    Miesiac VARCHAR(11),
+    Dzien INT,
+    MiesiacNo INT,
+);
+
+CREATE TABLE Kurs (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Nazwa VARCHAR(100),
+    ID_data_utworzenia INT,
+    Kategoria VARCHAR(50),
+    Czy_posiada_forum VARCHAR(25),
+    Czy_posiada_konsultacje VARCHAR(25),
+    Czy_posiada_testy VARCHAR(25),
+    Szacowania_dlugosc_kursu VARCHAR(15),
+    Semestr VARCHAR(9),
+    Klucz_biznesowy VARCHAR(200),
+    FOREIGN KEY (ID_data_utworzenia) REFERENCES Data(ID)
+);
+
+CREATE TABLE Autor (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Imie_Nazwisko VARCHAR(50),
+    Tytul_naukowy VARCHAR(30),
+    Katedra VARCHAR(50),
+    Wydzial VARCHAR(50)
+);
+
+CREATE TABLE Uzytkownik (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    Imie_Nazwisko VARCHAR(50),
+    Plec VARCHAR(10),
+    Wiek VARCHAR(15)
+);
+
+CREATE TABLE Kurs_jakosc (
+    ID_kurs INT,
+    ID_uzytkownik INT,
+    ID_Data INT,
+    Czy_ukonczyl BIT,
+    Ocena INT,
+    PRIMARY KEY (ID_kurs, ID_uzytkownik, ID_Data),
+    FOREIGN KEY (ID_kurs) REFERENCES Kurs(ID),
+    FOREIGN KEY (ID_uzytkownik) REFERENCES Uzytkownik(ID),
+    FOREIGN KEY (ID_Data) REFERENCES Data(ID)
+);
+
+CREATE TABLE Kurs_Autor (
+    ID_kurs INT,
+    ID_autor INT,
+    PRIMARY KEY (ID_kurs, ID_autor),
+    FOREIGN KEY (ID_kurs) REFERENCES Kurs(ID),
+    FOREIGN KEY (ID_autor) REFERENCES Autor(ID)
+);

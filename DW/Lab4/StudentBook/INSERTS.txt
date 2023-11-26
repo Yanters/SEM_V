@@ -1,0 +1,71 @@
+INSERT INTO Data (Rok, Miesiac, Dzien, MiesiacNo) VALUES
+(2023, 'styczeń', 15, 1),
+(2023, 'luty', 28, 2),
+(2023, 'marzec', 10, 3),
+(2023, 'kwiecień', 5, 4),
+(2023, 'maj', 20, 5),
+(2023, 'czerwiec', 12, 6),
+(2023, 'lipiec', 3, 7),
+(2023, 'sierpień', 18, 8),
+(2023, 'wrzesień', 30, 9),
+(2023, 'październik', 8, 10);
+
+INSERT INTO Uzytkownik (Imie_Nazwisko, Plec, Wiek) VALUES
+('Anna Kowalska', 'Kobieta', 'od 30 do 49'),
+('Jan Nowak', 'Mężczyzna', 'od 21 do 29'),
+('Maria Wiśniewska', 'Kobieta', 'od 50 do 64'),
+('Piotr Jankowski', 'Mężczyzna', 'od 21 do 29'),
+('Ewa Malinowska', 'Kobieta', 'od 18 do 21'),
+('Krzysztof Wójcik', 'Mężczyzna', 'od 30 do 49'),
+('Magdalena Lewandowska', 'Kobieta', 'od 30 do 49'),
+('Marek Szymański', 'Mężczyzna', 'powyżej 64'),
+('Natalia Zielińska', 'Kobieta', 'od 30 do 49'),
+('Adam Nowicki', 'Mężczyzna', 'od 21 do 29');
+
+INSERT INTO Autor (Imie_Nazwisko, Tytul_naukowy, Katedra, Wydzial) VALUES
+('Marcin Kowalczyk', 'Profesor', 'Katedra Systemów Decyzyjnych i Robotyki', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Monika Nowakowska', 'Doktor', 'Katedra Systemów Geoinformatycznych', 'Wydział Informatyki'),
+('Paweł Wiśniewski', 'Profesor', 'Katedra Systemów Mikroelektronicznych', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Katarzyna Jankowska', 'Doktor', 'Katedra Systemów i Sieci Radiokomunikacyjnych', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Michał Malinowski', 'Profesor', 'Katedra Systemów Multimedialnych', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Aleksandra Wójcik', 'Doktor', 'Katedra Teleinformatyki', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Kamil Lewandowski', 'Profesor', 'Katedra Inżynierii Biomedycznej', 'Wydział Elektroniki, Telekomunikacji i Informatyki'),
+('Nina Szymańska', 'Doktor', 'Katedra Inżynierii Lądowej i Środowiska', 'Wydział Inżynierii Lądowej i Środowiska'),
+('Grzegorz Zieliński', 'Profesor', 'Katedra Fizyki Technicznej i Matematyki Stosowanej', 'Wydział Fizyki Technicznej i Matematyki Stosowanej'),
+('Karolina Nowicka', 'Doktor', 'Katedra Bazy Danych', 'Wydział Informatyki');
+
+INSERT INTO Kurs (Nazwa, ID_data_utworzenia, Kategoria, Czy_posiada_forum, Czy_posiada_konsultacje, Czy_posiada_testy, Szacowania_dlugosc_kursu, Semestr) VALUES
+('Programowanie w Python', 1, 'Programowanie Python', 'posiada forum', 'posiada konsultacje', 'posiada testy', 'od 20h do 30h', 'Semestr 2'),
+('Analiza danych', 2, 'Analiza danych', 'posiada forum', 'nie posiada konsultacji', 'posiada testy', 'od 10h do 20h', 'Semestr 4'),
+('Sztuczna inteligencja', 3, 'Sztuczna inteligencja', 'posiada forum', 'posiada konsultacje', 'posiada testy', 'powyżej 30h', 'Semestr 6'),
+('Cyberbezpieczeństwo', 4, 'Cyberbezpieczeństwo', 'posiada forum', 'nie posiada konsultacji', 'nie posiada testów', 'poniżej 10h', 'Semestr 5'),
+('Projektowanie interfejsów użytkownika', 5, 'Projektowanie interfejsów użytkownika', 'posiada forum', 'posiada konsultacje', 'posiada testy', 'od 20h do 30h', 'Semestr 3'),
+('Inżynieria oprogramowania', 6, 'Inżynieria oprogramowania', 'nie posiada forum', 'nie posiada konsultacji', 'nie posiada testów', 'od 30h do 40h', 'Semestr 5'),
+('Rozwój aplikacji mobilnych', 7, 'Rozwój aplikacji mobilnych', 'posiada forum', 'nie posiada konsultacji', 'posiada testy', 'od 10h do 20h', 'Semestr 4'),
+('Big Data i analiza danych', 8, 'Big Data i analiza danych', 'posiada forum', 'posiada konsultacje', 'nie posiada testów', 'powyżej 30h', 'Semestr 6'),
+('Cloud Computing', 9, 'Cloud Computing', 'posiada forum', 'nie posiada konsultacji', 'posiada testy', 'od 20h do 30h', 'Semestr 3'),
+('Internet rzeczy (IoT)', 10, 'Internet rzeczy (IoT)', 'nie posiada forum', 'nie posiada konsultacji', 'nie posiada testów', 'poniżej 10h', 'Semestr 2');
+
+INSERT INTO Kurs_jakosc (ID_kurs, ID_uzytkownik, ID_Data, Czy_ukonczyl, Ocena) VALUES
+(1, 1, 1, 1, 9),
+(1, 2, 2, 1, 8),
+(2, 3, 3, 0, NULL),
+(2, 4, 4, 1, 7),
+(3, 5, 5, 1, 10),
+(3, 6, 6, 1, 8),
+(4, 7, 7, 0, NULL),
+(4, 8, 8, 1, 5),
+(5, 9, 9, 1, 9),
+(5, 10, 10, 0, NULL);
+
+INSERT INTO Kurs_Autor (ID_kurs, ID_autor) VALUES
+(1, 1),
+(2, 2),
+(3, 3),
+(4, 4),
+(5, 5),
+(6, 6),
+(7, 7),
+(8, 8),
+(9, 9),
+(10, 10);

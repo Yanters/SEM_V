@@ -23,6 +23,18 @@ faculties = (
     "Katedra Teleinformatyki",
 )
 
+wydziales = (
+    "Wydział Architektury",
+    "Wydział Chemiczny",
+    "Wydział Elektroniki Telekomunikacji i Informatyki",
+    "Wydział Elektrotechniki i Automatyki",
+    "Wydział Fizyki Technicznej i Matematyki Stosowanej",
+    "Wydział Inżynierii Lądowej i Środowiska",
+    "Wydział Mechaniczny",
+    "Wydział Oceanotechniki i Okrętownictwa",
+    "Wydział Zarządzania i Ekonomi"
+)
+
 academic_titles = ("inżynier", "magister", "doktor", "doktor habilitowny", "profesor")
 
 
@@ -31,15 +43,16 @@ def generate_author_data(author_id):
     first_name = fake.first_name()
     last_name = fake.last_name()
     faculty = fake.random_element(faculties)
+    wydzial = fake.random_element(wydziales)
     academic_title = fake.random_element(academic_titles)
     email_address = f"{first_name.lower()}.{last_name.lower()}@studentbook.com"
 
-    return [author_id, first_name, last_name, faculty, academic_title, email_address]
+    return [author_id, first_name, last_name, wydzial, faculty, academic_title, email_address]
 
 
 # Tworzenie danych dla użytkowników i zapis do pliku CSV
 def create_authors_csv(file_name, authorsT1, authorsT2, is_New=False):
-    header = ["ID", "Imię", "Nazwisko", "Katedra", "Tytuł naukowy", "email"]
+    header = ["ID", "Imie", "Nazwisko", "Wydział", "Katedra", "Tytuł naukowy", "email"]
     data = [header]
 
     if is_New:
@@ -55,6 +68,6 @@ def create_authors_csv(file_name, authorsT1, authorsT2, is_New=False):
         author_data = generate_author_data(i)
         data.append(author_data)
 
-    with open(file_name, file_mode, newline='', encoding='utf-8') as file:
+    with open(file_name, file_mode, newline='', encoding='windows-1250') as file:
         writer = csv.writer(file)
         writer.writerows(data)

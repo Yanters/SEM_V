@@ -17,7 +17,7 @@ consultationsT1 = 50
 consultationsT2 = 2*consultationsT1
 T1 = '-1y'
 T2 = 'today'
-is_New = True
+is_New = False
 
 
 create_users_csv('users.csv', usersT1, usersT2, is_New)

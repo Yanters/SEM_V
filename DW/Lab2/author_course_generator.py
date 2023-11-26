@@ -21,8 +21,10 @@ def generate_author_course_data(coursesT1, coursesT2, authorsT1, authorsT2, T1, 
         if not is_New:
             file.write('''
             CREATE TABLE Autor_Kurs (
-                ID_Autor INTEGER PRIMARY KEY,
-                ID_Kurs INTEGER PRIMARY KEY,
+                ID_Autor INTEGER,
+                ID_Kurs INTEGER,
+				FOREIGN KEY (ID_Autor) REFERENCES Autor(ID),
+				FOREIGN KEY (ID_Kurs) REFERENCES Kurs(ID)
             );
             ''')
 

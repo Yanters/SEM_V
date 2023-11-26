@@ -135,15 +135,14 @@ def create_cousres_sql(coursesT1, coursesT2,T1,T2, is_New):
         if not is_New:
             file.write('''
             CREATE TABLE Kurs (
-                ID INTEGER PRIMARY KEY,
+                ID INT PRIMARY KEY,
                 Nazwa TEXT,
                 Data_utworzenia DATE,
-                Data_ostatniej_aktualizacji DATE,
                 Kategoria TEXT,
                 Czy_posiada_forum INTEGER,
                 Czy_posiada_testy INTEGER,
                 Czy_posiada_konsultacje INTEGER,
-                Szacowana_długość_kursu INTEGER,
+                Szacowana_dlugosc_kursu INTEGER,
                 Semestr INTEGER
             );
             ''')
@@ -151,13 +150,11 @@ def create_cousres_sql(coursesT1, coursesT2,T1,T2, is_New):
         for i in range(start_parameter, end_parameter):
             category = random.choice(list(course_names.keys()))
             course = random.choice(course_names[category])
-            creation_date = fake.date_between(start_date='-3y', end_date='today').strftime('%d-%m-%Y')
+            creation_date = fake.date_between(start_date='-3y', end_date='today').strftime('%Y-%m-%d')
             data = (
                 i,
                 course['nazwa'],
                 creation_date,
-                fake.date_between(start_date=datetime.strptime(creation_date, '%d-%m-%Y'), end_date='today').strftime(
-                    '%d-%m-%Y'),
                 category,
                 random.choice([0, 1]),
                 random.choice([0, 1]),
@@ -167,7 +164,7 @@ def create_cousres_sql(coursesT1, coursesT2,T1,T2, is_New):
             )
 
             insert_query = '''
-            INSERT INTO Kurs (ID, Nazwa, Data_utworzenia, Data_ostatniej_aktualizacji, Kategoria, Czy_posiada_forum, Czy_posiada_testy, Czy_posiada_konsultacje, Szacowana_długość_kursu, Semestr)
+            INSERT INTO Kurs (ID, Nazwa, Data_utworzenia, Kategoria, Czy_posiada_forum, Czy_posiada_testy, Czy_posiada_konsultacje, Szacowana_dlugosc_kursu, Semestr)
             VALUES {};
             '''.format(data)
 

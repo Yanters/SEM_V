@@ -1,0 +1,100 @@
+ID,Imie,Nazwisko,Wydzia³,Katedra,Tytu³ naukowy,email
+1,Janina,Sabak,Wydzia³ Chemiczny,Katedra Systemów i Sieci Radiokomunikacyjnych,profesor,janina.sabak@studentbook.com
+2,Marika,Koniec,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Systemów i Sieci Radiokomunikacyjnych,in¿ynier,marika.koniec@studentbook.com
+3,Leon,Wiese,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Algorytmów i Modelowania Systemów,doktor,leon.wiese@studentbook.com
+4,Karina,Jeszka,Wydzia³ Mechaniczny,Katedra Inteligentnych Systemów Interaktywnych,magister,karina.jeszka@studentbook.com
+5,Anita,Marko,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra In¿ynierii Materia³ów Funkcjonalnych,doktor,anita.marko@studentbook.com
+6,Oliwier,Tylec,Wydzia³ Mechaniczny,Katedra Algorytmów i Modelowania Systemów,magister,oliwier.tylec@studentbook.com
+7,Julian,Hamerla,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Teleinformatyki,doktor habilitowny,julian.hamerla@studentbook.com
+8,Jan,Szkaradek,Wydzia³ Elektrotechniki i Automatyki,Katedra Metrologii i Optoelektroniki,magister,jan.szkaradek@studentbook.com
+9,Dawid,Kmak,Wydzia³ Architektury,Katedra In¿ynierii Materia³ów Funkcjonalnych,profesor,dawid.kmak@studentbook.com
+10,Andrzej,£ukowicz,Wydzia³ Mechaniczny,Katedra Systemów Geoinformatycznych,doktor habilitowny,andrzej.³ukowicz@studentbook.com
+11,Ada,Madzia,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Teleinformatyki,doktor,ada.madzia@studentbook.com
+12,Ada,Szczepan,Wydzia³ Mechaniczny,Katedra Inteligentnych Systemów Interaktywnych,doktor habilitowny,ada.szczepan@studentbook.com
+13,Natan,Cydzik,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,natan.cydzik@studentbook.com
+14,Malwina,Pasich,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Systemów Multimedialnych,doktor,malwina.pasich@studentbook.com
+15,Dawid,Misiejuk,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Systemów Multimedialnych,doktor,dawid.misiejuk@studentbook.com
+16,Dariusz,Nurkiewicz,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Sieci Teleinformacyjnych,profesor,dariusz.nurkiewicz@studentbook.com
+17,Jêdrzej,¯uberek,Wydzia³ Mechaniczny,Katedra In¿ynierii Oprogramowania,magister,jêdrzej.¿uberek@studentbook.com
+18,Karol,Polaszek,Wydzia³ Zarz¹dzania i Ekonomi,Katedra In¿ynierii Biomedycznej,doktor,karol.polaszek@studentbook.com
+19,Aleksander,Kiryluk,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Teleinformatyki,profesor,aleksander.kiryluk@studentbook.com
+20,Cyprian,Pronobis,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra In¿ynierii Biomedycznej,in¿ynier,cyprian.pronobis@studentbook.com
+21,Krzysztof,Krauz,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Sieci Teleinformacyjnych,doktor,krzysztof.krauz@studentbook.com
+22,Anastazja,Wyrwa³,Wydzia³ Chemiczny,Katedra In¿ynierii Mikrofalowej i Antenowej,doktor habilitowny,anastazja.wyrwa³@studentbook.com
+23,Dominik,Wilusz,Wydzia³ Architektury,Katedra Systemów Multimedialnych,doktor,dominik.wilusz@studentbook.com
+24,Julianna,Guziak,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Sieci Teleinformacyjnych,doktor habilitowny,julianna.guziak@studentbook.com
+25,Krystian,Majdak,Wydzia³ Mechaniczny,Katedra Sygna³ów i Systemów,doktor,krystian.majdak@studentbook.com
+26,Stefan,Dawiec,Wydzia³ Architektury,Katedra In¿ynierii Oprogramowania,magister,stefan.dawiec@studentbook.com
+27,Tola,Gomo³a,Wydzia³ Zarz¹dzania i Ekonomi,Katedra In¿ynierii Oprogramowania,magister,tola.gomo³a@studentbook.com
+28,Albert,Wysota,Wydzia³ Mechaniczny,Katedra In¿ynierii Mikrofalowej i Antenowej,magister,albert.wysota@studentbook.com
+29,Alan,Leszkiewicz,Wydzia³ Architektury,Katedra Systemów i Sieci Radiokomunikacyjnych,magister,alan.leszkiewicz@studentbook.com
+30,Ksawery,Misiaszek,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Teleinformatyki,magister,ksawery.misiaszek@studentbook.com
+31,Stefan,Bona,Wydzia³ Zarz¹dzania i Ekonomi,Katedra In¿ynierii Mikrofalowej i Antenowej,doktor habilitowny,stefan.bona@studentbook.com
+32,Tymon,Klemczak,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Systemów Mikroelektronicznych,doktor habilitowny,tymon.klemczak@studentbook.com
+33,Grzegorz,Postawa,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Systemów Geoinformatycznych,magister,grzegorz.postawa@studentbook.com
+34,Sonia,Pielka,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra In¿ynierii Oprogramowania,profesor,sonia.pielka@studentbook.com
+35,Nikodem,Dzienis,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra In¿ynierii Mikrofalowej i Antenowej,doktor,nikodem.dzienis@studentbook.com
+36,Tymoteusz,Migda,Wydzia³ Architektury,Katedra Systemów Multimedialnych,doktor,tymoteusz.migda@studentbook.com
+37,Adam,Cheba,Wydzia³ Chemiczny,Katedra Systemów i Sieci Radiokomunikacyjnych,in¿ynier,adam.cheba@studentbook.com
+38,Jan,Witko,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Sieci Teleinformacyjnych,in¿ynier,jan.witko@studentbook.com
+39,Maurycy,Raba,Wydzia³ Mechaniczny,Katedra Metrologii i Optoelektroniki,magister,maurycy.raba@studentbook.com
+40,Szymon,B³a¿ejewicz,Wydzia³ Elektrotechniki i Automatyki,Katedra Sygna³ów i Systemów,doktor,szymon.b³a¿ejewicz@studentbook.com
+41,Kornelia,Jêdrys,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra In¿ynierii Mikrofalowej i Antenowej,in¿ynier,kornelia.jêdrys@studentbook.com
+42,Marek,Maciocha,Wydzia³ Chemiczny,Katedra Metrologii i Optoelektroniki,profesor,marek.maciocha@studentbook.com
+43,Krystyna,Holc,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Systemów Decyzyjnych i Robotyki,doktor,krystyna.holc@studentbook.com
+44,Grzegorz,Szczap,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Sieci Teleinformacyjnych,in¿ynier,grzegorz.szczap@studentbook.com
+45,Krystian,Brózda,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Algorytmów i Modelowania Systemów,doktor,krystian.brózda@studentbook.com
+46,Aleks,Smagacz,Wydzia³ Chemiczny,Katedra In¿ynierii Materia³ów Funkcjonalnych,profesor,aleks.smagacz@studentbook.com
+47,Dorota,Kurzac,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Sieci Teleinformacyjnych,doktor habilitowny,dorota.kurzac@studentbook.com
+48,Ignacy,Buszko,Wydzia³ Chemiczny,Katedra Sieci Teleinformacyjnych,doktor,ignacy.buszko@studentbook.com
+49,Bianka,Kulma,Wydzia³ Chemiczny,Katedra In¿ynierii Biomedycznej,profesor,bianka.kulma@studentbook.com
+50,Dorota,Leszczak,Wydzia³ Chemiczny,Katedra Systemów Decyzyjnych i Robotyki,doktor habilitowny,dorota.leszczak@studentbook.com
+51,Natan,Gerlach,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Metrologii i Optoelektroniki,in¿ynier,natan.gerlach@studentbook.com
+52,Krzysztof,Przenios³o,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Architektury Systemów Komputerowych,profesor,krzysztof.przenios³o@studentbook.com
+53,Jacek,Thomas,Wydzia³ Elektrotechniki i Automatyki,Katedra Systemów Multimedialnych,doktor habilitowny,jacek.thomas@studentbook.com
+54,Ernest,Golczyk,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra In¿ynierii Mikrofalowej i Antenowej,doktor habilitowny,ernest.golczyk@studentbook.com
+55,Inga,Ornat,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Architektury Systemów Komputerowych,in¿ynier,inga.ornat@studentbook.com
+56,Kalina,Niebudek,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Inteligentnych Systemów Interaktywnych,profesor,kalina.niebudek@studentbook.com
+57,Szymon,Stawczyk,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Sieci Teleinformacyjnych,doktor,szymon.stawczyk@studentbook.com
+58,Ksawery,Wiraszka,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra In¿ynierii Oprogramowania,in¿ynier,ksawery.wiraszka@studentbook.com
+59,Urszula,Dudkowiak,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra In¿ynierii Mikrofalowej i Antenowej,doktor,urszula.dudkowiak@studentbook.com
+60,Witold,Hada³a,Wydzia³ Elektrotechniki i Automatyki,Katedra Sygna³ów i Systemów,doktor,witold.hada³a@studentbook.com
+61,Kamila,Wypch³o,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Systemów Mikroelektronicznych,magister,kamila.wypch³o@studentbook.com
+62,Marika,Maciuszek,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Systemów Geoinformatycznych,in¿ynier,marika.maciuszek@studentbook.com
+63,Norbert,Korzeniak,Wydzia³ Elektrotechniki i Automatyki,Katedra Inteligentnych Systemów Interaktywnych,doktor,norbert.korzeniak@studentbook.com
+64,Jacek,Chmielak,Wydzia³ Mechaniczny,Katedra Teleinformatyki,in¿ynier,jacek.chmielak@studentbook.com
+65,Gaja,Fiedoruk,Wydzia³ Architektury,Katedra In¿ynierii Oprogramowania,profesor,gaja.fiedoruk@studentbook.com
+66,Anna Maria,Miœkowiec,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra In¿ynierii Materia³ów Funkcjonalnych,profesor,anna maria.miœkowiec@studentbook.com
+67,Arkadiusz,¯uberek,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Metrologii i Optoelektroniki,magister,arkadiusz.¿uberek@studentbook.com
+68,Natan,Nicewicz,Wydzia³ Fizyki Technicznej i Matematyki Stosowanej,Katedra Architektury Systemów Komputerowych,doktor habilitowny,natan.nicewicz@studentbook.com
+69,Igor,Dzier¿ak,Wydzia³ Elektrotechniki i Automatyki,Katedra Systemów Multimedialnych,in¿ynier,igor.dzier¿ak@studentbook.com
+70,Eryk,Dej,Wydzia³ Zarz¹dzania i Ekonomi,Katedra In¿ynierii Materia³ów Funkcjonalnych,doktor habilitowny,eryk.dej@studentbook.com
+71,Igor,Ziarno,Wydzia³ Mechaniczny,Katedra In¿ynierii Materia³ów Funkcjonalnych,profesor,igor.ziarno@studentbook.com
+72,Bianka,Ufniarz,Wydzia³ Mechaniczny,Katedra In¿ynierii Mikrofalowej i Antenowej,in¿ynier,bianka.ufniarz@studentbook.com
+73,Janina,Wicha,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Algorytmów i Modelowania Systemów,in¿ynier,janina.wicha@studentbook.com
+74,Konrad,Lisak,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Systemów Decyzyjnych i Robotyki,doktor,konrad.lisak@studentbook.com
+75,Igor,Ko³ata,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Systemów Multimedialnych,profesor,igor.ko³ata@studentbook.com
+76,Monika,Sobi³o,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra In¿ynierii Oprogramowania,profesor,monika.sobi³o@studentbook.com
+77,Arkadiusz,Kolbusz,Wydzia³ Zarz¹dzania i Ekonomi,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,arkadiusz.kolbusz@studentbook.com
+78,Oskar,Wicha,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Algorytmów i Modelowania Systemów,profesor,oskar.wicha@studentbook.com
+79,Angelika,Bodzak,Wydzia³ Architektury,Katedra Systemów Decyzyjnych i Robotyki,doktor,angelika.bodzak@studentbook.com
+80,Natan,Linkiewicz,Wydzia³ Mechaniczny,Katedra Inteligentnych Systemów Interaktywnych,magister,natan.linkiewicz@studentbook.com
+81,Józef,KaŸmierczyk,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Systemów Mikroelektronicznych,doktor habilitowny,józef.kaŸmierczyk@studentbook.com
+82,Bartek,Kwak,Wydzia³ Elektrotechniki i Automatyki,Katedra Systemów Decyzyjnych i Robotyki,profesor,bartek.kwak@studentbook.com
+83,Malwina,Weremczuk,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Sygna³ów i Systemów,in¿ynier,malwina.weremczuk@studentbook.com
+84,Bianka,Gal,Wydzia³ Elektrotechniki i Automatyki,Katedra Teleinformatyki,doktor habilitowny,bianka.gal@studentbook.com
+85,Lidia,Koss,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Systemów Mikroelektronicznych,profesor,lidia.koss@studentbook.com
+86,Dominik,Sochaj,Wydzia³ Chemiczny,Katedra Inteligentnych Systemów Interaktywnych,doktor habilitowny,dominik.sochaj@studentbook.com
+87,Liwia,Gorgol,Wydzia³ Zarz¹dzania i Ekonomi,Katedra In¿ynierii Materia³ów Funkcjonalnych,magister,liwia.gorgol@studentbook.com
+88,Maciej,Klinkosz,Wydzia³ Architektury,Katedra In¿ynierii Materia³ów Funkcjonalnych,magister,maciej.klinkosz@studentbook.com
+89,Oskar,£okietek,Wydzia³ Chemiczny,Katedra Sieci Teleinformacyjnych,doktor,oskar.³okietek@studentbook.com
+90,Konrad,Bereda,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Systemów Mikroelektronicznych,doktor,konrad.bereda@studentbook.com
+91,Marcelina,Chomiak,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Systemów Geoinformatycznych,doktor habilitowny,marcelina.chomiak@studentbook.com
+92,Witold,Weso³y,Wydzia³ Chemiczny,Katedra Teleinformatyki,magister,witold.weso³y@studentbook.com
+93,Przemys³aw,Œwitaj,Wydzia³ Elektroniki Telekomunikacji i Informatyki,Katedra Sygna³ów i Systemów,doktor,przemys³aw.œwitaj@studentbook.com
+94,Mariusz,Obia³a,Wydzia³ Mechaniczny,Katedra Metrologii i Optoelektroniki,magister,mariusz.obia³a@studentbook.com
+95,Maksymilian,Turoñ,Wydzia³ Elektrotechniki i Automatyki,Katedra In¿ynierii Mikrofalowej i Antenowej,profesor,maksymilian.turoñ@studentbook.com
+96,Kamila,Mojsa,Wydzia³ Elektrotechniki i Automatyki,Katedra Systemów Mikroelektronicznych,doktor habilitowny,kamila.mojsa@studentbook.com
+97,Hubert,Wolañczyk,Wydzia³ In¿ynierii L¹dowej i Œrodowiska,Katedra Inteligentnych Systemów Interaktywnych,in¿ynier,hubert.wolañczyk@studentbook.com
+98,Fabian,Kosiec,Wydzia³ Elektrotechniki i Automatyki,Katedra Systemów Mikroelektronicznych,profesor,fabian.kosiec@studentbook.com
+99,Liwia,Zeman,Wydzia³ Oceanotechniki i Okrêtownictwa,Katedra Systemów i Sieci Radiokomunikacyjnych,doktor habilitowny,liwia.zeman@studentbook.com
