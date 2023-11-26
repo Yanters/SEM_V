@@ -1,0 +1,33 @@
+<div class="container">
+  <div *ngIf="tickets" class="row">
+    <div class="col-md-12">
+      <div class='d-flex justify-content-between align-items-center mb-3'>
+        <h1>Tickets</h1>
+        <a [routerLink]="['/tickets', 'add']" class="btn btn-success">New Ticket</a>
+      </div>
+      <table class="table table-striped border text-center">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Policeman Id</th>
+            <th>Reason</th>
+            <th>Price</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let ticket of tickets.tickets">
+            <td>{{ticket.id}}</td>
+            <td>{{ticket.policeman}}</td>
+            <td>{{ticket.reason}}</td>
+            <td>{{ticket.price}}</td>
+            <td>
+              <a [routerLink]="['/tickets', ticket.id, 'edit']" class="btn btn-primary mx-1">Edit</a>
+              <button class="btn btn-danger mx-1" (click)="onDelete(ticket.id)">Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

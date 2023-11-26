@@ -36,6 +36,16 @@ public class PolicemanController {
         .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND)));
   }
 
+  @PostMapping("/api/policemans")
+  public ResponseEntity<Void> postPoliceman(@RequestBody PutPolicemanRequest putPolicemanRequest) {
+    try {
+      policemanService.createPoliceman(policemanMapper.putPolicemanDTOToPoliceman(putPolicemanRequest));
+      return ResponseEntity.ok().build();
+    } catch (Exception e) {
+      return ResponseEntity.badRequest().build();
+    }
+  }
+
   @PutMapping("/api/policemans/{policemanId}")
   public ResponseEntity<Void> putPoliceman(@PathVariable UUID policemanId,
       @RequestBody PutPolicemanRequest putPolicemanRequest) {

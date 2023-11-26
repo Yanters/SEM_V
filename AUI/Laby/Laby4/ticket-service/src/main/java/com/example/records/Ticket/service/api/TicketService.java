@@ -10,7 +10,6 @@ import java.util.UUID;
 
 @Service
 public interface TicketService {
-  Ticket createTicket(Ticket ticket);
 
   List<Ticket> getAllTickets();
 
@@ -19,6 +18,8 @@ public interface TicketService {
   Optional<Ticket> getTicketById(UUID ticketId);
 
   Optional<Ticket> getTicketByReason(String reason);
+
+  void createTicket(Ticket ticket);
 
   void updateTicket(UUID ticketId, Ticket ticket);
 

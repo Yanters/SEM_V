@@ -19,8 +19,10 @@ public class PolicemanServiceJPA implements PolicemanService {
   private final PolicemanEventRestRepository policemanEventRestRepository;
 
   @Override
-  public Policeman createPoliceman(Policeman policeman) {
-    return policemanRepository.save(policeman);
+  public void createPoliceman(Policeman policeman) {
+    policeman.setId(UUID.randomUUID());
+    policemanRepository.save(policeman);
+    policemanEventRestRepository.create(policeman.getId());
   }
 
   @Override

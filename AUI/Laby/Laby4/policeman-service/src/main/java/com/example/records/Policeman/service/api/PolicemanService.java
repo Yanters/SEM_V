@@ -9,13 +9,14 @@ import java.util.UUID;
 
 @Service
 public interface PolicemanService {
-  Policeman createPoliceman(Policeman policeman);
-
+  
   List<Policeman> getAllPolicemen();
-
+  
   Optional<Policeman> getPolicemanById(UUID policemanId);
-
+  
   Optional<Policeman> getPolicemanByName(String policemanName);
+  
+  void createPoliceman(Policeman policeman);
 
   void updatePoliceman(UUID policemanId, Policeman policeman);
 

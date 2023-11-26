@@ -1,0 +1,33 @@
+<div class="container">
+  <div *ngIf="policemans" class="row">
+    <div class="col-md-12">
+      <div class='d-flex justify-content-between align-items-center mb-3'>
+        <h1>Policemans</h1>
+        <a [routerLink]="['/policemans', 'add']" class="btn btn-success">New Policeman</a>
+      </div>
+      <table class="table table-striped border text-center">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Rank</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let policeman of policemans.policemans">
+            <td>{{policeman.id}}</td>
+            <td>{{policeman.name}}</td>
+            <td>{{policeman.rank}}</td>
+            <td>
+              <a [routerLink]="['/policemans', policeman.id, 'edit']" class="btn btn-primary mx-1">Edit</a>
+              <a [routerLink]="['/policemans', policeman.id, 'details']"
+                class="btn btn-warning text-white mx-1">Details</a>
+              <button class="btn btn-danger mx-1" (click)="onDelete(policeman.id)">Delete</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

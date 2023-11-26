@@ -29,9 +29,9 @@ public class DataInitializer implements InitializingBean {
       Policeman policeman3 = Policeman.builder().id(UUID.fromString("00000000-0000-0000-0000-000000000003"))
           .name("James").rank(76).build();
 
-      policemanService.createPoliceman(policeman);
-      policemanService.createPoliceman(policeman2);
-      policemanService.createPoliceman(policeman3);
+      policemanService.updatePoliceman(policeman.getId(),policeman);
+      policemanService.updatePoliceman(policeman2.getId(),policeman2);
+      policemanService.updatePoliceman(policeman3.getId(),policeman3);
     }
   }
 

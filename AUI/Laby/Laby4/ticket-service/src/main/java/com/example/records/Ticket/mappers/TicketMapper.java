@@ -49,4 +49,17 @@ public interface TicketMapper {
             .build())
         .build();
   }
+
+  default Ticket postTicketRequestToTicket(PutTicketRequest putTicketRequest) {
+    if (putTicketRequest == null) {
+      return null;
+    }
+    return Ticket.builder()
+        .reason(putTicketRequest.getReason())
+        .price(putTicketRequest.getPrice())
+        .policeman(Policeman.builder()
+            .id(putTicketRequest.getPoliceman())
+            .build())
+        .build();
+  }
 }

@@ -10,6 +10,16 @@ GET http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001
 
 GET http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001/tickets
 
+### Create policeman
+
+POST http://localhost:8080/api/policemans
+Content-Type: application/json
+
+{
+    "name": "Policeman Update 2",
+    "rank": 57
+}
+
 ### Update policeman
 
 PUT http://localhost:8080/api/policemans/00000000-0000-0000-0000-000000000001
@@ -34,7 +44,7 @@ GET http://localhost:8080/api/tickets
 
 ### Get ticket by id
 
-GET http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000006
+GET http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000001
 
 ### Update ticket
 
@@ -42,7 +52,7 @@ PUT http://localhost:8080/api/tickets/00000000-0000-0000-0000-000000000006
 Content-Type: application/json
 
 {
-    "policeman": "00000000-0000-0000-0000-000000000003",
+    "policeman": "5ac12338-962c-4df7-8a94-a9c0be88e185",
     "reason": "Ticket Update Reasoning 2",
     "price": 11
 }

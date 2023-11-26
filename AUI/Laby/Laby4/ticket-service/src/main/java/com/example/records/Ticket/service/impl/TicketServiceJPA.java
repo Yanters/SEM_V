@@ -17,15 +17,9 @@ public class TicketServiceJPA implements TicketService {
   private final TicketRepository ticketRepository;
 
   @Override
-  public Ticket createTicket(Ticket ticket) {
-    return ticketRepository.save(ticket);
-  }
-
-  @Override
   public List<Ticket> getAllTickets() {
     return ticketRepository.findAll();
   }
-
 
   @Override
   public List<Ticket> getTicketsByPolicemanId(UUID policemanId) {
@@ -41,6 +35,12 @@ public class TicketServiceJPA implements TicketService {
   @Override
   public Optional<Ticket> getTicketByReason(String reason) {
     return ticketRepository.findByReason(reason);
+  }
+
+  @Override
+  public void createTicket(Ticket ticket) {
+    ticket.setId(UUID.randomUUID());
+    ticketRepository.save(ticket);
   }
 
   @Override
