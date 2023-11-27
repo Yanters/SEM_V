@@ -51,7 +51,7 @@ export class PolicemanEditComponent {
       this.policemanService
         .updatePoliceman(this.id, this.policeman)
         .subscribe(() => {
-          this.router.navigate(['/policemans', this.id, 'details']);
+          this.router.navigate(['/policemans', this.id]);
         });
     } else {
       this.policemanService.createPoliceman(this.policeman).subscribe(() => {

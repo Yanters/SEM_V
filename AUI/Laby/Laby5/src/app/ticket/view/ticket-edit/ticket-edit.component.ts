@@ -75,9 +75,9 @@ export class TicketEditComponent {
 
   navigateBack() {
     if (this.policeman) {
-      this.router.navigate(['/policemans/' + this.policeman + '/details']);
+      this.router.navigate(['/policemans/' + this.policeman]);
     } else {
-      this.router.navigate(['/tickets']);
+      this.router.navigate(['/tickets/' + this.id]);
     }
   }
 

@@ -16,6 +16,7 @@ import { PolicemanService } from './policeman/service/policeman.service';
 import { PolicemanEditComponent } from './policeman/view/policeman-edit/policeman-edit.component';
 import { TicketEditComponent } from './ticket/view/ticket-edit/ticket-edit.component';
 import { PolicemanDetailsComponent } from './policeman/view/policeman-details/policeman-details.component';
+import { TicketDetailsComponent } from './ticket/view/ticket-details/ticket-details.component';
 
 @NgModule({
   declarations: [
@@ -30,6 +31,7 @@ import { PolicemanDetailsComponent } from './policeman/view/policeman-details/po
     PolicemanEditComponent,
     TicketEditComponent,
     PolicemanDetailsComponent,
+    TicketDetailsComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, FormsModule, HttpClientModule],
   providers: [PolicemanService],

@@ -21,8 +21,7 @@
             <td>{{policeman.rank}}</td>
             <td>
               <a [routerLink]="['/policemans', policeman.id, 'edit']" class="btn btn-primary mx-1">Edit</a>
-              <a [routerLink]="['/policemans', policeman.id, 'details']"
-                class="btn btn-warning text-white mx-1">Details</a>
+              <a [routerLink]="['/policemans', policeman.id]" class="btn btn-warning text-white mx-1">Details</a>
               <button class="btn btn-danger mx-1" (click)="onDelete(policeman.id)">Delete</button>
             </td>
           </tr>

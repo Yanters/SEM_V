@@ -6,13 +6,14 @@ import { TicketListComponent } from './ticket/view/ticket-list/ticket-list.compo
 import { PolicemanEditComponent } from './policeman/view/policeman-edit/policeman-edit.component';
 import { TicketEditComponent } from './ticket/view/ticket-edit/ticket-edit.component';
 import { PolicemanDetailsComponent } from './policeman/view/policeman-details/policeman-details.component';
+import { TicketDetailsComponent } from './ticket/view/ticket-details/ticket-details.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'policemans', component: PolicemanListComponent },
   { path: 'policemans/add', component: PolicemanEditComponent },
+  { path: 'policemans/:id', component: PolicemanDetailsComponent },
   { path: 'policemans/:id/edit', component: PolicemanEditComponent },
-  { path: 'policemans/:id/details', component: PolicemanDetailsComponent },
   { path: 'policemans/:policemanId/addTicket', component: TicketEditComponent },
   {
     path: 'policemans/:policemanId/tickets/:id/edit',
@@ -20,6 +21,7 @@ const routes: Routes = [
   },
   { path: 'tickets', component: TicketListComponent },
   { path: 'tickets/add', component: TicketEditComponent },
+  { path: 'tickets/:id', component: TicketDetailsComponent },
   { path: 'tickets/:id/edit', component: TicketEditComponent },
 ];
 

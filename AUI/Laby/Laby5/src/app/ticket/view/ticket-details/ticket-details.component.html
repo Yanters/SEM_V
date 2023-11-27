@@ -1,0 +1,33 @@
+<!-- // Display the ticket details ( ticket.id, ticket.reason, ticket.price ) with policeman information ( policeman.id,
+policeman.name, policeman.rank) -->
+
+<div class="container">
+  <div *ngIf="ticket" class="row">
+    <div class="col-md-12">
+      <div class='d-flex justify-content-between align-items-center mb-3'>
+        <h1>Ticket Details</h1>
+        <a [routerLink]="['/tickets', ticket.id, 'edit']" class="btn btn-primary">Edit</a>
+      </div>
+      <table class="table table-striped border text-center">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Reason</th>
+            <th>Price</th>
+            <th>Policeman Name</th>
+            <th>Policeman Rank</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{ticket.id}}</td>
+            <td>{{ticket.reason}}</td>
+            <td>{{ticket.price}}</td>
+            <td>{{policeman.name}}</td>
+            <td>{{policeman.rank}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
