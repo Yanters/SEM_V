@@ -17,6 +17,7 @@ consultationsT1 = 50
 consultationsT2 = 2*consultationsT1
 T1 = '-1y'
 T2 = 'today'
+# if is_New = True, then it will append data to existing files
 is_New = False
 
 

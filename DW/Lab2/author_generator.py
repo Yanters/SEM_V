@@ -53,7 +53,7 @@ def generate_author_data(author_id):
 # Tworzenie danych dla użytkowników i zapis do pliku CSV
 def create_authors_csv(file_name, authorsT1, authorsT2, is_New=False):
     header = ["ID", "Imie", "Nazwisko", "Wydział", "Katedra", "Tytuł naukowy", "email"]
-    data = [header]
+    data = []
 
     if is_New:
         file_mode = 'a'
@@ -63,6 +63,7 @@ def create_authors_csv(file_name, authorsT1, authorsT2, is_New=False):
         file_mode = 'w'
         start_parameter = 1
         end_parameter = authorsT1
+        data.append(header)
 
     for i in range(start_parameter, end_parameter):
         author_data = generate_author_data(i)
