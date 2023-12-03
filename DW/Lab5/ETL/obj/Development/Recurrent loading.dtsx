@@ -5604,7 +5604,7 @@ where [refTable].[Plec] = ? and [refTable].[Imie_Nazwisko] = ? and [refTable].[W
                   containsID="true"
                   dataType="System.String"
                   description="Specifies the list of lineage identifiers that map to the parameters that the SQL statement in the SQLCommand property uses. Entries in the list are separated by semicolons."
-                  name="ParameterMap">#{Package\Population Uzytkownik Table\Flat File Source.Outputs[Flat File Source Output].Columns[Płeć]};#{Package\Population Uzytkownik Table\Derived Column.Outputs[Derived Column Output].Columns[Imie_Nazwisko]};#{Package\Population Uzytkownik Table\337:invalid};</property>
+                  name="ParameterMap">#{Package\Population Uzytkownik Table\Flat File Source.Outputs[Flat File Source Output].Columns[Płeć]};#{Package\Population Uzytkownik Table\Derived Column.Outputs[Derived Column Output].Columns[Imie_Nazwisko]};#{Package\Population Uzytkownik Table\285:invalid};</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."

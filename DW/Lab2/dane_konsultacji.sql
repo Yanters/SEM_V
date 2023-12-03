@@ -9,449 +9,449 @@
             );
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1148, '01:29', 62, 60);
+            VALUES (616, '07:25', 17, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (100, '21:51', 21, 120);
+            VALUES (1008, '06:53', 79, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1413, '11:19', 40, 120);
+            VALUES (257, '19:50', 49, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (225, '19:20', 48, 90);
+            VALUES (1276, '07:45', 24, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (593, '13:58', 23, 60);
+            VALUES (869, '08:17', 98, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1056, '17:20', 35, 60);
+            VALUES (1361, '18:50', 57, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1350, '00:23', 35, 120);
+            VALUES (621, '04:14', 59, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (413, '19:15', 54, 60);
+            VALUES (720, '05:14', 88, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (256, '09:01', 47, 90);
+            VALUES (283, '06:01', 31, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (117, '13:19', 28, 30);
+            VALUES (822, '19:00', 26, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1047, '06:37', 53, 30);
+            VALUES (1451, '09:42', 52, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (316, '02:45', 72, 30);
+            VALUES (1189, '16:48', 48, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (35, '16:21', 84, 60);
+            VALUES (669, '23:15', 95, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1338, '07:51', 39, 60);
+            VALUES (511, '03:04', 80, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (842, '10:47', 2, 120);
+            VALUES (420, '01:10', 89, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (585, '16:55', 57, 90);
+            VALUES (1288, '04:10', 61, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (35, '14:33', 4, 120);
+            VALUES (1373, '21:17', 21, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (22, '00:32', 9, 30);
+            VALUES (605, '23:00', 40, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1038, '15:07', 96, 90);
+            VALUES (129, '00:10', 61, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (191, '14:06', 34, 90);
+            VALUES (221, '15:53', 40, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (238, '02:08', 100, 120);
+            VALUES (1296, '05:32', 58, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1342, '16:12', 1, 120);
+            VALUES (1296, '02:47', 83, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (587, '00:44', 49, 30);
+            VALUES (1234, '23:40', 93, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (404, '15:35', 99, 90);
+            VALUES (1441, '14:50', 21, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (659, '11:19', 18, 30);
+            VALUES (1110, '13:06', 19, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (223, '12:40', 40, 90);
+            VALUES (1134, '22:21', 27, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (786, '20:48', 39, 60);
+            VALUES (949, '07:21', 50, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (282, '04:53', 37, 30);
+            VALUES (499, '14:04', 98, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (479, '10:33', 70, 90);
+            VALUES (276, '21:51', 51, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (173, '15:41', 95, 60);
+            VALUES (1077, '14:32', 99, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (408, '23:21', 59, 90);
+            VALUES (803, '02:28', 47, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (491, '21:44', 33, 60);
+            VALUES (1363, '03:40', 7, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1150, '14:58', 9, 60);
+            VALUES (106, '17:06', 32, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (429, '00:00', 16, 60);
+            VALUES (907, '16:38', 86, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (68, '09:43', 28, 90);
+            VALUES (436, '01:11', 82, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (213, '17:17', 89, 60);
+            VALUES (1380, '00:42', 54, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1066, '09:29', 22, 120);
+            VALUES (942, '21:55', 32, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (175, '21:01', 45, 60);
+            VALUES (1499, '03:47', 9, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (595, '08:58', 17, 120);
+            VALUES (1372, '23:52', 99, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1239, '00:42', 26, 60);
+            VALUES (1421, '20:46', 35, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1317, '13:18', 1, 30);
+            VALUES (1495, '15:43', 35, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (253, '11:20', 66, 90);
+            VALUES (830, '01:37', 32, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1432, '13:41', 40, 120);
+            VALUES (847, '00:35', 57, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (717, '20:34', 93, 30);
+            VALUES (845, '08:34', 85, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (212, '10:10', 6, 60);
+            VALUES (50, '06:47', 13, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (14, '21:08', 67, 60);
+            VALUES (720, '10:30', 79, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (971, '09:04', 81, 30);
+            VALUES (1198, '09:04', 43, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (9, '20:32', 21, 120);
+            VALUES (55, '13:47', 84, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (856, '23:46', 30, 30);
+            VALUES (1337, '18:36', 91, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1778, '09:40', 167, 120);
+            VALUES (2603, '17:42', 250, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2440, '01:48', 257, 60);
+            VALUES (1531, '23:23', 131, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3897, '18:39', 284, 120);
+            VALUES (3747, '13:28', 173, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4008, '12:58', 155, 90);
+            VALUES (2286, '11:46', 278, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2302, '16:53', 253, 90);
+            VALUES (3810, '18:15', 233, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3583, '12:04', 196, 120);
+            VALUES (2535, '00:37', 108, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4289, '22:30', 101, 60);
+            VALUES (1994, '10:55', 121, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3693, '19:45', 259, 120);
+            VALUES (3674, '08:47', 128, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3705, '08:02', 255, 120);
+            VALUES (1611, '05:27', 178, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1534, '11:14', 221, 120);
+            VALUES (2984, '19:18', 263, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3036, '23:33', 298, 60);
+            VALUES (2285, '00:45', 188, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2589, '06:56', 137, 60);
+            VALUES (1834, '17:06', 255, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3716, '23:33', 298, 60);
+            VALUES (1562, '03:33', 259, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2579, '20:58', 207, 30);
+            VALUES (3115, '17:00', 196, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3701, '19:34', 165, 90);
+            VALUES (4438, '21:57', 154, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4311, '22:21', 198, 60);
+            VALUES (4373, '18:42', 145, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4180, '22:17', 167, 90);
+            VALUES (3534, '07:13', 273, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3077, '23:39', 144, 60);
+            VALUES (2253, '02:09', 235, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2769, '22:43', 183, 90);
+            VALUES (1500, '10:12', 242, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3026, '00:09', 114, 30);
+            VALUES (2605, '23:06', 285, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4314, '10:27', 114, 90);
+            VALUES (1888, '01:23', 246, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4422, '09:29', 162, 120);
+            VALUES (1532, '22:42', 180, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4275, '06:46', 255, 120);
+            VALUES (3787, '15:03', 229, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2672, '09:01', 129, 60);
+            VALUES (1998, '17:10', 198, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3279, '02:25', 101, 120);
+            VALUES (3075, '10:01', 116, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3723, '07:53', 137, 30);
+            VALUES (3776, '20:06', 229, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3206, '11:13', 166, 60);
+            VALUES (1978, '00:33', 185, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3158, '21:29', 288, 90);
+            VALUES (2422, '11:50', 222, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3259, '21:42', 159, 120);
+            VALUES (1506, '22:56', 232, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4290, '07:22', 205, 90);
+            VALUES (4031, '15:02', 217, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3383, '18:20', 117, 120);
+            VALUES (1709, '19:59', 194, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3985, '12:38', 281, 60);
+            VALUES (2906, '04:52', 245, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3787, '12:13', 224, 30);
+            VALUES (1595, '14:02', 237, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4254, '04:47', 227, 120);
+            VALUES (1621, '06:37', 207, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4418, '12:45', 229, 60);
+            VALUES (2719, '11:22', 153, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2436, '00:12', 205, 60);
+            VALUES (3769, '09:32', 276, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4461, '20:59', 211, 120);
+            VALUES (1683, '00:13', 153, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4177, '10:26', 118, 60);
+            VALUES (3361, '16:08', 132, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2468, '03:15', 119, 120);
+            VALUES (1673, '03:04', 128, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2922, '05:45', 300, 90);
+            VALUES (2372, '07:07', 198, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3097, '12:36', 249, 30);
+            VALUES (2397, '15:40', 296, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2451, '04:15', 117, 60);
+            VALUES (3241, '06:10', 121, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1553, '17:11', 124, 30);
+            VALUES (3255, '17:45', 114, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1948, '21:28', 113, 90);
+            VALUES (2555, '13:51', 296, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3934, '10:54', 278, 90);
+            VALUES (2214, '02:41', 291, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2571, '08:02', 109, 30);
+            VALUES (3989, '23:06', 163, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1559, '09:41', 160, 120);
+            VALUES (2495, '08:20', 290, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3773, '19:28', 175, 90);
+            VALUES (3772, '03:14', 162, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2027, '10:05', 122, 120);
+            VALUES (2049, '09:03', 189, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2725, '14:12', 203, 30);
+            VALUES (2156, '06:41', 106, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4251, '01:53', 172, 90);
+            VALUES (2817, '18:44', 257, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1751, '05:03', 193, 90);
+            VALUES (1519, '18:22', 195, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2648, '19:47', 138, 60);
+            VALUES (4124, '03:47', 213, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2327, '11:27', 214, 30);
+            VALUES (3084, '14:46', 172, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2285, '15:33', 136, 120);
+            VALUES (1675, '18:26', 178, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2326, '10:16', 222, 30);
+            VALUES (1978, '12:25', 216, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4335, '10:57', 136, 30);
+            VALUES (2639, '10:46', 144, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2157, '21:20', 240, 60);
+            VALUES (2847, '04:07', 289, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3228, '16:03', 216, 90);
+            VALUES (2830, '15:16', 150, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2190, '05:35', 247, 90);
+            VALUES (3593, '23:54', 177, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2858, '01:27', 286, 90);
+            VALUES (2885, '20:17', 280, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4165, '10:29', 156, 60);
+            VALUES (3587, '13:27', 101, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2915, '11:36', 107, 30);
+            VALUES (3790, '14:16', 158, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1866, '04:30', 290, 90);
+            VALUES (2142, '14:24', 209, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1930, '16:09', 192, 120);
+            VALUES (2048, '18:47', 188, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3762, '08:56', 144, 60);
+            VALUES (1887, '03:40', 213, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3430, '12:52', 208, 90);
+            VALUES (3391, '21:09', 264, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2358, '00:31', 246, 60);
+            VALUES (2753, '03:43', 143, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3636, '14:26', 121, 60);
+            VALUES (2896, '22:40', 290, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3562, '17:01', 278, 30);
+            VALUES (2738, '14:56', 184, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4140, '08:52', 255, 90);
+            VALUES (1634, '16:26', 283, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3189, '04:57', 298, 60);
+            VALUES (3005, '21:43', 127, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2529, '23:27', 278, 90);
+            VALUES (4457, '23:55', 205, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4120, '21:49', 110, 120);
+            VALUES (3213, '07:33', 244, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2533, '06:58', 230, 60);
+            VALUES (2022, '17:13', 143, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1722, '23:10', 274, 120);
+            VALUES (1835, '19:47', 276, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4248, '10:34', 258, 120);
+            VALUES (2622, '17:53', 118, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4137, '09:08', 212, 90);
+            VALUES (2998, '16:30', 242, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4200, '17:43', 243, 90);
+            VALUES (3050, '20:29', 284, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4432, '17:10', 178, 90);
+            VALUES (2708, '09:45', 116, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3925, '04:35', 257, 120);
+            VALUES (1736, '17:13', 172, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (4422, '12:53', 264, 90);
+            VALUES (1990, '16:32', 142, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1500, '03:42', 189, 30);
+            VALUES (4080, '03:52', 183, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1902, '17:08', 196, 60);
+            VALUES (2360, '07:35', 273, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3736, '12:43', 164, 120);
+            VALUES (3424, '18:57', 234, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2539, '00:51', 244, 120);
+            VALUES (1773, '10:19', 231, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3850, '03:57', 201, 120);
+            VALUES (2636, '12:44', 160, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3926, '10:09', 147, 60);
+            VALUES (3537, '10:54', 164, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2866, '16:17', 244, 120);
+            VALUES (3793, '05:10', 173, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3147, '22:05', 198, 30);
+            VALUES (4371, '04:06', 223, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2481, '15:03', 157, 90);
+            VALUES (3552, '10:50', 290, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3683, '08:25', 140, 120);
+            VALUES (1946, '00:09', 249, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1708, '12:13', 174, 90);
+            VALUES (2812, '18:42', 170, 30);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2417, '21:12', 122, 120);
+            VALUES (3271, '11:21', 289, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2643, '22:43', 244, 90);
+            VALUES (2708, '04:13', 223, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3245, '16:15', 224, 60);
+            VALUES (1889, '04:09', 125, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1959, '08:41', 162, 90);
+            VALUES (4236, '22:00', 242, 120);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (2853, '08:50', 126, 60);
+            VALUES (3794, '06:17', 156, 90);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (3783, '07:03', 197, 90);
+            VALUES (4481, '05:06', 268, 60);
             
             INSERT INTO Konsultacje (ID_Kurs, Godzina, Prowadzacy, Czas_trwania)
-            VALUES (1526, '09:58', 178, 120);
+            VALUES (2440, '21:51', 236, 120);
             

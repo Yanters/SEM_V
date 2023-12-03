@@ -7,17891 +7,18404 @@
             );
             
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1, 50);
+                VALUES (1, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1, 97);
+                VALUES (1, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2, 67);
+                VALUES (2, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (3, 8);
+                VALUES (2, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (3, 51);
+                VALUES (2, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (4, 6);
+                VALUES (3, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (4, 97);
+                VALUES (3, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (4, 7);
+                VALUES (4, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (5, 75);
+                VALUES (4, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (6, 17);
+                VALUES (5, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (6, 9);
+                VALUES (5, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (6, 99);
+                VALUES (5, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (7, 7);
+                VALUES (6, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (7, 91);
+                VALUES (7, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (8, 93);
+                VALUES (8, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (8, 85);
+                VALUES (8, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (9, 4);
+                VALUES (8, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (9, 67);
+                VALUES (9, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (10, 76);
+                VALUES (9, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (11, 80);
+                VALUES (9, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (11, 90);
+                VALUES (10, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (11, 72);
+                VALUES (10, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (12, 83);
+                VALUES (11, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (12, 77);
+                VALUES (12, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (13, 24);
+                VALUES (13, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (13, 21);
+                VALUES (14, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (14, 22);
+                VALUES (14, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (14, 56);
+                VALUES (14, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (15, 31);
+                VALUES (15, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (15, 32);
+                VALUES (15, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (15, 44);
+                VALUES (16, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (16, 41);
+                VALUES (16, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (17, 11);
+                VALUES (17, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (17, 24);
+                VALUES (17, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (18, 40);
+                VALUES (17, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (19, 92);
+                VALUES (18, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (20, 12);
+                VALUES (19, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (20, 72);
+                VALUES (19, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (20, 6);
+                VALUES (20, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (21, 30);
+                VALUES (20, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (21, 75);
+                VALUES (21, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (21, 12);
+                VALUES (21, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (22, 65);
+                VALUES (21, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (22, 96);
+                VALUES (22, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (23, 73);
+                VALUES (22, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (23, 4);
+                VALUES (22, 81);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (23, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (24, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (24, 5);
+                VALUES (24, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (24, 77);
+                VALUES (24, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (25, 46);
+                VALUES (25, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (25, 81);
+                VALUES (26, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (25, 7);
+                VALUES (26, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (26, 59);
+                VALUES (27, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (27, 6);
+                VALUES (27, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (28, 70);
+                VALUES (28, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (29, 64);
+                VALUES (29, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (29, 35);
+                VALUES (29, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (30, 96);
+                VALUES (29, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (31, 36);
+                VALUES (30, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (32, 46);
+                VALUES (30, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (33, 70);
+                VALUES (31, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (33, 18);
+                VALUES (31, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (34, 11);
+                VALUES (31, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (34, 71);
+                VALUES (32, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (35, 48);
+                VALUES (32, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (35, 30);
+                VALUES (32, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (36, 11);
+                VALUES (33, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (36, 35);
+                VALUES (34, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (37, 32);
+                VALUES (34, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (37, 39);
+                VALUES (35, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (37, 10);
+                VALUES (36, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (38, 64);
+                VALUES (36, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (38, 92);
+                VALUES (37, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (38, 17);
+                VALUES (37, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (39, 55);
+                VALUES (38, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (39, 4);
+                VALUES (39, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (39, 83);
+                VALUES (39, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (40, 67);
+                VALUES (40, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (40, 87);
+                VALUES (41, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (41, 83);
+                VALUES (41, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (42, 88);
+                VALUES (42, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (43, 36);
+                VALUES (42, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (43, 83);
+                VALUES (42, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (44, 59);
+                VALUES (43, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (45, 65);
+                VALUES (44, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (45, 75);
+                VALUES (44, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (46, 72);
+                VALUES (45, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (46, 93);
+                VALUES (45, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (47, 22);
+                VALUES (46, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (48, 72);
+                VALUES (46, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (48, 86);
+                VALUES (46, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (49, 51);
+                VALUES (47, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (50, 17);
+                VALUES (47, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (50, 91);
+                VALUES (47, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (50, 53);
+                VALUES (48, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (51, 66);
+                VALUES (48, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (51, 90);
+                VALUES (48, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (51, 58);
+                VALUES (49, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (52, 13);
+                VALUES (49, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (52, 30);
+                VALUES (49, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (52, 41);
+                VALUES (50, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (53, 30);
+                VALUES (50, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (53, 92);
+                VALUES (50, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (53, 1);
+                VALUES (51, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (54, 19);
+                VALUES (51, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (54, 71);
+                VALUES (51, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (55, 61);
+                VALUES (52, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (56, 36);
+                VALUES (53, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (56, 56);
+                VALUES (54, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (56, 58);
+                VALUES (54, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (57, 92);
+                VALUES (55, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (57, 56);
+                VALUES (55, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (57, 2);
+                VALUES (56, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (58, 1);
+                VALUES (57, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (58, 75);
+                VALUES (57, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (59, 66);
+                VALUES (57, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (59, 84);
+                VALUES (58, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (60, 72);
+                VALUES (59, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (61, 3);
+                VALUES (59, 6);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (59, 74);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (60, 7);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (60, 53);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (60, 99);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (61, 13);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (61, 10);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (61, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (62, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (63, 88);
+                VALUES (62, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (64, 8);
+                VALUES (63, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (65, 38);
+                VALUES (63, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (66, 94);
+                VALUES (63, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (66, 26);
+                VALUES (64, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (66, 91);
+                VALUES (65, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (67, 69);
+                VALUES (66, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (68, 30);
+                VALUES (66, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (68, 54);
+                VALUES (66, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (69, 97);
+                VALUES (67, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (69, 38);
+                VALUES (67, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (69, 22);
+                VALUES (68, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (70, 18);
+                VALUES (69, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (70, 27);
+                VALUES (70, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (71, 67);
+                VALUES (70, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (71, 79);
+                VALUES (71, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (72, 97);
+                VALUES (72, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (72, 89);
+                VALUES (72, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (72, 26);
+                VALUES (72, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (73, 74);
+                VALUES (73, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (73, 79);
+                VALUES (73, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (74, 22);
+                VALUES (73, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (74, 97);
+                VALUES (74, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (74, 36);
+                VALUES (75, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (75, 13);
+                VALUES (75, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (75, 38);
+                VALUES (75, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (75, 52);
+                VALUES (76, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (76, 15);
+                VALUES (77, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (76, 91);
+                VALUES (77, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (76, 12);
+                VALUES (78, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (77, 53);
+                VALUES (79, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (77, 91);
+                VALUES (80, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (77, 82);
+                VALUES (80, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (78, 5);
+                VALUES (80, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (78, 43);
+                VALUES (81, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (79, 18);
+                VALUES (81, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (79, 84);
+                VALUES (81, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (80, 93);
+                VALUES (82, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (80, 4);
+                VALUES (82, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (81, 42);
+                VALUES (83, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (82, 98);
+                VALUES (83, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (83, 27);
+                VALUES (83, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (83, 86);
+                VALUES (84, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (84, 8);
+                VALUES (84, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (84, 40);
+                VALUES (84, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (85, 9);
+                VALUES (85, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (86, 53);
+                VALUES (85, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (87, 88);
+                VALUES (85, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (87, 91);
+                VALUES (86, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (88, 13);
+                VALUES (86, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (89, 36);
+                VALUES (86, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (89, 62);
+                VALUES (87, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (90, 12);
+                VALUES (88, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (91, 3);
+                VALUES (88, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (91, 46);
+                VALUES (89, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (91, 56);
+                VALUES (89, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (92, 71);
+                VALUES (89, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (93, 60);
+                VALUES (90, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (93, 55);
+                VALUES (91, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (93, 90);
+                VALUES (91, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (94, 23);
+                VALUES (92, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (95, 22);
+                VALUES (92, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (95, 34);
+                VALUES (93, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (95, 100);
+                VALUES (94, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (96, 74);
+                VALUES (94, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (97, 11);
+                VALUES (95, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (97, 24);
+                VALUES (96, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (97, 92);
+                VALUES (97, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (98, 36);
+                VALUES (98, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (98, 66);
+                VALUES (98, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (98, 26);
+                VALUES (99, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (99, 100);
+                VALUES (100, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (99, 37);
+                VALUES (101, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (100, 4);
+                VALUES (101, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (101, 61);
+                VALUES (102, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (102, 11);
+                VALUES (102, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (103, 25);
+                VALUES (102, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (103, 74);
+                VALUES (103, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (103, 64);
+                VALUES (103, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (104, 70);
+                VALUES (104, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (104, 85);
+                VALUES (104, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (105, 73);
+                VALUES (104, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (105, 16);
+                VALUES (105, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (106, 88);
+                VALUES (106, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (106, 98);
+                VALUES (106, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (106, 80);
+                VALUES (106, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (107, 20);
+                VALUES (107, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (107, 97);
+                VALUES (108, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (107, 46);
+                VALUES (108, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (108, 32);
+                VALUES (108, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (108, 82);
+                VALUES (109, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (108, 96);
+                VALUES (110, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (109, 86);
+                VALUES (111, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (109, 30);
+                VALUES (111, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (110, 38);
+                VALUES (111, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (111, 89);
+                VALUES (112, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (112, 40);
+                VALUES (112, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (112, 38);
+                VALUES (112, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (113, 15);
+                VALUES (113, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (113, 38);
+                VALUES (113, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (113, 14);
+                VALUES (113, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (114, 1);
+                VALUES (114, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (115, 52);
+                VALUES (114, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (115, 89);
+                VALUES (114, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (115, 51);
+                VALUES (115, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (116, 46);
+                VALUES (115, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (117, 81);
+                VALUES (115, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (117, 100);
+                VALUES (116, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (118, 40);
+                VALUES (116, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (118, 29);
+                VALUES (116, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (119, 63);
+                VALUES (117, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (119, 19);
+                VALUES (117, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (120, 80);
+                VALUES (118, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (120, 76);
+                VALUES (118, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (120, 40);
+                VALUES (118, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (121, 71);
+                VALUES (119, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (121, 60);
+                VALUES (120, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (121, 66);
+                VALUES (120, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (122, 99);
+                VALUES (120, 60);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (121, 82);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (121, 38);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (121, 31);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (122, 95);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (122, 44);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (122, 70);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (123, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (123, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (123, 72);
+                VALUES (123, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (124, 93);
+                VALUES (124, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (124, 99);
+                VALUES (124, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (124, 42);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (125, 61);
+                VALUES (124, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (125, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (125, 46);
+                VALUES (126, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (126, 35);
+                VALUES (126, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (127, 48);
+                VALUES (127, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (127, 40);
+                VALUES (127, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (128, 53);
+                VALUES (128, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (128, 26);
+                VALUES (128, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (128, 51);
+                VALUES (128, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (129, 53);
+                VALUES (129, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (130, 34);
+                VALUES (129, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (130, 100);
+                VALUES (130, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (130, 25);
+                VALUES (130, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (131, 64);
+                VALUES (130, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (132, 45);
+                VALUES (131, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (132, 83);
+                VALUES (132, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (132, 36);
+                VALUES (132, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (133, 74);
+                VALUES (133, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (133, 1);
+                VALUES (133, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (133, 26);
+                VALUES (134, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (134, 6);
+                VALUES (134, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (135, 24);
+                VALUES (135, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (135, 84);
+                VALUES (135, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (136, 4);
+                VALUES (135, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (137, 18);
+                VALUES (136, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (138, 25);
+                VALUES (136, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (138, 62);
+                VALUES (136, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (138, 47);
+                VALUES (137, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (139, 82);
+                VALUES (137, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (140, 90);
+                VALUES (137, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (140, 44);
+                VALUES (138, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (141, 83);
+                VALUES (138, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (141, 69);
+                VALUES (139, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (141, 6);
+                VALUES (139, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (142, 23);
+                VALUES (140, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (142, 64);
+                VALUES (140, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (143, 89);
+                VALUES (141, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (143, 48);
+                VALUES (141, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (143, 42);
+                VALUES (142, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (144, 24);
+                VALUES (142, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (145, 25);
+                VALUES (142, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (146, 13);
+                VALUES (143, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (146, 68);
+                VALUES (143, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (147, 98);
+                VALUES (143, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (147, 2);
+                VALUES (144, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (147, 52);
+                VALUES (145, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (148, 40);
+                VALUES (145, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (148, 14);
+                VALUES (146, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (148, 77);
+                VALUES (146, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (149, 54);
+                VALUES (146, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (149, 76);
+                VALUES (147, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (149, 23);
+                VALUES (148, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (150, 49);
+                VALUES (148, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (150, 13);
+                VALUES (148, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (151, 91);
+                VALUES (149, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (151, 25);
+                VALUES (149, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (152, 90);
+                VALUES (150, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (152, 56);
+                VALUES (150, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (152, 86);
+                VALUES (151, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (153, 50);
+                VALUES (151, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (153, 61);
+                VALUES (152, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (153, 14);
+                VALUES (153, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (154, 62);
+                VALUES (153, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (154, 98);
+                VALUES (153, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (155, 27);
+                VALUES (154, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (155, 70);
+                VALUES (154, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (156, 4);
+                VALUES (155, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (157, 17);
+                VALUES (156, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (157, 80);
+                VALUES (156, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (157, 84);
+                VALUES (157, 92);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (157, 39);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (157, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (158, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (158, 26);
+                VALUES (158, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (158, 97);
+                VALUES (158, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (159, 8);
+                VALUES (159, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (160, 19);
+                VALUES (159, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (160, 100);
+                VALUES (159, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (160, 54);
+                VALUES (160, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (161, 67);
+                VALUES (160, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (161, 95);
+                VALUES (160, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (161, 54);
+                VALUES (161, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (162, 79);
+                VALUES (162, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (162, 1);
+                VALUES (163, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (163, 20);
+                VALUES (163, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (163, 22);
+                VALUES (164, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (163, 94);
+                VALUES (164, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (164, 8);
+                VALUES (164, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (164, 56);
+                VALUES (165, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (165, 3);
+                VALUES (165, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (166, 20);
+                VALUES (166, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (167, 46);
+                VALUES (166, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (168, 18);
+                VALUES (166, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (168, 15);
+                VALUES (167, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (169, 50);
+                VALUES (167, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (169, 85);
+                VALUES (168, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (169, 81);
+                VALUES (168, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (170, 62);
+                VALUES (169, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (170, 32);
+                VALUES (170, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (170, 28);
+                VALUES (170, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (171, 89);
+                VALUES (170, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (171, 41);
+                VALUES (171, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (171, 77);
+                VALUES (171, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (172, 42);
+                VALUES (172, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (172, 54);
+                VALUES (172, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (173, 91);
+                VALUES (172, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (174, 74);
+                VALUES (173, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (174, 96);
+                VALUES (174, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (175, 78);
+                VALUES (174, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (175, 16);
+                VALUES (174, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (175, 43);
+                VALUES (175, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (176, 19);
+                VALUES (175, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (176, 6);
+                VALUES (175, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (176, 48);
+                VALUES (176, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (177, 21);
+                VALUES (176, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (177, 83);
+                VALUES (177, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (178, 1);
+                VALUES (177, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (178, 58);
+                VALUES (178, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (178, 21);
+                VALUES (178, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (179, 84);
+                VALUES (179, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (179, 48);
+                VALUES (179, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (179, 26);
+                VALUES (179, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (180, 26);
+                VALUES (180, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (181, 80);
+                VALUES (180, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (182, 21);
+                VALUES (180, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (182, 62);
+                VALUES (181, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (183, 45);
+                VALUES (182, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (183, 75);
+                VALUES (183, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (183, 31);
+                VALUES (184, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (184, 34);
+                VALUES (184, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (184, 99);
+                VALUES (184, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (184, 94);
+                VALUES (185, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (185, 75);
+                VALUES (185, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (185, 62);
+                VALUES (186, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (186, 90);
+                VALUES (187, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (187, 70);
+                VALUES (188, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (187, 94);
+                VALUES (188, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (187, 54);
+                VALUES (188, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (188, 89);
+                VALUES (189, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (188, 60);
+                VALUES (189, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (189, 62);
+                VALUES (189, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (189, 13);
+                VALUES (190, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (189, 5);
+                VALUES (191, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (190, 8);
+                VALUES (191, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (190, 82);
+                VALUES (192, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (191, 74);
+                VALUES (192, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (192, 50);
+                VALUES (193, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (192, 84);
+                VALUES (194, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (192, 93);
+                VALUES (194, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (193, 14);
+                VALUES (194, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (193, 93);
+                VALUES (195, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (194, 6);
+                VALUES (196, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (194, 57);
+                VALUES (196, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (194, 77);
+                VALUES (196, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (195, 77);
+                VALUES (197, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (195, 40);
+                VALUES (197, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (195, 23);
+                VALUES (198, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (196, 23);
+                VALUES (198, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (197, 93);
+                VALUES (199, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (197, 20);
+                VALUES (200, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (198, 9);
+                VALUES (200, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (198, 63);
+                VALUES (201, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (198, 90);
+                VALUES (201, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (199, 23);
+                VALUES (201, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (199, 45);
+                VALUES (202, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (199, 9);
+                VALUES (202, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (200, 65);
+                VALUES (203, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (200, 76);
+                VALUES (203, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (201, 77);
+                VALUES (204, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (201, 46);
+                VALUES (204, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (201, 21);
+                VALUES (204, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (202, 97);
+                VALUES (205, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (203, 11);
+                VALUES (205, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (203, 83);
+                VALUES (205, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (204, 11);
+                VALUES (206, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (204, 85);
+                VALUES (206, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (205, 28);
+                VALUES (207, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (205, 93);
+                VALUES (207, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (206, 20);
+                VALUES (207, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (207, 72);
+                VALUES (208, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (208, 94);
+                VALUES (208, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (209, 94);
+                VALUES (208, 77);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (209, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (209, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (209, 95);
+                VALUES (209, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (210, 95);
+                VALUES (210, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (211, 86);
+                VALUES (210, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (212, 56);
+                VALUES (211, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (212, 29);
+                VALUES (211, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (212, 50);
+                VALUES (212, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (213, 31);
+                VALUES (213, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (214, 55);
+                VALUES (213, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (214, 84);
+                VALUES (214, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (215, 41);
+                VALUES (215, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (216, 78);
+                VALUES (215, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (216, 20);
+                VALUES (216, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (216, 47);
+                VALUES (216, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (217, 38);
+                VALUES (217, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (217, 55);
+                VALUES (217, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (217, 84);
+                VALUES (218, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (218, 67);
+                VALUES (218, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (219, 32);
+                VALUES (219, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (219, 13);
+                VALUES (219, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (220, 72);
+                VALUES (219, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (220, 40);
+                VALUES (220, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (221, 92);
+                VALUES (220, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (221, 52);
+                VALUES (220, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (221, 15);
+                VALUES (221, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (222, 9);
+                VALUES (221, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (223, 83);
+                VALUES (221, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (223, 21);
+                VALUES (222, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (224, 62);
+                VALUES (223, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (224, 98);
+                VALUES (224, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (224, 34);
+                VALUES (225, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (225, 19);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (225, 79);
+                VALUES (225, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (225, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (226, 38);
+                VALUES (226, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (226, 95);
+                VALUES (226, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (226, 53);
+                VALUES (226, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (227, 39);
+                VALUES (227, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (227, 74);
+                VALUES (228, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (228, 51);
+                VALUES (228, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (228, 87);
+                VALUES (228, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (229, 100);
+                VALUES (229, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (229, 97);
+                VALUES (230, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (229, 53);
+                VALUES (230, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (230, 59);
+                VALUES (230, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (231, 5);
+                VALUES (231, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (231, 36);
+                VALUES (231, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (231, 73);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (232, 44);
+                VALUES (231, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (232, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (233, 73);
+                VALUES (232, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (234, 34);
+                VALUES (232, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (235, 59);
+                VALUES (233, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (235, 11);
+                VALUES (234, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (236, 96);
+                VALUES (234, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (236, 53);
+                VALUES (234, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (237, 90);
+                VALUES (235, 92);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (236, 5);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (236, 66);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (236, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (237, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (237, 59);
+                VALUES (237, 100);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (238, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (238, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (238, 10);
+                VALUES (238, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (238, 67);
+                VALUES (239, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (239, 12);
+                VALUES (239, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (239, 66);
+                VALUES (240, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (240, 55);
+                VALUES (240, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (240, 74);
+                VALUES (241, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (240, 87);
+                VALUES (242, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (241, 77);
+                VALUES (242, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (242, 85);
+                VALUES (242, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (242, 83);
+                VALUES (243, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (243, 62);
+                VALUES (244, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (244, 6);
+                VALUES (244, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (244, 72);
+                VALUES (244, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (244, 3);
+                VALUES (245, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (245, 74);
+                VALUES (245, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (245, 25);
+                VALUES (246, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (245, 35);
+                VALUES (247, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (246, 95);
+                VALUES (247, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (247, 15);
+                VALUES (247, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (247, 8);
+                VALUES (248, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (248, 35);
+                VALUES (248, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (248, 25);
+                VALUES (248, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (248, 23);
+                VALUES (249, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (249, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (250, 94);
+                VALUES (250, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (250, 1);
+                VALUES (250, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (251, 86);
+                VALUES (251, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (251, 14);
+                VALUES (252, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (251, 51);
+                VALUES (252, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (252, 45);
+                VALUES (253, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (252, 7);
+                VALUES (254, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (253, 68);
+                VALUES (254, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (253, 32);
+                VALUES (255, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (254, 11);
+                VALUES (255, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (254, 49);
+                VALUES (256, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (254, 41);
+                VALUES (256, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (255, 10);
+                VALUES (256, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (255, 73);
+                VALUES (257, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (255, 1);
+                VALUES (257, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (256, 70);
+                VALUES (257, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (256, 49);
+                VALUES (258, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (256, 10);
+                VALUES (259, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (257, 34);
+                VALUES (259, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (258, 54);
+                VALUES (260, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (259, 12);
+                VALUES (260, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (259, 37);
+                VALUES (260, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (260, 54);
+                VALUES (261, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (260, 73);
+                VALUES (262, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (261, 61);
+                VALUES (262, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (262, 92);
+                VALUES (262, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (262, 10);
+                VALUES (263, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (262, 98);
+                VALUES (264, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (263, 26);
+                VALUES (264, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (263, 75);
+                VALUES (264, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (263, 80);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (264, 8);
+                VALUES (265, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (265, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (265, 15);
+                VALUES (266, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (266, 7);
+                VALUES (266, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (266, 73);
+                VALUES (267, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (267, 55);
+                VALUES (268, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (268, 79);
+                VALUES (268, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (268, 90);
+                VALUES (269, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (269, 77);
+                VALUES (269, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (269, 75);
+                VALUES (270, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (269, 19);
+                VALUES (270, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (270, 55);
+                VALUES (270, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (271, 43);
+                VALUES (271, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (271, 24);
+                VALUES (272, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (272, 53);
+                VALUES (272, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (272, 49);
+                VALUES (273, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (273, 3);
+                VALUES (273, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (273, 69);
+                VALUES (274, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (274, 77);
+                VALUES (275, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (274, 32);
+                VALUES (275, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (274, 52);
+                VALUES (275, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (275, 75);
+                VALUES (276, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (276, 29);
+                VALUES (276, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (276, 92);
+                VALUES (277, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (277, 36);
+                VALUES (277, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (277, 82);
+                VALUES (278, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (277, 44);
+                VALUES (279, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (278, 34);
+                VALUES (279, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (278, 60);
+                VALUES (280, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (278, 82);
+                VALUES (281, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (279, 86);
+                VALUES (281, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (279, 35);
+                VALUES (281, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (279, 63);
+                VALUES (282, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (280, 80);
+                VALUES (282, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (281, 76);
+                VALUES (282, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (282, 26);
+                VALUES (283, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (282, 34);
+                VALUES (283, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (283, 36);
+                VALUES (284, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (283, 73);
+                VALUES (284, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (284, 60);
+                VALUES (284, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (285, 1);
+                VALUES (285, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (286, 15);
+                VALUES (285, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (286, 99);
+                VALUES (285, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (286, 50);
+                VALUES (286, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (287, 33);
+                VALUES (286, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (287, 46);
+                VALUES (287, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (288, 84);
+                VALUES (287, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (288, 8);
+                VALUES (288, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (288, 94);
+                VALUES (289, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (289, 52);
+                VALUES (289, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (290, 71);
+                VALUES (290, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (290, 81);
+                VALUES (290, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (291, 59);
+                VALUES (290, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (291, 41);
+                VALUES (291, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (291, 3);
+                VALUES (291, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (292, 27);
+                VALUES (292, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (293, 96);
+                VALUES (293, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (294, 34);
+                VALUES (294, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (294, 28);
+                VALUES (294, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (294, 22);
+                VALUES (294, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (295, 35);
+                VALUES (295, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (295, 47);
+                VALUES (296, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (295, 98);
+                VALUES (296, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (296, 48);
+                VALUES (296, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (297, 15);
+                VALUES (297, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (297, 64);
+                VALUES (297, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (298, 1);
+                VALUES (297, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (298, 80);
+                VALUES (298, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (299, 14);
+                VALUES (299, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (299, 89);
+                VALUES (299, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (299, 76);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (300, 40);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (301, 32);
+                VALUES (300, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (301, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (301, 66);
+                VALUES (301, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (302, 64);
+                VALUES (302, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (303, 100);
+                VALUES (303, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (303, 33);
+                VALUES (303, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (304, 67);
+                VALUES (304, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (304, 51);
+                VALUES (304, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (304, 31);
+                VALUES (304, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (305, 61);
+                VALUES (305, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (305, 36);
+                VALUES (305, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (306, 20);
+                VALUES (305, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (306, 7);
+                VALUES (306, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (307, 22);
+                VALUES (307, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (308, 76);
+                VALUES (307, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (308, 62);
+                VALUES (307, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (309, 4);
+                VALUES (308, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (309, 69);
+                VALUES (308, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (309, 78);
+                VALUES (308, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (310, 79);
+                VALUES (309, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (311, 90);
+                VALUES (310, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (311, 99);
+                VALUES (311, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (311, 32);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (312, 40);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (312, 82);
+                VALUES (312, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (312, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (313, 58);
+                VALUES (312, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (314, 72);
+                VALUES (313, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (314, 9);
+                VALUES (313, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (315, 93);
+                VALUES (313, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (315, 20);
+                VALUES (314, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (315, 79);
+                VALUES (314, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (316, 12);
+                VALUES (315, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (316, 98);
+                VALUES (315, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (316, 93);
+                VALUES (315, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (317, 39);
+                VALUES (316, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (317, 7);
+                VALUES (316, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (317, 11);
+                VALUES (317, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (318, 31);
+                VALUES (317, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (318, 32);
+                VALUES (318, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (318, 20);
+                VALUES (319, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (319, 64);
+                VALUES (319, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (319, 50);
+                VALUES (319, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (320, 8);
+                VALUES (320, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (321, 49);
+                VALUES (320, 34);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (320, 37);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (321, 76);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (322, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (322, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (323, 27);
+                VALUES (322, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (323, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (324, 15);
+                VALUES (323, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (324, 67);
+                VALUES (324, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (324, 39);
+                VALUES (324, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (325, 27);
+                VALUES (324, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (325, 74);
+                VALUES (325, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (326, 65);
+                VALUES (325, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (326, 12);
+                VALUES (326, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (326, 97);
+                VALUES (327, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (327, 79);
+                VALUES (327, 50);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (327, 19);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (328, 43);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (328, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (328, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (328, 13);
+                VALUES (329, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (329, 63);
+                VALUES (330, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (329, 21);
+                VALUES (330, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (329, 91);
+                VALUES (331, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (330, 25);
+                VALUES (331, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (331, 100);
+                VALUES (331, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (332, 70);
+                VALUES (332, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (332, 3);
+                VALUES (332, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (332, 35);
+                VALUES (332, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (333, 8);
+                VALUES (333, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (333, 3);
+                VALUES (334, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (333, 50);
+                VALUES (335, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (334, 10);
+                VALUES (335, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (334, 73);
+                VALUES (336, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (334, 79);
+                VALUES (336, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (335, 14);
+                VALUES (337, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (335, 43);
+                VALUES (337, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (336, 96);
+                VALUES (337, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (336, 1);
+                VALUES (338, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (336, 11);
+                VALUES (338, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (337, 34);
+                VALUES (338, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (338, 69);
+                VALUES (339, 3);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (339, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (339, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (340, 3);
+                VALUES (340, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (340, 53);
+                VALUES (340, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (341, 12);
+                VALUES (340, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (341, 43);
+                VALUES (341, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (341, 55);
+                VALUES (342, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (342, 70);
+                VALUES (342, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (343, 28);
+                VALUES (343, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (343, 92);
+                VALUES (343, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (343, 79);
+                VALUES (344, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (344, 92);
+                VALUES (345, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (345, 11);
+                VALUES (346, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (345, 29);
+                VALUES (346, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (345, 8);
+                VALUES (347, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (346, 42);
+                VALUES (347, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (347, 5);
+                VALUES (347, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (348, 28);
+                VALUES (348, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (349, 60);
+                VALUES (348, 3);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (349, 57);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (349, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (349, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (349, 70);
+                VALUES (350, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (350, 66);
+                VALUES (351, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (351, 99);
+                VALUES (351, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (351, 36);
+                VALUES (351, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (352, 83);
+                VALUES (352, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (353, 91);
+                VALUES (353, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (353, 39);
+                VALUES (353, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (354, 100);
+                VALUES (354, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (354, 54);
+                VALUES (354, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (354, 92);
+                VALUES (355, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (355, 79);
+                VALUES (355, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (356, 45);
+                VALUES (356, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (356, 36);
+                VALUES (357, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (357, 43);
+                VALUES (357, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (357, 70);
+                VALUES (358, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (357, 15);
+                VALUES (358, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (358, 15);
+                VALUES (358, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (359, 94);
+                VALUES (359, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (360, 66);
+                VALUES (359, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (360, 11);
+                VALUES (360, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (361, 64);
+                VALUES (361, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (361, 3);
+                VALUES (361, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (361, 57);
+                VALUES (362, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (362, 88);
+                VALUES (362, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (362, 36);
+                VALUES (362, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (363, 67);
+                VALUES (363, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (363, 33);
+                VALUES (363, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (363, 69);
+                VALUES (364, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (364, 61);
+                VALUES (364, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (364, 46);
+                VALUES (365, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (364, 53);
+                VALUES (365, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (365, 19);
+                VALUES (365, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (365, 11);
+                VALUES (366, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (366, 70);
+                VALUES (366, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (366, 3);
+                VALUES (366, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (366, 51);
+                VALUES (367, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (367, 1);
+                VALUES (368, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (368, 48);
+                VALUES (369, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (368, 87);
+                VALUES (369, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (369, 78);
+                VALUES (369, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (369, 80);
+                VALUES (370, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (369, 91);
+                VALUES (370, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (370, 67);
+                VALUES (370, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (370, 30);
+                VALUES (371, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (371, 94);
+                VALUES (371, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (371, 26);
+                VALUES (371, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (371, 61);
+                VALUES (372, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (372, 2);
+                VALUES (372, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (372, 68);
+                VALUES (373, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (373, 89);
+                VALUES (374, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (374, 27);
+                VALUES (374, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (375, 67);
+                VALUES (375, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (376, 20);
+                VALUES (375, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (377, 70);
+                VALUES (375, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (377, 50);
+                VALUES (376, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (378, 87);
+                VALUES (377, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (379, 95);
+                VALUES (377, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (380, 24);
+                VALUES (377, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (381, 5);
+                VALUES (378, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (381, 82);
+                VALUES (378, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (382, 67);
+                VALUES (378, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (382, 40);
+                VALUES (379, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (383, 93);
+                VALUES (379, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (384, 24);
+                VALUES (379, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (384, 80);
+                VALUES (380, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (385, 59);
+                VALUES (380, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (385, 97);
+                VALUES (381, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (386, 11);
+                VALUES (382, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (386, 32);
+                VALUES (382, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (387, 80);
+                VALUES (383, 40);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (384, 39);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (384, 50);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (384, 3);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (385, 93);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (385, 10);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (385, 83);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (386, 100);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (386, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (387, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (388, 84);
+                VALUES (387, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (388, 79);
+                VALUES (388, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (388, 92);
+                VALUES (388, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (389, 55);
+                VALUES (388, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (390, 55);
+                VALUES (389, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (391, 94);
+                VALUES (389, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (391, 27);
+                VALUES (390, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (391, 82);
+                VALUES (390, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (392, 90);
+                VALUES (391, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (392, 23);
+                VALUES (391, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (393, 45);
+                VALUES (391, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (393, 82);
+                VALUES (392, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (393, 44);
+                VALUES (392, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (394, 99);
+                VALUES (393, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (395, 25);
+                VALUES (393, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (395, 37);
+                VALUES (394, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (395, 76);
+                VALUES (394, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (396, 63);
+                VALUES (395, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (396, 17);
+                VALUES (395, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (396, 18);
+                VALUES (395, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (397, 83);
+                VALUES (396, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (397, 13);
+                VALUES (396, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (397, 3);
+                VALUES (396, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (398, 84);
+                VALUES (397, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (399, 80);
+                VALUES (397, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (399, 99);
+                VALUES (398, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (399, 54);
+                VALUES (398, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (400, 67);
+                VALUES (398, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (400, 73);
+                VALUES (399, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (401, 33);
+                VALUES (399, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (401, 97);
+                VALUES (399, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (401, 49);
+                VALUES (400, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (402, 7);
+                VALUES (400, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (403, 18);
+                VALUES (400, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (404, 9);
+                VALUES (401, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (405, 7);
+                VALUES (402, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (405, 9);
+                VALUES (403, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (406, 42);
+                VALUES (403, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (406, 14);
+                VALUES (404, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (407, 31);
+                VALUES (405, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (408, 98);
+                VALUES (406, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (408, 20);
+                VALUES (406, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (409, 32);
+                VALUES (406, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (409, 8);
+                VALUES (407, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (410, 41);
+                VALUES (407, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (410, 91);
+                VALUES (408, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (410, 16);
+                VALUES (408, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (411, 28);
+                VALUES (408, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (411, 42);
+                VALUES (409, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (411, 37);
+                VALUES (410, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (412, 66);
+                VALUES (410, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (412, 3);
+                VALUES (411, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (413, 83);
+                VALUES (412, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (413, 47);
+                VALUES (412, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (414, 95);
+                VALUES (413, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (415, 49);
+                VALUES (413, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (415, 50);
+                VALUES (414, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (416, 62);
+                VALUES (414, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (417, 23);
+                VALUES (414, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (418, 9);
+                VALUES (415, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (418, 92);
+                VALUES (416, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (418, 71);
+                VALUES (416, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (419, 6);
+                VALUES (417, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (419, 65);
+                VALUES (417, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (420, 79);
+                VALUES (417, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (420, 65);
+                VALUES (418, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (420, 35);
+                VALUES (418, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (421, 49);
+                VALUES (418, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (422, 78);
+                VALUES (419, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (423, 20);
+                VALUES (419, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (424, 66);
+                VALUES (420, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (424, 82);
+                VALUES (420, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (425, 8);
+                VALUES (421, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (425, 22);
+                VALUES (422, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (426, 14);
+                VALUES (423, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (426, 2);
+                VALUES (423, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (427, 87);
+                VALUES (423, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (428, 58);
+                VALUES (424, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (428, 79);
+                VALUES (424, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (428, 98);
+                VALUES (425, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (429, 62);
+                VALUES (425, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (429, 1);
+                VALUES (425, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (429, 94);
+                VALUES (426, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (430, 19);
+                VALUES (426, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (431, 29);
+                VALUES (427, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (431, 25);
+                VALUES (427, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (431, 74);
+                VALUES (427, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (432, 85);
+                VALUES (428, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (433, 17);
+                VALUES (428, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (433, 26);
+                VALUES (428, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (434, 11);
+                VALUES (429, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (434, 36);
+                VALUES (430, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (434, 100);
+                VALUES (430, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (435, 74);
+                VALUES (431, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (435, 14);
+                VALUES (431, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (435, 92);
+                VALUES (431, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (436, 21);
+                VALUES (432, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (436, 98);
+                VALUES (433, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (437, 71);
+                VALUES (433, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (437, 74);
+                VALUES (433, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (438, 38);
+                VALUES (434, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (438, 61);
+                VALUES (434, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (439, 26);
+                VALUES (435, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (440, 39);
+                VALUES (436, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (441, 76);
+                VALUES (436, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (442, 46);
+                VALUES (436, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (442, 35);
+                VALUES (437, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (443, 14);
+                VALUES (437, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (443, 67);
+                VALUES (438, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (443, 77);
+                VALUES (438, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (444, 2);
+                VALUES (438, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (444, 49);
+                VALUES (439, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (444, 58);
+                VALUES (439, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (445, 99);
+                VALUES (439, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (445, 64);
+                VALUES (440, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (445, 23);
+                VALUES (441, 95);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (442, 77);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (442, 88);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (442, 67);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (443, 16);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (444, 47);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (444, 32);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (444, 43);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (445, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (445, 69);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (445, 10);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (446, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (446, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (446, 53);
+                VALUES (447, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (447, 19);
+                VALUES (447, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (448, 3);
+                VALUES (447, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (448, 33);
+                VALUES (448, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (449, 39);
+                VALUES (449, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (449, 63);
+                VALUES (449, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (450, 64);
+                VALUES (450, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (450, 43);
+                VALUES (451, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (451, 63);
+                VALUES (451, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (452, 7);
+                VALUES (452, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (452, 86);
+                VALUES (452, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (453, 4);
+                VALUES (452, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (453, 57);
+                VALUES (453, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (453, 50);
+                VALUES (454, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (454, 18);
+                VALUES (454, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (455, 58);
+                VALUES (455, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (456, 100);
+                VALUES (456, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (456, 85);
+                VALUES (456, 32);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (457, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (457, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (458, 49);
+                VALUES (457, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (458, 44);
+                VALUES (458, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (459, 98);
+                VALUES (458, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (459, 76);
+                VALUES (458, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (460, 65);
+                VALUES (459, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (460, 41);
+                VALUES (459, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (460, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (461, 94);
+                VALUES (460, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (461, 69);
+                VALUES (460, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (461, 66);
+                VALUES (461, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (462, 62);
+                VALUES (461, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (463, 74);
+                VALUES (462, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (464, 75);
+                VALUES (462, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (464, 31);
+                VALUES (463, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (464, 2);
+                VALUES (463, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (465, 99);
+                VALUES (463, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (465, 22);
+                VALUES (464, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (466, 78);
+                VALUES (464, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (466, 29);
+                VALUES (464, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (466, 89);
+                VALUES (465, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (467, 70);
+                VALUES (466, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (468, 20);
+                VALUES (466, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (469, 23);
+                VALUES (466, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (470, 68);
+                VALUES (467, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (470, 90);
+                VALUES (468, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (470, 83);
+                VALUES (468, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (471, 57);
+                VALUES (469, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (471, 49);
+                VALUES (470, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (471, 95);
+                VALUES (470, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (472, 90);
+                VALUES (470, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (472, 3);
+                VALUES (471, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (472, 17);
+                VALUES (471, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (473, 83);
+                VALUES (471, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (473, 21);
+                VALUES (472, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (473, 96);
+                VALUES (472, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (474, 5);
+                VALUES (473, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (475, 79);
+                VALUES (473, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (476, 9);
+                VALUES (474, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (476, 42);
+                VALUES (475, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (476, 40);
+                VALUES (475, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (477, 29);
+                VALUES (476, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (477, 50);
+                VALUES (477, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (478, 44);
+                VALUES (478, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (478, 8);
+                VALUES (478, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (479, 60);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (480, 53);
+                VALUES (479, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (480, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (480, 94);
+                VALUES (480, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (481, 39);
+                VALUES (480, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (481, 85);
+                VALUES (481, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (482, 72);
+                VALUES (481, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (482, 6);
+                VALUES (481, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (483, 66);
+                VALUES (482, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (483, 8);
+                VALUES (482, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (484, 87);
+                VALUES (482, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (484, 7);
+                VALUES (483, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (485, 94);
+                VALUES (483, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (485, 59);
+                VALUES (483, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (486, 94);
+                VALUES (484, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (486, 67);
+                VALUES (484, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (486, 84);
+                VALUES (484, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (487, 82);
+                VALUES (485, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (487, 50);
+                VALUES (485, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (487, 95);
+                VALUES (485, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (488, 86);
+                VALUES (486, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (488, 31);
+                VALUES (486, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (489, 3);
+                VALUES (487, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (489, 21);
+                VALUES (487, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (490, 22);
+                VALUES (487, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (490, 97);
+                VALUES (488, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (491, 37);
+                VALUES (488, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (492, 69);
+                VALUES (488, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (493, 13);
+                VALUES (489, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (493, 22);
+                VALUES (490, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (493, 93);
+                VALUES (490, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (494, 55);
+                VALUES (491, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (495, 1);
+                VALUES (491, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (495, 39);
+                VALUES (491, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (496, 49);
+                VALUES (492, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (496, 20);
+                VALUES (493, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (496, 77);
+                VALUES (493, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (497, 42);
+                VALUES (494, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (498, 100);
+                VALUES (494, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (499, 82);
+                VALUES (494, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (500, 43);
+                VALUES (495, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (501, 45);
+                VALUES (496, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (502, 37);
+                VALUES (496, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (502, 71);
+                VALUES (496, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (502, 31);
+                VALUES (497, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (503, 87);
+                VALUES (498, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (503, 94);
+                VALUES (498, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (504, 16);
+                VALUES (498, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (505, 61);
+                VALUES (499, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (506, 33);
+                VALUES (499, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (506, 43);
+                VALUES (500, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (507, 41);
+                VALUES (500, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (507, 6);
+                VALUES (501, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (507, 45);
+                VALUES (501, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (508, 62);
+                VALUES (501, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (508, 67);
+                VALUES (502, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (509, 93);
+                VALUES (502, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (509, 97);
+                VALUES (503, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (509, 100);
+                VALUES (503, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (510, 30);
+                VALUES (503, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (510, 1);
+                VALUES (504, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (510, 89);
+                VALUES (505, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (511, 48);
+                VALUES (506, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (511, 66);
+                VALUES (506, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (512, 89);
+                VALUES (506, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (512, 83);
+                VALUES (507, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (513, 100);
+                VALUES (507, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (514, 93);
+                VALUES (508, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (514, 31);
+                VALUES (509, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (514, 97);
+                VALUES (510, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (515, 60);
+                VALUES (511, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (515, 70);
+                VALUES (511, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (516, 60);
+                VALUES (511, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (516, 33);
+                VALUES (512, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (516, 50);
+                VALUES (513, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (517, 49);
+                VALUES (513, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (517, 97);
+                VALUES (513, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (518, 52);
+                VALUES (514, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (518, 87);
+                VALUES (514, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (518, 98);
+                VALUES (514, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (519, 80);
+                VALUES (515, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (520, 95);
+                VALUES (516, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (520, 96);
+                VALUES (516, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (521, 64);
+                VALUES (516, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (521, 39);
+                VALUES (517, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (522, 35);
+                VALUES (517, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (523, 37);
+                VALUES (517, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (523, 6);
+                VALUES (518, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (523, 66);
+                VALUES (518, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (524, 43);
+                VALUES (519, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (524, 40);
+                VALUES (520, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (524, 11);
+                VALUES (521, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (525, 55);
+                VALUES (521, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (525, 64);
+                VALUES (521, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (525, 98);
+                VALUES (522, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (526, 56);
+                VALUES (522, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (527, 38);
+                VALUES (522, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (527, 24);
+                VALUES (523, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (527, 93);
+                VALUES (524, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (528, 66);
+                VALUES (524, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (528, 95);
+                VALUES (524, 73);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (525, 77);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (525, 71);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (525, 20);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (526, 9);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (526, 17);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (527, 89);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (527, 94);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (528, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (528, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (529, 66);
+                VALUES (528, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (529, 84);
+                VALUES (529, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (529, 80);
+                VALUES (530, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (530, 55);
+                VALUES (530, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (530, 12);
+                VALUES (531, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (530, 42);
+                VALUES (531, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (531, 17);
+                VALUES (532, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (532, 50);
+                VALUES (532, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (532, 12);
+                VALUES (532, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (533, 14);
+                VALUES (533, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (534, 83);
+                VALUES (534, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (535, 49);
+                VALUES (534, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (536, 65);
+                VALUES (535, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (536, 100);
+                VALUES (536, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (537, 74);
+                VALUES (536, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (537, 72);
+                VALUES (536, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (537, 100);
+                VALUES (537, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (538, 88);
+                VALUES (538, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (539, 75);
+                VALUES (539, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (540, 5);
+                VALUES (539, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (540, 54);
+                VALUES (540, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (540, 88);
+                VALUES (541, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (541, 28);
+                VALUES (541, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (541, 70);
+                VALUES (541, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (541, 49);
+                VALUES (542, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (542, 61);
+                VALUES (543, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (542, 97);
+                VALUES (543, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (542, 29);
+                VALUES (543, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (543, 32);
+                VALUES (544, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (543, 41);
+                VALUES (545, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (543, 22);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (544, 63);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (544, 25);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (545, 74);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (545, 64);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (545, 89);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (546, 36);
+                VALUES (546, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (546, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (546, 87);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (547, 74);
+                VALUES (547, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (547, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (548, 88);
+                VALUES (548, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (548, 100);
+                VALUES (548, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (549, 87);
+                VALUES (549, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (549, 88);
+                VALUES (549, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (550, 35);
+                VALUES (550, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (551, 30);
+                VALUES (550, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (551, 99);
+                VALUES (550, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (551, 89);
+                VALUES (551, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (552, 22);
+                VALUES (551, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (553, 15);
+                VALUES (552, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (553, 83);
+                VALUES (552, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (553, 77);
+                VALUES (552, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (554, 71);
+                VALUES (553, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (555, 95);
+                VALUES (554, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (556, 50);
+                VALUES (554, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (557, 4);
+                VALUES (554, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (558, 28);
+                VALUES (555, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (558, 92);
+                VALUES (555, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (558, 54);
+                VALUES (556, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (559, 79);
+                VALUES (556, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (559, 50);
+                VALUES (556, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (560, 48);
+                VALUES (557, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (561, 17);
+                VALUES (558, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (562, 40);
+                VALUES (558, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (562, 31);
+                VALUES (559, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (563, 61);
+                VALUES (559, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (564, 62);
+                VALUES (560, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (564, 95);
+                VALUES (560, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (564, 27);
+                VALUES (561, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (565, 49);
+                VALUES (561, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (566, 93);
+                VALUES (562, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (566, 56);
+                VALUES (562, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (566, 4);
+                VALUES (562, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (567, 62);
+                VALUES (563, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (567, 60);
+                VALUES (564, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (567, 91);
+                VALUES (564, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (568, 94);
+                VALUES (565, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (568, 12);
+                VALUES (565, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (569, 53);
+                VALUES (565, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (570, 36);
+                VALUES (566, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (570, 64);
+                VALUES (567, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (570, 83);
+                VALUES (567, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (571, 89);
+                VALUES (567, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (571, 74);
+                VALUES (568, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (572, 47);
+                VALUES (568, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (572, 82);
+                VALUES (568, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (573, 98);
+                VALUES (569, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (574, 3);
+                VALUES (569, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (574, 77);
+                VALUES (569, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (575, 71);
+                VALUES (570, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (576, 96);
+                VALUES (570, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (576, 67);
+                VALUES (571, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (576, 13);
+                VALUES (571, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (577, 26);
+                VALUES (572, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (578, 67);
+                VALUES (572, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (578, 60);
+                VALUES (573, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (578, 12);
+                VALUES (574, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (579, 44);
+                VALUES (574, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (579, 98);
+                VALUES (574, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (580, 31);
+                VALUES (575, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (581, 61);
+                VALUES (575, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (581, 33);
+                VALUES (575, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (582, 75);
+                VALUES (576, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (583, 30);
+                VALUES (576, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (584, 96);
+                VALUES (576, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (585, 80);
+                VALUES (577, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (585, 55);
+                VALUES (577, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (585, 23);
+                VALUES (577, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (586, 67);
+                VALUES (578, 85);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (578, 26);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (578, 53);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (579, 3);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (580, 96);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (580, 50);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (581, 73);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (581, 98);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (581, 77);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (582, 45);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (582, 19);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (582, 58);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (583, 86);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (584, 98);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (584, 52);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (585, 61);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (586, 36);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (587, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (587, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (588, 97);
+                VALUES (587, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (588, 19);
+                VALUES (588, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (589, 99);
+                VALUES (588, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (590, 94);
+                VALUES (588, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (590, 35);
+                VALUES (589, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (591, 57);
+                VALUES (589, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (591, 91);
+                VALUES (589, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (591, 42);
+                VALUES (590, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (592, 31);
+                VALUES (591, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (592, 2);
+                VALUES (592, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (592, 46);
+                VALUES (592, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (593, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (593, 72);
+                VALUES (594, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (594, 68);
+                VALUES (595, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (595, 88);
+                VALUES (595, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (596, 59);
+                VALUES (595, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (596, 30);
+                VALUES (596, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (597, 65);
+                VALUES (596, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (597, 27);
+                VALUES (596, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (597, 2);
+                VALUES (597, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (598, 96);
+                VALUES (597, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (598, 65);
+                VALUES (598, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (598, 95);
+                VALUES (599, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (599, 94);
+                VALUES (600, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (600, 6);
+                VALUES (600, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (600, 15);
+                VALUES (601, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (601, 45);
+                VALUES (601, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (602, 75);
+                VALUES (601, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (602, 8);
+                VALUES (602, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (603, 16);
+                VALUES (603, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (604, 33);
+                VALUES (604, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (604, 69);
+                VALUES (605, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (605, 51);
+                VALUES (605, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (605, 27);
+                VALUES (606, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (605, 44);
+                VALUES (606, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (606, 62);
+                VALUES (606, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (606, 2);
+                VALUES (607, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (606, 82);
+                VALUES (607, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (607, 81);
+                VALUES (607, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (607, 63);
+                VALUES (608, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (608, 16);
+                VALUES (608, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (609, 38);
+                VALUES (609, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (609, 49);
+                VALUES (609, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (610, 27);
+                VALUES (610, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (611, 36);
+                VALUES (611, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (611, 4);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (611, 49);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (612, 95);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (612, 75);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (612, 45);
+                VALUES (612, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (613, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (613, 17);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (613, 57);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (614, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (615, 94);
+                VALUES (614, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (616, 8);
+                VALUES (615, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (617, 32);
+                VALUES (615, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (617, 46);
+                VALUES (616, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (617, 45);
+                VALUES (616, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (618, 43);
+                VALUES (616, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (619, 97);
+                VALUES (617, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (620, 20);
+                VALUES (618, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (620, 61);
+                VALUES (618, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (620, 90);
+                VALUES (618, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (621, 76);
+                VALUES (619, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (621, 48);
+                VALUES (619, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (622, 15);
+                VALUES (620, 72);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (620, 40);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (620, 80);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (621, 82);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (621, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (622, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (623, 86);
+                VALUES (623, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (623, 79);
+                VALUES (623, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (624, 41);
+                VALUES (623, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (625, 25);
+                VALUES (624, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (625, 49);
+                VALUES (624, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (626, 83);
+                VALUES (624, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (626, 52);
+                VALUES (625, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (626, 35);
+                VALUES (626, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (627, 17);
+                VALUES (627, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (627, 51);
+                VALUES (628, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (627, 69);
+                VALUES (629, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (628, 47);
+                VALUES (629, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (628, 74);
+                VALUES (630, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (629, 82);
+                VALUES (630, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (629, 5);
+                VALUES (631, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (629, 87);
+                VALUES (631, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (630, 51);
+                VALUES (632, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (630, 29);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (630, 43);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (631, 64);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (631, 1);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (631, 23);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (632, 16);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (632, 21);
+                VALUES (632, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (632, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (633, 75);
+                VALUES (633, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (633, 16);
+                VALUES (633, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (634, 71);
+                VALUES (633, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (635, 59);
+                VALUES (634, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (635, 47);
+                VALUES (634, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (635, 21);
+                VALUES (634, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (636, 69);
+                VALUES (635, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (637, 53);
+                VALUES (635, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (638, 48);
+                VALUES (636, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (638, 29);
+                VALUES (637, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (638, 14);
+                VALUES (638, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (639, 34);
+                VALUES (639, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (639, 18);
+                VALUES (640, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (639, 35);
+                VALUES (640, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (640, 52);
+                VALUES (641, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (640, 86);
+                VALUES (641, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (640, 63);
+                VALUES (642, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (641, 86);
+                VALUES (642, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (641, 83);
+                VALUES (643, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (641, 95);
+                VALUES (643, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (642, 96);
+                VALUES (644, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (642, 100);
+                VALUES (645, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (643, 23);
+                VALUES (645, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (644, 51);
+                VALUES (645, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (644, 33);
+                VALUES (646, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (645, 43);
+                VALUES (646, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (646, 94);
+                VALUES (647, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (646, 78);
+                VALUES (647, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (646, 15);
+                VALUES (647, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (647, 89);
+                VALUES (648, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (647, 14);
+                VALUES (648, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (647, 59);
+                VALUES (648, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (648, 70);
+                VALUES (649, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (649, 29);
+                VALUES (649, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (649, 7);
+                VALUES (649, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (649, 72);
+                VALUES (650, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (650, 55);
+                VALUES (650, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (651, 59);
+                VALUES (651, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (651, 90);
+                VALUES (651, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (651, 66);
+                VALUES (651, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (652, 54);
+                VALUES (652, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (653, 17);
+                VALUES (653, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (654, 56);
+                VALUES (654, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (654, 36);
+                VALUES (655, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (654, 80);
+                VALUES (656, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (655, 35);
+                VALUES (656, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (655, 73);
+                VALUES (656, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (655, 70);
+                VALUES (657, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (656, 1);
+                VALUES (658, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (656, 9);
+                VALUES (658, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (657, 60);
+                VALUES (659, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (657, 76);
+                VALUES (660, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (657, 30);
+                VALUES (661, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (658, 46);
+                VALUES (662, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (658, 81);
+                VALUES (663, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (658, 24);
+                VALUES (663, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (659, 39);
+                VALUES (664, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (659, 7);
+                VALUES (664, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (660, 79);
+                VALUES (665, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (661, 87);
+                VALUES (665, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (661, 54);
+                VALUES (665, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (662, 76);
+                VALUES (666, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (662, 97);
+                VALUES (667, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (662, 93);
+                VALUES (667, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (663, 7);
+                VALUES (668, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (663, 38);
+                VALUES (668, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (663, 52);
+                VALUES (669, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (664, 77);
+                VALUES (669, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (665, 62);
+                VALUES (670, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (665, 29);
+                VALUES (670, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (666, 17);
+                VALUES (671, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (666, 38);
+                VALUES (671, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (666, 20);
+                VALUES (672, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (667, 9);
+                VALUES (673, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (668, 81);
+                VALUES (674, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (668, 75);
+                VALUES (675, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (668, 41);
+                VALUES (675, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (669, 66);
+                VALUES (676, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (669, 44);
+                VALUES (676, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (669, 56);
+                VALUES (676, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (670, 17);
+                VALUES (677, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (670, 71);
+                VALUES (677, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (671, 58);
+                VALUES (677, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (671, 82);
+                VALUES (678, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (672, 75);
+                VALUES (678, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (673, 35);
+                VALUES (678, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (674, 33);
+                VALUES (679, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (674, 21);
+                VALUES (679, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (674, 83);
+                VALUES (679, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (675, 44);
+                VALUES (680, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (676, 57);
+                VALUES (680, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (677, 7);
+                VALUES (680, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (678, 75);
+                VALUES (681, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (679, 99);
+                VALUES (681, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (679, 46);
+                VALUES (682, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (680, 75);
+                VALUES (682, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (681, 34);
+                VALUES (682, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (681, 5);
+                VALUES (683, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (681, 22);
+                VALUES (684, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (682, 100);
+                VALUES (685, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (682, 16);
+                VALUES (686, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (683, 23);
+                VALUES (686, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (683, 48);
+                VALUES (687, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (684, 66);
+                VALUES (687, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (684, 2);
+                VALUES (687, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (685, 95);
+                VALUES (688, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (685, 83);
+                VALUES (688, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (685, 85);
+                VALUES (689, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (686, 15);
+                VALUES (689, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (687, 26);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (687, 80);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (688, 10);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (689, 63);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (689, 66);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (690, 43);
+                VALUES (689, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (690, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (691, 55);
+                VALUES (690, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (691, 92);
+                VALUES (691, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (692, 51);
+                VALUES (691, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (693, 20);
+                VALUES (691, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (693, 23);
+                VALUES (692, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (694, 30);
+                VALUES (692, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (694, 13);
+                VALUES (693, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (694, 68);
+                VALUES (693, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (695, 41);
+                VALUES (693, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (696, 58);
+                VALUES (694, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (696, 25);
+                VALUES (694, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (697, 70);
+                VALUES (695, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (697, 24);
+                VALUES (695, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (697, 44);
+                VALUES (695, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (698, 55);
+                VALUES (696, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (699, 55);
+                VALUES (697, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (699, 11);
+                VALUES (697, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (699, 93);
+                VALUES (697, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (700, 89);
+                VALUES (698, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (700, 81);
+                VALUES (698, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (701, 4);
+                VALUES (699, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (701, 8);
+                VALUES (699, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (702, 49);
+                VALUES (700, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (703, 90);
+                VALUES (701, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (703, 24);
+                VALUES (702, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (703, 67);
+                VALUES (702, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (704, 19);
+                VALUES (702, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (704, 71);
+                VALUES (703, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (705, 84);
+                VALUES (703, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (705, 70);
+                VALUES (704, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (705, 48);
+                VALUES (704, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (706, 91);
+                VALUES (705, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (706, 15);
+                VALUES (705, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (706, 59);
+                VALUES (705, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (707, 54);
+                VALUES (706, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (708, 81);
+                VALUES (706, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (708, 12);
+                VALUES (706, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (708, 66);
+                VALUES (707, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (709, 25);
+                VALUES (707, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (709, 77);
+                VALUES (707, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (710, 36);
+                VALUES (708, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (711, 93);
+                VALUES (708, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (711, 99);
+                VALUES (709, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (711, 11);
+                VALUES (709, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (712, 75);
+                VALUES (709, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (713, 80);
+                VALUES (710, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (713, 16);
+                VALUES (711, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (714, 21);
+                VALUES (711, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (714, 12);
+                VALUES (711, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (714, 91);
+                VALUES (712, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (715, 32);
+                VALUES (712, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (715, 8);
+                VALUES (713, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (716, 92);
+                VALUES (713, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (717, 25);
+                VALUES (714, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (717, 23);
+                VALUES (714, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (718, 54);
+                VALUES (715, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (718, 61);
+                VALUES (716, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (719, 79);
+                VALUES (716, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (720, 64);
+                VALUES (717, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (721, 28);
+                VALUES (717, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (722, 80);
+                VALUES (718, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (722, 38);
+                VALUES (719, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (723, 37);
+                VALUES (719, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (723, 77);
+                VALUES (720, 34);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (720, 56);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (720, 5);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (721, 64);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (721, 82);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (721, 10);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (722, 8);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (722, 77);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (723, 70);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (723, 39);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (723, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (724, 25);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (724, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (724, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (725, 51);
+                VALUES (725, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (725, 35);
+                VALUES (726, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (726, 14);
+                VALUES (726, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (726, 55);
+                VALUES (726, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (726, 44);
+                VALUES (727, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (727, 70);
+                VALUES (728, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (727, 71);
+                VALUES (728, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (727, 29);
+                VALUES (729, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (728, 97);
+                VALUES (730, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (728, 63);
+                VALUES (730, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (729, 13);
+                VALUES (731, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (730, 72);
+                VALUES (732, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (730, 16);
+                VALUES (732, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (730, 2);
+                VALUES (733, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (731, 53);
+                VALUES (733, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (732, 89);
+                VALUES (734, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (733, 99);
+                VALUES (735, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (734, 85);
+                VALUES (736, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (734, 66);
+                VALUES (736, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (734, 55);
+                VALUES (737, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (735, 35);
+                VALUES (737, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (736, 11);
+                VALUES (737, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (737, 35);
+                VALUES (738, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (737, 68);
+                VALUES (738, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (737, 85);
+                VALUES (738, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (738, 67);
+                VALUES (739, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (738, 33);
+                VALUES (739, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (738, 10);
+                VALUES (740, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (739, 27);
+                VALUES (740, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (740, 96);
+                VALUES (740, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (741, 3);
+                VALUES (741, 28);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (742, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (742, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (743, 41);
+                VALUES (743, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (744, 81);
+                VALUES (744, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (744, 49);
+                VALUES (745, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (745, 98);
+                VALUES (746, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (745, 39);
+                VALUES (746, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (746, 83);
+                VALUES (746, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (747, 80);
+                VALUES (747, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (748, 93);
+                VALUES (747, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (748, 64);
+                VALUES (748, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (748, 13);
+                VALUES (748, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (749, 6);
+                VALUES (749, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (750, 78);
+                VALUES (750, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (750, 15);
+                VALUES (750, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (751, 95);
+                VALUES (751, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (752, 75);
+                VALUES (751, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (753, 16);
+                VALUES (752, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (753, 10);
+                VALUES (752, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (753, 84);
+                VALUES (752, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (754, 76);
+                VALUES (753, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (754, 29);
+                VALUES (753, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (755, 86);
+                VALUES (754, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (755, 78);
+                VALUES (755, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (755, 81);
+                VALUES (755, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (756, 48);
+                VALUES (755, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (756, 94);
+                VALUES (756, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (756, 76);
+                VALUES (756, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (757, 1);
+                VALUES (756, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (757, 86);
+                VALUES (757, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (758, 56);
+                VALUES (757, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (758, 36);
+                VALUES (758, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (759, 81);
+                VALUES (758, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (759, 9);
+                VALUES (758, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (760, 23);
+                VALUES (759, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (760, 59);
+                VALUES (759, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (761, 25);
+                VALUES (759, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (761, 43);
+                VALUES (760, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (761, 84);
+                VALUES (760, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (762, 46);
+                VALUES (761, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (762, 66);
+                VALUES (761, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (763, 23);
+                VALUES (761, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (764, 73);
+                VALUES (762, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (764, 72);
+                VALUES (763, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (765, 46);
+                VALUES (763, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (766, 95);
+                VALUES (764, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (766, 78);
+                VALUES (764, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (766, 17);
+                VALUES (765, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (767, 83);
+                VALUES (765, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (768, 32);
+                VALUES (765, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (769, 40);
+                VALUES (766, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (769, 94);
+                VALUES (766, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (770, 40);
+                VALUES (766, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (770, 77);
+                VALUES (767, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (771, 59);
+                VALUES (767, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (772, 64);
+                VALUES (767, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (772, 86);
+                VALUES (768, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (773, 24);
+                VALUES (769, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (773, 90);
+                VALUES (770, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (774, 33);
+                VALUES (771, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (774, 30);
+                VALUES (771, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (774, 42);
+                VALUES (772, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (775, 35);
+                VALUES (772, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (775, 29);
+                VALUES (772, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (775, 89);
+                VALUES (773, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (776, 75);
+                VALUES (773, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (776, 45);
+                VALUES (773, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (777, 41);
+                VALUES (774, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (777, 59);
+                VALUES (774, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (778, 79);
+                VALUES (774, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (778, 80);
+                VALUES (775, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (779, 75);
+                VALUES (775, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (779, 67);
+                VALUES (775, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (779, 9);
+                VALUES (776, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (780, 69);
+                VALUES (777, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (781, 79);
+                VALUES (778, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (781, 11);
+                VALUES (778, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (781, 94);
+                VALUES (779, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (782, 6);
+                VALUES (779, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (782, 88);
+                VALUES (780, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (782, 80);
+                VALUES (781, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (783, 26);
+                VALUES (782, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (783, 55);
+                VALUES (782, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (784, 8);
+                VALUES (782, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (784, 16);
+                VALUES (783, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (784, 29);
+                VALUES (784, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (785, 64);
+                VALUES (784, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (785, 8);
+                VALUES (785, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (785, 54);
+                VALUES (786, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (786, 56);
+                VALUES (786, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (786, 7);
+                VALUES (787, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (786, 3);
+                VALUES (788, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (787, 19);
+                VALUES (788, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (787, 29);
+                VALUES (788, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (787, 100);
+                VALUES (789, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (788, 58);
+                VALUES (789, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (788, 83);
+                VALUES (790, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (788, 20);
+                VALUES (790, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (789, 4);
+                VALUES (791, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (789, 11);
+                VALUES (792, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (789, 24);
+                VALUES (793, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (790, 46);
+                VALUES (794, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (790, 49);
+                VALUES (794, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (791, 64);
+                VALUES (794, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (791, 37);
+                VALUES (795, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (791, 68);
+                VALUES (796, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (792, 88);
+                VALUES (796, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (792, 94);
+                VALUES (796, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (793, 39);
+                VALUES (797, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (793, 62);
+                VALUES (797, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (793, 2);
+                VALUES (798, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (794, 20);
+                VALUES (798, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (794, 14);
+                VALUES (799, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (795, 59);
+                VALUES (800, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (795, 81);
+                VALUES (801, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (796, 56);
+                VALUES (801, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (796, 53);
+                VALUES (802, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (796, 74);
+                VALUES (802, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (797, 5);
+                VALUES (802, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (797, 66);
+                VALUES (803, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (797, 50);
+                VALUES (803, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (798, 88);
+                VALUES (804, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (798, 85);
+                VALUES (804, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (799, 16);
+                VALUES (805, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (800, 75);
+                VALUES (805, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (800, 78);
+                VALUES (805, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (800, 96);
+                VALUES (806, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (801, 94);
+                VALUES (806, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (802, 10);
+                VALUES (807, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (802, 16);
+                VALUES (807, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (803, 46);
+                VALUES (807, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (804, 56);
+                VALUES (808, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (804, 98);
+                VALUES (808, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (804, 100);
+                VALUES (808, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (805, 38);
+                VALUES (809, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (805, 8);
+                VALUES (810, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (805, 26);
+                VALUES (810, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (806, 82);
+                VALUES (811, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (806, 7);
+                VALUES (812, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (807, 75);
+                VALUES (812, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (807, 38);
+                VALUES (813, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (808, 22);
+                VALUES (813, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (808, 100);
+                VALUES (814, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (808, 78);
+                VALUES (815, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (809, 13);
+                VALUES (815, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (809, 40);
+                VALUES (816, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (810, 2);
+                VALUES (816, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (811, 95);
+                VALUES (817, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (811, 68);
+                VALUES (818, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (811, 5);
+                VALUES (818, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (812, 35);
+                VALUES (818, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (812, 93);
+                VALUES (819, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (813, 19);
+                VALUES (819, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (813, 57);
+                VALUES (819, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (813, 27);
+                VALUES (820, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (814, 51);
+                VALUES (820, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (814, 1);
+                VALUES (820, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (814, 34);
+                VALUES (821, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (815, 56);
+                VALUES (822, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (816, 79);
+                VALUES (823, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (816, 8);
+                VALUES (823, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (817, 70);
+                VALUES (824, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (817, 14);
+                VALUES (824, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (817, 88);
+                VALUES (824, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (818, 85);
+                VALUES (825, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (819, 61);
+                VALUES (825, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (819, 30);
+                VALUES (825, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (819, 60);
+                VALUES (826, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (820, 70);
+                VALUES (827, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (821, 72);
+                VALUES (827, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (822, 3);
+                VALUES (828, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (822, 37);
+                VALUES (829, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (823, 33);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (823, 69);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (823, 13);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (824, 33);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (825, 43);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (826, 11);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (826, 41);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (827, 89);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (827, 15);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (827, 74);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (828, 46);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (828, 82);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (828, 44);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (829, 77);
+                VALUES (829, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (830, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (830, 92);
+                VALUES (830, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (830, 40);
+                VALUES (830, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (831, 95);
+                VALUES (831, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (831, 44);
+                VALUES (831, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (831, 64);
+                VALUES (831, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (832, 15);
+                VALUES (832, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (832, 81);
+                VALUES (832, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (833, 67);
+                VALUES (833, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (833, 39);
+                VALUES (834, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (834, 18);
+                VALUES (834, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (834, 94);
+                VALUES (835, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (835, 3);
+                VALUES (836, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (836, 33);
+                VALUES (837, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (837, 29);
+                VALUES (837, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (838, 64);
+                VALUES (837, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (838, 100);
+                VALUES (838, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (839, 16);
+                VALUES (838, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (840, 72);
+                VALUES (838, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (841, 75);
+                VALUES (839, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (841, 99);
+                VALUES (839, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (841, 53);
+                VALUES (840, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (842, 5);
+                VALUES (841, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (842, 50);
+                VALUES (841, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (843, 25);
+                VALUES (842, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (843, 50);
+                VALUES (842, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (843, 12);
+                VALUES (843, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (844, 18);
+                VALUES (843, 44);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (844, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (844, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (844, 81);
+                VALUES (844, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (845, 26);
+                VALUES (845, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (845, 82);
+                VALUES (845, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (846, 9);
+                VALUES (846, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (846, 80);
+                VALUES (846, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (847, 56);
+                VALUES (847, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (847, 63);
+                VALUES (847, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (848, 76);
+                VALUES (848, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (849, 57);
+                VALUES (848, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (849, 40);
+                VALUES (848, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (849, 64);
+                VALUES (849, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (850, 5);
+                VALUES (850, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (851, 30);
+                VALUES (850, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (851, 10);
+                VALUES (851, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (851, 16);
+                VALUES (851, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (852, 79);
+                VALUES (851, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (853, 82);
+                VALUES (852, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (853, 70);
+                VALUES (852, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (854, 89);
+                VALUES (852, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (855, 1);
+                VALUES (853, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (855, 21);
+                VALUES (854, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (856, 71);
+                VALUES (854, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (856, 89);
+                VALUES (854, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (856, 51);
+                VALUES (855, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (857, 61);
+                VALUES (855, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (857, 68);
+                VALUES (856, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (858, 8);
+                VALUES (857, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (859, 37);
+                VALUES (858, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (860, 98);
+                VALUES (858, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (860, 17);
+                VALUES (858, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (860, 48);
+                VALUES (859, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (861, 22);
+                VALUES (859, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (861, 58);
+                VALUES (860, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (862, 50);
+                VALUES (860, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (862, 73);
+                VALUES (860, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (862, 44);
+                VALUES (861, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (863, 40);
+                VALUES (861, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (863, 49);
+                VALUES (861, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (863, 17);
+                VALUES (862, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (864, 63);
+                VALUES (862, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (865, 96);
+                VALUES (863, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (866, 44);
+                VALUES (863, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (867, 85);
+                VALUES (863, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (867, 53);
+                VALUES (864, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (868, 9);
+                VALUES (864, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (868, 47);
+                VALUES (864, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (869, 80);
+                VALUES (865, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (870, 64);
+                VALUES (865, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (871, 18);
+                VALUES (865, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (872, 71);
+                VALUES (866, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (872, 17);
+                VALUES (867, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (872, 52);
+                VALUES (868, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (873, 47);
+                VALUES (869, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (873, 5);
+                VALUES (869, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (873, 24);
+                VALUES (869, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (874, 25);
+                VALUES (870, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (875, 60);
+                VALUES (871, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (876, 30);
+                VALUES (871, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (877, 65);
+                VALUES (871, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (877, 68);
+                VALUES (872, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (877, 78);
+                VALUES (872, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (878, 95);
+                VALUES (873, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (879, 48);
+                VALUES (873, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (879, 68);
+                VALUES (874, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (879, 53);
+                VALUES (874, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (880, 66);
+                VALUES (875, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (881, 75);
+                VALUES (875, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (881, 11);
+                VALUES (875, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (882, 83);
+                VALUES (876, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (882, 81);
+                VALUES (876, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (882, 4);
+                VALUES (877, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (883, 70);
+                VALUES (877, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (884, 48);
+                VALUES (877, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (884, 80);
+                VALUES (878, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (885, 37);
+                VALUES (878, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (885, 40);
+                VALUES (878, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (886, 76);
+                VALUES (879, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (887, 46);
+                VALUES (879, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (887, 23);
+                VALUES (880, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (888, 2);
+                VALUES (881, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (888, 77);
+                VALUES (881, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (888, 12);
+                VALUES (882, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (889, 64);
+                VALUES (882, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (889, 54);
+                VALUES (882, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (890, 90);
+                VALUES (883, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (890, 11);
+                VALUES (883, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (891, 79);
+                VALUES (883, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (891, 66);
+                VALUES (884, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (891, 43);
+                VALUES (884, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (892, 24);
+                VALUES (884, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (892, 63);
+                VALUES (885, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (892, 99);
+                VALUES (885, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (893, 64);
+                VALUES (886, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (894, 43);
+                VALUES (886, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (894, 46);
+                VALUES (887, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (894, 65);
+                VALUES (887, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (895, 28);
+                VALUES (887, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (895, 2);
+                VALUES (888, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (895, 83);
+                VALUES (889, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (896, 6);
+                VALUES (889, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (897, 54);
+                VALUES (890, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (897, 62);
+                VALUES (890, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (898, 16);
+                VALUES (891, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (898, 91);
+                VALUES (891, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (899, 24);
+                VALUES (891, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (900, 16);
+                VALUES (892, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (900, 62);
+                VALUES (892, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (900, 92);
+                VALUES (893, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (901, 35);
+                VALUES (893, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (902, 17);
+                VALUES (893, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (902, 96);
+                VALUES (894, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (903, 99);
+                VALUES (895, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (903, 55);
+                VALUES (895, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (903, 12);
+                VALUES (896, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (904, 83);
+                VALUES (896, 7);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (896, 12);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (897, 4);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (897, 38);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (897, 68);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (898, 32);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (899, 94);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (899, 36);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (900, 34);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (900, 69);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (900, 11);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (901, 48);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (901, 30);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (901, 67);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (902, 76);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (903, 87);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (903, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (904, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (904, 32);
+                VALUES (904, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (905, 4);
+                VALUES (904, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (906, 74);
+                VALUES (905, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (906, 42);
+                VALUES (905, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (906, 22);
+                VALUES (905, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (907, 19);
+                VALUES (906, 73);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (906, 99);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (906, 100);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (907, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (907, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (908, 87);
+                VALUES (907, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (909, 32);
+                VALUES (908, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (909, 95);
+                VALUES (909, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (910, 38);
+                VALUES (909, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (910, 88);
+                VALUES (909, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (910, 22);
+                VALUES (910, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (911, 74);
+                VALUES (910, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (912, 68);
+                VALUES (910, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (913, 31);
+                VALUES (911, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (913, 98);
+                VALUES (911, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (914, 25);
+                VALUES (912, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (915, 1);
+                VALUES (913, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (915, 3);
+                VALUES (913, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (915, 91);
+                VALUES (914, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (916, 26);
+                VALUES (915, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (917, 16);
+                VALUES (915, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (917, 71);
+                VALUES (916, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (918, 38);
+                VALUES (916, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (919, 40);
+                VALUES (917, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (920, 11);
+                VALUES (917, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (920, 36);
+                VALUES (917, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (921, 46);
+                VALUES (918, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (921, 5);
+                VALUES (918, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (921, 43);
+                VALUES (918, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (922, 1);
+                VALUES (919, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (922, 94);
+                VALUES (920, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (922, 77);
+                VALUES (921, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (923, 86);
+                VALUES (922, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (923, 29);
+                VALUES (922, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (923, 24);
+                VALUES (922, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (924, 100);
+                VALUES (923, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (924, 22);
+                VALUES (923, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (925, 26);
+                VALUES (923, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (925, 71);
+                VALUES (924, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (926, 90);
+                VALUES (924, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (926, 89);
+                VALUES (925, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (927, 44);
+                VALUES (925, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (927, 30);
+                VALUES (925, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (928, 76);
+                VALUES (926, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (929, 3);
+                VALUES (926, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (929, 84);
+                VALUES (927, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (929, 47);
+                VALUES (928, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (930, 94);
+                VALUES (928, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (931, 73);
+                VALUES (929, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (931, 84);
+                VALUES (929, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (931, 78);
+                VALUES (929, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (932, 31);
+                VALUES (930, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (932, 58);
+                VALUES (930, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (933, 9);
+                VALUES (931, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (933, 51);
+                VALUES (932, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (934, 90);
+                VALUES (932, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (934, 31);
+                VALUES (933, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (935, 71);
+                VALUES (933, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (935, 25);
+                VALUES (933, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (936, 23);
+                VALUES (934, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (936, 64);
+                VALUES (935, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (936, 43);
+                VALUES (936, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (937, 17);
+                VALUES (936, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (937, 39);
+                VALUES (937, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (937, 36);
+                VALUES (937, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (938, 69);
+                VALUES (937, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (938, 7);
+                VALUES (938, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (939, 20);
+                VALUES (938, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (939, 14);
+                VALUES (938, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (939, 87);
+                VALUES (939, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (940, 69);
+                VALUES (939, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (940, 25);
+                VALUES (939, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (941, 67);
+                VALUES (940, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (942, 79);
+                VALUES (940, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (942, 78);
+                VALUES (941, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (942, 14);
+                VALUES (941, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (943, 20);
+                VALUES (941, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (943, 49);
+                VALUES (942, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (944, 86);
+                VALUES (942, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (944, 8);
+                VALUES (942, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (944, 36);
+                VALUES (943, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (945, 54);
+                VALUES (943, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (946, 35);
+                VALUES (943, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (946, 91);
+                VALUES (944, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (946, 68);
+                VALUES (944, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (947, 1);
+                VALUES (944, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (947, 60);
+                VALUES (945, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (948, 9);
+                VALUES (945, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (949, 36);
+                VALUES (946, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (949, 39);
+                VALUES (946, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (950, 89);
+                VALUES (947, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (951, 64);
+                VALUES (948, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (951, 31);
+                VALUES (948, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (951, 43);
+                VALUES (948, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (952, 53);
+                VALUES (949, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (952, 38);
+                VALUES (949, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (953, 94);
+                VALUES (950, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (953, 22);
+                VALUES (951, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (954, 35);
+                VALUES (951, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (955, 60);
+                VALUES (952, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (955, 41);
+                VALUES (953, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (955, 79);
+                VALUES (954, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (956, 4);
+                VALUES (954, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (956, 14);
+                VALUES (955, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (957, 27);
+                VALUES (956, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (957, 41);
+                VALUES (957, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (958, 24);
+                VALUES (957, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (958, 55);
+                VALUES (958, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (959, 81);
+                VALUES (958, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (959, 28);
+                VALUES (958, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (960, 85);
+                VALUES (959, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (961, 82);
+                VALUES (959, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (961, 68);
+                VALUES (960, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (961, 24);
+                VALUES (960, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (962, 16);
+                VALUES (960, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (962, 28);
+                VALUES (961, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (962, 98);
+                VALUES (961, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (963, 69);
+                VALUES (962, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (964, 64);
+                VALUES (963, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (964, 9);
+                VALUES (963, 65);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (963, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (964, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (965, 65);
+                VALUES (964, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (965, 16);
+                VALUES (965, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (965, 7);
+                VALUES (965, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (966, 61);
+                VALUES (966, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (967, 49);
+                VALUES (966, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (967, 96);
+                VALUES (966, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (968, 69);
+                VALUES (967, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (968, 62);
+                VALUES (968, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (969, 23);
+                VALUES (968, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (969, 91);
+                VALUES (968, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (969, 99);
+                VALUES (969, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (970, 65);
+                VALUES (969, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (970, 5);
+                VALUES (970, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (971, 9);
+                VALUES (971, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (971, 90);
+                VALUES (971, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (972, 48);
+                VALUES (971, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (972, 45);
+                VALUES (972, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (972, 78);
+                VALUES (972, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (973, 9);
+                VALUES (972, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (973, 50);
+                VALUES (973, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (974, 61);
+                VALUES (974, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (975, 8);
+                VALUES (974, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (976, 96);
+                VALUES (975, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (976, 44);
+                VALUES (975, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (977, 35);
+                VALUES (976, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (977, 42);
+                VALUES (976, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (978, 1);
+                VALUES (977, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (978, 98);
+                VALUES (977, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (978, 94);
+                VALUES (977, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (979, 95);
+                VALUES (978, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (980, 80);
+                VALUES (978, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (981, 62);
+                VALUES (978, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (982, 32);
+                VALUES (979, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (983, 7);
+                VALUES (979, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (983, 53);
+                VALUES (979, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (984, 81);
+                VALUES (980, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (985, 21);
+                VALUES (980, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (985, 9);
+                VALUES (980, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (985, 64);
+                VALUES (981, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (986, 41);
+                VALUES (981, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (986, 26);
+                VALUES (981, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (987, 76);
+                VALUES (982, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (987, 89);
+                VALUES (983, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (987, 1);
+                VALUES (983, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (988, 89);
+                VALUES (983, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (988, 19);
+                VALUES (984, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (988, 20);
+                VALUES (985, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (989, 76);
+                VALUES (985, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (990, 63);
+                VALUES (985, 99);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (986, 62);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (987, 32);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (987, 40);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (988, 38);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (988, 9);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (989, 79);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (989, 48);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (989, 49);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (990, 32);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (990, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (991, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (991, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (992, 84);
+                VALUES (992, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (992, 78);
+                VALUES (992, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (993, 67);
+                VALUES (993, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (993, 57);
+                VALUES (994, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (993, 64);
+                VALUES (995, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (994, 81);
+                VALUES (995, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (994, 1);
+                VALUES (996, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (994, 25);
+                VALUES (996, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (995, 83);
+                VALUES (997, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (995, 65);
+                VALUES (998, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (996, 46);
+                VALUES (999, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (996, 87);
+                VALUES (999, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (996, 48);
+                VALUES (999, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (997, 65);
+                VALUES (1000, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (997, 87);
+                VALUES (1000, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (997, 67);
+                VALUES (1001, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (998, 55);
+                VALUES (1001, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (999, 85);
+                VALUES (1001, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (999, 9);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1000, 10);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1000, 71);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1000, 80);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1001, 92);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1001, 13);
+                VALUES (1002, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1002, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1003, 35);
+                VALUES (1003, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1003, 76);
+                VALUES (1003, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1004, 78);
+                VALUES (1004, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1004, 68);
+                VALUES (1004, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1005, 75);
+                VALUES (1004, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1006, 42);
+                VALUES (1005, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1006, 57);
+                VALUES (1005, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1006, 47);
+                VALUES (1006, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1007, 90);
+                VALUES (1006, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1008, 33);
+                VALUES (1006, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1009, 43);
+                VALUES (1007, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1009, 62);
+                VALUES (1007, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1010, 98);
+                VALUES (1008, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1011, 38);
+                VALUES (1009, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1011, 90);
+                VALUES (1009, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1011, 45);
+                VALUES (1010, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1012, 56);
+                VALUES (1010, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1013, 32);
+                VALUES (1011, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1013, 38);
+                VALUES (1011, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1014, 64);
+                VALUES (1011, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1014, 65);
+                VALUES (1012, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1015, 18);
+                VALUES (1013, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1015, 16);
+                VALUES (1014, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1016, 91);
+                VALUES (1014, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1016, 79);
+                VALUES (1015, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1017, 2);
+                VALUES (1015, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1017, 78);
+                VALUES (1015, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1018, 76);
+                VALUES (1016, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1018, 65);
+                VALUES (1016, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1019, 77);
+                VALUES (1017, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1020, 77);
+                VALUES (1018, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1021, 32);
+                VALUES (1018, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1021, 54);
+                VALUES (1019, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1022, 65);
+                VALUES (1019, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1022, 41);
+                VALUES (1019, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1023, 76);
+                VALUES (1020, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1023, 93);
+                VALUES (1021, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1024, 59);
+                VALUES (1021, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1024, 8);
+                VALUES (1022, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1024, 83);
+                VALUES (1022, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1025, 38);
+                VALUES (1023, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1025, 63);
+                VALUES (1023, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1025, 45);
+                VALUES (1024, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1026, 91);
+                VALUES (1024, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1027, 36);
+                VALUES (1024, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1027, 16);
+                VALUES (1025, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1027, 9);
+                VALUES (1025, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1028, 85);
+                VALUES (1026, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1029, 59);
+                VALUES (1026, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1030, 43);
+                VALUES (1027, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1030, 39);
+                VALUES (1027, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1030, 48);
+                VALUES (1028, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1031, 64);
+                VALUES (1029, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1032, 7);
+                VALUES (1030, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1032, 43);
+                VALUES (1030, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1032, 47);
+                VALUES (1030, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1033, 76);
+                VALUES (1031, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1033, 58);
+                VALUES (1031, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1034, 89);
+                VALUES (1032, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1035, 70);
+                VALUES (1033, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1036, 46);
+                VALUES (1033, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1037, 75);
+                VALUES (1033, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1037, 39);
+                VALUES (1034, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1037, 44);
+                VALUES (1034, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1038, 6);
+                VALUES (1034, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1038, 84);
+                VALUES (1035, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1039, 22);
+                VALUES (1035, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1039, 32);
+                VALUES (1035, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1039, 47);
+                VALUES (1036, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1040, 33);
+                VALUES (1037, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1040, 43);
+                VALUES (1037, 53);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1037, 7);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1038, 8);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1038, 97);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1039, 10);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1039, 57);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1040, 26);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1040, 62);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1041, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1041, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1041, 65);
+                VALUES (1041, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1041, 80);
+                VALUES (1042, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1042, 1);
+                VALUES (1042, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1042, 3);
+                VALUES (1042, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1043, 85);
+                VALUES (1043, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1043, 86);
+                VALUES (1044, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1043, 59);
+                VALUES (1044, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1044, 80);
+                VALUES (1045, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1044, 14);
+                VALUES (1045, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1044, 95);
+                VALUES (1046, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1045, 63);
+                VALUES (1046, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1045, 61);
+                VALUES (1047, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1046, 93);
+                VALUES (1047, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1046, 53);
+                VALUES (1048, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1047, 95);
+                VALUES (1048, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1048, 11);
+                VALUES (1048, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1048, 20);
+                VALUES (1049, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1049, 72);
+                VALUES (1049, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1049, 2);
+                VALUES (1049, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1050, 87);
+                VALUES (1050, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1050, 11);
+                VALUES (1051, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1051, 89);
+                VALUES (1051, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1051, 68);
+                VALUES (1052, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1051, 92);
+                VALUES (1052, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1052, 15);
+                VALUES (1053, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1052, 13);
+                VALUES (1053, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1052, 41);
+                VALUES (1054, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1053, 73);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1054, 16);
+                VALUES (1054, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1054, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1054, 49);
+                VALUES (1055, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1055, 58);
+                VALUES (1055, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1055, 34);
+                VALUES (1056, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1055, 72);
+                VALUES (1056, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1056, 54);
+                VALUES (1056, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1056, 30);
+                VALUES (1057, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1056, 84);
+                VALUES (1057, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1057, 55);
+                VALUES (1057, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1057, 35);
+                VALUES (1058, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1058, 95);
+                VALUES (1058, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1059, 45);
+                VALUES (1058, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1060, 14);
+                VALUES (1059, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1060, 19);
+                VALUES (1060, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1060, 53);
+                VALUES (1060, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1061, 34);
+                VALUES (1061, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1061, 89);
+                VALUES (1062, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1061, 77);
+                VALUES (1062, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1062, 49);
+                VALUES (1063, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1062, 60);
+                VALUES (1063, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1062, 27);
+                VALUES (1064, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1063, 100);
+                VALUES (1065, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1063, 56);
+                VALUES (1065, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1064, 31);
+                VALUES (1066, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1064, 26);
+                VALUES (1066, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1065, 63);
+                VALUES (1067, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1065, 96);
+                VALUES (1068, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1066, 38);
+                VALUES (1068, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1066, 84);
+                VALUES (1068, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1066, 2);
+                VALUES (1069, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1067, 93);
+                VALUES (1069, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1067, 37);
+                VALUES (1069, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1067, 4);
+                VALUES (1070, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1068, 69);
+                VALUES (1070, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1068, 59);
+                VALUES (1070, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1069, 10);
+                VALUES (1071, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1070, 91);
+                VALUES (1071, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1070, 96);
+                VALUES (1071, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1070, 3);
+                VALUES (1072, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1071, 91);
+                VALUES (1072, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1071, 20);
+                VALUES (1073, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1071, 32);
+                VALUES (1073, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1072, 56);
+                VALUES (1073, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1072, 99);
+                VALUES (1074, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1073, 2);
+                VALUES (1074, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1074, 68);
+                VALUES (1074, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1074, 67);
+                VALUES (1075, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1074, 13);
+                VALUES (1075, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1075, 90);
+                VALUES (1075, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1075, 58);
+                VALUES (1076, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1075, 39);
+                VALUES (1076, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1076, 18);
+                VALUES (1077, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1076, 10);
+                VALUES (1077, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1076, 52);
+                VALUES (1078, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1077, 69);
+                VALUES (1079, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1077, 79);
+                VALUES (1079, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1077, 72);
+                VALUES (1080, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1078, 4);
+                VALUES (1080, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1078, 96);
+                VALUES (1080, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1079, 42);
+                VALUES (1081, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1080, 16);
+                VALUES (1081, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1081, 12);
+                VALUES (1081, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1081, 36);
+                VALUES (1082, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1081, 80);
+                VALUES (1083, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1082, 47);
+                VALUES (1083, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1082, 98);
+                VALUES (1084, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1082, 54);
+                VALUES (1085, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1083, 30);
+                VALUES (1086, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1084, 25);
+                VALUES (1086, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1085, 95);
+                VALUES (1087, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1085, 20);
+                VALUES (1087, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1086, 81);
+                VALUES (1088, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1087, 47);
+                VALUES (1089, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1087, 6);
+                VALUES (1090, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1088, 20);
+                VALUES (1090, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1089, 97);
+                VALUES (1091, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1090, 43);
+                VALUES (1092, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1090, 23);
+                VALUES (1092, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1090, 84);
+                VALUES (1092, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1091, 85);
+                VALUES (1093, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1091, 75);
+                VALUES (1093, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1092, 67);
+                VALUES (1094, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1092, 64);
+                VALUES (1095, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1092, 36);
+                VALUES (1095, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1093, 5);
+                VALUES (1095, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1093, 92);
+                VALUES (1096, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1094, 84);
+                VALUES (1097, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1094, 96);
+                VALUES (1097, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1094, 43);
+                VALUES (1098, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1095, 40);
+                VALUES (1098, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1095, 64);
+                VALUES (1098, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1095, 7);
+                VALUES (1099, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1096, 51);
+                VALUES (1099, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1096, 61);
+                VALUES (1100, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1097, 51);
+                VALUES (1101, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1098, 65);
+                VALUES (1102, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1099, 82);
+                VALUES (1103, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1099, 61);
+                VALUES (1103, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1100, 21);
+                VALUES (1104, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1100, 30);
+                VALUES (1104, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1100, 2);
+                VALUES (1105, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1101, 50);
+                VALUES (1105, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1102, 80);
+                VALUES (1106, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1102, 41);
+                VALUES (1106, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1103, 18);
+                VALUES (1107, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1103, 99);
+                VALUES (1107, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1103, 67);
+                VALUES (1107, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1104, 66);
+                VALUES (1108, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1104, 67);
+                VALUES (1108, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1104, 38);
+                VALUES (1109, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1105, 21);
+                VALUES (1109, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1106, 77);
+                VALUES (1110, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1106, 23);
+                VALUES (1110, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1106, 84);
+                VALUES (1110, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1107, 38);
+                VALUES (1111, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1108, 64);
+                VALUES (1111, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1108, 27);
+                VALUES (1112, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1109, 16);
+                VALUES (1112, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1110, 5);
+                VALUES (1113, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1111, 91);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1111, 81);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1111, 63);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1112, 94);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1112, 4);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1113, 19);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1114, 36);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1114, 59);
+                VALUES (1114, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1115, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1115, 15);
+                VALUES (1116, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1115, 79);
+                VALUES (1117, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1116, 44);
+                VALUES (1117, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1116, 26);
+                VALUES (1118, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1116, 58);
+                VALUES (1118, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1117, 42);
+                VALUES (1119, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1117, 56);
+                VALUES (1119, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1117, 17);
+                VALUES (1120, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1118, 22);
+                VALUES (1121, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1119, 57);
+                VALUES (1121, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1119, 35);
+                VALUES (1122, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1120, 86);
+                VALUES (1123, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1120, 55);
+                VALUES (1123, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1120, 54);
+                VALUES (1124, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1121, 56);
+                VALUES (1125, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1121, 60);
+                VALUES (1126, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1122, 48);
+                VALUES (1126, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1123, 69);
+                VALUES (1127, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1124, 58);
+                VALUES (1128, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1124, 25);
+                VALUES (1128, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1125, 9);
+                VALUES (1128, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1125, 61);
+                VALUES (1129, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1125, 52);
+                VALUES (1129, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1126, 66);
+                VALUES (1129, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1126, 37);
+                VALUES (1130, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1127, 76);
+                VALUES (1131, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1128, 9);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1129, 99);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1129, 61);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1129, 74);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1130, 96);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1130, 5);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1130, 30);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1131, 11);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1131, 98);
+                VALUES (1132, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1132, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1132, 63);
+                VALUES (1132, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1133, 73);
+                VALUES (1133, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1134, 18);
+                VALUES (1134, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1134, 25);
+                VALUES (1134, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1135, 99);
+                VALUES (1134, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1135, 64);
+                VALUES (1135, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1136, 95);
+                VALUES (1136, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1136, 43);
+                VALUES (1137, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1136, 40);
+                VALUES (1137, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1137, 4);
+                VALUES (1138, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1137, 90);
+                VALUES (1139, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1137, 93);
+                VALUES (1139, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1138, 8);
+                VALUES (1139, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1138, 78);
+                VALUES (1140, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1138, 97);
+                VALUES (1140, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1139, 1);
+                VALUES (1141, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1140, 19);
+                VALUES (1142, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1140, 86);
+                VALUES (1143, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1140, 48);
+                VALUES (1144, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1141, 84);
+                VALUES (1144, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1142, 7);
+                VALUES (1145, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1142, 70);
+                VALUES (1145, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1143, 20);
+                VALUES (1145, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1143, 47);
+                VALUES (1146, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1144, 62);
+                VALUES (1146, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1144, 89);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1145, 56);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1146, 88);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1146, 24);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1146, 41);
+                VALUES (1146, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1147, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1147, 52);
+                VALUES (1147, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1148, 74);
+                VALUES (1147, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1148, 71);
+                VALUES (1148, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1149, 34);
+                VALUES (1148, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1150, 11);
+                VALUES (1149, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1150, 67);
+                VALUES (1150, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1151, 52);
+                VALUES (1151, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1151, 19);
+                VALUES (1152, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1152, 99);
+                VALUES (1152, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1153, 61);
+                VALUES (1153, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1153, 49);
+                VALUES (1154, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1154, 97);
+                VALUES (1155, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1154, 35);
+                VALUES (1155, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1155, 99);
+                VALUES (1156, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1156, 23);
+                VALUES (1157, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1156, 76);
+                VALUES (1157, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1157, 38);
+                VALUES (1158, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1157, 16);
+                VALUES (1158, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1157, 93);
+                VALUES (1159, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1158, 54);
+                VALUES (1159, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1158, 35);
+                VALUES (1160, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1159, 52);
+                VALUES (1160, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1160, 34);
+                VALUES (1160, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1161, 16);
+                VALUES (1161, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1161, 96);
+                VALUES (1161, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1162, 26);
+                VALUES (1161, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1162, 82);
+                VALUES (1162, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1162, 33);
+                VALUES (1163, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1163, 28);
+                VALUES (1164, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1164, 61);
+                VALUES (1164, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1164, 37);
+                VALUES (1165, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1165, 7);
+                VALUES (1165, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1165, 44);
+                VALUES (1166, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1165, 78);
+                VALUES (1166, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1166, 50);
+                VALUES (1167, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1166, 12);
+                VALUES (1168, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1167, 11);
+                VALUES (1168, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1167, 51);
+                VALUES (1169, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1168, 73);
+                VALUES (1169, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1169, 41);
+                VALUES (1169, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1170, 91);
+                VALUES (1170, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1171, 36);
+                VALUES (1170, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1171, 63);
+                VALUES (1170, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1172, 74);
+                VALUES (1171, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1173, 21);
+                VALUES (1172, 85);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1172, 78);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1173, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1174, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1174, 38);
+                VALUES (1174, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1174, 25);
+                VALUES (1175, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1175, 48);
+                VALUES (1175, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1176, 13);
+                VALUES (1176, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1176, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1176, 11);
+                VALUES (1177, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1177, 22);
+                VALUES (1177, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1177, 66);
+                VALUES (1178, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1177, 95);
+                VALUES (1178, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1178, 2);
+                VALUES (1178, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1178, 1);
+                VALUES (1179, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1178, 4);
+                VALUES (1179, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1179, 57);
+                VALUES (1180, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1179, 94);
+                VALUES (1181, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1179, 35);
+                VALUES (1181, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1180, 38);
+                VALUES (1181, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1180, 15);
+                VALUES (1182, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1181, 20);
+                VALUES (1182, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1181, 78);
+                VALUES (1182, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1182, 41);
+                VALUES (1183, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1183, 71);
+                VALUES (1183, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1183, 55);
+                VALUES (1183, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1184, 91);
+                VALUES (1184, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1184, 22);
+                VALUES (1185, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1184, 28);
+                VALUES (1185, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1185, 35);
+                VALUES (1185, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1186, 99);
+                VALUES (1186, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1186, 95);
+                VALUES (1187, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1186, 87);
+                VALUES (1187, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1187, 10);
+                VALUES (1187, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1188, 76);
+                VALUES (1188, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1189, 84);
+                VALUES (1189, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1190, 89);
+                VALUES (1190, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1190, 99);
+                VALUES (1191, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1191, 9);
+                VALUES (1192, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1191, 76);
+                VALUES (1192, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1192, 27);
+                VALUES (1192, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1193, 97);
+                VALUES (1193, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1193, 38);
+                VALUES (1194, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1194, 12);
+                VALUES (1195, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1194, 71);
+                VALUES (1196, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1194, 45);
+                VALUES (1196, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1195, 96);
+                VALUES (1197, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1196, 35);
+                VALUES (1198, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1196, 10);
+                VALUES (1198, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1196, 80);
+                VALUES (1198, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1197, 5);
+                VALUES (1199, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1197, 46);
+                VALUES (1199, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1198, 43);
+                VALUES (1199, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1198, 50);
+                VALUES (1200, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1199, 8);
+                VALUES (1200, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1199, 98);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1200, 67);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1201, 93);
+                VALUES (1201, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1202, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1202, 56);
+                VALUES (1202, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1203, 60);
+                VALUES (1203, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1204, 35);
+                VALUES (1203, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1205, 48);
+                VALUES (1203, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1205, 16);
+                VALUES (1204, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1206, 93);
+                VALUES (1204, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1206, 3);
+                VALUES (1205, 80);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1205, 97);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1205, 43);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1206, 54);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1206, 90);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1206, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1207, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1207, 15);
+                VALUES (1208, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1208, 43);
+                VALUES (1209, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1208, 94);
+                VALUES (1210, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1209, 49);
+                VALUES (1210, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1210, 71);
+                VALUES (1211, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1210, 72);
+                VALUES (1211, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1210, 12);
+                VALUES (1212, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1211, 56);
+                VALUES (1212, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1212, 83);
+                VALUES (1213, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1213, 72);
+                VALUES (1213, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1213, 81);
+                VALUES (1213, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1213, 45);
+                VALUES (1214, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1214, 84);
+                VALUES (1215, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1214, 70);
+                VALUES (1215, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1215, 75);
+                VALUES (1216, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1215, 97);
+                VALUES (1216, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1216, 100);
+                VALUES (1217, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1216, 69);
+                VALUES (1217, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1217, 71);
+                VALUES (1218, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1218, 48);
+                VALUES (1218, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1219, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1219, 32);
+                VALUES (1219, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1220, 79);
+                VALUES (1220, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1220, 40);
+                VALUES (1220, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1220, 34);
+                VALUES (1220, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1221, 90);
+                VALUES (1221, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1221, 75);
+                VALUES (1221, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1221, 10);
+                VALUES (1222, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1222, 10);
+                VALUES (1222, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1222, 51);
+                VALUES (1222, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1222, 16);
+                VALUES (1223, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1223, 81);
+                VALUES (1223, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1223, 84);
+                VALUES (1224, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1224, 57);
+                VALUES (1224, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1224, 86);
+                VALUES (1225, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1224, 13);
+                VALUES (1226, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1225, 87);
+                VALUES (1226, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1226, 55);
+                VALUES (1227, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1226, 2);
+                VALUES (1227, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1226, 86);
+                VALUES (1228, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1227, 68);
+                VALUES (1229, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1227, 10);
+                VALUES (1229, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1228, 91);
+                VALUES (1229, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1229, 33);
+                VALUES (1230, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1229, 74);
+                VALUES (1230, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1230, 81);
+                VALUES (1230, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1231, 35);
+                VALUES (1231, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1232, 70);
+                VALUES (1231, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1233, 68);
+                VALUES (1232, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1233, 35);
+                VALUES (1233, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1234, 24);
+                VALUES (1233, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1235, 61);
+                VALUES (1233, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1236, 26);
+                VALUES (1234, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1236, 85);
+                VALUES (1235, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1237, 93);
+                VALUES (1236, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1237, 83);
+                VALUES (1237, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1238, 37);
+                VALUES (1238, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1238, 8);
+                VALUES (1238, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1238, 84);
+                VALUES (1239, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1239, 78);
+                VALUES (1239, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1239, 63);
+                VALUES (1239, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1239, 41);
+                VALUES (1240, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1240, 18);
+                VALUES (1240, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1240, 27);
+                VALUES (1240, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1241, 73);
+                VALUES (1241, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1242, 81);
+                VALUES (1241, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1242, 65);
+                VALUES (1241, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1243, 46);
+                VALUES (1242, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1243, 34);
+                VALUES (1242, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1244, 62);
+                VALUES (1242, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1244, 91);
+                VALUES (1243, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1245, 63);
+                VALUES (1244, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1245, 58);
+                VALUES (1245, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1245, 4);
+                VALUES (1245, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1246, 83);
+                VALUES (1245, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1247, 31);
+                VALUES (1246, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1247, 53);
+                VALUES (1246, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1247, 28);
+                VALUES (1246, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1248, 82);
+                VALUES (1247, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1249, 94);
+                VALUES (1247, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1249, 9);
+                VALUES (1248, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1249, 14);
+                VALUES (1248, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1250, 15);
+                VALUES (1249, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1251, 24);
+                VALUES (1249, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1251, 82);
+                VALUES (1250, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1251, 67);
+                VALUES (1250, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1252, 6);
+                VALUES (1250, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1252, 43);
+                VALUES (1251, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1253, 25);
+                VALUES (1251, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1254, 78);
+                VALUES (1251, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1254, 40);
+                VALUES (1252, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1254, 32);
+                VALUES (1253, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1255, 57);
+                VALUES (1253, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1255, 83);
+                VALUES (1253, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1256, 73);
+                VALUES (1254, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1257, 18);
+                VALUES (1254, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1258, 87);
+                VALUES (1255, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1259, 25);
+                VALUES (1255, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1260, 86);
+                VALUES (1255, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1261, 59);
+                VALUES (1256, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1261, 80);
+                VALUES (1256, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1261, 70);
+                VALUES (1256, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1262, 18);
+                VALUES (1257, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1262, 63);
+                VALUES (1258, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1262, 48);
+                VALUES (1258, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1263, 94);
+                VALUES (1259, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1263, 15);
+                VALUES (1260, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1264, 45);
+                VALUES (1260, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1264, 75);
+                VALUES (1260, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1265, 21);
+                VALUES (1261, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1265, 89);
+                VALUES (1262, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1265, 55);
+                VALUES (1263, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1266, 51);
+                VALUES (1264, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1266, 14);
+                VALUES (1265, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1267, 88);
+                VALUES (1265, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1268, 82);
+                VALUES (1265, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1269, 67);
+                VALUES (1266, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1269, 74);
+                VALUES (1266, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1270, 94);
+                VALUES (1267, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1271, 65);
+                VALUES (1267, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1271, 71);
+                VALUES (1268, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1272, 72);
+                VALUES (1268, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1272, 33);
+                VALUES (1269, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1272, 73);
+                VALUES (1269, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1273, 14);
+                VALUES (1270, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1273, 81);
+                VALUES (1270, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1274, 21);
+                VALUES (1270, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1274, 98);
+                VALUES (1271, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1275, 36);
+                VALUES (1271, 9);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1276, 37);
+                VALUES (1272, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1276, 49);
+                VALUES (1273, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1277, 96);
+                VALUES (1273, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1277, 2);
+                VALUES (1273, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1278, 18);
+                VALUES (1274, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1278, 15);
+                VALUES (1275, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1279, 40);
+                VALUES (1275, 19);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1280, 76);
+                VALUES (1276, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1280, 92);
+                VALUES (1276, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1280, 61);
+                VALUES (1276, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1281, 58);
+                VALUES (1277, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1281, 94);
+                VALUES (1277, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1282, 80);
+                VALUES (1278, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1282, 83);
+                VALUES (1279, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1283, 94);
+                VALUES (1280, 62);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1283, 85);
+                VALUES (1281, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1283, 52);
+                VALUES (1281, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1284, 62);
+                VALUES (1281, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1285, 83);
+                VALUES (1282, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1285, 55);
+                VALUES (1283, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1286, 69);
+                VALUES (1284, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1287, 41);
+                VALUES (1284, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1287, 6);
+                VALUES (1285, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1288, 14);
+                VALUES (1285, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1289, 97);
+                VALUES (1286, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1289, 83);
+                VALUES (1287, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1290, 62);
+                VALUES (1287, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1290, 86);
+                VALUES (1287, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1290, 11);
+                VALUES (1288, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1289, 79);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1290, 19);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1290, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1291, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1291, 67);
+                VALUES (1292, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1292, 57);
+                VALUES (1292, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1293, 45);
+                VALUES (1293, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1293, 4);
+                VALUES (1294, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1293, 94);
+                VALUES (1294, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1294, 77);
+                VALUES (1295, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1295, 43);
+                VALUES (1295, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1295, 42);
+                VALUES (1295, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1296, 60);
+                VALUES (1296, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1297, 91);
+                VALUES (1296, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1297, 20);
+                VALUES (1296, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1297, 31);
+                VALUES (1297, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1298, 21);
+                VALUES (1297, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1299, 8);
+                VALUES (1297, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1300, 70);
+                VALUES (1298, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1300, 34);
+                VALUES (1299, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1300, 66);
+                VALUES (1300, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1301, 83);
+                VALUES (1300, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1301, 61);
+                VALUES (1300, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1301, 87);
+                VALUES (1301, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1302, 74);
+                VALUES (1302, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1302, 93);
+                VALUES (1302, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1302, 28);
+                VALUES (1302, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1303, 26);
+                VALUES (1303, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1303, 28);
+                VALUES (1303, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1304, 15);
+                VALUES (1303, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1304, 93);
+                VALUES (1304, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1305, 7);
+                VALUES (1304, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1305, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1305, 9);
+                VALUES (1305, 52);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1305, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1306, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1306, 30);
+                VALUES (1306, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1306, 72);
+                VALUES (1307, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1307, 58);
+                VALUES (1307, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1308, 70);
+                VALUES (1308, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1308, 18);
+                VALUES (1308, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1308, 99);
+                VALUES (1309, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1309, 59);
+                VALUES (1309, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1310, 3);
+                VALUES (1310, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1310, 18);
+                VALUES (1310, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1310, 39);
+                VALUES (1311, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1311, 51);
+                VALUES (1311, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1312, 9);
+                VALUES (1311, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1312, 86);
+                VALUES (1312, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1312, 5);
+                VALUES (1312, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1313, 60);
+                VALUES (1312, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1313, 94);
+                VALUES (1313, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1313, 37);
+                VALUES (1313, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1314, 3);
+                VALUES (1314, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1315, 54);
+                VALUES (1314, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1316, 42);
+                VALUES (1314, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1316, 65);
+                VALUES (1315, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1317, 71);
+                VALUES (1315, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1317, 92);
+                VALUES (1316, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1318, 20);
+                VALUES (1317, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1319, 17);
+                VALUES (1317, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1319, 18);
+                VALUES (1318, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1320, 75);
+                VALUES (1318, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1321, 38);
+                VALUES (1318, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1322, 18);
+                VALUES (1319, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1322, 74);
+                VALUES (1319, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1322, 57);
+                VALUES (1319, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1323, 72);
+                VALUES (1320, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1324, 18);
+                VALUES (1320, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1324, 21);
+                VALUES (1321, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1325, 61);
+                VALUES (1322, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1325, 89);
+                VALUES (1323, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1326, 26);
+                VALUES (1324, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1326, 16);
+                VALUES (1324, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1326, 87);
+                VALUES (1325, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1327, 81);
+                VALUES (1325, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1327, 78);
+                VALUES (1326, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1328, 33);
+                VALUES (1326, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1328, 71);
+                VALUES (1326, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1329, 45);
+                VALUES (1327, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1330, 35);
+                VALUES (1327, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1331, 32);
+                VALUES (1327, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1331, 99);
+                VALUES (1328, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1332, 43);
+                VALUES (1328, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1332, 27);
+                VALUES (1328, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1332, 13);
+                VALUES (1329, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1333, 26);
+                VALUES (1329, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1333, 42);
+                VALUES (1329, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1333, 99);
+                VALUES (1330, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1334, 10);
+                VALUES (1330, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1335, 34);
+                VALUES (1331, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1336, 23);
+                VALUES (1332, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1336, 55);
+                VALUES (1333, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1337, 43);
+                VALUES (1334, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1338, 1);
+                VALUES (1334, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1339, 24);
+                VALUES (1334, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1339, 2);
+                VALUES (1335, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1340, 34);
+                VALUES (1336, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1340, 41);
+                VALUES (1336, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1340, 16);
+                VALUES (1336, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1341, 58);
+                VALUES (1337, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1341, 26);
+                VALUES (1337, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1341, 95);
+                VALUES (1338, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1342, 9);
+                VALUES (1338, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1342, 46);
+                VALUES (1339, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1342, 51);
+                VALUES (1339, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1343, 83);
+                VALUES (1340, 21);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1343, 3);
+                VALUES (1340, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1344, 23);
+                VALUES (1341, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1344, 19);
+                VALUES (1341, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1345, 21);
+                VALUES (1342, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1345, 45);
+                VALUES (1342, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1346, 60);
+                VALUES (1343, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1346, 80);
+                VALUES (1343, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1347, 28);
+                VALUES (1343, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1347, 100);
+                VALUES (1344, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1347, 86);
+                VALUES (1345, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1348, 84);
+                VALUES (1345, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1349, 14);
+                VALUES (1346, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1349, 32);
+                VALUES (1346, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1350, 29);
+                VALUES (1347, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1350, 77);
+                VALUES (1347, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1351, 9);
+                VALUES (1348, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1351, 17);
+                VALUES (1348, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1351, 77);
+                VALUES (1348, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1352, 42);
+                VALUES (1349, 25);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1352, 85);
+                VALUES (1350, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1352, 63);
+                VALUES (1350, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1353, 86);
+                VALUES (1350, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1354, 25);
+                VALUES (1351, 99);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1351, 48);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1352, 9);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1353, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1353, 47);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1353, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1354, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1355, 85);
+                VALUES (1354, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1355, 52);
+                VALUES (1354, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1355, 75);
+                VALUES (1355, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1356, 73);
+                VALUES (1355, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1356, 84);
+                VALUES (1355, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1356, 81);
+                VALUES (1356, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1357, 98);
+                VALUES (1356, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1358, 90);
+                VALUES (1357, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1358, 17);
+                VALUES (1358, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1358, 22);
+                VALUES (1358, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1359, 98);
+                VALUES (1359, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1360, 7);
+                VALUES (1359, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1361, 15);
+                VALUES (1359, 69);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1360, 92);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1360, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1361, 51);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1361, 5);
+                VALUES (1361, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1362, 15);
+                VALUES (1361, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1362, 77);
+                VALUES (1362, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1362, 59);
+                VALUES (1362, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1363, 92);
+                VALUES (1363, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1363, 84);
+                VALUES (1364, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1364, 29);
+                VALUES (1365, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1364, 85);
+                VALUES (1365, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1365, 65);
+                VALUES (1365, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1366, 81);
+                VALUES (1366, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1366, 55);
+                VALUES (1367, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1367, 88);
+                VALUES (1367, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1367, 57);
+                VALUES (1367, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1368, 73);
+                VALUES (1368, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1369, 45);
+                VALUES (1368, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1370, 93);
+                VALUES (1369, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1371, 81);
+                VALUES (1370, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1371, 76);
+                VALUES (1370, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1371, 85);
+                VALUES (1371, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1372, 58);
+                VALUES (1371, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1372, 56);
+                VALUES (1371, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1372, 40);
+                VALUES (1372, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1373, 34);
+                VALUES (1372, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1373, 84);
+                VALUES (1372, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1374, 91);
+                VALUES (1373, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1374, 39);
+                VALUES (1373, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1375, 55);
+                VALUES (1373, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1375, 34);
+                VALUES (1374, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1376, 3);
+                VALUES (1374, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1376, 93);
+                VALUES (1374, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1376, 72);
+                VALUES (1375, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1377, 28);
+                VALUES (1375, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1377, 27);
+                VALUES (1375, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1378, 29);
+                VALUES (1376, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1379, 55);
+                VALUES (1376, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1380, 37);
+                VALUES (1376, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1380, 19);
+                VALUES (1377, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1381, 18);
+                VALUES (1378, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1381, 84);
+                VALUES (1378, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1381, 23);
+                VALUES (1379, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1382, 46);
+                VALUES (1380, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1382, 71);
+                VALUES (1380, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1383, 82);
+                VALUES (1380, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1384, 75);
+                VALUES (1381, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1384, 28);
+                VALUES (1382, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1385, 65);
+                VALUES (1382, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1385, 53);
+                VALUES (1383, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1386, 53);
+                VALUES (1384, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1386, 2);
+                VALUES (1384, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1386, 66);
+                VALUES (1384, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1387, 97);
+                VALUES (1385, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1387, 77);
+                VALUES (1385, 84);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1387, 58);
+                VALUES (1385, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1388, 78);
+                VALUES (1386, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1388, 3);
+                VALUES (1386, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1388, 66);
+                VALUES (1386, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1389, 43);
+                VALUES (1387, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1389, 100);
+                VALUES (1387, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1389, 17);
+                VALUES (1387, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1390, 76);
+                VALUES (1388, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1390, 33);
+                VALUES (1389, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1390, 68);
+                VALUES (1390, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1391, 55);
+                VALUES (1391, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1392, 71);
+                VALUES (1392, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1393, 41);
+                VALUES (1392, 42);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1393, 31);
+                VALUES (1393, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1393, 90);
+                VALUES (1393, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1394, 87);
+                VALUES (1394, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1395, 54);
+                VALUES (1394, 35);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1395, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1396, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1397, 26);
+                VALUES (1396, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1398, 54);
+                VALUES (1397, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1398, 34);
+                VALUES (1398, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1399, 8);
+                VALUES (1398, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1399, 74);
+                VALUES (1398, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1399, 2);
+                VALUES (1399, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1400, 86);
+                VALUES (1399, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1401, 100);
+                VALUES (1400, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1402, 4);
+                VALUES (1401, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1403, 55);
+                VALUES (1401, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1404, 24);
+                VALUES (1401, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1405, 30);
+                VALUES (1402, 67);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1406, 64);
+                VALUES (1402, 66);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1406, 31);
+                VALUES (1403, 18);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1406, 88);
+                VALUES (1403, 81);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1407, 79);
+                VALUES (1403, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1407, 78);
+                VALUES (1404, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1408, 22);
+                VALUES (1405, 46);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1408, 85);
+                VALUES (1405, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1408, 26);
+                VALUES (1406, 12);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1406, 11);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1406, 80);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1407, 61);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1408, 14);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1408, 87);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1408, 54);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1409, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1409, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1410, 53);
+                VALUES (1410, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1411, 72);
+                VALUES (1411, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1411, 70);
+                VALUES (1411, 83);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1412, 19);
+                VALUES (1412, 97);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1413, 78);
+                VALUES (1413, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1413, 26);
+                VALUES (1413, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1414, 35);
+                VALUES (1414, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1415, 24);
+                VALUES (1415, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1415, 4);
+                VALUES (1415, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1416, 63);
+                VALUES (1415, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1416, 65);
+                VALUES (1416, 5);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1417, 45);
+                VALUES (1416, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1417, 50);
+                VALUES (1417, 15);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1417, 6);
+                VALUES (1417, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1418, 31);
+                VALUES (1417, 89);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1418, 77);
+                VALUES (1418, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1419, 45);
+                VALUES (1418, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1419, 77);
+                VALUES (1419, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1420, 61);
+                VALUES (1420, 45);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1421, 46);
+                VALUES (1420, 80);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1421, 9);
+                VALUES (1420, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1422, 56);
+                VALUES (1421, 13);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1422, 4);
+                VALUES (1422, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1423, 17);
+                VALUES (1423, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1424, 55);
+                VALUES (1423, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1424, 34);
+                VALUES (1423, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1425, 75);
+                VALUES (1424, 59);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1424, 12);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1424, 1);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1425, 4);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1425, 29);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1425, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1426, 61);
+                VALUES (1426, 64);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1427, 86);
+                VALUES (1426, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1427, 24);
+                VALUES (1426, 78);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1428, 69);
+                VALUES (1427, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1428, 21);
+                VALUES (1427, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1428, 56);
+                VALUES (1427, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1429, 40);
+                VALUES (1428, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1429, 7);
+                VALUES (1428, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1429, 13);
+                VALUES (1428, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1430, 95);
+                VALUES (1429, 94);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1430, 24);
+                VALUES (1430, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1430, 90);
+                VALUES (1431, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1431, 88);
+                VALUES (1431, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1431, 53);
+                VALUES (1432, 20);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1431, 96);
+                VALUES (1432, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1432, 57);
+                VALUES (1433, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1432, 46);
+                VALUES (1434, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1433, 60);
+                VALUES (1434, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1433, 64);
+                VALUES (1435, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1434, 50);
+                VALUES (1435, 82);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1434, 12);
+                VALUES (1435, 98);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1435, 76);
+                VALUES (1436, 74);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1435, 2);
+                VALUES (1436, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1435, 14);
+                VALUES (1437, 77);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1436, 99);
+                VALUES (1437, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1436, 88);
+                VALUES (1437, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1437, 20);
+                VALUES (1438, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1437, 15);
+                VALUES (1439, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1438, 77);
+                VALUES (1439, 3);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1438, 75);
+                VALUES (1439, 59);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1438, 90);
+                VALUES (1440, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1439, 73);
+                VALUES (1440, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1439, 20);
+                VALUES (1441, 70);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1440, 43);
+                VALUES (1441, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1440, 92);
+                VALUES (1441, 99);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1440, 94);
+                VALUES (1442, 27);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1441, 83);
+                VALUES (1442, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1442, 80);
+                VALUES (1442, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1442, 81);
+                VALUES (1443, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1442, 86);
+                VALUES (1443, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1443, 31);
+                VALUES (1444, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1443, 91);
+                VALUES (1444, 35);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1444, 11);
+                VALUES (1444, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1445, 43);
+                VALUES (1445, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1446, 83);
+                VALUES (1445, 39);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1446, 16);
+                VALUES (1445, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1447, 50);
+                VALUES (1446, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1447, 56);
+                VALUES (1446, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1448, 38);
+                VALUES (1446, 50);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1448, 43);
+                VALUES (1447, 55);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1448, 55);
+                VALUES (1448, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1449, 84);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1449, 13);
+                VALUES (1448, 73);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1449, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1450, 65);
+                VALUES (1449, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1451, 91);
+                VALUES (1450, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1452, 50);
+                VALUES (1450, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1452, 6);
+                VALUES (1451, 79);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1453, 20);
+                VALUES (1451, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1453, 48);
+                VALUES (1452, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1453, 84);
+                VALUES (1452, 31);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1454, 70);
+                VALUES (1453, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1454, 96);
+                VALUES (1453, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1454, 42);
+                VALUES (1453, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1455, 63);
+                VALUES (1454, 7);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1454, 97);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1455, 69);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1456, 95);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1456, 71);
+                VALUES (1456, 57);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1457, 31);
+                VALUES (1457, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1457, 92);
+                VALUES (1457, 4);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1458, 28);
+                VALUES (1458, 54);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1459, 80);
+                VALUES (1458, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1459, 39);
+                VALUES (1459, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1460, 24);
+                VALUES (1459, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1461, 18);
+                VALUES (1459, 10);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1462, 85);
+                VALUES (1460, 49);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1463, 42);
+                VALUES (1460, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1463, 47);
+                VALUES (1460, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1463, 69);
+                VALUES (1461, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1464, 11);
+                VALUES (1461, 17);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1464, 27);
+                VALUES (1462, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1464, 34);
+                VALUES (1463, 11);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1465, 3);
+                VALUES (1463, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1465, 9);
+                VALUES (1464, 33);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1465, 1);
+                VALUES (1464, 71);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1466, 89);
+                VALUES (1464, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1467, 93);
+                VALUES (1465, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1468, 86);
+                VALUES (1466, 1);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1468, 75);
+                VALUES (1466, 48);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1468, 13);
+                VALUES (1466, 16);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1469, 16);
+                VALUES (1467, 96);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1470, 89);
+                VALUES (1467, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1470, 15);
+                VALUES (1467, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1470, 24);
+                VALUES (1468, 76);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1471, 82);
+                VALUES (1468, 32);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1472, 27);
+                VALUES (1469, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1472, 56);
+                VALUES (1469, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1473, 42);
+                VALUES (1470, 26);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1474, 81);
+                VALUES (1470, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1474, 50);
+                VALUES (1471, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1475, 88);
+                VALUES (1471, 30);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1475, 99);
+                VALUES (1472, 14);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1475, 87);
+                VALUES (1473, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1476, 74);
+                VALUES (1473, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1477, 96);
+                VALUES (1473, 65);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1477, 91);
+                VALUES (1474, 72);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1478, 70);
+                VALUES (1474, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1478, 1);
+                VALUES (1475, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1479, 48);
+                VALUES (1475, 52);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1480, 11);
+                VALUES (1476, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1481, 81);
+                VALUES (1476, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1481, 98);
+                VALUES (1477, 56);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1482, 11);
+                VALUES (1478, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1482, 36);
+                VALUES (1478, 7);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1482, 61);
+                VALUES (1479, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1483, 83);
+                VALUES (1479, 2);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1484, 16);
+                VALUES (1479, 58);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1484, 8);
+                VALUES (1480, 60);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1485, 15);
+                VALUES (1480, 28);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1485, 18);
+                VALUES (1481, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1486, 55);
+                VALUES (1482, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1486, 70);
+                VALUES (1483, 85);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1486, 25);
+                VALUES (1483, 40);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1487, 29);
+                VALUES (1484, 86);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1487, 14);
+                VALUES (1485, 93);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1488, 80);
+                VALUES (1485, 43);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1488, 96);
+                VALUES (1485, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1489, 35);
+                VALUES (1486, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1489, 6);
+                VALUES (1487, 23);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1490, 17);
+                VALUES (1488, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1490, 67);
+                VALUES (1489, 36);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1491, 18);
+                VALUES (1489, 63);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1491, 39);
+                VALUES (1489, 24);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1492, 34);
+                VALUES (1490, 34);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1492, 65);
+                VALUES (1490, 61);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1492, 48);
+                VALUES (1491, 68);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1493, 7);
+                VALUES (1492, 37);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1493, 92);
+                VALUES (1493, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1493, 43);
+                VALUES (1493, 87);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1494, 58);
+                VALUES (1494, 44);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1495, 1);
+                VALUES (1494, 12);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1495, 85);
+                VALUES (1494, 92);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1496, 21);
+                VALUES (1495, 91);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1496, 57);
+                VALUES (1495, 53);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1496, 29);
+                VALUES (1496, 41);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1497, 59);
+                VALUES (1496, 88);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1497, 91);
+                VALUES (1496, 6);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1498, 58);
+                VALUES (1497, 90);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1498, 36);
+                VALUES (1497, 47);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1498, 27);
+                VALUES (1497, 75);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1499, 44);
+                VALUES (1498, 22);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1499, 60);
+                VALUES (1498, 8);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1500, 126);
+                VALUES (1499, 38);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1500, 113);
+                VALUES (1500, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1500, 168);
+                VALUES (1501, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1501, 200);
+                VALUES (1502, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1501, 112);
+                VALUES (1502, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1501, 161);
+                VALUES (1502, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1502, 108);
+                VALUES (1503, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1502, 190);
+                VALUES (1504, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1503, 126);
+                VALUES (1504, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1504, 188);
+                VALUES (1504, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1505, 130);
+                VALUES (1505, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1505, 186);
+                VALUES (1505, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1505, 159);
+                VALUES (1506, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1506, 157);
+                VALUES (1506, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1507, 135);
+                VALUES (1506, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1508, 115);
+                VALUES (1507, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1508, 119);
+                VALUES (1507, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1509, 131);
+                VALUES (1507, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1509, 158);
+                VALUES (1508, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1510, 119);
+                VALUES (1508, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1511, 168);
+                VALUES (1508, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1512, 152);
+                VALUES (1509, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1512, 143);
+                VALUES (1509, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1513, 167);
+                VALUES (1510, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1514, 112);
+                VALUES (1510, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1514, 193);
+                VALUES (1510, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1515, 148);
+                VALUES (1511, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1515, 187);
+                VALUES (1511, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1515, 182);
+                VALUES (1511, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1516, 134);
+                VALUES (1512, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1517, 176);
+                VALUES (1512, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1517, 123);
+                VALUES (1512, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1518, 167);
+                VALUES (1513, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1518, 186);
+                VALUES (1513, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1518, 121);
+                VALUES (1514, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1519, 100);
+                VALUES (1515, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1520, 144);
+                VALUES (1515, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1521, 164);
+                VALUES (1515, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1521, 156);
+                VALUES (1516, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1521, 114);
+                VALUES (1516, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1522, 152);
+                VALUES (1517, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1523, 143);
+                VALUES (1518, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1524, 180);
+                VALUES (1518, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1524, 190);
+                VALUES (1519, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1524, 154);
+                VALUES (1519, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1525, 110);
+                VALUES (1519, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1526, 182);
+                VALUES (1520, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1526, 112);
+                VALUES (1521, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1527, 154);
+                VALUES (1521, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1527, 122);
+                VALUES (1522, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1527, 164);
+                VALUES (1523, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1528, 168);
+                VALUES (1523, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1528, 109);
+                VALUES (1523, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1529, 189);
+                VALUES (1524, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1530, 109);
+                VALUES (1525, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1530, 167);
+                VALUES (1526, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1530, 157);
+                VALUES (1527, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1531, 151);
+                VALUES (1527, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1531, 197);
+                VALUES (1527, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1532, 142);
+                VALUES (1528, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1533, 115);
+                VALUES (1528, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1534, 148);
+                VALUES (1528, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1534, 141);
+                VALUES (1529, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1535, 189);
+                VALUES (1529, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1535, 187);
+                VALUES (1530, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1535, 109);
+                VALUES (1530, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1536, 130);
+                VALUES (1530, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1537, 146);
+                VALUES (1531, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1537, 173);
+                VALUES (1531, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1538, 125);
+                VALUES (1532, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1538, 121);
+                VALUES (1533, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1538, 139);
+                VALUES (1533, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1539, 171);
+                VALUES (1534, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1539, 196);
+                VALUES (1534, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1540, 122);
+                VALUES (1535, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1540, 125);
+                VALUES (1535, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1540, 124);
+                VALUES (1535, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1541, 163);
+                VALUES (1536, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1541, 198);
+                VALUES (1536, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1542, 179);
+                VALUES (1536, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1542, 182);
+                VALUES (1537, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1543, 143);
+                VALUES (1537, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1543, 161);
+                VALUES (1537, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1543, 142);
+                VALUES (1538, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1544, 119);
+                VALUES (1539, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1544, 177);
+                VALUES (1539, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1544, 141);
+                VALUES (1539, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1545, 154);
+                VALUES (1540, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1545, 117);
+                VALUES (1540, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1545, 116);
+                VALUES (1541, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1546, 130);
+                VALUES (1542, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1547, 111);
+                VALUES (1543, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1548, 170);
+                VALUES (1543, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1549, 117);
+                VALUES (1544, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1549, 164);
+                VALUES (1544, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1550, 100);
+                VALUES (1545, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1551, 159);
+                VALUES (1545, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1552, 169);
+                VALUES (1545, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1552, 145);
+                VALUES (1546, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1552, 141);
+                VALUES (1546, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1553, 188);
+                VALUES (1546, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1554, 166);
+                VALUES (1547, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1555, 129);
+                VALUES (1548, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1556, 180);
+                VALUES (1548, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1556, 142);
+                VALUES (1549, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1556, 169);
+                VALUES (1550, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1557, 131);
+                VALUES (1551, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1557, 106);
+                VALUES (1551, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1558, 122);
+                VALUES (1552, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1559, 189);
+                VALUES (1552, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1559, 168);
+                VALUES (1552, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1559, 192);
+                VALUES (1553, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1560, 193);
+                VALUES (1554, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1560, 126);
+                VALUES (1554, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1561, 152);
+                VALUES (1555, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1561, 184);
+                VALUES (1555, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1561, 108);
+                VALUES (1555, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1562, 192);
+                VALUES (1556, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1562, 170);
+                VALUES (1556, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1563, 151);
+                VALUES (1557, 179);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1558, 140);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1558, 136);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1558, 149);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1559, 197);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1559, 164);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1559, 139);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1560, 100);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1561, 198);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1562, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1563, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1563, 146);
+                VALUES (1563, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1564, 176);
+                VALUES (1563, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1564, 145);
+                VALUES (1564, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1564, 117);
+                VALUES (1564, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1565, 185);
+                VALUES (1564, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1565, 165);
+                VALUES (1565, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1566, 186);
+                VALUES (1565, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1567, 143);
+                VALUES (1566, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1567, 186);
+                VALUES (1566, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1568, 170);
+                VALUES (1566, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1568, 130);
+                VALUES (1567, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1568, 163);
+                VALUES (1567, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1569, 186);
+                VALUES (1568, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1570, 107);
+                VALUES (1569, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1571, 176);
+                VALUES (1569, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1571, 139);
+                VALUES (1570, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1572, 158);
+                VALUES (1570, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1573, 113);
+                VALUES (1571, 165);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1571, 125);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1571, 190);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1572, 175);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1572, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1573, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1573, 117);
+                VALUES (1573, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1574, 145);
+                VALUES (1574, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1574, 133);
+                VALUES (1575, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1575, 122);
+                VALUES (1575, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1576, 163);
+                VALUES (1575, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1577, 125);
+                VALUES (1576, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1577, 183);
+                VALUES (1577, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1578, 128);
+                VALUES (1577, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1579, 152);
+                VALUES (1578, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1579, 156);
+                VALUES (1579, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1580, 189);
+                VALUES (1579, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1580, 184);
+                VALUES (1580, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1580, 116);
+                VALUES (1580, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1581, 120);
+                VALUES (1581, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1582, 168);
+                VALUES (1582, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1582, 142);
+                VALUES (1582, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1582, 187);
+                VALUES (1582, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1583, 178);
+                VALUES (1583, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1584, 118);
+                VALUES (1583, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1584, 183);
+                VALUES (1583, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1584, 140);
+                VALUES (1584, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1585, 106);
+                VALUES (1584, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1585, 171);
+                VALUES (1585, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1586, 133);
+                VALUES (1585, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1587, 181);
+                VALUES (1585, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1587, 149);
+                VALUES (1586, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1587, 169);
+                VALUES (1587, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1588, 161);
+                VALUES (1588, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1588, 147);
+                VALUES (1589, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1589, 190);
+                VALUES (1590, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1590, 163);
+                VALUES (1591, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1590, 172);
+                VALUES (1592, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1591, 152);
+                VALUES (1592, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1591, 156);
+                VALUES (1593, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1591, 200);
+                VALUES (1594, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1592, 170);
+                VALUES (1595, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1592, 130);
+                VALUES (1595, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1593, 115);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1593, 136);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1594, 104);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1595, 183);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1596, 105);
+                VALUES (1595, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1596, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1596, 193);
+                VALUES (1597, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1597, 153);
+                VALUES (1598, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1598, 130);
+                VALUES (1598, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1598, 160);
+                VALUES (1598, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1599, 198);
+                VALUES (1599, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1600, 154);
+                VALUES (1599, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1600, 145);
+                VALUES (1599, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1600, 158);
+                VALUES (1600, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1601, 192);
+                VALUES (1601, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1601, 157);
+                VALUES (1602, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1601, 178);
+                VALUES (1602, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1602, 142);
+                VALUES (1603, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1602, 130);
+                VALUES (1603, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1603, 176);
+                VALUES (1603, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1604, 126);
+                VALUES (1604, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1605, 166);
+                VALUES (1605, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1605, 133);
+                VALUES (1605, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1606, 130);
+                VALUES (1605, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1606, 151);
+                VALUES (1606, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1606, 163);
+                VALUES (1607, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1607, 139);
+                VALUES (1607, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1608, 102);
+                VALUES (1608, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1608, 172);
+                VALUES (1609, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1609, 142);
+                VALUES (1609, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1609, 198);
+                VALUES (1609, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1609, 131);
+                VALUES (1610, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1610, 198);
+                VALUES (1610, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1611, 198);
+                VALUES (1610, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1611, 121);
+                VALUES (1611, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1611, 197);
+                VALUES (1611, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1612, 161);
+                VALUES (1611, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1612, 147);
+                VALUES (1612, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1612, 167);
+                VALUES (1613, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1613, 140);
+                VALUES (1614, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1614, 121);
+                VALUES (1615, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1615, 110);
+                VALUES (1615, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1615, 147);
+                VALUES (1615, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1616, 172);
+                VALUES (1616, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1616, 141);
+                VALUES (1616, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1616, 121);
+                VALUES (1616, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1617, 138);
+                VALUES (1617, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1617, 114);
+                VALUES (1617, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1617, 110);
+                VALUES (1618, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1618, 121);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1618, 150);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1618, 176);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1619, 146);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1619, 161);
+                VALUES (1619, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1619, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1620, 176);
+                VALUES (1620, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1621, 188);
+                VALUES (1621, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1621, 178);
+                VALUES (1622, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1621, 141);
+                VALUES (1622, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1622, 133);
+                VALUES (1623, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1623, 102);
+                VALUES (1623, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1623, 113);
+                VALUES (1624, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1624, 183);
+                VALUES (1625, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1625, 130);
+                VALUES (1625, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1625, 122);
+                VALUES (1625, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1626, 152);
+                VALUES (1626, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1627, 105);
+                VALUES (1627, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1627, 157);
+                VALUES (1627, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1627, 165);
+                VALUES (1627, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1628, 186);
+                VALUES (1628, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1628, 110);
+                VALUES (1628, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1629, 180);
+                VALUES (1628, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1630, 188);
+                VALUES (1629, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1630, 177);
+                VALUES (1629, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1631, 149);
+                VALUES (1629, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1631, 139);
+                VALUES (1630, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1631, 148);
+                VALUES (1631, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1632, 151);
+                VALUES (1632, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1632, 181);
+                VALUES (1632, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1633, 149);
+                VALUES (1632, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1633, 124);
+                VALUES (1633, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1634, 197);
+                VALUES (1634, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1634, 172);
+                VALUES (1634, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1635, 129);
+                VALUES (1634, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1635, 118);
+                VALUES (1635, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1635, 164);
+                VALUES (1635, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1636, 181);
+                VALUES (1635, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1636, 184);
+                VALUES (1636, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1637, 152);
+                VALUES (1636, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1637, 133);
+                VALUES (1637, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1638, 163);
+                VALUES (1638, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1638, 113);
+                VALUES (1638, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1639, 127);
+                VALUES (1638, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1640, 109);
+                VALUES (1639, 117);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1639, 185);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1640, 162);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1640, 166);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1641, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1641, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1641, 148);
+                VALUES (1641, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1642, 165);
+                VALUES (1642, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1643, 123);
+                VALUES (1643, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1643, 146);
+                VALUES (1643, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1644, 197);
+                VALUES (1643, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1644, 121);
+                VALUES (1644, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1644, 106);
+                VALUES (1644, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1645, 155);
+                VALUES (1645, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1645, 138);
+                VALUES (1645, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1645, 121);
+                VALUES (1646, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1646, 183);
+                VALUES (1646, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1646, 165);
+                VALUES (1646, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1646, 159);
+                VALUES (1647, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1647, 146);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1647, 172);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1647, 157);
+                VALUES (1647, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1648, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1648, 199);
+                VALUES (1649, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1648, 120);
+                VALUES (1649, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1649, 133);
+                VALUES (1650, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1649, 118);
+                VALUES (1650, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1649, 179);
+                VALUES (1650, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1650, 199);
+                VALUES (1651, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1650, 120);
+                VALUES (1651, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1651, 186);
+                VALUES (1652, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1651, 147);
+                VALUES (1652, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1652, 162);
+                VALUES (1653, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1653, 125);
+                VALUES (1653, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1653, 194);
+                VALUES (1653, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1653, 181);
+                VALUES (1654, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1654, 153);
+                VALUES (1654, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1654, 177);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1654, 115);
+                VALUES (1654, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1655, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1655, 164);
+                VALUES (1655, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1655, 136);
+                VALUES (1655, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1656, 119);
+                VALUES (1656, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1656, 129);
+                VALUES (1657, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1656, 112);
+                VALUES (1657, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1657, 169);
+                VALUES (1657, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1657, 125);
+                VALUES (1658, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1658, 153);
+                VALUES (1658, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1658, 187);
+                VALUES (1658, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1659, 103);
+                VALUES (1659, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1660, 151);
+                VALUES (1659, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1660, 188);
+                VALUES (1659, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1660, 200);
+                VALUES (1660, 140);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1660, 134);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1660, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1661, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1662, 180);
+                VALUES (1661, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1663, 173);
+                VALUES (1661, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1663, 142);
+                VALUES (1662, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1663, 194);
+                VALUES (1663, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1664, 140);
+                VALUES (1663, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1664, 158);
+                VALUES (1664, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1664, 102);
+                VALUES (1664, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1665, 173);
+                VALUES (1665, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1665, 182);
+                VALUES (1665, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1666, 101);
+                VALUES (1665, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1666, 115);
+                VALUES (1666, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1666, 116);
+                VALUES (1666, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1667, 175);
+                VALUES (1666, 109);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1667, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1667, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1667, 115);
+                VALUES (1667, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1668, 103);
+                VALUES (1668, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1669, 148);
+                VALUES (1668, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1669, 180);
+                VALUES (1668, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1669, 172);
+                VALUES (1669, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1670, 182);
+                VALUES (1670, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1671, 149);
+                VALUES (1671, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1672, 171);
+                VALUES (1672, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1672, 121);
+                VALUES (1672, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1673, 129);
+                VALUES (1673, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1674, 108);
+                VALUES (1674, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1674, 131);
+                VALUES (1674, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1674, 171);
+                VALUES (1675, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1675, 183);
+                VALUES (1675, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1675, 169);
+                VALUES (1675, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1676, 138);
+                VALUES (1676, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1676, 175);
+                VALUES (1677, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1676, 120);
+                VALUES (1677, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1677, 163);
+                VALUES (1677, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1677, 157);
+                VALUES (1678, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1677, 119);
+                VALUES (1678, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1678, 130);
+                VALUES (1678, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1678, 168);
+                VALUES (1679, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1678, 165);
+                VALUES (1679, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1679, 128);
+                VALUES (1680, 143);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1680, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1680, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1681, 161);
+                VALUES (1681, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1681, 166);
+                VALUES (1682, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1681, 159);
+                VALUES (1682, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1682, 114);
+                VALUES (1682, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1683, 128);
+                VALUES (1683, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1683, 135);
+                VALUES (1684, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1683, 145);
+                VALUES (1684, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1684, 131);
+                VALUES (1685, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1685, 142);
+                VALUES (1685, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1685, 122);
+                VALUES (1686, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1686, 112);
+                VALUES (1686, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1687, 179);
+                VALUES (1687, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1687, 152);
+                VALUES (1688, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1687, 140);
+                VALUES (1688, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1688, 106);
+                VALUES (1688, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1688, 175);
+                VALUES (1689, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1688, 116);
+                VALUES (1690, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1689, 149);
+                VALUES (1690, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1690, 126);
+                VALUES (1691, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1690, 167);
+                VALUES (1691, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1691, 178);
+                VALUES (1691, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1691, 121);
+                VALUES (1692, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1692, 183);
+                VALUES (1692, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1692, 137);
+                VALUES (1693, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1693, 112);
+                VALUES (1693, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1693, 166);
+                VALUES (1694, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1693, 126);
+                VALUES (1694, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1694, 183);
+                VALUES (1695, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1694, 114);
+                VALUES (1696, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1694, 141);
+                VALUES (1696, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1695, 169);
+                VALUES (1697, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1696, 189);
+                VALUES (1697, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1696, 194);
+                VALUES (1697, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1697, 109);
+                VALUES (1698, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1697, 192);
+                VALUES (1698, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1698, 132);
+                VALUES (1699, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1698, 148);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1699, 144);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1699, 135);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1699, 142);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1700, 158);
+                VALUES (1699, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1700, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1700, 111);
+                VALUES (1700, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1701, 117);
+                VALUES (1701, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1701, 120);
+                VALUES (1701, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1702, 100);
+                VALUES (1702, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1703, 182);
+                VALUES (1703, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1703, 100);
+                VALUES (1704, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1703, 199);
+                VALUES (1704, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1704, 195);
+                VALUES (1705, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1705, 180);
+                VALUES (1706, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1706, 154);
+                VALUES (1707, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1707, 180);
+                VALUES (1707, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1707, 198);
+                VALUES (1707, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1707, 126);
+                VALUES (1708, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1708, 182);
+                VALUES (1709, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1708, 138);
+                VALUES (1710, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1708, 163);
+                VALUES (1710, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1709, 104);
+                VALUES (1711, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1709, 120);
+                VALUES (1711, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1710, 174);
+                VALUES (1711, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1710, 195);
+                VALUES (1712, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1711, 142);
+                VALUES (1712, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1712, 198);
+                VALUES (1712, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1712, 138);
+                VALUES (1713, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1712, 106);
+                VALUES (1714, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1713, 183);
+                VALUES (1715, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1713, 148);
+                VALUES (1715, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1713, 182);
+                VALUES (1715, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1714, 100);
+                VALUES (1716, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1714, 115);
+                VALUES (1716, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1714, 199);
+                VALUES (1716, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1715, 166);
+                VALUES (1717, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1715, 107);
+                VALUES (1718, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1716, 144);
+                VALUES (1718, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1716, 177);
+                VALUES (1719, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1717, 182);
+                VALUES (1720, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1717, 190);
+                VALUES (1720, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1718, 131);
+                VALUES (1720, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1718, 165);
+                VALUES (1721, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1719, 177);
+                VALUES (1721, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1720, 177);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1720, 125);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1721, 163);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1721, 194);
+                VALUES (1721, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1722, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1722, 127);
+                VALUES (1722, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1723, 103);
+                VALUES (1723, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1723, 183);
+                VALUES (1723, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1723, 123);
+                VALUES (1724, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1724, 152);
+                VALUES (1724, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1724, 174);
+                VALUES (1725, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1725, 182);
+                VALUES (1725, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1725, 160);
+                VALUES (1725, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1726, 105);
+                VALUES (1726, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1726, 123);
+                VALUES (1727, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1727, 175);
+                VALUES (1727, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1727, 122);
+                VALUES (1727, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1728, 150);
+                VALUES (1728, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1728, 165);
+                VALUES (1728, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1728, 135);
+                VALUES (1728, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1729, 129);
+                VALUES (1729, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1730, 178);
+                VALUES (1729, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1730, 153);
+                VALUES (1729, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1730, 176);
+                VALUES (1730, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1731, 138);
+                VALUES (1730, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1732, 133);
+                VALUES (1730, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1732, 147);
+                VALUES (1731, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1732, 104);
+                VALUES (1731, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1733, 200);
+                VALUES (1732, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1733, 194);
+                VALUES (1732, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1733, 126);
+                VALUES (1733, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1734, 143);
+                VALUES (1733, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1734, 140);
+                VALUES (1734, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1735, 111);
+                VALUES (1735, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1735, 110);
+                VALUES (1735, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1736, 166);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1736, 186);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1737, 140);
+                VALUES (1736, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1737, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1738, 193);
+                VALUES (1738, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1738, 140);
+                VALUES (1738, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1739, 100);
+                VALUES (1739, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1739, 189);
+                VALUES (1739, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1739, 198);
+                VALUES (1740, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1740, 115);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1740, 109);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1741, 101);
+                VALUES (1740, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1741, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1742, 174);
+                VALUES (1742, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1742, 116);
+                VALUES (1742, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1743, 126);
+                VALUES (1743, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1743, 171);
+                VALUES (1743, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1743, 141);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1744, 159);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1744, 133);
+                VALUES (1743, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1744, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1745, 130);
+                VALUES (1744, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1745, 154);
+                VALUES (1744, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1745, 188);
+                VALUES (1745, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1746, 136);
+                VALUES (1746, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1746, 143);
+                VALUES (1746, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1747, 190);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1747, 195);
+                VALUES (1746, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1747, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1748, 106);
+                VALUES (1747, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1749, 169);
+                VALUES (1748, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1749, 170);
+                VALUES (1748, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1749, 143);
+                VALUES (1748, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1750, 154);
+                VALUES (1749, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1750, 114);
+                VALUES (1749, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1751, 175);
+                VALUES (1750, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1751, 189);
+                VALUES (1750, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1752, 115);
+                VALUES (1751, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1752, 122);
+                VALUES (1751, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1753, 126);
+                VALUES (1751, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1753, 143);
+                VALUES (1752, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1753, 136);
+                VALUES (1752, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1754, 143);
+                VALUES (1752, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1754, 127);
+                VALUES (1753, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1754, 146);
+                VALUES (1753, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1755, 115);
+                VALUES (1753, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1755, 117);
+                VALUES (1754, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1756, 170);
+                VALUES (1755, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1756, 102);
+                VALUES (1756, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1756, 135);
+                VALUES (1756, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1757, 116);
+                VALUES (1757, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1757, 149);
+                VALUES (1758, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1757, 176);
+                VALUES (1758, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1758, 188);
+                VALUES (1758, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1759, 132);
+                VALUES (1759, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1759, 111);
+                VALUES (1759, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1759, 197);
+                VALUES (1759, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1760, 131);
+                VALUES (1760, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1761, 191);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1761, 199);
+                VALUES (1761, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1761, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1762, 123);
+                VALUES (1761, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1763, 115);
+                VALUES (1762, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1763, 119);
+                VALUES (1763, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1763, 144);
+                VALUES (1763, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1764, 152);
+                VALUES (1764, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1764, 187);
+                VALUES (1764, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1765, 190);
+                VALUES (1765, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1766, 115);
+                VALUES (1766, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1767, 178);
+                VALUES (1767, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1768, 189);
+                VALUES (1768, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1768, 147);
+                VALUES (1768, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1769, 135);
+                VALUES (1768, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1770, 147);
+                VALUES (1769, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1770, 151);
+                VALUES (1770, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1770, 106);
+                VALUES (1770, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1771, 199);
+                VALUES (1771, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1771, 116);
+                VALUES (1772, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1772, 161);
+                VALUES (1773, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1772, 104);
+                VALUES (1773, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1772, 157);
+                VALUES (1774, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1773, 145);
+                VALUES (1775, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1773, 133);
+                VALUES (1775, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1773, 180);
+                VALUES (1775, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1774, 169);
+                VALUES (1776, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1774, 112);
+                VALUES (1776, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1775, 123);
+                VALUES (1777, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1776, 156);
+                VALUES (1777, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1777, 157);
+                VALUES (1777, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1778, 163);
+                VALUES (1778, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1778, 132);
+                VALUES (1778, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1778, 147);
+                VALUES (1778, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1779, 118);
+                VALUES (1779, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1779, 121);
+                VALUES (1779, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1779, 189);
+                VALUES (1780, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1780, 144);
+                VALUES (1780, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1781, 151);
+                VALUES (1781, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1781, 134);
+                VALUES (1781, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1781, 137);
+                VALUES (1781, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1782, 107);
+                VALUES (1782, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1782, 197);
+                VALUES (1782, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1782, 184);
+                VALUES (1783, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1783, 102);
+                VALUES (1783, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1784, 101);
+                VALUES (1784, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1784, 118);
+                VALUES (1785, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1785, 194);
+                VALUES (1785, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1785, 169);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1786, 127);
+                VALUES (1785, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1786, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1786, 179);
+                VALUES (1786, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1787, 160);
+                VALUES (1787, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1787, 178);
+                VALUES (1787, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1788, 136);
+                VALUES (1788, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1788, 181);
+                VALUES (1789, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1788, 111);
+                VALUES (1790, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1789, 119);
+                VALUES (1790, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1790, 142);
+                VALUES (1791, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1791, 151);
+                VALUES (1791, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1791, 120);
+                VALUES (1791, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1792, 193);
+                VALUES (1792, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1792, 135);
+                VALUES (1792, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1792, 165);
+                VALUES (1792, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1793, 172);
+                VALUES (1793, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1794, 180);
+                VALUES (1793, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1794, 160);
+                VALUES (1793, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1794, 100);
+                VALUES (1794, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1795, 154);
+                VALUES (1794, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1795, 141);
+                VALUES (1794, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1796, 195);
+                VALUES (1795, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1796, 125);
+                VALUES (1795, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1797, 126);
+                VALUES (1795, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1798, 126);
+                VALUES (1796, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1799, 126);
+                VALUES (1796, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1799, 183);
+                VALUES (1796, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1799, 196);
+                VALUES (1797, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1800, 149);
+                VALUES (1797, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1800, 170);
+                VALUES (1797, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1800, 135);
+                VALUES (1798, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1801, 194);
+                VALUES (1798, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1801, 177);
+                VALUES (1799, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1802, 162);
+                VALUES (1800, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1802, 141);
+                VALUES (1801, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1802, 190);
+                VALUES (1801, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1803, 109);
+                VALUES (1802, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1803, 127);
+                VALUES (1803, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1803, 169);
+                VALUES (1803, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1804, 186);
+                VALUES (1804, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1805, 199);
+                VALUES (1804, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1806, 129);
+                VALUES (1804, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1807, 182);
+                VALUES (1805, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1807, 158);
+                VALUES (1806, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1807, 151);
+                VALUES (1807, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1808, 149);
+                VALUES (1807, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1809, 120);
+                VALUES (1808, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1810, 190);
+                VALUES (1808, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1810, 145);
+                VALUES (1808, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1810, 132);
+                VALUES (1809, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1811, 152);
+                VALUES (1809, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1811, 147);
+                VALUES (1809, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1811, 188);
+                VALUES (1810, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1812, 199);
+                VALUES (1811, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1812, 101);
+                VALUES (1811, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1813, 176);
+                VALUES (1812, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1813, 171);
+                VALUES (1813, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1814, 163);
+                VALUES (1813, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1814, 115);
+                VALUES (1814, 159);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1814, 129);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1814, 158);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1815, 197);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1815, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1815, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1815, 114);
+                VALUES (1816, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1816, 189);
+                VALUES (1816, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1817, 121);
+                VALUES (1817, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1817, 126);
+                VALUES (1818, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1818, 120);
+                VALUES (1819, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1818, 156);
+                VALUES (1819, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1819, 193);
+                VALUES (1819, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1819, 179);
+                VALUES (1820, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1820, 196);
+                VALUES (1821, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1820, 178);
+                VALUES (1822, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1820, 133);
+                VALUES (1822, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1821, 139);
+                VALUES (1823, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1821, 161);
+                VALUES (1823, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1822, 123);
+                VALUES (1823, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1822, 110);
+                VALUES (1824, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1822, 189);
+                VALUES (1825, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1823, 103);
+                VALUES (1825, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1824, 159);
+                VALUES (1825, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1825, 153);
+                VALUES (1826, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1825, 194);
+                VALUES (1826, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1826, 143);
+                VALUES (1827, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1826, 101);
+                VALUES (1828, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1827, 194);
+                VALUES (1828, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1828, 155);
+                VALUES (1828, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1828, 119);
+                VALUES (1829, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1828, 123);
+                VALUES (1829, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1829, 143);
+                VALUES (1829, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1829, 132);
+                VALUES (1830, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1829, 162);
+                VALUES (1831, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1830, 172);
+                VALUES (1831, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1831, 120);
+                VALUES (1832, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1831, 129);
+                VALUES (1833, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1832, 124);
+                VALUES (1833, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1832, 102);
+                VALUES (1834, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1833, 116);
+                VALUES (1835, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1834, 155);
+                VALUES (1835, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1834, 112);
+                VALUES (1836, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1835, 135);
+                VALUES (1836, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1835, 153);
+                VALUES (1836, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1835, 132);
+                VALUES (1837, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1836, 135);
+                VALUES (1838, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1836, 170);
+                VALUES (1838, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1836, 153);
+                VALUES (1839, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1837, 148);
+                VALUES (1839, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1837, 114);
+                VALUES (1839, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1838, 165);
+                VALUES (1840, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1839, 126);
+                VALUES (1840, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1839, 152);
+                VALUES (1840, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1839, 196);
+                VALUES (1841, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1840, 147);
+                VALUES (1842, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1840, 133);
+                VALUES (1842, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1841, 158);
+                VALUES (1843, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1841, 131);
+                VALUES (1843, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1841, 106);
+                VALUES (1843, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1842, 153);
+                VALUES (1844, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1843, 160);
+                VALUES (1844, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1843, 119);
+                VALUES (1845, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1843, 171);
+                VALUES (1846, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1844, 110);
+                VALUES (1846, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1844, 143);
+                VALUES (1847, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1845, 111);
+                VALUES (1848, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1846, 117);
+                VALUES (1848, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1847, 171);
+                VALUES (1848, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1848, 102);
+                VALUES (1849, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1848, 142);
+                VALUES (1849, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1848, 138);
+                VALUES (1849, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1849, 137);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1849, 170);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1850, 137);
+                VALUES (1850, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1850, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1851, 171);
+                VALUES (1850, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1851, 119);
+                VALUES (1851, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1851, 184);
+                VALUES (1851, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1852, 103);
+                VALUES (1852, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1853, 155);
+                VALUES (1853, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1853, 194);
+                VALUES (1854, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1853, 180);
+                VALUES (1854, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1854, 103);
+                VALUES (1855, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1854, 117);
+                VALUES (1855, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1854, 130);
+                VALUES (1856, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1855, 185);
+                VALUES (1856, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1856, 121);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1856, 144);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1857, 185);
+                VALUES (1857, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1857, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1858, 193);
+                VALUES (1857, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1859, 154);
+                VALUES (1858, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1859, 194);
+                VALUES (1859, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1860, 125);
+                VALUES (1859, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1860, 106);
+                VALUES (1859, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1860, 129);
+                VALUES (1860, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1861, 183);
+                VALUES (1860, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1862, 191);
+                VALUES (1861, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1862, 154);
+                VALUES (1862, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1862, 145);
+                VALUES (1863, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1863, 200);
+                VALUES (1864, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1863, 115);
+                VALUES (1864, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1863, 132);
+                VALUES (1864, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1864, 122);
+                VALUES (1865, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1864, 121);
+                VALUES (1865, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1865, 117);
+                VALUES (1865, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1865, 158);
+                VALUES (1866, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1865, 183);
+                VALUES (1866, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1866, 122);
+                VALUES (1866, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1867, 192);
+                VALUES (1867, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1867, 102);
+                VALUES (1867, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1868, 156);
+                VALUES (1867, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1869, 185);
+                VALUES (1868, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1870, 145);
+                VALUES (1868, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1870, 125);
+                VALUES (1869, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1870, 132);
+                VALUES (1869, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1871, 126);
+                VALUES (1869, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1872, 144);
+                VALUES (1870, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1872, 182);
+                VALUES (1870, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1873, 122);
+                VALUES (1871, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1873, 127);
+                VALUES (1871, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1874, 135);
+                VALUES (1872, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1874, 132);
+                VALUES (1873, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1874, 138);
+                VALUES (1873, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1875, 120);
+                VALUES (1874, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1876, 135);
+                VALUES (1874, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1876, 121);
+                VALUES (1875, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1876, 123);
+                VALUES (1875, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1877, 127);
+                VALUES (1876, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1878, 122);
+                VALUES (1876, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1878, 194);
+                VALUES (1877, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1878, 144);
+                VALUES (1877, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1879, 137);
+                VALUES (1877, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1879, 169);
+                VALUES (1878, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1880, 140);
+                VALUES (1878, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1880, 139);
+                VALUES (1879, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1881, 101);
+                VALUES (1879, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1881, 118);
+                VALUES (1879, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1881, 151);
+                VALUES (1880, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1882, 113);
+                VALUES (1881, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1882, 182);
+                VALUES (1881, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1882, 103);
+                VALUES (1881, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1883, 144);
+                VALUES (1882, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1883, 131);
+                VALUES (1882, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1883, 139);
+                VALUES (1882, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1884, 117);
+                VALUES (1883, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1885, 176);
+                VALUES (1883, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1885, 199);
+                VALUES (1884, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1886, 186);
+                VALUES (1885, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1887, 172);
+                VALUES (1886, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1887, 199);
+                VALUES (1886, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1887, 180);
+                VALUES (1887, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1888, 123);
+                VALUES (1887, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1888, 125);
+                VALUES (1888, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1889, 178);
+                VALUES (1888, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1889, 111);
+                VALUES (1888, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1890, 151);
+                VALUES (1889, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1891, 131);
+                VALUES (1890, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1892, 188);
+                VALUES (1890, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1893, 131);
+                VALUES (1890, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1894, 162);
+                VALUES (1891, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1895, 152);
+                VALUES (1891, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1895, 156);
+                VALUES (1891, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1896, 193);
+                VALUES (1892, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1896, 169);
+                VALUES (1892, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1896, 192);
+                VALUES (1893, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1897, 136);
+                VALUES (1893, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1897, 151);
+                VALUES (1894, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1897, 119);
+                VALUES (1895, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1898, 118);
+                VALUES (1895, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1898, 149);
+                VALUES (1896, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1898, 143);
+                VALUES (1897, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1899, 123);
+                VALUES (1897, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1899, 116);
+                VALUES (1897, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1899, 158);
+                VALUES (1898, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1900, 175);
+                VALUES (1898, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1900, 155);
+                VALUES (1899, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1901, 175);
+                VALUES (1899, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1901, 110);
+                VALUES (1900, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1901, 119);
+                VALUES (1900, 196);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1901, 176);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1901, 160);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1901, 171);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (1902, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1902, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1903, 152);
+                VALUES (1903, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1903, 157);
+                VALUES (1904, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1904, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1904, 148);
+                VALUES (1904, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1905, 118);
+                VALUES (1905, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1906, 111);
+                VALUES (1906, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1907, 123);
+                VALUES (1907, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1907, 175);
+                VALUES (1907, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1908, 124);
+                VALUES (1908, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1908, 142);
+                VALUES (1908, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1909, 128);
+                VALUES (1908, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1910, 126);
+                VALUES (1909, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1911, 152);
+                VALUES (1909, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1911, 169);
+                VALUES (1909, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1912, 155);
+                VALUES (1910, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1913, 184);
+                VALUES (1911, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1914, 162);
+                VALUES (1911, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1914, 129);
+                VALUES (1912, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1914, 103);
+                VALUES (1912, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1915, 108);
+                VALUES (1913, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1915, 111);
+                VALUES (1913, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1915, 103);
+                VALUES (1913, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1916, 183);
+                VALUES (1914, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1916, 116);
+                VALUES (1914, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1917, 166);
+                VALUES (1915, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1917, 105);
+                VALUES (1916, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1917, 188);
+                VALUES (1917, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1918, 119);
+                VALUES (1917, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1918, 144);
+                VALUES (1918, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1918, 129);
+                VALUES (1919, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1919, 143);
+                VALUES (1919, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1919, 127);
+                VALUES (1920, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1919, 138);
+                VALUES (1920, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1920, 157);
+                VALUES (1921, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1921, 192);
+                VALUES (1922, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1921, 100);
+                VALUES (1923, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1922, 156);
+                VALUES (1923, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1923, 138);
+                VALUES (1923, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1923, 143);
+                VALUES (1924, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1924, 115);
+                VALUES (1924, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1924, 111);
+                VALUES (1924, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1925, 106);
+                VALUES (1925, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1925, 116);
+                VALUES (1925, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1925, 143);
+                VALUES (1926, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1926, 162);
+                VALUES (1926, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1926, 143);
+                VALUES (1926, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1926, 155);
+                VALUES (1927, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1927, 120);
+                VALUES (1927, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1927, 174);
+                VALUES (1928, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1927, 156);
+                VALUES (1929, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1928, 179);
+                VALUES (1930, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1929, 195);
+                VALUES (1930, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1930, 142);
+                VALUES (1930, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1930, 120);
+                VALUES (1931, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1930, 178);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1931, 131);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1931, 146);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1931, 106);
+                VALUES (1931, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1932, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1932, 138);
+                VALUES (1932, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1933, 192);
+                VALUES (1932, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1934, 189);
+                VALUES (1933, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1934, 137);
+                VALUES (1933, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1935, 122);
+                VALUES (1934, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1935, 103);
+                VALUES (1934, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1935, 111);
+                VALUES (1935, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1936, 173);
+                VALUES (1935, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1936, 186);
+                VALUES (1936, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1937, 147);
+                VALUES (1937, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1937, 104);
+                VALUES (1938, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1937, 197);
+                VALUES (1938, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1938, 161);
+                VALUES (1938, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1938, 182);
+                VALUES (1939, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1939, 139);
+                VALUES (1940, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1940, 195);
+                VALUES (1941, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1940, 132);
+                VALUES (1942, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1941, 164);
+                VALUES (1942, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1942, 112);
+                VALUES (1943, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1942, 149);
+                VALUES (1944, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1943, 175);
+                VALUES (1945, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1944, 174);
+                VALUES (1945, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1944, 162);
+                VALUES (1945, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1945, 104);
+                VALUES (1946, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1946, 149);
+                VALUES (1947, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1946, 193);
+                VALUES (1948, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1947, 166);
+                VALUES (1949, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1948, 119);
+                VALUES (1949, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1949, 179);
+                VALUES (1950, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1950, 149);
+                VALUES (1951, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1950, 129);
+                VALUES (1951, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1950, 179);
+                VALUES (1951, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1951, 124);
+                VALUES (1952, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1951, 198);
+                VALUES (1952, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1952, 176);
+                VALUES (1953, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1953, 191);
+                VALUES (1953, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1954, 116);
+                VALUES (1954, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1955, 130);
+                VALUES (1954, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1955, 109);
+                VALUES (1954, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1955, 173);
+                VALUES (1955, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1956, 163);
+                VALUES (1955, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1956, 200);
+                VALUES (1956, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1956, 165);
+                VALUES (1956, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1957, 160);
+                VALUES (1957, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1957, 183);
+                VALUES (1957, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1958, 126);
+                VALUES (1957, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1958, 175);
+                VALUES (1958, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1958, 169);
+                VALUES (1959, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1959, 154);
+                VALUES (1960, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1960, 108);
+                VALUES (1961, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1960, 179);
+                VALUES (1961, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1960, 131);
+                VALUES (1962, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1961, 129);
+                VALUES (1963, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1961, 174);
+                VALUES (1963, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1961, 193);
+                VALUES (1964, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1962, 152);
+                VALUES (1965, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1962, 117);
+                VALUES (1965, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1962, 135);
+                VALUES (1965, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1963, 153);
+                VALUES (1966, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1963, 128);
+                VALUES (1967, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1964, 174);
+                VALUES (1968, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1964, 125);
+                VALUES (1969, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1965, 120);
+                VALUES (1970, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1965, 168);
+                VALUES (1970, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1966, 128);
+                VALUES (1970, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1967, 177);
+                VALUES (1971, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1967, 148);
+                VALUES (1971, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1967, 110);
+                VALUES (1971, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1968, 163);
+                VALUES (1972, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1969, 102);
+                VALUES (1972, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1969, 166);
+                VALUES (1972, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1970, 113);
+                VALUES (1973, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1971, 136);
+                VALUES (1973, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1972, 134);
+                VALUES (1973, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1972, 190);
+                VALUES (1974, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1973, 159);
+                VALUES (1974, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1973, 196);
+                VALUES (1974, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1973, 193);
+                VALUES (1975, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1974, 103);
+                VALUES (1976, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1974, 141);
+                VALUES (1976, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1975, 117);
+                VALUES (1976, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1976, 136);
+                VALUES (1977, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1976, 178);
+                VALUES (1978, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1977, 193);
+                VALUES (1979, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1978, 186);
+                VALUES (1979, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1978, 172);
+                VALUES (1980, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1979, 175);
+                VALUES (1981, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1980, 125);
+                VALUES (1981, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1980, 143);
+                VALUES (1981, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1981, 118);
+                VALUES (1982, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1981, 125);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1982, 150);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1982, 121);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1982, 197);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1983, 131);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1983, 120);
+                VALUES (1983, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1984, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1985, 188);
+                VALUES (1985, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1986, 171);
+                VALUES (1985, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1986, 186);
+                VALUES (1986, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1987, 168);
+                VALUES (1987, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1988, 142);
+                VALUES (1987, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1988, 198);
+                VALUES (1987, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1989, 112);
+                VALUES (1988, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1989, 158);
+                VALUES (1988, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1990, 155);
+                VALUES (1989, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1990, 158);
+                VALUES (1990, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1991, 142);
+                VALUES (1991, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1991, 157);
+                VALUES (1991, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1991, 100);
+                VALUES (1992, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1992, 170);
+                VALUES (1992, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1993, 188);
+                VALUES (1993, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1993, 128);
+                VALUES (1993, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1994, 163);
+                VALUES (1993, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1994, 153);
+                VALUES (1994, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1994, 200);
+                VALUES (1994, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (1995, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1995, 126);
+                VALUES (1995, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1995, 199);
+                VALUES (1996, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1996, 132);
+                VALUES (1996, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1996, 167);
+                VALUES (1996, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1996, 141);
+                VALUES (1997, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1997, 139);
+                VALUES (1998, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1997, 138);
+                VALUES (1999, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1998, 121);
+                VALUES (1999, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1999, 182);
+                VALUES (1999, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1999, 192);
+                VALUES (2000, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (1999, 171);
+                VALUES (2001, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2000, 155);
+                VALUES (2002, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2001, 133);
+                VALUES (2002, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2001, 131);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2002, 155);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2002, 194);
+                VALUES (2002, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2003, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2004, 123);
+                VALUES (2003, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2005, 118);
+                VALUES (2004, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2006, 190);
+                VALUES (2005, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2006, 102);
+                VALUES (2005, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2006, 100);
+                VALUES (2006, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2007, 188);
+                VALUES (2006, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2007, 100);
+                VALUES (2007, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2008, 184);
+                VALUES (2007, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2008, 157);
+                VALUES (2008, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2009, 187);
+                VALUES (2008, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2009, 132);
+                VALUES (2009, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2009, 142);
+                VALUES (2009, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2010, 164);
+                VALUES (2009, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2011, 133);
+                VALUES (2010, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2012, 141);
+                VALUES (2010, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2012, 117);
+                VALUES (2011, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2013, 148);
+                VALUES (2011, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2013, 189);
+                VALUES (2011, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2013, 159);
+                VALUES (2012, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2014, 126);
+                VALUES (2012, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2014, 136);
+                VALUES (2013, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2014, 195);
+                VALUES (2014, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2015, 175);
+                VALUES (2014, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2015, 195);
+                VALUES (2015, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2015, 106);
+                VALUES (2015, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2016, 101);
+                VALUES (2015, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2016, 159);
+                VALUES (2016, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2016, 148);
+                VALUES (2016, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2017, 182);
+                VALUES (2016, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2017, 192);
+                VALUES (2017, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2017, 137);
+                VALUES (2017, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2018, 180);
+                VALUES (2018, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2018, 116);
+                VALUES (2018, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2018, 108);
+                VALUES (2019, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2019, 158);
+                VALUES (2019, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2020, 178);
+                VALUES (2020, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2020, 147);
+                VALUES (2020, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2020, 129);
+                VALUES (2020, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2021, 139);
+                VALUES (2021, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2022, 126);
+                VALUES (2021, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2022, 191);
+                VALUES (2022, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2023, 169);
+                VALUES (2022, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2023, 122);
+                VALUES (2022, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2023, 191);
+                VALUES (2023, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2024, 106);
+                VALUES (2023, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2024, 190);
+                VALUES (2024, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2025, 167);
+                VALUES (2024, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2025, 113);
+                VALUES (2025, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2025, 156);
+                VALUES (2025, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2026, 139);
+                VALUES (2025, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2026, 182);
+                VALUES (2026, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2027, 123);
+                VALUES (2027, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2027, 191);
+                VALUES (2027, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2028, 197);
+                VALUES (2028, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2028, 130);
+                VALUES (2029, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2029, 133);
+                VALUES (2029, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2030, 179);
+                VALUES (2030, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2030, 113);
+                VALUES (2031, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2031, 122);
+                VALUES (2031, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2032, 183);
+                VALUES (2031, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2033, 143);
+                VALUES (2032, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2033, 112);
+                VALUES (2033, 152);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2033, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2034, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2034, 182);
+                VALUES (2035, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2034, 120);
+                VALUES (2035, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2035, 116);
+                VALUES (2035, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2035, 181);
+                VALUES (2036, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2036, 197);
+                VALUES (2036, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2037, 177);
+                VALUES (2036, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2037, 191);
+                VALUES (2037, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2037, 187);
+                VALUES (2038, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2038, 194);
+                VALUES (2039, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2039, 115);
+                VALUES (2039, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2039, 121);
+                VALUES (2039, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2039, 169);
+                VALUES (2040, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2040, 171);
+                VALUES (2040, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2040, 165);
+                VALUES (2040, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2040, 109);
+                VALUES (2041, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2041, 189);
+                VALUES (2041, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2042, 121);
+                VALUES (2042, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2043, 164);
+                VALUES (2042, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2044, 125);
+                VALUES (2043, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2044, 178);
+                VALUES (2044, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2045, 141);
+                VALUES (2044, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2046, 129);
+                VALUES (2045, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2046, 184);
+                VALUES (2045, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2047, 168);
+                VALUES (2045, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2048, 136);
+                VALUES (2046, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2048, 125);
+                VALUES (2046, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2049, 199);
+                VALUES (2047, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2050, 118);
+                VALUES (2047, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2050, 178);
+                VALUES (2047, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2050, 125);
+                VALUES (2048, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2051, 154);
+                VALUES (2049, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2052, 181);
+                VALUES (2050, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2052, 141);
+                VALUES (2050, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2052, 129);
+                VALUES (2050, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2053, 150);
+                VALUES (2051, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2053, 101);
+                VALUES (2051, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2054, 170);
+                VALUES (2052, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2055, 173);
+                VALUES (2052, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2055, 164);
+                VALUES (2053, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2055, 128);
+                VALUES (2054, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2056, 186);
+                VALUES (2054, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2057, 183);
+                VALUES (2055, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2057, 126);
+                VALUES (2056, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2057, 180);
+                VALUES (2056, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2058, 133);
+                VALUES (2056, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2058, 200);
+                VALUES (2057, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2058, 181);
+                VALUES (2057, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2059, 185);
+                VALUES (2057, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2059, 109);
+                VALUES (2058, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2059, 169);
+                VALUES (2058, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2060, 150);
+                VALUES (2059, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2060, 141);
+                VALUES (2060, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2061, 154);
+                VALUES (2061, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2062, 198);
+                VALUES (2061, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2063, 104);
+                VALUES (2062, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2063, 171);
+                VALUES (2062, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2063, 177);
+                VALUES (2062, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2064, 141);
+                VALUES (2063, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2064, 107);
+                VALUES (2064, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2065, 195);
+                VALUES (2065, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2065, 174);
+                VALUES (2066, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2066, 192);
+                VALUES (2066, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2067, 166);
+                VALUES (2066, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2067, 130);
+                VALUES (2067, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2067, 161);
+                VALUES (2067, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2068, 185);
+                VALUES (2068, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2069, 192);
+                VALUES (2068, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2069, 191);
+                VALUES (2068, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2069, 164);
+                VALUES (2069, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2070, 198);
+                VALUES (2070, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2070, 183);
+                VALUES (2070, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2070, 176);
+                VALUES (2070, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2071, 167);
+                VALUES (2071, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2072, 139);
+                VALUES (2071, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2072, 102);
+                VALUES (2071, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2073, 156);
+                VALUES (2072, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2073, 118);
+                VALUES (2073, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2073, 161);
+                VALUES (2074, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2074, 185);
+                VALUES (2074, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2074, 138);
+                VALUES (2075, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2075, 129);
+                VALUES (2075, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2076, 144);
+                VALUES (2076, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2076, 122);
+                VALUES (2077, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2076, 180);
+                VALUES (2077, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2077, 147);
+                VALUES (2077, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2077, 176);
+                VALUES (2078, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2078, 152);
+                VALUES (2078, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2078, 102);
+                VALUES (2079, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2079, 171);
+                VALUES (2079, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2079, 159);
+                VALUES (2079, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2080, 139);
+                VALUES (2080, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2080, 134);
+                VALUES (2081, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2081, 146);
+                VALUES (2082, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2081, 175);
+                VALUES (2082, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2081, 157);
+                VALUES (2082, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2082, 143);
+                VALUES (2083, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2082, 198);
+                VALUES (2083, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2083, 175);
+                VALUES (2083, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2084, 191);
+                VALUES (2084, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2085, 143);
+                VALUES (2085, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2085, 160);
+                VALUES (2085, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2085, 164);
+                VALUES (2086, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2086, 113);
+                VALUES (2086, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2086, 165);
+                VALUES (2087, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2087, 103);
+                VALUES (2088, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2087, 197);
+                VALUES (2088, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2087, 148);
+                VALUES (2088, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2088, 125);
+                VALUES (2089, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2089, 134);
+                VALUES (2089, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2089, 104);
+                VALUES (2090, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2090, 124);
+                VALUES (2090, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2091, 136);
+                VALUES (2091, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2091, 108);
+                VALUES (2091, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2091, 151);
+                VALUES (2092, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2092, 189);
+                VALUES (2093, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2092, 118);
+                VALUES (2093, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2092, 124);
+                VALUES (2093, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2093, 155);
+                VALUES (2094, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2093, 178);
+                VALUES (2094, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2094, 184);
+                VALUES (2094, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2094, 181);
+                VALUES (2095, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2095, 193);
+                VALUES (2095, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2096, 149);
+                VALUES (2095, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2096, 199);
+                VALUES (2096, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2097, 127);
+                VALUES (2097, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2097, 102);
+                VALUES (2097, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2098, 158);
+                VALUES (2097, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2098, 105);
+                VALUES (2098, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2098, 168);
+                VALUES (2098, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2099, 183);
+                VALUES (2099, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2100, 149);
+                VALUES (2099, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2101, 104);
+                VALUES (2100, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2102, 180);
+                VALUES (2100, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2103, 168);
+                VALUES (2101, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2104, 168);
+                VALUES (2101, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2104, 102);
+                VALUES (2101, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2105, 195);
+                VALUES (2102, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2105, 200);
+                VALUES (2103, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2106, 157);
+                VALUES (2103, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2106, 110);
+                VALUES (2104, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2106, 190);
+                VALUES (2104, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2107, 157);
+                VALUES (2104, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2108, 110);
+                VALUES (2105, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2109, 163);
+                VALUES (2105, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2109, 129);
+                VALUES (2106, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2110, 197);
+                VALUES (2106, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2111, 125);
+                VALUES (2106, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2111, 120);
+                VALUES (2107, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2111, 138);
+                VALUES (2108, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2112, 173);
+                VALUES (2108, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2113, 190);
+                VALUES (2108, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2114, 179);
+                VALUES (2109, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2114, 132);
+                VALUES (2109, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2115, 141);
+                VALUES (2109, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2116, 111);
+                VALUES (2110, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2117, 161);
+                VALUES (2110, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2117, 137);
+                VALUES (2110, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2117, 129);
+                VALUES (2111, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2118, 149);
+                VALUES (2111, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2118, 120);
+                VALUES (2111, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2119, 128);
+                VALUES (2112, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2119, 183);
+                VALUES (2112, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2119, 151);
+                VALUES (2112, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2120, 199);
+                VALUES (2113, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2121, 105);
+                VALUES (2113, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2121, 170);
+                VALUES (2113, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2122, 145);
+                VALUES (2114, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2123, 103);
+                VALUES (2114, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2123, 143);
+                VALUES (2115, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2123, 134);
+                VALUES (2116, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2124, 182);
+                VALUES (2117, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2125, 161);
+                VALUES (2117, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2126, 174);
+                VALUES (2117, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2127, 169);
+                VALUES (2118, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2127, 130);
+                VALUES (2118, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2128, 180);
+                VALUES (2118, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2129, 195);
+                VALUES (2119, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2129, 103);
+                VALUES (2119, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2129, 181);
+                VALUES (2119, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2130, 108);
+                VALUES (2120, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2130, 197);
+                VALUES (2121, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2131, 138);
+                VALUES (2121, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2131, 200);
+                VALUES (2122, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2132, 124);
+                VALUES (2122, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2132, 182);
+                VALUES (2123, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2132, 130);
+                VALUES (2123, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2133, 146);
+                VALUES (2123, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2133, 118);
+                VALUES (2124, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2133, 161);
+                VALUES (2124, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2134, 171);
+                VALUES (2125, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2134, 144);
+                VALUES (2125, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2134, 168);
+                VALUES (2126, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2135, 119);
+                VALUES (2126, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2135, 188);
+                VALUES (2126, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2135, 191);
+                VALUES (2127, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2136, 162);
+                VALUES (2128, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2137, 185);
+                VALUES (2129, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2138, 200);
+                VALUES (2130, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2138, 138);
+                VALUES (2130, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2138, 189);
+                VALUES (2130, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2139, 109);
+                VALUES (2131, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2140, 145);
+                VALUES (2131, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2141, 177);
+                VALUES (2131, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2141, 123);
+                VALUES (2132, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2142, 126);
+                VALUES (2132, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2142, 200);
+                VALUES (2133, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2143, 192);
+                VALUES (2134, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2143, 173);
+                VALUES (2134, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2143, 110);
+                VALUES (2134, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2144, 137);
+                VALUES (2135, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2144, 109);
+                VALUES (2136, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2145, 103);
+                VALUES (2136, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2145, 115);
+                VALUES (2136, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2145, 108);
+                VALUES (2137, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2146, 155);
+                VALUES (2137, 101);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2138, 166);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2138, 130);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2139, 197);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2139, 111);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2140, 197);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2140, 183);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2140, 151);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2141, 141);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2141, 100);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2141, 152);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2142, 170);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2142, 153);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2142, 139);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2143, 196);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2143, 129);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2143, 148);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2144, 102);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2144, 114);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2144, 146);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2145, 120);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2145, 157);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2145, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2146, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2147, 138);
+                VALUES (2146, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2147, 179);
+                VALUES (2146, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2147, 118);
+                VALUES (2147, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2148, 111);
+                VALUES (2147, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2148, 170);
+                VALUES (2147, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2148, 135);
+                VALUES (2148, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2149, 144);
+                VALUES (2148, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2150, 107);
+                VALUES (2149, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2151, 155);
+                VALUES (2149, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2152, 190);
+                VALUES (2149, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2152, 168);
+                VALUES (2150, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2152, 175);
+                VALUES (2150, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2153, 123);
+                VALUES (2150, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2154, 135);
+                VALUES (2151, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2154, 137);
+                VALUES (2151, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2154, 125);
+                VALUES (2151, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2155, 160);
+                VALUES (2152, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2155, 168);
+                VALUES (2153, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2155, 162);
+                VALUES (2153, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2156, 200);
+                VALUES (2153, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2157, 127);
+                VALUES (2154, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2157, 141);
+                VALUES (2154, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2158, 133);
+                VALUES (2154, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2158, 117);
+                VALUES (2155, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2159, 169);
+                VALUES (2155, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2159, 191);
+                VALUES (2156, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2159, 156);
+                VALUES (2156, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2160, 119);
+                VALUES (2156, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2160, 172);
+                VALUES (2157, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2161, 194);
+                VALUES (2158, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2161, 187);
+                VALUES (2158, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2161, 169);
+                VALUES (2158, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2162, 113);
+                VALUES (2159, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2162, 162);
+                VALUES (2160, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2163, 146);
+                VALUES (2160, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2163, 104);
+                VALUES (2160, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2163, 174);
+                VALUES (2161, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2164, 200);
+                VALUES (2162, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2164, 136);
+                VALUES (2162, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2164, 174);
+                VALUES (2163, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2165, 179);
+                VALUES (2164, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2166, 152);
+                VALUES (2164, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2166, 133);
+                VALUES (2164, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2167, 123);
+                VALUES (2165, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2167, 132);
+                VALUES (2165, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2167, 170);
+                VALUES (2166, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2168, 146);
+                VALUES (2166, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2169, 132);
+                VALUES (2167, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2169, 135);
+                VALUES (2168, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2170, 182);
+                VALUES (2168, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2170, 135);
+                VALUES (2169, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2171, 178);
+                VALUES (2169, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2171, 134);
+                VALUES (2169, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2172, 152);
+                VALUES (2170, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2173, 128);
+                VALUES (2170, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2174, 181);
+                VALUES (2171, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2175, 196);
+                VALUES (2172, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2175, 110);
+                VALUES (2173, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2176, 158);
+                VALUES (2174, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2177, 110);
+                VALUES (2175, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2177, 197);
+                VALUES (2175, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2177, 149);
+                VALUES (2176, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2178, 115);
+                VALUES (2176, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2178, 165);
+                VALUES (2177, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2178, 135);
+                VALUES (2177, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2179, 167);
+                VALUES (2178, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2179, 140);
+                VALUES (2178, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2179, 197);
+                VALUES (2179, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2180, 181);
+                VALUES (2179, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2180, 140);
+                VALUES (2180, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2181, 185);
+                VALUES (2181, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2182, 132);
+                VALUES (2182, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2182, 169);
+                VALUES (2183, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2183, 119);
+                VALUES (2183, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2183, 127);
+                VALUES (2183, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2183, 130);
+                VALUES (2184, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2184, 158);
+                VALUES (2184, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2184, 163);
+                VALUES (2184, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2185, 181);
+                VALUES (2185, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2186, 113);
+                VALUES (2185, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2186, 110);
+                VALUES (2185, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2187, 165);
+                VALUES (2186, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2187, 100);
+                VALUES (2186, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2187, 158);
+                VALUES (2187, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2188, 135);
+                VALUES (2187, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2189, 100);
+                VALUES (2187, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2189, 151);
+                VALUES (2188, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2190, 171);
+                VALUES (2189, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2190, 114);
+                VALUES (2190, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2190, 108);
+                VALUES (2190, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2191, 117);
+                VALUES (2190, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2191, 169);
+                VALUES (2191, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2192, 162);
+                VALUES (2191, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2192, 156);
+                VALUES (2192, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2192, 106);
+                VALUES (2192, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2193, 126);
+                VALUES (2193, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2193, 141);
+                VALUES (2193, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2194, 173);
+                VALUES (2193, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2194, 184);
+                VALUES (2194, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2194, 152);
+                VALUES (2195, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2195, 171);
+                VALUES (2195, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2195, 103);
+                VALUES (2195, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2196, 137);
+                VALUES (2196, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2196, 100);
+                VALUES (2197, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2197, 174);
+                VALUES (2197, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2197, 144);
+                VALUES (2197, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2198, 154);
+                VALUES (2198, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2198, 103);
+                VALUES (2198, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2199, 117);
+                VALUES (2198, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2200, 155);
+                VALUES (2199, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2200, 148);
+                VALUES (2200, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2201, 165);
+                VALUES (2200, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2201, 115);
+                VALUES (2201, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2201, 169);
+                VALUES (2201, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2202, 183);
+                VALUES (2201, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2202, 192);
+                VALUES (2202, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2202, 134);
+                VALUES (2202, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2203, 136);
+                VALUES (2202, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2203, 165);
+                VALUES (2203, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2203, 199);
+                VALUES (2203, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2204, 197);
+                VALUES (2203, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2204, 163);
+                VALUES (2204, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2204, 111);
+                VALUES (2204, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2205, 135);
+                VALUES (2204, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2205, 197);
+                VALUES (2205, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2206, 179);
+                VALUES (2205, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2206, 127);
+                VALUES (2205, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2206, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2207, 117);
+                VALUES (2207, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2208, 177);
+                VALUES (2208, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2208, 102);
+                VALUES (2208, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2209, 174);
+                VALUES (2209, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2209, 141);
+                VALUES (2210, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2210, 192);
+                VALUES (2210, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2210, 124);
+                VALUES (2210, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2210, 198);
+                VALUES (2211, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2211, 147);
+                VALUES (2211, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2212, 151);
+                VALUES (2211, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2212, 123);
+                VALUES (2212, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2212, 146);
+                VALUES (2212, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2213, 139);
+                VALUES (2213, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2213, 180);
+                VALUES (2214, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2214, 135);
+                VALUES (2214, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2214, 126);
+                VALUES (2215, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2214, 174);
+                VALUES (2215, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2215, 189);
+                VALUES (2216, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2215, 172);
+                VALUES (2217, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2216, 125);
+                VALUES (2218, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2217, 106);
+                VALUES (2218, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2217, 122);
+                VALUES (2219, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2217, 112);
+                VALUES (2219, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2218, 109);
+                VALUES (2219, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2218, 197);
+                VALUES (2220, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2219, 121);
+                VALUES (2220, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2219, 103);
+                VALUES (2221, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2219, 167);
+                VALUES (2221, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2220, 163);
+                VALUES (2221, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2221, 189);
+                VALUES (2222, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2221, 157);
+                VALUES (2222, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2222, 170);
+                VALUES (2222, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2222, 183);
+                VALUES (2223, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2223, 188);
+                VALUES (2224, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2223, 111);
+                VALUES (2224, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2224, 119);
+                VALUES (2224, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2224, 136);
+                VALUES (2225, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2224, 134);
+                VALUES (2226, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2225, 104);
+                VALUES (2226, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2225, 134);
+                VALUES (2227, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2226, 198);
+                VALUES (2227, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2226, 181);
+                VALUES (2227, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2226, 149);
+                VALUES (2228, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2227, 195);
+                VALUES (2228, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2227, 143);
+                VALUES (2228, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2228, 135);
+                VALUES (2229, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2229, 152);
+                VALUES (2229, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2229, 135);
+                VALUES (2229, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2229, 170);
+                VALUES (2230, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2230, 189);
+                VALUES (2231, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2231, 121);
+                VALUES (2232, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2231, 134);
+                VALUES (2232, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2232, 108);
+                VALUES (2233, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2233, 131);
+                VALUES (2234, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2234, 100);
+                VALUES (2234, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2235, 135);
+                VALUES (2234, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2235, 155);
+                VALUES (2235, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2235, 129);
+                VALUES (2236, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2236, 183);
+                VALUES (2236, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2237, 162);
+                VALUES (2237, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2237, 137);
+                VALUES (2237, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2238, 143);
+                VALUES (2238, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2239, 194);
+                VALUES (2238, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2239, 156);
+                VALUES (2239, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2239, 200);
+                VALUES (2240, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2240, 102);
+                VALUES (2240, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2240, 165);
+                VALUES (2241, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2240, 132);
+                VALUES (2241, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2241, 139);
+                VALUES (2241, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2241, 149);
+                VALUES (2242, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2241, 101);
+                VALUES (2242, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2242, 106);
+                VALUES (2243, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2242, 190);
+                VALUES (2244, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2243, 148);
+                VALUES (2245, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2243, 137);
+                VALUES (2245, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2243, 116);
+                VALUES (2245, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2244, 199);
+                VALUES (2246, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2245, 108);
+                VALUES (2247, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2245, 171);
+                VALUES (2247, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2246, 129);
+                VALUES (2248, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2246, 149);
+                VALUES (2248, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2246, 163);
+                VALUES (2248, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2247, 120);
+                VALUES (2249, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2248, 111);
+                VALUES (2250, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2248, 114);
+                VALUES (2250, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2248, 150);
+                VALUES (2250, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2249, 148);
+                VALUES (2251, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2250, 189);
+                VALUES (2251, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2250, 137);
+                VALUES (2251, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2250, 154);
+                VALUES (2252, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2251, 168);
+                VALUES (2253, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2251, 158);
+                VALUES (2254, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2252, 105);
+                VALUES (2255, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2252, 114);
+                VALUES (2255, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2253, 151);
+                VALUES (2255, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2253, 141);
+                VALUES (2256, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2253, 104);
+                VALUES (2256, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2254, 137);
+                VALUES (2256, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2254, 121);
+                VALUES (2257, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2254, 153);
+                VALUES (2257, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2255, 175);
+                VALUES (2257, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2255, 181);
+                VALUES (2258, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2255, 108);
+                VALUES (2259, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2256, 142);
+                VALUES (2260, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2256, 144);
+                VALUES (2260, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2256, 117);
+                VALUES (2261, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2257, 166);
+                VALUES (2262, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2257, 160);
+                VALUES (2262, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2258, 185);
+                VALUES (2263, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2259, 186);
+                VALUES (2263, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2260, 196);
+                VALUES (2264, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2261, 174);
+                VALUES (2264, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2261, 151);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2261, 155);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2262, 183);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2262, 167);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2262, 103);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2263, 142);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2263, 160);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2264, 146);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2264, 120);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2264, 123);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2265, 179);
+                VALUES (2265, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2265, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2266, 174);
+                VALUES (2266, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2266, 103);
+                VALUES (2266, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2266, 158);
+                VALUES (2267, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2267, 143);
+                VALUES (2267, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2267, 146);
+                VALUES (2268, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2268, 197);
+                VALUES (2269, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2269, 114);
+                VALUES (2269, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2269, 152);
+                VALUES (2270, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2269, 171);
+                VALUES (2270, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2270, 112);
+                VALUES (2270, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2271, 104);
+                VALUES (2271, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2272, 128);
+                VALUES (2272, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2272, 168);
+                VALUES (2272, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2272, 136);
+                VALUES (2273, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2273, 172);
+                VALUES (2273, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2273, 187);
+                VALUES (2273, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2274, 146);
+                VALUES (2274, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2274, 191);
+                VALUES (2274, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2275, 127);
+                VALUES (2274, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2275, 200);
+                VALUES (2275, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2275, 113);
+                VALUES (2276, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2276, 110);
+                VALUES (2277, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2276, 144);
+                VALUES (2277, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2276, 179);
+                VALUES (2278, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2277, 152);
+                VALUES (2279, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2278, 126);
+                VALUES (2279, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2279, 191);
+                VALUES (2280, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2280, 174);
+                VALUES (2280, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2280, 155);
+                VALUES (2280, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2281, 176);
+                VALUES (2281, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2282, 176);
+                VALUES (2281, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2283, 121);
+                VALUES (2281, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2283, 172);
+                VALUES (2282, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2284, 144);
+                VALUES (2282, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2284, 142);
+                VALUES (2282, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2285, 153);
+                VALUES (2283, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2286, 135);
+                VALUES (2283, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2286, 101);
+                VALUES (2284, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2286, 107);
+                VALUES (2284, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2287, 100);
+                VALUES (2285, 168);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2285, 180);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2286, 143);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2286, 163);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2287, 121);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2287, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2288, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2288, 151);
+                VALUES (2288, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2289, 124);
+                VALUES (2288, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2290, 152);
+                VALUES (2289, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2291, 103);
+                VALUES (2289, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2291, 114);
+                VALUES (2290, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2292, 132);
+                VALUES (2290, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2293, 109);
+                VALUES (2291, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2293, 122);
+                VALUES (2291, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2294, 147);
+                VALUES (2292, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2295, 111);
+                VALUES (2292, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2295, 198);
+                VALUES (2292, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2296, 191);
+                VALUES (2293, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2296, 178);
+                VALUES (2293, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2296, 150);
+                VALUES (2294, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2297, 182);
+                VALUES (2294, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2297, 106);
+                VALUES (2295, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2297, 157);
+                VALUES (2296, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2298, 169);
+                VALUES (2296, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2298, 128);
+                VALUES (2296, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2299, 135);
+                VALUES (2297, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2300, 169);
+                VALUES (2297, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2301, 138);
+                VALUES (2298, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2301, 139);
+                VALUES (2299, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2302, 157);
+                VALUES (2299, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2302, 176);
+                VALUES (2300, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2303, 184);
+                VALUES (2301, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2304, 106);
+                VALUES (2302, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2305, 169);
+                VALUES (2302, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2305, 131);
+                VALUES (2302, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2305, 105);
+                VALUES (2303, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2306, 147);
+                VALUES (2303, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2306, 173);
+                VALUES (2303, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2307, 195);
+                VALUES (2304, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2308, 146);
+                VALUES (2305, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2309, 133);
+                VALUES (2306, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2310, 141);
+                VALUES (2306, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2310, 114);
+                VALUES (2307, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2310, 184);
+                VALUES (2307, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2311, 111);
+                VALUES (2307, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2311, 174);
+                VALUES (2308, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2312, 129);
+                VALUES (2309, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2312, 122);
+                VALUES (2310, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2313, 167);
+                VALUES (2311, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2313, 104);
+                VALUES (2312, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2313, 155);
+                VALUES (2312, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2314, 166);
+                VALUES (2312, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2314, 160);
+                VALUES (2313, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2314, 179);
+                VALUES (2313, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2315, 150);
+                VALUES (2314, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2315, 178);
+                VALUES (2314, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2315, 173);
+                VALUES (2315, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2316, 176);
+                VALUES (2316, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2316, 175);
+                VALUES (2316, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2317, 102);
+                VALUES (2317, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2317, 197);
+                VALUES (2317, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2318, 138);
+                VALUES (2318, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2318, 161);
+                VALUES (2318, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2319, 110);
+                VALUES (2319, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2320, 189);
+                VALUES (2319, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2320, 138);
+                VALUES (2320, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2321, 130);
+                VALUES (2320, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2321, 199);
+                VALUES (2320, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2322, 163);
+                VALUES (2321, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2323, 147);
+                VALUES (2321, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2323, 160);
+                VALUES (2321, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2324, 142);
+                VALUES (2322, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2324, 177);
+                VALUES (2322, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2324, 120);
+                VALUES (2322, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2325, 137);
+                VALUES (2323, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2325, 144);
+                VALUES (2324, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2325, 101);
+                VALUES (2324, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2326, 106);
+                VALUES (2325, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2326, 133);
+                VALUES (2326, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2326, 115);
+                VALUES (2327, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2327, 200);
+                VALUES (2327, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2327, 187);
+                VALUES (2328, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2328, 193);
+                VALUES (2328, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2329, 117);
+                VALUES (2329, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2330, 132);
+                VALUES (2330, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2330, 151);
+                VALUES (2331, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2330, 176);
+                VALUES (2332, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2331, 195);
+                VALUES (2333, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2332, 112);
+                VALUES (2334, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2333, 182);
+                VALUES (2335, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2333, 168);
+                VALUES (2336, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2333, 151);
+                VALUES (2336, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2334, 153);
+                VALUES (2336, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2334, 110);
+                VALUES (2337, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2334, 137);
+                VALUES (2338, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2335, 175);
+                VALUES (2338, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2336, 106);
+                VALUES (2339, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2337, 134);
+                VALUES (2340, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2337, 196);
+                VALUES (2341, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2338, 153);
+                VALUES (2341, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2339, 104);
+                VALUES (2342, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2339, 192);
+                VALUES (2342, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2340, 146);
+                VALUES (2343, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2340, 118);
+                VALUES (2343, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2340, 166);
+                VALUES (2343, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2341, 173);
+                VALUES (2344, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2341, 125);
+                VALUES (2345, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2341, 121);
+                VALUES (2346, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2342, 112);
+                VALUES (2346, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2343, 174);
+                VALUES (2346, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2343, 189);
+                VALUES (2347, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2343, 145);
+                VALUES (2347, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2344, 113);
+                VALUES (2347, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2344, 125);
+                VALUES (2348, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2345, 164);
+                VALUES (2349, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2346, 115);
+                VALUES (2349, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2346, 104);
+                VALUES (2350, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2347, 107);
+                VALUES (2350, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2347, 199);
+                VALUES (2350, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2347, 155);
+                VALUES (2351, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2348, 145);
+                VALUES (2352, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2348, 159);
+                VALUES (2353, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2349, 166);
+                VALUES (2353, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2349, 157);
+                VALUES (2353, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2350, 131);
+                VALUES (2354, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2350, 190);
+                VALUES (2354, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2351, 129);
+                VALUES (2355, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2351, 115);
+                VALUES (2355, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2351, 168);
+                VALUES (2356, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2352, 184);
+                VALUES (2356, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2352, 111);
+                VALUES (2356, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2353, 100);
+                VALUES (2357, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2353, 127);
+                VALUES (2357, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2353, 149);
+                VALUES (2358, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2354, 173);
+                VALUES (2359, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2354, 145);
+                VALUES (2359, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2354, 152);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2355, 184);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2355, 104);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2355, 114);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2356, 160);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2357, 195);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2357, 166);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2358, 110);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2358, 116);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2359, 114);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2360, 166);
+                VALUES (2360, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2360, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2361, 184);
+                VALUES (2360, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2361, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2361, 148);
+                VALUES (2361, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2362, 162);
+                VALUES (2361, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2362, 121);
+                VALUES (2362, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2363, 133);
+                VALUES (2362, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2364, 120);
+                VALUES (2363, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2364, 179);
+                VALUES (2363, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2364, 101);
+                VALUES (2363, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2365, 189);
+                VALUES (2364, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2366, 180);
+                VALUES (2364, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2366, 142);
+                VALUES (2364, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2366, 121);
+                VALUES (2365, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2367, 134);
+                VALUES (2365, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2367, 137);
+                VALUES (2366, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2368, 120);
+                VALUES (2366, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2368, 124);
+                VALUES (2366, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2369, 196);
+                VALUES (2367, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2369, 185);
+                VALUES (2367, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2369, 112);
+                VALUES (2368, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2370, 187);
+                VALUES (2368, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2370, 200);
+                VALUES (2369, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2371, 133);
+                VALUES (2369, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2371, 104);
+                VALUES (2369, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2371, 108);
+                VALUES (2370, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2372, 165);
+                VALUES (2371, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2372, 106);
+                VALUES (2371, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2372, 188);
+                VALUES (2372, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2373, 132);
+                VALUES (2373, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2373, 116);
+                VALUES (2373, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2374, 135);
+                VALUES (2373, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2375, 126);
+                VALUES (2374, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2376, 125);
+                VALUES (2374, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2376, 170);
+                VALUES (2375, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2377, 137);
+                VALUES (2375, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2378, 118);
+                VALUES (2376, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2378, 112);
+                VALUES (2376, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2379, 196);
+                VALUES (2376, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2379, 139);
+                VALUES (2377, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2380, 187);
+                VALUES (2377, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2380, 200);
+                VALUES (2377, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2381, 136);
+                VALUES (2378, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2381, 183);
+                VALUES (2378, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2381, 166);
+                VALUES (2379, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2382, 178);
+                VALUES (2379, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2383, 193);
+                VALUES (2380, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2383, 132);
+                VALUES (2380, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2384, 164);
+                VALUES (2380, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2385, 101);
+                VALUES (2381, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2385, 197);
+                VALUES (2381, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2385, 137);
+                VALUES (2381, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2386, 112);
+                VALUES (2382, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2386, 157);
+                VALUES (2382, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2386, 167);
+                VALUES (2383, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2387, 123);
+                VALUES (2384, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2387, 147);
+                VALUES (2384, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2388, 167);
+                VALUES (2385, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2388, 137);
+                VALUES (2385, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2389, 193);
+                VALUES (2385, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2389, 123);
+                VALUES (2386, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2389, 137);
+                VALUES (2386, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2390, 147);
+                VALUES (2387, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2390, 124);
+                VALUES (2387, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2391, 143);
+                VALUES (2387, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2391, 131);
+                VALUES (2388, 159);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2388, 129);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2388, 200);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2389, 127);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2389, 106);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2390, 181);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2390, 167);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2390, 121);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2391, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2391, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2392, 198);
+                VALUES (2391, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2392, 159);
+                VALUES (2392, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2393, 142);
+                VALUES (2393, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2393, 112);
+                VALUES (2393, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2394, 156);
+                VALUES (2393, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2394, 184);
+                VALUES (2394, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2394, 117);
+                VALUES (2394, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2395, 160);
+                VALUES (2395, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2396, 151);
+                VALUES (2395, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2396, 186);
+                VALUES (2395, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2396, 124);
+                VALUES (2396, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2397, 132);
+                VALUES (2396, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2397, 169);
+                VALUES (2397, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2398, 111);
+                VALUES (2398, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2399, 196);
+                VALUES (2398, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2399, 188);
+                VALUES (2398, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2400, 190);
+                VALUES (2399, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2401, 190);
+                VALUES (2399, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2402, 124);
+                VALUES (2400, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2402, 159);
+                VALUES (2400, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2403, 142);
+                VALUES (2401, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2403, 107);
+                VALUES (2401, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2403, 164);
+                VALUES (2401, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2404, 165);
+                VALUES (2402, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2404, 141);
+                VALUES (2402, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2404, 127);
+                VALUES (2403, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2405, 176);
+                VALUES (2403, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2405, 125);
+                VALUES (2404, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2405, 199);
+                VALUES (2405, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2406, 176);
+                VALUES (2406, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2406, 136);
+                VALUES (2406, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2407, 143);
+                VALUES (2406, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2408, 181);
+                VALUES (2407, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2408, 169);
+                VALUES (2407, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2408, 171);
+                VALUES (2407, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2409, 169);
+                VALUES (2408, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2409, 124);
+                VALUES (2408, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2410, 145);
+                VALUES (2408, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2410, 126);
+                VALUES (2409, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2410, 177);
+                VALUES (2410, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2411, 196);
+                VALUES (2411, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2412, 131);
+                VALUES (2412, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2412, 174);
+                VALUES (2412, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2413, 133);
+                VALUES (2412, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2413, 181);
+                VALUES (2413, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2413, 154);
+                VALUES (2413, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2414, 138);
+                VALUES (2414, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2414, 148);
+                VALUES (2415, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2415, 120);
+                VALUES (2415, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2416, 119);
+                VALUES (2416, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2417, 159);
+                VALUES (2416, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2418, 186);
+                VALUES (2417, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2419, 179);
+                VALUES (2417, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2419, 108);
+                VALUES (2417, 151);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2418, 184);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2418, 139);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2419, 176);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2420, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2420, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2420, 121);
+                VALUES (2421, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2421, 170);
+                VALUES (2421, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2421, 141);
+                VALUES (2422, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2421, 190);
+                VALUES (2422, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2422, 167);
+                VALUES (2422, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2422, 163);
+                VALUES (2423, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2423, 173);
+                VALUES (2423, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2424, 127);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2424, 152);
+                VALUES (2424, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2425, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2425, 137);
+                VALUES (2426, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2425, 106);
+                VALUES (2427, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2426, 170);
+                VALUES (2427, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2426, 126);
+                VALUES (2428, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2426, 177);
+                VALUES (2428, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2427, 137);
+                VALUES (2429, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2427, 184);
+                VALUES (2429, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2427, 114);
+                VALUES (2429, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2428, 124);
+                VALUES (2430, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2428, 109);
+                VALUES (2431, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2428, 150);
+                VALUES (2431, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2429, 176);
+                VALUES (2432, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2429, 155);
+                VALUES (2432, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2429, 103);
+                VALUES (2432, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2430, 151);
+                VALUES (2433, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2430, 171);
+                VALUES (2434, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2431, 200);
+                VALUES (2435, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2431, 173);
+                VALUES (2435, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2432, 175);
+                VALUES (2436, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2433, 116);
+                VALUES (2436, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2433, 117);
+                VALUES (2437, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2434, 177);
+                VALUES (2437, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2435, 119);
+                VALUES (2438, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2435, 187);
+                VALUES (2439, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2435, 144);
+                VALUES (2440, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2436, 114);
+                VALUES (2440, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2437, 190);
+                VALUES (2440, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2437, 170);
+                VALUES (2441, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2438, 192);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2438, 147);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2439, 196);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2439, 105);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2440, 149);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2440, 197);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2440, 145);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2441, 120);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2441, 126);
+                VALUES (2441, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2442, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2443, 172);
+                VALUES (2442, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2443, 158);
+                VALUES (2442, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2444, 167);
+                VALUES (2443, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2444, 199);
+                VALUES (2444, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2444, 158);
+                VALUES (2444, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2445, 112);
+                VALUES (2445, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2445, 113);
+                VALUES (2445, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2445, 118);
+                VALUES (2446, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2446, 155);
+                VALUES (2447, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2446, 192);
+                VALUES (2447, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2447, 199);
+                VALUES (2447, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2447, 177);
+                VALUES (2448, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2448, 115);
+                VALUES (2448, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2448, 166);
+                VALUES (2449, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2449, 157);
+                VALUES (2449, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2449, 120);
+                VALUES (2449, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2449, 171);
+                VALUES (2450, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2450, 192);
+                VALUES (2451, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2451, 110);
+                VALUES (2451, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2451, 171);
+                VALUES (2451, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2451, 146);
+                VALUES (2452, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2452, 143);
+                VALUES (2452, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2452, 152);
+                VALUES (2452, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2452, 140);
+                VALUES (2453, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2453, 143);
+                VALUES (2454, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2453, 194);
+                VALUES (2455, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2454, 137);
+                VALUES (2456, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2454, 192);
+                VALUES (2456, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2455, 184);
+                VALUES (2456, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2455, 146);
+                VALUES (2457, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2456, 162);
+                VALUES (2457, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2456, 182);
+                VALUES (2457, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2457, 188);
+                VALUES (2458, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2457, 124);
+                VALUES (2458, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2458, 126);
+                VALUES (2459, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2458, 161);
+                VALUES (2459, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2459, 177);
+                VALUES (2460, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2460, 109);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2460, 177);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2461, 154);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2461, 105);
+                VALUES (2461, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2461, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2462, 192);
+                VALUES (2462, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2462, 173);
+                VALUES (2462, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2463, 115);
+                VALUES (2463, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2464, 156);
+                VALUES (2464, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2464, 189);
+                VALUES (2464, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2464, 157);
+                VALUES (2465, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2465, 158);
+                VALUES (2465, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2465, 188);
+                VALUES (2466, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2466, 111);
+                VALUES (2466, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2466, 132);
+                VALUES (2467, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2466, 114);
+                VALUES (2467, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2467, 198);
+                VALUES (2468, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2467, 172);
+                VALUES (2468, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2467, 149);
+                VALUES (2469, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2468, 131);
+                VALUES (2469, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2469, 153);
+                VALUES (2470, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2469, 190);
+                VALUES (2470, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2469, 154);
+                VALUES (2470, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2470, 120);
+                VALUES (2471, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2471, 167);
+                VALUES (2472, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2471, 151);
+                VALUES (2472, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2472, 163);
+                VALUES (2473, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2472, 186);
+                VALUES (2473, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2472, 140);
+                VALUES (2474, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2473, 164);
+                VALUES (2474, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2473, 147);
+                VALUES (2475, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2473, 195);
+                VALUES (2475, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2474, 132);
+                VALUES (2475, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2474, 190);
+                VALUES (2476, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2474, 180);
+                VALUES (2476, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2475, 126);
+                VALUES (2476, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2476, 141);
+                VALUES (2477, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2476, 165);
+                VALUES (2478, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2477, 106);
+                VALUES (2479, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2478, 114);
+                VALUES (2479, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2479, 145);
+                VALUES (2479, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2480, 191);
+                VALUES (2480, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2481, 115);
+                VALUES (2480, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2481, 149);
+                VALUES (2481, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2481, 110);
+                VALUES (2481, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2482, 172);
+                VALUES (2482, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2483, 194);
+                VALUES (2483, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2483, 143);
+                VALUES (2484, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2484, 111);
+                VALUES (2485, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2484, 146);
+                VALUES (2485, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2485, 134);
+                VALUES (2485, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2485, 146);
+                VALUES (2486, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2485, 176);
+                VALUES (2486, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2486, 171);
+                VALUES (2486, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2486, 113);
+                VALUES (2487, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2487, 120);
+                VALUES (2487, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2487, 197);
+                VALUES (2487, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2488, 100);
+                VALUES (2488, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2488, 190);
+                VALUES (2488, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2489, 171);
+                VALUES (2488, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2489, 112);
+                VALUES (2489, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2489, 149);
+                VALUES (2489, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2490, 114);
+                VALUES (2489, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2490, 178);
+                VALUES (2490, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2491, 168);
+                VALUES (2490, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2491, 187);
+                VALUES (2491, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2492, 172);
+                VALUES (2491, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2493, 129);
+                VALUES (2491, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2493, 168);
+                VALUES (2492, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2494, 112);
+                VALUES (2492, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2494, 106);
+                VALUES (2492, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2494, 177);
+                VALUES (2493, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2495, 159);
+                VALUES (2493, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2496, 197);
+                VALUES (2494, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2497, 158);
+                VALUES (2494, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2497, 155);
+                VALUES (2494, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2498, 114);
+                VALUES (2495, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2499, 190);
+                VALUES (2495, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2499, 113);
+                VALUES (2496, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2499, 191);
+                VALUES (2497, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2500, 153);
+                VALUES (2497, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2500, 147);
+                VALUES (2497, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2500, 182);
+                VALUES (2498, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2501, 142);
+                VALUES (2498, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2502, 125);
+                VALUES (2499, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2503, 196);
+                VALUES (2499, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2504, 145);
+                VALUES (2499, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2505, 163);
+                VALUES (2500, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2505, 134);
+                VALUES (2501, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2505, 158);
+                VALUES (2501, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2506, 194);
+                VALUES (2502, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2507, 192);
+                VALUES (2503, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2507, 124);
+                VALUES (2503, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2507, 174);
+                VALUES (2504, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2508, 138);
+                VALUES (2505, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2508, 168);
+                VALUES (2505, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2509, 142);
+                VALUES (2505, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2510, 165);
+                VALUES (2506, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2511, 108);
+                VALUES (2507, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2511, 127);
+                VALUES (2508, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2511, 131);
+                VALUES (2508, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2512, 167);
+                VALUES (2508, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2512, 131);
+                VALUES (2509, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2512, 108);
+                VALUES (2509, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2513, 142);
+                VALUES (2510, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2514, 162);
+                VALUES (2511, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2515, 184);
+                VALUES (2512, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2515, 191);
+                VALUES (2513, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2516, 146);
+                VALUES (2513, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2516, 169);
+                VALUES (2513, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2516, 172);
+                VALUES (2514, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2517, 124);
+                VALUES (2514, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2517, 142);
+                VALUES (2515, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2517, 135);
+                VALUES (2515, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2518, 198);
+                VALUES (2515, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2519, 177);
+                VALUES (2516, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2520, 186);
+                VALUES (2517, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2521, 150);
+                VALUES (2517, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2522, 153);
+                VALUES (2518, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2522, 146);
+                VALUES (2518, 172);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2519, 155);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2519, 147);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2520, 199);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2520, 163);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2521, 159);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2521, 178);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2521, 142);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2522, 141);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2522, 182);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2522, 145);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2523, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2523, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2524, 119);
+                VALUES (2523, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2524, 196);
+                VALUES (2524, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2525, 120);
+                VALUES (2524, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2525, 183);
+                VALUES (2525, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2525, 188);
+                VALUES (2525, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2526, 154);
+                VALUES (2526, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2527, 169);
+                VALUES (2526, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2527, 125);
+                VALUES (2527, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2527, 170);
+                VALUES (2528, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2528, 156);
+                VALUES (2529, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2529, 176);
+                VALUES (2530, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2530, 111);
+                VALUES (2530, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2531, 128);
+                VALUES (2530, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2531, 157);
+                VALUES (2531, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2531, 188);
+                VALUES (2531, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2532, 163);
+                VALUES (2531, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2532, 183);
+                VALUES (2532, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2532, 131);
+                VALUES (2532, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2533, 141);
+                VALUES (2532, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2533, 177);
+                VALUES (2533, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2534, 102);
+                VALUES (2533, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2534, 198);
+                VALUES (2533, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2535, 115);
+                VALUES (2534, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2536, 135);
+                VALUES (2534, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2536, 121);
+                VALUES (2534, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2536, 184);
+                VALUES (2535, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2537, 151);
+                VALUES (2536, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2537, 108);
+                VALUES (2536, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2538, 147);
+                VALUES (2536, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2538, 126);
+                VALUES (2537, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2538, 177);
+                VALUES (2537, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2539, 133);
+                VALUES (2537, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2540, 102);
+                VALUES (2538, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2540, 120);
+                VALUES (2538, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2541, 188);
+                VALUES (2538, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2541, 196);
+                VALUES (2539, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2542, 157);
+                VALUES (2539, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2542, 178);
+                VALUES (2540, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2542, 172);
+                VALUES (2540, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2543, 144);
+                VALUES (2541, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2544, 165);
+                VALUES (2541, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2544, 103);
+                VALUES (2542, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2545, 165);
+                VALUES (2542, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2545, 195);
+                VALUES (2543, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2546, 101);
+                VALUES (2543, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2546, 173);
+                VALUES (2543, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2547, 109);
+                VALUES (2544, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2548, 100);
+                VALUES (2544, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2548, 137);
+                VALUES (2544, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2548, 143);
+                VALUES (2545, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2549, 107);
+                VALUES (2545, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2549, 147);
+                VALUES (2546, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2549, 127);
+                VALUES (2547, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2550, 112);
+                VALUES (2547, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2550, 154);
+                VALUES (2547, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2550, 186);
+                VALUES (2548, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2551, 168);
+                VALUES (2548, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2551, 136);
+                VALUES (2548, 117);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2549, 116);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2550, 164);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2550, 127);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2550, 117);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2551, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2551, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2552, 128);
+                VALUES (2552, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2552, 131);
+                VALUES (2552, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2552, 140);
+                VALUES (2553, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2553, 193);
+                VALUES (2553, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2553, 181);
+                VALUES (2553, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2553, 172);
+                VALUES (2554, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2554, 197);
+                VALUES (2554, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2555, 151);
+                VALUES (2554, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2556, 106);
+                VALUES (2555, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2557, 165);
+                VALUES (2555, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2557, 167);
+                VALUES (2555, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2558, 163);
+                VALUES (2556, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2558, 125);
+                VALUES (2556, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2559, 115);
+                VALUES (2556, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2559, 127);
+                VALUES (2557, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2560, 190);
+                VALUES (2558, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2561, 188);
+                VALUES (2559, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2562, 120);
+                VALUES (2559, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2562, 105);
+                VALUES (2560, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2563, 169);
+                VALUES (2561, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2563, 181);
+                VALUES (2561, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2563, 116);
+                VALUES (2561, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2564, 143);
+                VALUES (2562, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2565, 177);
+                VALUES (2563, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2565, 165);
+                VALUES (2563, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2566, 151);
+                VALUES (2564, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2566, 148);
+                VALUES (2564, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2566, 137);
+                VALUES (2564, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2567, 183);
+                VALUES (2565, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2567, 140);
+                VALUES (2566, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2567, 158);
+                VALUES (2566, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2568, 155);
+                VALUES (2566, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2568, 138);
+                VALUES (2567, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2568, 169);
+                VALUES (2568, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2569, 121);
+                VALUES (2568, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2569, 171);
+                VALUES (2569, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2570, 106);
+                VALUES (2570, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2571, 166);
+                VALUES (2571, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2572, 135);
+                VALUES (2571, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2572, 127);
+                VALUES (2571, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2572, 124);
+                VALUES (2572, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2573, 183);
+                VALUES (2572, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2573, 143);
+                VALUES (2573, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2573, 108);
+                VALUES (2574, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2574, 190);
+                VALUES (2574, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2574, 199);
+                VALUES (2574, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2575, 152);
+                VALUES (2575, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2576, 190);
+                VALUES (2576, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2577, 146);
+                VALUES (2576, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2578, 169);
+                VALUES (2576, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2578, 162);
+                VALUES (2577, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2578, 154);
+                VALUES (2577, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2579, 181);
+                VALUES (2578, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2579, 163);
+                VALUES (2578, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2580, 125);
+                VALUES (2579, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2581, 116);
+                VALUES (2579, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2582, 182);
+                VALUES (2580, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2583, 151);
+                VALUES (2580, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2583, 116);
+                VALUES (2581, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2584, 177);
+                VALUES (2581, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2584, 190);
+                VALUES (2581, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2584, 121);
+                VALUES (2582, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2585, 101);
+                VALUES (2582, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2585, 164);
+                VALUES (2583, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2585, 160);
+                VALUES (2583, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2586, 160);
+                VALUES (2583, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2586, 127);
+                VALUES (2584, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2586, 104);
+                VALUES (2584, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2587, 165);
+                VALUES (2585, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2587, 191);
+                VALUES (2586, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2588, 130);
+                VALUES (2586, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2589, 147);
+                VALUES (2586, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2589, 123);
+                VALUES (2587, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2589, 143);
+                VALUES (2587, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2590, 194);
+                VALUES (2587, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2590, 175);
+                VALUES (2588, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2591, 193);
+                VALUES (2588, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2591, 117);
+                VALUES (2588, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2591, 130);
+                VALUES (2589, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2592, 190);
+                VALUES (2589, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2592, 200);
+                VALUES (2589, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2593, 194);
+                VALUES (2590, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2593, 108);
+                VALUES (2590, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2594, 120);
+                VALUES (2591, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2594, 183);
+                VALUES (2592, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2594, 112);
+                VALUES (2593, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2595, 168);
+                VALUES (2593, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2595, 184);
+                VALUES (2594, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2595, 156);
+                VALUES (2594, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2596, 149);
+                VALUES (2595, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2596, 176);
+                VALUES (2596, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2596, 135);
+                VALUES (2597, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2597, 168);
+                VALUES (2597, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2597, 129);
+                VALUES (2597, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2598, 182);
+                VALUES (2598, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2598, 116);
+                VALUES (2598, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2598, 195);
+                VALUES (2599, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2599, 141);
+                VALUES (2600, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2600, 108);
+                VALUES (2600, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2600, 186);
+                VALUES (2600, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2601, 187);
+                VALUES (2601, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2602, 106);
+                VALUES (2601, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2603, 154);
+                VALUES (2602, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2604, 179);
+                VALUES (2603, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2604, 172);
+                VALUES (2604, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2605, 135);
+                VALUES (2604, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2605, 178);
+                VALUES (2604, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2606, 186);
+                VALUES (2605, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2606, 131);
+                VALUES (2606, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2606, 138);
+                VALUES (2606, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2607, 172);
+                VALUES (2607, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2608, 111);
+                VALUES (2607, 199);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2608, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2608, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2609, 122);
+                VALUES (2608, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2609, 136);
+                VALUES (2609, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2610, 127);
+                VALUES (2609, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2610, 162);
+                VALUES (2610, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2611, 148);
+                VALUES (2610, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2611, 176);
+                VALUES (2610, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2611, 160);
+                VALUES (2611, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2612, 109);
+                VALUES (2611, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2612, 119);
+                VALUES (2611, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2613, 199);
+                VALUES (2612, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2613, 163);
+                VALUES (2613, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2614, 136);
+                VALUES (2614, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2615, 116);
+                VALUES (2615, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2615, 142);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2616, 171);
+                VALUES (2615, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2616, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2617, 187);
+                VALUES (2617, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2618, 106);
+                VALUES (2617, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2619, 120);
+                VALUES (2618, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2619, 164);
+                VALUES (2619, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2620, 101);
+                VALUES (2619, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2620, 152);
+                VALUES (2619, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2621, 110);
+                VALUES (2620, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2621, 159);
+                VALUES (2621, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2621, 124);
+                VALUES (2621, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2622, 123);
+                VALUES (2621, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2622, 116);
+                VALUES (2622, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2622, 127);
+                VALUES (2623, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2623, 182);
+                VALUES (2624, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2623, 142);
+                VALUES (2624, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2624, 119);
+                VALUES (2625, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2624, 162);
+                VALUES (2625, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2625, 154);
+                VALUES (2625, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2625, 168);
+                VALUES (2626, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2625, 179);
+                VALUES (2626, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2626, 175);
+                VALUES (2627, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2627, 195);
+                VALUES (2628, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2628, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2628, 148);
+                VALUES (2628, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2629, 196);
+                VALUES (2629, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2630, 108);
+                VALUES (2629, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2630, 166);
+                VALUES (2629, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2631, 175);
+                VALUES (2630, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2631, 127);
+                VALUES (2630, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2631, 156);
+                VALUES (2630, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2632, 190);
+                VALUES (2631, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2633, 106);
+                VALUES (2632, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2633, 163);
+                VALUES (2632, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2634, 197);
+                VALUES (2633, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2634, 186);
+                VALUES (2633, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2634, 165);
+                VALUES (2634, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2635, 183);
+                VALUES (2634, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2635, 171);
+                VALUES (2634, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2635, 149);
+                VALUES (2635, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2636, 135);
+                VALUES (2636, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2636, 129);
+                VALUES (2636, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2636, 159);
+                VALUES (2636, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2637, 101);
+                VALUES (2637, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2637, 121);
+                VALUES (2638, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2637, 193);
+                VALUES (2639, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2638, 110);
+                VALUES (2639, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2638, 170);
+                VALUES (2639, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2638, 192);
+                VALUES (2640, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2639, 125);
+                VALUES (2640, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2639, 151);
+                VALUES (2641, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2640, 197);
+                VALUES (2641, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2641, 133);
+                VALUES (2642, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2642, 127);
+                VALUES (2642, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2642, 197);
+                VALUES (2643, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2642, 194);
+                VALUES (2643, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2643, 193);
+                VALUES (2643, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2644, 115);
+                VALUES (2644, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2645, 112);
+                VALUES (2644, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2646, 188);
+                VALUES (2645, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2646, 156);
+                VALUES (2645, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2647, 128);
+                VALUES (2645, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2648, 187);
+                VALUES (2646, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2648, 101);
+                VALUES (2646, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2649, 103);
+                VALUES (2646, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2649, 171);
+                VALUES (2647, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2649, 169);
+                VALUES (2647, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2650, 145);
+                VALUES (2647, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2651, 112);
+                VALUES (2648, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2651, 143);
+                VALUES (2648, 114);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2649, 167);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2649, 129);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2650, 129);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2650, 107);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2650, 162);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2651, 128);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2651, 156);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2652, 187);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2652, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2652, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2653, 103);
+                VALUES (2653, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2653, 121);
+                VALUES (2653, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2654, 164);
+                VALUES (2653, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2654, 176);
+                VALUES (2654, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2654, 128);
+                VALUES (2654, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2655, 109);
+                VALUES (2655, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2655, 166);
+                VALUES (2655, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2656, 154);
+                VALUES (2655, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2656, 110);
+                VALUES (2656, 132);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2656, 193);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2656, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2657, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2657, 111);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2658, 133);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2658, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2658, 185);
+                VALUES (2659, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2659, 114);
+                VALUES (2659, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2659, 152);
+                VALUES (2660, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2660, 125);
+                VALUES (2660, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2661, 106);
+                VALUES (2661, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2661, 177);
+                VALUES (2662, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2661, 158);
+                VALUES (2662, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2662, 177);
+                VALUES (2662, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2662, 106);
+                VALUES (2663, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2663, 148);
+                VALUES (2663, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2664, 184);
+                VALUES (2664, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2665, 179);
+                VALUES (2664, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2665, 163);
+                VALUES (2665, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2666, 145);
+                VALUES (2666, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2667, 193);
+                VALUES (2667, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2667, 123);
+                VALUES (2667, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2667, 200);
+                VALUES (2667, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2668, 151);
+                VALUES (2668, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2668, 129);
+                VALUES (2669, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2668, 184);
+                VALUES (2670, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2669, 108);
+                VALUES (2670, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2670, 129);
+                VALUES (2671, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2671, 160);
+                VALUES (2671, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2672, 177);
+                VALUES (2672, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2673, 145);
+                VALUES (2673, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2674, 185);
+                VALUES (2673, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2675, 171);
+                VALUES (2674, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2676, 101);
+                VALUES (2674, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2677, 105);
+                VALUES (2674, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2678, 200);
+                VALUES (2675, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2678, 147);
+                VALUES (2675, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2678, 125);
+                VALUES (2676, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2679, 131);
+                VALUES (2677, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2680, 128);
+                VALUES (2677, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2681, 124);
+                VALUES (2678, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2681, 144);
+                VALUES (2678, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2682, 191);
+                VALUES (2679, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2682, 162);
+                VALUES (2679, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2682, 189);
+                VALUES (2680, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2683, 118);
+                VALUES (2680, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2684, 120);
+                VALUES (2680, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2685, 136);
+                VALUES (2681, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2685, 147);
+                VALUES (2681, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2685, 174);
+                VALUES (2682, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2686, 105);
+                VALUES (2682, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2687, 117);
+                VALUES (2682, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2687, 144);
+                VALUES (2683, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2688, 169);
+                VALUES (2683, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2688, 129);
+                VALUES (2683, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2689, 119);
+                VALUES (2684, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2689, 181);
+                VALUES (2684, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2689, 106);
+                VALUES (2684, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2690, 146);
+                VALUES (2685, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2690, 185);
+                VALUES (2685, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2691, 160);
+                VALUES (2686, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2691, 132);
+                VALUES (2687, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2691, 120);
+                VALUES (2688, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2692, 165);
+                VALUES (2688, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2692, 193);
+                VALUES (2689, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2692, 195);
+                VALUES (2690, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2693, 114);
+                VALUES (2690, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2693, 126);
+                VALUES (2691, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2693, 194);
+                VALUES (2691, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2694, 101);
+                VALUES (2691, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2695, 149);
+                VALUES (2692, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2695, 140);
+                VALUES (2692, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2695, 122);
+                VALUES (2693, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2696, 122);
+                VALUES (2694, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2696, 115);
+                VALUES (2694, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2697, 142);
+                VALUES (2694, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2697, 145);
+                VALUES (2695, 172);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2698, 149);
+                VALUES (2696, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2698, 188);
+                VALUES (2696, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2699, 172);
+                VALUES (2696, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2699, 131);
+                VALUES (2697, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2699, 164);
+                VALUES (2698, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2700, 117);
+                VALUES (2698, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2701, 193);
+                VALUES (2699, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2702, 105);
+                VALUES (2699, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2702, 121);
+                VALUES (2699, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2702, 119);
+                VALUES (2700, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2703, 199);
+                VALUES (2700, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2703, 144);
+                VALUES (2700, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2704, 149);
+                VALUES (2701, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2705, 143);
+                VALUES (2701, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2705, 180);
+                VALUES (2701, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2706, 143);
+                VALUES (2702, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2706, 128);
+                VALUES (2702, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2706, 130);
+                VALUES (2702, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2707, 183);
+                VALUES (2703, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2708, 109);
+                VALUES (2703, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2708, 114);
+                VALUES (2703, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2708, 172);
+                VALUES (2704, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2709, 128);
+                VALUES (2705, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2709, 200);
+                VALUES (2706, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2709, 165);
+                VALUES (2706, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2710, 174);
+                VALUES (2706, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2710, 108);
+                VALUES (2707, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2711, 132);
+                VALUES (2707, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2711, 175);
+                VALUES (2707, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2712, 180);
+                VALUES (2708, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2713, 132);
+                VALUES (2709, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2714, 113);
+                VALUES (2709, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2714, 104);
+                VALUES (2709, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2715, 104);
+                VALUES (2710, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2716, 163);
+                VALUES (2711, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2717, 129);
+                VALUES (2711, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2717, 189);
+                VALUES (2711, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2717, 172);
+                VALUES (2712, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2718, 111);
+                VALUES (2713, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2718, 187);
+                VALUES (2713, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2719, 119);
+                VALUES (2714, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2719, 107);
+                VALUES (2714, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2720, 100);
+                VALUES (2715, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2720, 102);
+                VALUES (2716, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2720, 161);
+                VALUES (2716, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2721, 109);
+                VALUES (2716, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2721, 127);
+                VALUES (2717, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2722, 141);
+                VALUES (2717, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2723, 193);
+                VALUES (2717, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2724, 167);
+                VALUES (2718, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2724, 103);
+                VALUES (2718, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2724, 111);
+                VALUES (2718, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2725, 125);
+                VALUES (2719, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2726, 108);
+                VALUES (2719, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2726, 183);
+                VALUES (2719, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2726, 115);
+                VALUES (2720, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2727, 192);
+                VALUES (2721, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2728, 198);
+                VALUES (2721, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2728, 125);
+                VALUES (2722, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2728, 153);
+                VALUES (2722, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2729, 182);
+                VALUES (2723, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2730, 162);
+                VALUES (2723, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2731, 195);
+                VALUES (2724, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2732, 171);
+                VALUES (2724, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2733, 185);
+                VALUES (2724, 137);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2725, 117);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2725, 148);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2725, 159);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2726, 187);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2726, 200);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2727, 144);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2727, 117);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2727, 180);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2728, 200);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2728, 190);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2729, 101);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2729, 173);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2729, 180);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2730, 131);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2730, 197);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2731, 167);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2731, 170);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2732, 183);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2732, 150);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2732, 189);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2733, 113);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2733, 199);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2733, 109);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2734, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2734, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2734, 148);
+                VALUES (2734, 176);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2735, 149);
+                VALUES (2735, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2735, 159);
+                VALUES (2736, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2735, 130);
+                VALUES (2737, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2736, 113);
+                VALUES (2737, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2737, 189);
+                VALUES (2737, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2737, 136);
+                VALUES (2738, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2738, 130);
+                VALUES (2738, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2738, 166);
+                VALUES (2738, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2738, 151);
+                VALUES (2739, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2739, 159);
+                VALUES (2739, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2740, 194);
+                VALUES (2740, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2741, 123);
+                VALUES (2740, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2741, 119);
+                VALUES (2741, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2742, 128);
+                VALUES (2741, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2742, 196);
+                VALUES (2742, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2742, 151);
+                VALUES (2742, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2743, 163);
+                VALUES (2742, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2743, 130);
+                VALUES (2743, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2744, 161);
+                VALUES (2743, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2744, 106);
+                VALUES (2744, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2745, 112);
+                VALUES (2744, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2746, 135);
+                VALUES (2744, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2747, 130);
+                VALUES (2745, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2748, 146);
+                VALUES (2745, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2748, 158);
+                VALUES (2746, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2748, 186);
+                VALUES (2747, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2749, 138);
+                VALUES (2747, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2749, 134);
+                VALUES (2747, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2749, 173);
+                VALUES (2748, 105);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2750, 132);
+                VALUES (2748, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2750, 151);
+                VALUES (2748, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2751, 173);
+                VALUES (2749, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2752, 112);
+                VALUES (2750, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2752, 199);
+                VALUES (2751, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2753, 186);
+                VALUES (2751, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2754, 188);
+                VALUES (2752, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2755, 191);
+                VALUES (2753, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2756, 159);
+                VALUES (2753, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2756, 144);
+                VALUES (2753, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2756, 138);
+                VALUES (2754, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2757, 186);
+                VALUES (2754, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2757, 128);
+                VALUES (2754, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2757, 143);
+                VALUES (2755, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2758, 197);
+                VALUES (2755, 184);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2758, 153);
+                VALUES (2755, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2758, 103);
+                VALUES (2756, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2759, 108);
+                VALUES (2756, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2759, 103);
+                VALUES (2756, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2760, 135);
+                VALUES (2757, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2760, 165);
+                VALUES (2757, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2761, 120);
+                VALUES (2757, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2761, 127);
+                VALUES (2758, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2761, 115);
+                VALUES (2759, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2762, 117);
+                VALUES (2759, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2762, 105);
+                VALUES (2760, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2762, 104);
+                VALUES (2761, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2763, 200);
+                VALUES (2762, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2763, 192);
+                VALUES (2762, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2764, 121);
+                VALUES (2763, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2764, 137);
+                VALUES (2764, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2765, 186);
+                VALUES (2764, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2766, 177);
+                VALUES (2765, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2766, 187);
+                VALUES (2766, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2766, 131);
+                VALUES (2766, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2767, 120);
+                VALUES (2767, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2768, 120);
+                VALUES (2768, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2768, 195);
+                VALUES (2769, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2768, 183);
+                VALUES (2769, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2769, 153);
+                VALUES (2770, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2769, 148);
+                VALUES (2771, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2769, 158);
+                VALUES (2771, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2770, 101);
+                VALUES (2771, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2770, 139);
+                VALUES (2772, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2771, 146);
+                VALUES (2773, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2772, 187);
+                VALUES (2773, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2772, 153);
+                VALUES (2773, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2772, 197);
+                VALUES (2774, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2773, 179);
+                VALUES (2775, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2774, 102);
+                VALUES (2775, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2774, 150);
+                VALUES (2776, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2775, 188);
+                VALUES (2776, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2775, 156);
+                VALUES (2776, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2775, 120);
+                VALUES (2777, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2776, 147);
+                VALUES (2778, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2776, 134);
+                VALUES (2778, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2776, 143);
+                VALUES (2778, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2777, 144);
+                VALUES (2779, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2778, 102);
+                VALUES (2779, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2779, 161);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2780, 112);
+                VALUES (2780, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2780, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2780, 114);
+                VALUES (2781, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2781, 129);
+                VALUES (2781, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2782, 183);
+                VALUES (2781, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2782, 167);
+                VALUES (2782, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2782, 136);
+                VALUES (2782, 128);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2782, 194);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2783, 156);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2783, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2783, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2783, 114);
+                VALUES (2784, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2783, 179);
+                VALUES (2785, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2784, 145);
+                VALUES (2785, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2784, 181);
+                VALUES (2786, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2785, 133);
+                VALUES (2786, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2785, 125);
+                VALUES (2786, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2785, 183);
+                VALUES (2787, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2786, 161);
+                VALUES (2787, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2786, 174);
+                VALUES (2788, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2787, 154);
+                VALUES (2788, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2787, 127);
+                VALUES (2788, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2788, 130);
+                VALUES (2789, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2788, 188);
+                VALUES (2789, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2788, 126);
+                VALUES (2790, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2789, 156);
+                VALUES (2791, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2789, 163);
+                VALUES (2791, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2790, 147);
+                VALUES (2792, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2790, 196);
+                VALUES (2793, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2791, 166);
+                VALUES (2794, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2792, 152);
+                VALUES (2794, 136);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2793, 165);
+                VALUES (2794, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2793, 151);
+                VALUES (2795, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2793, 158);
+                VALUES (2795, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2794, 106);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2795, 177);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2795, 145);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2795, 133);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2796, 112);
+                VALUES (2796, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2797, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2797, 147);
+                VALUES (2797, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2797, 167);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2798, 156);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2799, 141);
+                VALUES (2798, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2799, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2799, 175);
+                VALUES (2799, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2800, 117);
+                VALUES (2799, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2800, 153);
+                VALUES (2800, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2800, 159);
+                VALUES (2800, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2801, 185);
+                VALUES (2801, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2801, 164);
+                VALUES (2801, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2802, 117);
+                VALUES (2802, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2803, 191);
+                VALUES (2802, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2803, 131);
+                VALUES (2802, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2804, 127);
+                VALUES (2803, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2804, 178);
+                VALUES (2803, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2804, 111);
+                VALUES (2803, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2805, 172);
+                VALUES (2804, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2806, 164);
+                VALUES (2804, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2806, 113);
+                VALUES (2804, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2807, 142);
+                VALUES (2805, 107);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2805, 186);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2806, 135);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2806, 192);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2807, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2807, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2807, 115);
+                VALUES (2807, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2808, 142);
+                VALUES (2808, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2808, 124);
+                VALUES (2809, 195);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2809, 182);
+                VALUES (2809, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2809, 133);
+                VALUES (2809, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2809, 150);
+                VALUES (2810, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2810, 188);
+                VALUES (2810, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2811, 153);
+                VALUES (2810, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2812, 134);
+                VALUES (2811, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2812, 129);
+                VALUES (2811, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2812, 114);
+                VALUES (2811, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2813, 154);
+                VALUES (2812, 168);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2813, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2813, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2814, 122);
+                VALUES (2813, 160);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2814, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2815, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2815, 151);
+                VALUES (2815, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2815, 112);
+                VALUES (2815, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2816, 144);
+                VALUES (2816, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2817, 158);
+                VALUES (2817, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2817, 159);
+                VALUES (2817, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2818, 120);
+                VALUES (2817, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2818, 107);
+                VALUES (2818, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2819, 188);
+                VALUES (2818, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2820, 143);
+                VALUES (2818, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2821, 123);
+                VALUES (2819, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2821, 187);
+                VALUES (2819, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2822, 147);
+                VALUES (2819, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2822, 108);
+                VALUES (2820, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2823, 167);
+                VALUES (2821, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2823, 104);
+                VALUES (2821, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2823, 198);
+                VALUES (2822, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2824, 146);
+                VALUES (2823, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2824, 185);
+                VALUES (2823, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2824, 173);
+                VALUES (2824, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2825, 180);
+                VALUES (2824, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2825, 173);
+                VALUES (2824, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2825, 166);
+                VALUES (2825, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2826, 153);
+                VALUES (2825, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2827, 177);
+                VALUES (2825, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2828, 198);
+                VALUES (2826, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2829, 176);
+                VALUES (2826, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2830, 153);
+                VALUES (2826, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2831, 123);
+                VALUES (2827, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2831, 144);
+                VALUES (2827, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2832, 195);
+                VALUES (2827, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2832, 198);
+                VALUES (2828, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2833, 167);
+                VALUES (2828, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2833, 127);
+                VALUES (2829, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2833, 196);
+                VALUES (2830, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2834, 165);
+                VALUES (2830, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2835, 155);
+                VALUES (2830, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2835, 180);
+                VALUES (2831, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2836, 135);
+                VALUES (2831, 141);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2836, 148);
+                VALUES (2832, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2837, 141);
+                VALUES (2832, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2837, 111);
+                VALUES (2833, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2837, 154);
+                VALUES (2833, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2838, 180);
+                VALUES (2833, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2839, 160);
+                VALUES (2834, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2839, 124);
+                VALUES (2834, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2839, 187);
+                VALUES (2834, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2840, 185);
+                VALUES (2835, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2840, 187);
+                VALUES (2835, 101);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2836, 156);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2836, 175);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2836, 143);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2837, 132);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2837, 193);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2837, 189);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2838, 123);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2838, 147);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2838, 115);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2839, 144);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2840, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2840, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2841, 127);
+                VALUES (2840, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2842, 150);
+                VALUES (2841, 166);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2842, 180);
+                VALUES (2841, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2843, 173);
+                VALUES (2842, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2844, 133);
+                VALUES (2843, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2844, 167);
+                VALUES (2843, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2845, 195);
+                VALUES (2843, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2846, 174);
+                VALUES (2844, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2847, 168);
+                VALUES (2844, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2847, 186);
+                VALUES (2844, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2847, 150);
+                VALUES (2845, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2848, 198);
+                VALUES (2845, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2849, 193);
+                VALUES (2846, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2849, 102);
+                VALUES (2846, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2850, 156);
+                VALUES (2846, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2850, 182);
+                VALUES (2847, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2850, 162);
+                VALUES (2848, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2851, 120);
+                VALUES (2848, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2851, 188);
+                VALUES (2849, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2851, 192);
+                VALUES (2849, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2852, 132);
+                VALUES (2850, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2852, 188);
+                VALUES (2851, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2852, 198);
+                VALUES (2851, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2853, 149);
+                VALUES (2852, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2853, 177);
+                VALUES (2852, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2854, 170);
+                VALUES (2852, 143);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2854, 194);
+                VALUES (2853, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2854, 118);
+                VALUES (2854, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2855, 109);
+                VALUES (2854, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2855, 166);
+                VALUES (2855, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2856, 181);
+                VALUES (2855, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2856, 159);
+                VALUES (2856, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2856, 128);
+                VALUES (2857, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2857, 144);
+                VALUES (2857, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2857, 142);
+                VALUES (2857, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2858, 142);
+                VALUES (2858, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2859, 125);
+                VALUES (2858, 170);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2858, 189);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2859, 151);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2859, 146);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2859, 134);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2860, 123);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2860, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2860, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2860, 191);
+                VALUES (2861, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2860, 129);
+                VALUES (2861, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2861, 143);
+                VALUES (2861, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2861, 100);
+                VALUES (2862, 186);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2862, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2862, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2862, 148);
+                VALUES (2863, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2863, 198);
+                VALUES (2863, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2864, 184);
+                VALUES (2863, 191);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2864, 168);
+                VALUES (2864, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2864, 103);
+                VALUES (2865, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2865, 153);
+                VALUES (2866, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2866, 117);
+                VALUES (2866, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2867, 134);
+                VALUES (2867, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2867, 113);
+                VALUES (2867, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2867, 179);
+                VALUES (2867, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2868, 135);
+                VALUES (2868, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2868, 156);
+                VALUES (2868, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2868, 155);
+                VALUES (2869, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2869, 152);
+                VALUES (2870, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2869, 134);
+                VALUES (2870, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2870, 165);
+                VALUES (2871, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2870, 159);
+                VALUES (2871, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2870, 128);
+                VALUES (2871, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2871, 193);
+                VALUES (2872, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2871, 112);
+                VALUES (2872, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2872, 195);
+                VALUES (2873, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2873, 116);
+                VALUES (2873, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2873, 132);
+                VALUES (2874, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2873, 123);
+                VALUES (2874, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2874, 122);
+                VALUES (2874, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2874, 178);
+                VALUES (2875, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2874, 193);
+                VALUES (2875, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2875, 188);
+                VALUES (2875, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2876, 122);
+                VALUES (2876, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2876, 116);
+                VALUES (2876, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2877, 100);
+                VALUES (2876, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2877, 187);
+                VALUES (2877, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2878, 199);
+                VALUES (2877, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2879, 114);
+                VALUES (2878, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2880, 191);
+                VALUES (2879, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2880, 108);
+                VALUES (2879, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2880, 131);
+                VALUES (2879, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2881, 106);
+                VALUES (2880, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2881, 162);
+                VALUES (2880, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2881, 168);
+                VALUES (2880, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2882, 132);
+                VALUES (2881, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2883, 153);
+                VALUES (2882, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2883, 104);
+                VALUES (2882, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2883, 159);
+                VALUES (2882, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2884, 194);
+                VALUES (2883, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2884, 191);
+                VALUES (2883, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2885, 101);
+                VALUES (2884, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2886, 150);
+                VALUES (2884, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2886, 176);
+                VALUES (2884, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2887, 180);
+                VALUES (2885, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2888, 133);
+                VALUES (2886, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2888, 111);
+                VALUES (2886, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2889, 161);
+                VALUES (2887, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2889, 180);
+                VALUES (2888, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2890, 144);
+                VALUES (2888, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2891, 157);
+                VALUES (2889, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2891, 200);
+                VALUES (2889, 185);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2892, 173);
+                VALUES (2889, 165);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2892, 175);
+                VALUES (2890, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2893, 175);
+                VALUES (2890, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2893, 138);
+                VALUES (2890, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2893, 193);
+                VALUES (2891, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2894, 162);
+                VALUES (2892, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2894, 131);
+                VALUES (2892, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2894, 151);
+                VALUES (2892, 123);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2895, 190);
+                VALUES (2893, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2896, 185);
+                VALUES (2893, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2896, 167);
+                VALUES (2893, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2896, 111);
+                VALUES (2894, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2897, 167);
+                VALUES (2894, 138);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2895, 156);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2896, 106);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2896, 168);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2896, 150);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2897, 108);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2897, 110);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2897, 133);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2898, 178);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2898, 190);
+                VALUES (2898, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2898, 150);
+                VALUES (2899, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2899, 141);
+                VALUES (2899, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2899, 167);
+                VALUES (2899, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2900, 162);
+                VALUES (2900, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2900, 192);
+                VALUES (2900, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2900, 180);
+                VALUES (2901, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2901, 136);
+                VALUES (2901, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2902, 101);
+                VALUES (2901, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2902, 160);
+                VALUES (2902, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2902, 127);
+                VALUES (2903, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2903, 102);
+                VALUES (2903, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2903, 193);
+                VALUES (2904, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2904, 152);
+                VALUES (2905, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2904, 146);
+                VALUES (2905, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2905, 192);
+                VALUES (2906, 100);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2905, 176);
+                VALUES (2906, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2906, 101);
+                VALUES (2907, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2907, 107);
+                VALUES (2907, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2908, 114);
+                VALUES (2908, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2909, 107);
+                VALUES (2909, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2910, 122);
+                VALUES (2910, 137);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2911, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2911, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2912, 145);
+                VALUES (2911, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2913, 187);
+                VALUES (2912, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2913, 111);
+                VALUES (2912, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2914, 154);
+                VALUES (2913, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2914, 182);
+                VALUES (2914, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2915, 108);
+                VALUES (2915, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2915, 157);
+                VALUES (2915, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2915, 121);
+                VALUES (2916, 198);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2916, 155);
+                VALUES (2916, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2916, 132);
+                VALUES (2917, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2917, 151);
+                VALUES (2918, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2918, 141);
+                VALUES (2919, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2918, 157);
+                VALUES (2919, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2918, 181);
+                VALUES (2920, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2919, 139);
+                VALUES (2920, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2919, 141);
+                VALUES (2921, 110);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2919, 171);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2920, 102);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2920, 150);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2920, 135);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2921, 114);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2921, 182);
+                VALUES (2922, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2922, 103);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2922, 164);
+                VALUES (2922, 130);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2922, 187);
+                VALUES (2923, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2923, 157);
+                VALUES (2923, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2923, 172);
+                VALUES (2923, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2923, 103);
+                VALUES (2924, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2924, 165);
+                VALUES (2925, 125);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2924, 187);
+                VALUES (2925, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2924, 119);
+                VALUES (2925, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2925, 120);
+                VALUES (2926, 121);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2925, 111);
+                VALUES (2927, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2925, 178);
+                VALUES (2927, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2926, 101);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2926, 184);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2927, 178);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2927, 198);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2927, 132);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2928, 144);
+                VALUES (2928, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2928, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2928, 135);
+                VALUES (2929, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2929, 137);
+                VALUES (2930, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2929, 184);
+                VALUES (2930, 108);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2930, 143);
+                VALUES (2931, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2930, 191);
+                VALUES (2931, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2930, 153);
+                VALUES (2931, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2931, 198);
+                VALUES (2932, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2931, 168);
+                VALUES (2933, 175);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2932, 130);
+                VALUES (2934, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2932, 163);
+                VALUES (2935, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2932, 168);
+                VALUES (2935, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2933, 186);
+                VALUES (2935, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2933, 135);
+                VALUES (2936, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2934, 172);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2935, 180);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2936, 153);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2936, 177);
-                
-                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2937, 152);
+                VALUES (2936, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2937, 199);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2937, 161);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2937, 144);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2938, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2939, 185);
+                VALUES (2939, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2939, 117);
+                VALUES (2939, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2940, 197);
+                VALUES (2939, 196);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2941, 188);
+                VALUES (2940, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2941, 112);
+                VALUES (2941, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2941, 109);
+                VALUES (2941, 102);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2942, 156);
+                VALUES (2941, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2942, 131);
+                VALUES (2942, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2942, 108);
+                VALUES (2942, 111);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2943, 139);
+                VALUES (2942, 140);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2943, 189);
+                VALUES (2943, 151);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2944, 103);
+                VALUES (2944, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2944, 156);
+                VALUES (2944, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2945, 133);
+                VALUES (2945, 156);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2945, 130);
+                VALUES (2946, 139);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2945, 114);
+                VALUES (2946, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2946, 185);
+                VALUES (2946, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2947, 185);
+                VALUES (2947, 174);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2948, 103);
+                VALUES (2948, 170);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2948, 109);
+                VALUES (2948, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2948, 190);
+                VALUES (2949, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2949, 108);
+                VALUES (2950, 161);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2950, 129);
+                VALUES (2950, 120);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2951, 116);
+                VALUES (2950, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2951, 119);
+                VALUES (2951, 157);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2952, 179);
+                VALUES (2951, 183);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2952, 114);
+                VALUES (2952, 119);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2952, 181);
+                VALUES (2952, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2953, 113);
+                VALUES (2952, 112);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2953, 129);
+                VALUES (2953, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2953, 124);
+                VALUES (2953, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2954, 193);
+                VALUES (2954, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2954, 189);
+                VALUES (2954, 187);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2954, 119);
+                VALUES (2955, 137);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2955, 136);
+                VALUES (2956, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2955, 182);
+                VALUES (2956, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2956, 147);
+                VALUES (2957, 189);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2957, 103);
+                VALUES (2957, 124);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2958, 130);
+                VALUES (2958, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2958, 138);
+                VALUES (2958, 104);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2959, 189);
+                VALUES (2959, 197);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2959, 130);
+                VALUES (2960, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2960, 178);
+                VALUES (2960, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2960, 135);
+                VALUES (2960, 134);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2961, 153);
+                VALUES (2961, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2961, 194);
+                VALUES (2961, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2961, 169);
+                VALUES (2961, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2962, 153);
+                VALUES (2962, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2962, 108);
+                VALUES (2963, 128);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2962, 177);
+                VALUES (2964, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2963, 146);
+                VALUES (2964, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2963, 132);
+                VALUES (2965, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2964, 151);
+                VALUES (2965, 192);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2965, 151);
+                VALUES (2966, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2965, 121);
+                VALUES (2966, 115);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2966, 199);
+                VALUES (2967, 146);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2966, 129);
+                VALUES (2967, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2966, 159);
+                VALUES (2967, 127);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2967, 171);
+                VALUES (2968, 101);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2967, 130);
+                VALUES (2968, 160);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2968, 196);
+                VALUES (2968, 180);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2969, 200);
+                VALUES (2969, 148);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2970, 157);
+                VALUES (2969, 169);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2970, 100);
+                VALUES (2970, 142);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2971, 104);
+                VALUES (2970, 179);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2971, 172);
+                VALUES (2971, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2972, 136);
+                VALUES (2971, 122);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2972, 147);
+                VALUES (2972, 159);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2972, 195);
+                VALUES (2972, 149);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2973, 153);
+                VALUES (2972, 138);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2973, 100);
+                VALUES (2973, 181);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2973, 198);
+                VALUES (2974, 194);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2974, 135);
+                VALUES (2974, 188);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2975, 178);
+                VALUES (2975, 131);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2976, 159);
+                VALUES (2975, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2976, 148);
+                VALUES (2976, 145);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2977, 115);
+                VALUES (2977, 177);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2978, 109);
+                VALUES (2977, 152);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2978, 174);
+                VALUES (2978, 144);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2978, 106);
+                VALUES (2978, 154);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2979, 126);
+                VALUES (2978, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2979, 131);
+                VALUES (2979, 107);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2980, 168);
+                VALUES (2980, 150);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2981, 117);
+                VALUES (2981, 190);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2982, 118);
+                VALUES (2981, 129);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2982, 106);
+                VALUES (2981, 167);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2983, 174);
+                VALUES (2982, 117);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2983, 193);
+                VALUES (2982, 147);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2983, 116);
+                VALUES (2983, 171);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2984, 114);
+                VALUES (2983, 155);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2985, 169);
+                VALUES (2983, 114);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2986, 179);
+                VALUES (2984, 113);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2987, 135);
+                VALUES (2984, 173);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2987, 187);
+                VALUES (2984, 153);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2988, 158);
+                VALUES (2985, 194);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2985, 148);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2985, 186);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2986, 102);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2986, 130);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2987, 176);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2988, 119);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2988, 116);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2989, 163);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2990, 133);
+                VALUES (2989, 106);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2990, 200);
+                VALUES (2990, 182);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2991, 143);
+                VALUES (2990, 193);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2992, 163);
+                VALUES (2990, 132);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2993, 130);
+                VALUES (2991, 158);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2993, 110);
+                VALUES (2992, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2993, 140);
+                VALUES (2993, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2994, 151);
+                VALUES (2993, 200);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2994, 103);
+                VALUES (2993, 188);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2994, 183);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2994, 106);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2994, 157);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2995, 126);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2995, 162);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
                 VALUES (2995, 118);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2996, 173);
+                VALUES (2996, 126);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2996, 105);
+                VALUES (2996, 186);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2997, 180);
+                VALUES (2997, 164);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2998, 118);
+                VALUES (2997, 168);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2998, 189);
+                VALUES (2997, 135);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2999, 133);
+                VALUES (2998, 109);
                 
                 INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
-                VALUES (2999, 188);
+                VALUES (2998, 126);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2998, 162);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2999, 143);
+                
+                INSERT INTO Autor_Kurs (ID_Kurs, ID_Autor)
+                VALUES (2999, 112);
                 

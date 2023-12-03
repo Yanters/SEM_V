@@ -146,6 +146,19 @@ def create_cousres_sql(coursesT1, coursesT2,T1,T2, is_New):
                 Semestr INTEGER
             );
             ''')
+        else:
+            for i in range(1, coursesT1):
+                if random.randint(1, 100) <= 5:
+                    update_query = '''
+                    UPDATE Kurs
+                    SET Czy_posiada_forum = {},
+                        Czy_posiada_testy = {},
+                        Czy_posiada_konsultacje = {}
+                    WHERE ID = {};
+                    '''.format(random.choice([0, 1]), random.choice([0, 1]), random.choice([0, 1]), i)
+                    file.write(update_query)
+
+        
 
         for i in range(start_parameter, end_parameter):
             category = random.choice(list(course_names.keys()))

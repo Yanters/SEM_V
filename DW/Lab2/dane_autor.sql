@@ -6,902 +6,899 @@
         );
         
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Angelika', 'Gaw³owicz');
+            VALUES ('Dorota', 'Kunda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kajetan', 'Rymarz');
+            VALUES ('Anastazja', 'Doktór');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Osojca');
+            VALUES ('Konrad', 'Kawala');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kaja', 'Wojtaszak');
+            VALUES ('Natan', 'Madera');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nicole', 'Preuss');
+            VALUES ('Artur', 'Kramer');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kaja', 'Rembisz');
+            VALUES ('Witold', 'Giezek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adrianna', 'Kapustka');
+            VALUES ('Olgierd', 'Gendera');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marika', 'Sojda');
+            VALUES ('Jacek', 'Korzeniak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Szram');
+            VALUES ('Pawe³', 'B³aziak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ernest', 'Morek');
+            VALUES ('Kaja', '£acina');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nela', 'Muc');
+            VALUES ('Olgierd', 'Romañczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ryszard', 'Czesak');
+            VALUES ('Daniel', 'Pietraszkiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleksander', 'Kopik');
+            VALUES ('Julita', 'Zago¿d¿on');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marek', 'Bia³asik');
+            VALUES ('Blanka', 'Korab');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Julian', 'Bogumi³');
+            VALUES ('Jeremi', 'Kolanek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Igor', 'Kopciuch');
+            VALUES ('Julita', 'Oleksiuk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dagmara', 'Jêdraszek');
+            VALUES ('Miko³aj', 'Gêbura');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anita', 'Jeszka');
+            VALUES ('Jeremi', 'Albin');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marianna', 'Basaj');
+            VALUES ('Sylwia', 'Swaczyna');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Knieæ');
+            VALUES ('Micha³', 'Chojak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Stanis³aw', 'Strójw¹s');
+            VALUES ('Ignacy', '£uksza');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Micha³', 'Zió³ko');
+            VALUES ('Sylwia', 'Bylina');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alex', 'Durlej');
+            VALUES ('Krzysztof', 'Mudlaff');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bruno', 'Byra');
+            VALUES ('Rozalia', 'Kalisiak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tobiasz', 'Filiks');
+            VALUES ('Grzegorz', 'Kupidura');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anna Maria', 'Kudela');
+            VALUES ('Patryk', 'Obarzanek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anita', 'Bojczuk');
+            VALUES ('Julian', 'Zackiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marek', 'Mytych');
+            VALUES ('Sebastian', 'Pleœniak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Angelika', 'Muniak');
+            VALUES ('Olaf', 'Dyszkiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Karnas');
+            VALUES ('Franciszek', 'Tereszkiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Korzonek');
+            VALUES ('Krystyna', 'Kabala');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aniela', 'Kulon');
+            VALUES ('Jerzy', 'Zajko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Fryderyk', 'Potoczna');
+            VALUES ('Jakub', 'Biesaga');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bartek', 'Prasek');
+            VALUES ('Maciej', 'Prystupa');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Olga', '¯o³nierczyk');
+            VALUES ('Sonia', 'Konat');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Liwia', 'Szmagaj');
+            VALUES ('Dariusz', 'Liss');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dorota', 'Pokusa');
+            VALUES ('Gaja', 'Borzych');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Karol', 'Karalus');
+            VALUES ('Apolonia', 'Szarpak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleksander', 'Babij');
+            VALUES ('Hubert', 'Œli¿');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dawid', 'Sadza');
+            VALUES ('Malwina', 'Tuzimek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Natan', 'Sendor');
+            VALUES ('Maciej', 'Celuch');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ró¿a', 'Chromy');
+            VALUES ('Marianna', '£uszczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tymoteusz', 'Dulewicz');
+            VALUES ('Gabriel', 'Wyrwa³');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Grzegorz', 'Sobuœ');
+            VALUES ('Cezary', 'Wy³upek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', '¯abka');
+            VALUES ('Damian', 'Haremza');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nela', 'Knysak');
+            VALUES ('Anna Maria', 'Wojtasiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aniela', 'Rurarz');
+            VALUES ('Malwina', 'Mojsa');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Klara', 'Piechura');
+            VALUES ('Jeremi', 'Latuszek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Melania', 'Kuder');
+            VALUES ('Andrzej', 'Rurarz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dominik', 'Stoltman');
+            VALUES ('Sara', 'Nurek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Miszta');
+            VALUES ('Fryderyk', 'Madajczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dominik', 'Bodych');
+            VALUES ('Maciej', 'Bakalarczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Artur', 'Dawiec');
+            VALUES ('Dagmara', 'Palus');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Fabian', 'Wojaczek');
+            VALUES ('Daniel', 'Czupryna');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sonia', 'Strójw¹s');
+            VALUES ('Miko³aj', 'Drej');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dariusz', 'Front');
+            VALUES ('Marcin', 'Adamów');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Szymon', 'Wojtach');
+            VALUES ('Juliusz', 'B³a¿ejak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Oœka');
+            VALUES ('Fabian', 'Gogacz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ryszard', 'Janowiak');
+            VALUES ('Monika', 'Pal');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Melania', '¯yto');
+            VALUES ('Aurelia', 'Nieradzik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aniela', 'Goœ');
+            VALUES ('Witold', 'Maæków');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Józef', 'Widuch');
+            VALUES ('Ryszard', 'Luberda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Pawe³', 'Petrus');
+            VALUES ('Piotr', 'Ferdyn');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adrianna', 'Kruzel');
+            VALUES ('Aniela', 'Wudarczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Eryk', 'Trzos');
+            VALUES ('Konrad', 'Radzewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Hubert', 'Kunert');
+            VALUES ('Ignacy', 'Bruœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Andrzej', 'Pera');
+            VALUES ('Marianna', 'ZbrzeŸniak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Grzegorz', 'Bakun');
+            VALUES ('Olgierd', 'Hojka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Gaja', 'Piotrowiak');
+            VALUES ('Kamil', 'Ochab');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tadeusz', 'Sapa');
+            VALUES ('Kaja', 'Humeniuk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Blanka', 'Morawiak');
+            VALUES ('Marcin', 'Mila');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Antoni', 'Oczko');
+            VALUES ('Rozalia', '£aciak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Eliza', 'Wolañczyk');
+            VALUES ('Sylwia', 'Jarka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Mi³osz', 'Trojanek');
+            VALUES ('Anna Maria', 'Boba');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ewelina', 'Sadoch');
+            VALUES ('Blanka', 'Halik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marika', 'Rochowiak');
+            VALUES ('Sonia', 'Kazek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Blanka', 'Piercha³a');
+            VALUES ('Stanis³aw', 'Ciep³a');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maciej', 'Jêdra');
+            VALUES ('Mi³osz', 'Opas');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Supernak');
+            VALUES ('Emil', 'Bortkiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ksawery', 'Burzawa');
+            VALUES ('Tomasz', 'Wawszczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bruno', 'Szymonik');
+            VALUES ('Józef', 'Gros');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Olga', 'Wajdzik');
+            VALUES ('Olaf', 'Szemraj');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Faryna');
+            VALUES ('Borys', 'Bobko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Micha³', 'Gumienna');
+            VALUES ('Borys', 'Kuzior');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Malwina', 'Wiatrak');
+            VALUES ('Ewelina', 'Mirocha');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Justyna', 'Namys³o');
+            VALUES ('Fabian', 'Potaczek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Stanis³aw', 'Perczak');
+            VALUES ('Rozalia', 'Weso³y');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Pawe³', 'Szambelan');
+            VALUES ('Tymoteusz', 'Czura');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Piotr', 'Duszczyk');
+            VALUES ('Rados³aw', 'Bilik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kamil', 'Je¿yk');
+            VALUES ('Adam', 'Portka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anna Maria', 'Husak');
+            VALUES ('Patryk', 'Kurach');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bruno', 'Pacyga');
+            VALUES ('Anastazja', 'Klyta');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maciej', 'Daniec');
+            VALUES ('Sara', 'Ryczko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dagmara', 'Kuryœ');
+            VALUES ('Antoni', 'Nalewajko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Roda');
+            VALUES ('Kalina', 'Pó³ch³opek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kamila', 'Rurka');
+            VALUES ('Urszula', 'Klinkosz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Lidia', 'Hak');
+            VALUES ('Kornelia', 'Krêgiel');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Emil', 'Moskalik');
+            VALUES ('Franciszek', 'Policht');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Woœko');
+            VALUES ('Mi³osz', 'Starostka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Imie', 'Nazwisko');
+            VALUES ('Tymoteusz', 'Orpel');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marek', 'Konat');
+            VALUES ('Andrzej', 'Domka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Patryk', 'Pindral');
+            VALUES ('Eryk', 'Ha³ka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ewa', 'Fras');
+            VALUES ('Klara', 'Kontny');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marianna', 'Karnas');
+            VALUES ('Tadeusz', 'Wac³aw');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Malwina', 'Fita');
+            VALUES ('Kajetan', 'Szwiec');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Jerzy', 'Kuœnierek');
+            VALUES ('B³a¿ej', 'Wawrzyñczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Blanka', 'Koæwin');
+            VALUES ('Piotr', 'Skrzecz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kazimierz', 'S³yk');
+            VALUES ('Alex', 'Kolarz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Jakub', 'Prokopczuk');
+            VALUES ('Gustaw', 'Buœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Mateusz', 'Doroszuk');
+            VALUES ('Konrad', 'Krzyka³a');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Oskar', 'Ka³ek');
+            VALUES ('Sebastian', 'Ankiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Juliusz', 'Kobak');
+            VALUES ('Alan', 'Zander');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Grzegorz', 'Tla³ka');
+            VALUES ('Szymon', 'Ho³ubowicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Julian', 'Wittbrodt');
+            VALUES ('Przemys³aw', 'Hejduk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Gaja', 'Osojca');
+            VALUES ('Borys', 'Stój');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('£ukasz', 'Jasnoch');
+            VALUES ('Franciszek', 'Jaremek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Patryk', 'Myrcik');
+            VALUES ('Tymoteusz', 'Muæko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Emil', 'Swi¹tek');
+            VALUES ('Alex', 'Mroczko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Józef', 'Jankowicz');
+            VALUES ('Damian', 'Malon');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Damian', 'Fr¹cz');
+            VALUES ('Nataniel', '£uksza');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Klara', 'Brygo³a');
+            VALUES ('Malwina', 'Jakiel');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Arkadiusz', 'Kadela');
+            VALUES ('Aleksander', 'Lorenz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Oskar', 'Szambelan');
+            VALUES ('Ewa', 'Opio³a');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adrianna', 'Zubel');
+            VALUES ('Krzysztof', 'Szymocha');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nela', '£aszczyk');
+            VALUES ('Malwina', 'WlaŸlak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Krystyna', 'Fydrych');
+            VALUES ('Ryszard', 'Roj');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Antoni', 'Dzidek');
+            VALUES ('Ernest', 'Bystrek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Roksana', 'Rejniak');
+            VALUES ('Nikodem', 'Cieciura');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ernest', 'Jakubaszek');
+            VALUES ('Tomasz', 'Kadela');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Apolonia', 'Dacko');
+            VALUES ('Gabriel', 'Malisz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Hubert', 'Irzyk');
+            VALUES ('Aniela', 'Wiewiórka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Micha³', 'Klorek');
+            VALUES ('Andrzej', 'Szlachcic');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bartek', 'Reimann');
+            VALUES ('Justyna', 'Jarka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sandra', 'Myszak');
+            VALUES ('Ada', 'Mikita');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('£ukasz', 'Utrata');
+            VALUES ('Jeremi', 'Lepak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marcin', 'Miszta');
+            VALUES ('Tobiasz', 'Bogaczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Konstanty', 'Kurant');
+            VALUES ('Albert', 'Gonet');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Krystian', 'Mirgos');
+            VALUES ('Angelika', 'Ciechowicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('B³a¿ej', 'Kraszkiewicz');
+            VALUES ('Rozalia', 'Malara');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marcelina', 'Cyganik');
+            VALUES ('Cezary', 'Matla');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('El¿bieta', 'Martyka');
+            VALUES ('Oskar', 'Bukowiec');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Gustaw', 'Drobnik');
+            VALUES ('Antoni', 'Romejko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Andrzej', 'Wojtaszak');
+            VALUES ('Krystyna', 'Janc');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Jakub', 'Matyjasek');
+            VALUES ('Nela', 'Hejna');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ewelina', 'Stasica');
+            VALUES ('Adam', 'Kierepka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Lidia', 'Plizga');
+            VALUES ('Konstanty', 'Getka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleks', 'Gietka');
+            VALUES ('Maksymilian', 'Wydrych');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nicole', 'Janczarek');
+            VALUES ('El¿bieta', 'B¹czkiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Igor', 'Dzia³ak');
+            VALUES ('Adrian', 'Szott');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Konrad', 'Ho³ubowicz');
+            VALUES ('Ignacy', 'Sobi³o');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Artur', 'Moskalik');
+            VALUES ('Mariusz', 'Pyda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kajetan', '¯ero');
+            VALUES ('Pawe³', 'Kolanko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Julian', 'Dorobek');
+            VALUES ('Marcelina', 'Dziedzina');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maksymilian', 'Ska³ka');
+            VALUES ('Karol', 'Borysewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tobiasz', 'Kaczmarkiewicz');
+            VALUES ('Tadeusz', 'Sobstyl');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Wiktor', 'Gabara');
+            VALUES ('Tola', 'Fulara');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Micha³', 'Gogacz');
+            VALUES ('Ewelina', 'Pasiut');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ignacy', 'Go³as');
+            VALUES ('Daniel', 'Olma');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Andrzej', 'Parzonka');
+            VALUES ('Marika', 'Jama');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ewelina', 'Wielgo');
+            VALUES ('Igor', 'Gajowiak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Urszula', 'Jantos');
+            VALUES ('Jan', 'Jachimczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('B³a¿ej', 'Zaranek');
+            VALUES ('Antoni', 'Malcherek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kajetan', 'Rajch');
+            VALUES ('Nicole', 'Olbrych');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Malwina', 'Wielgos');
+            VALUES ('Marcelina', 'Parzyszek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Natan', 'Elert');
+            VALUES ('Adrianna', 'So³tan');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Pacho³ek');
+            VALUES ('Marianna', 'Nazarewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Klara', 'Cygal');
+            VALUES ('Piotr', 'Fyda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Cezary', 'Saczuk');
+            VALUES ('Alan', 'Niko³ajuk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Konrad', 'Mzyk');
+            VALUES ('Rozalia', 'Panasiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sebastian', 'Sypek');
+            VALUES ('Andrzej', 'Godzisz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ryszard', 'Marciniszyn');
+            VALUES ('Melania', 'Kosiak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Blanka', '£abno');
+            VALUES ('Norbert', 'Klin');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Szymocha');
+            VALUES ('Krystyna', 'Chomik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Krzysztof', 'Saj');
+            VALUES ('Daniel', 'Knysak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Fronia');
+            VALUES ('Klara', 'Piotrak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Klara', 'Tu³acz');
+            VALUES ('Monika', 'Nieæko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ksawery', 'Pad³o');
+            VALUES ('Damian', 'Wowra');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ryszard', 'Erdmann');
+            VALUES ('Fryderyk', 'Rz¹d');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Stefan', '£apacz');
+            VALUES ('Gaja', 'Nieradko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kornel', 'Ksiê¿ak');
+            VALUES ('Norbert', 'Majdan');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adrian', 'Gogó³');
+            VALUES ('Jakub', 'Dulemba');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maksymilian', 'Felisiak');
+            VALUES ('Kornelia', 'Wasiuk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Pastu³a');
+            VALUES ('Monika', 'Makoœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Rados³aw', 'Cieloch');
+            VALUES ('Olga', 'Pyc');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adam', 'Kukawka');
+            VALUES ('Kaja', 'Makles');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Konrad', 'Wasyluk');
+            VALUES ('El¿bieta', 'Fidos');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tomasz', 'Zimoñ');
+            VALUES ('Roksana', 'So³tan');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Witold', 'Cich');
+            VALUES ('Bartek', 'Œleziak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleks', 'Tr¹bka');
+            VALUES ('Anna Maria', 'Sojda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Jerzy', 'Szmelter');
+            VALUES ('Robert', 'St¹por');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Gabara');
+            VALUES ('Andrzej', 'Gajdzik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Ga³aj');
+            VALUES ('Konrad', 'Jarczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Justyna', 'Burczak');
+            VALUES ('Gustaw', 'Dzikiewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Juliusz', 'Dynak');
+            VALUES ('Ró¿a', 'B³a¿ejewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Handzel');
+            VALUES ('Rados³aw', 'Kreczmer');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Leonard', 'Gogacz');
+            VALUES ('Witold', 'Grabczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adam', 'Rozumek');
+            VALUES ('Klara', 'Leoniak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marcel', 'Biesek');
+            VALUES ('Tomasz', 'Szymków');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Szrama');
+            VALUES ('Rozalia', 'Pelka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sara', 'Gradek');
+            VALUES ('Iwo', 'Kolarczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Rados³aw', 'Gierak');
+            VALUES ('Nicole', 'Morga³a');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Rozalia', 'Kojder');
+            VALUES ('Gustaw', 'Opyrcha³');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maksymilian', 'Trochimiuk');
+            VALUES ('Marcel', 'Kurcz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Ciereszko');
+            VALUES ('Witold', 'Banyœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Patryk', 'Szramka');
+            VALUES ('Eryk', 'Pietryga');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nela', 'Pioch');
+            VALUES ('Dorota', 'Kurzak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kamil', 'Sadlik');
+            VALUES ('Przemys³aw', 'Jêdruszczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Jeremi', 'Paliga');
+            VALUES ('Liwia', 'Wo³odŸko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Æmiel');
+            VALUES ('Julian', 'Bobik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Fryderyk', 'Kenig');
+            VALUES ('Hubert', 'Gogó³');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Gabriel', 'Dering');
+            VALUES ('Stanis³aw', 'Pastucha');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kornel', 'Ziarek');
+            VALUES ('Jêdrzej', 'Olchawa');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Miko³aj', 'Tryka');
+            VALUES ('Kornel', 'Albin');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Stanis³aw', 'Dmoch');
+            VALUES ('Cyprian', 'Frelek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Konrad', 'Kowala');
+            VALUES ('Ksawery', 'Szulist');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marcin', '£uczkiewicz');
+            VALUES ('Aniela', 'Bas');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Milka');
+            VALUES ('Maks', '£abuœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Wojciech', 'Mejer');
+            VALUES ('Kalina', 'Stypa');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dawid', 'Sugier');
+            VALUES ('Ró¿a', 'Malcherek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kaja', 'Szko³a');
+            VALUES ('Andrzej', 'Tórz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Gabriel', 'Kuszyk');
+            VALUES ('Karina', 'B³a¿ejewicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dariusz', 'Dobosiewicz');
+            VALUES ('Marcelina', 'Pal');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Robert', 'Mateusiak');
+            VALUES ('Tymoteusz', 'Basak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Karina', 'Kranc');
+            VALUES ('Wojciech', 'Szczot');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bianka', 'Pyœ');
+            VALUES ('Dawid', 'Bodych');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Liwia', 'Szpyrka');
+            VALUES ('Cezary', 'Myszor');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ró¿a', 'Wojtanowicz');
+            VALUES ('Stefan', 'Pachnik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Mariusz', 'Moroñ');
+            VALUES ('Mateusz', 'Hyjek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Grzegorz', 'Terka');
+            VALUES ('Dominik', 'Amanowicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bruno', 'Smor¹g');
+            VALUES ('Tomasz', 'Osik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kajetan', 'Wiech');
+            VALUES ('Tymoteusz', 'Fija³ek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Witold', 'Dubis');
+            VALUES ('Anita', 'Je¿yk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Sebastian', 'Ludwisiak');
+            VALUES ('Ryszard', 'Pacholak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Penar');
+            VALUES ('Ewa', 'Reiter');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleks', 'Be³za');
+            VALUES ('Apolonia', 'Czura');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tola', 'Serwach');
+            VALUES ('Maks', 'M³ot');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kaja', 'Robaszkiewicz');
+            VALUES ('Dawid', 'Reimann');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Ciêciwa');
+            VALUES ('Robert', 'Jarmu³a');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maciej', 'Pawe³kiewicz');
+            VALUES ('Juliusz', 'Sza³as');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kornel', 'Le¿oñ');
+            VALUES ('Ewa', 'Siwczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kalina', 'Irla');
+            VALUES ('Stefan', 'Pajek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Olga', 'Sarniak');
+            VALUES ('Eliza', 'Kowala');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Janisz');
+            VALUES ('Ignacy', 'Sot');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Rados³aw', 'Sydor');
+            VALUES ('Bruno', 'Kurzac');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Emil', 'Pierzak');
+            VALUES ('Jan', 'Go³oœ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maurycy', 'Duczek');
+            VALUES ('El¿bieta', 'Kocurek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Artur', 'Szatko');
+            VALUES ('Inga', 'Bar³óg');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Liwia', 'Chadaj');
+            VALUES ('Liwia', 'Pietrek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Emil', 'Hutyra');
+            VALUES ('Ksawery', 'Niedoœpia³');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dorota', 'Pabiœ');
+            VALUES ('Grzegorz', 'Andrejczuk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Dawid', '¯o³nierczyk');
+            VALUES ('Wojciech', 'Plich');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Kawula');
+            VALUES ('Stanis³aw', 'Bitner');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Inga', 'Galuba');
+            VALUES ('Fabian', 'G³uszko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Arkadiusz', 'Czury³o');
+            VALUES ('Kazimierz', 'Zapora');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Norbert', 'Trybus');
+            VALUES ('Artur', 'Halik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maks', 'Olesiejuk');
+            VALUES ('Julian', 'Chochó³');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Olgierd', 'Pastor');
+            VALUES ('Mariusz', 'Ziarnik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Norbert', 'Szyca');
+            VALUES ('Kazimierz', 'Kusik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tymon', 'Martin');
+            VALUES ('Janina', 'Bryda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ida', 'Dorobek');
+            VALUES ('Wiktor', 'Pêdrak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kamila', 'Wolff');
+            VALUES ('Ignacy', 'Hnat');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kornel', 'Pleban');
+            VALUES ('Mariusz', 'Ró¿ak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Franciszek', 'Torbus');
+            VALUES ('Agnieszka', 'Jankowicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Maciej', 'Godzwon');
+            VALUES ('Nikodem', 'Kopik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Mieszko', 'Patalas');
+            VALUES ('Adrianna', 'Zamora');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Leonard', 'Noras');
+            VALUES ('Robert', 'W³odyka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ada', 'Pyda');
+            VALUES ('Sara', 'KniaŸ');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Oliwier', 'Gryciuk');
+            VALUES ('Dawid', 'Klucznik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ryszard', 'Ciuk');
+            VALUES ('Andrzej', 'Ambrozik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Bianka', 'Rudzik');
+            VALUES ('Kacper', 'Praczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Marcelina', 'Linda');
+            VALUES ('Ró¿a', 'Szyjka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Daniel', 'Kossak');
+            VALUES ('Sandra', 'Szczesiak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nela', 'Zyga');
+            VALUES ('Pawe³', 'Bajko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aleksander', 'Bas');
+            VALUES ('Dariusz', 'Godzik');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kamila', 'Hulbój');
+            VALUES ('Ró¿a', 'Olearczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Patryk', 'Rembacz');
+            VALUES ('Nataniel', 'Bohdanowicz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Alan', 'Tomaszczyk');
+            VALUES ('Tola', 'Szyc');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Cezary', 'Sierpieñ');
+            VALUES ('Daniel', 'Pastuszko');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Aurelia', 'Niebudek');
+            VALUES ('Adrianna', 'Lisak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tobiasz', 'Wyroba');
+            VALUES ('Dorota', 'Kurz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Adrianna', 'Geisler');
+            VALUES ('Gabriel', 'Ha³ka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Norbert', 'Gosek');
+            VALUES ('Ró¿a', 'Strzelczak');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Andrzej', 'Mikiciuk');
+            VALUES ('Krzysztof', 'Schwarz');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Stanis³aw', 'Drobik');
+            VALUES ('Julian', 'Irla');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nataniel', 'Wilkos');
+            VALUES ('Marianna', 'Bryda');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Albert', 'Krzyszczak');
+            VALUES ('Jacek', 'Myk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Andrzej', 'Pyszka');
+            VALUES ('Borys', 'Kapral');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Olaf', 'Nickel');
+            VALUES ('Nela', 'W¹sek');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Kazimierz', 'Wasiewicz');
+            VALUES ('Liwia', 'Kochel');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Daniel', 'Kêdziorek');
+            VALUES ('Alan', 'Kowala');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Iwo', 'Dulemba');
+            VALUES ('Kamil', 'Karsznia');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Damian', 'Kozica');
+            VALUES ('Roksana', 'Gul');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Nikodem', 'Zawiasa');
+            VALUES ('Jerzy', 'D³ugajczyk');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Ksawery', 'Neugebauer');
+            VALUES ('Mi³osz', 'Ho³ota');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anastazja', 'Miœko');
+            VALUES ('Julita', 'Œwiergiel');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('£ukasz', 'Bawo³');
+            VALUES ('Konrad', 'Paprotny');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('£ukasz', 'Pabis');
+            VALUES ('Kamil', 'Tyka');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Tola', 'Wosiek');
+            VALUES ('Malwina', 'Armata');
             
             INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Fabian', 'Go³ek');
-            
-            INSERT INTO Autor (Imiê, Nazwisko)
-            VALUES ('Anita', 'Kuzior');
+            VALUES ('Borys', 'Sabak');
             
