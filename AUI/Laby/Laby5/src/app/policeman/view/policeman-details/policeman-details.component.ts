@@ -59,4 +59,10 @@ export class PolicemanDetailsComponent {
       this.ngOnInit();
     });
   }
+
+  onDeletePoliceman() {
+    this.policemanService.deletePoliceman(this.policemanId).subscribe(() => {
+      this.router.navigate(['/policemans']);
+    });
+  }
 }

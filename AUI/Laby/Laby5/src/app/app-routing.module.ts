@@ -16,6 +16,10 @@ const routes: Routes = [
   { path: 'policemans/:id/edit', component: PolicemanEditComponent },
   { path: 'policemans/:policemanId/addTicket', component: TicketEditComponent },
   {
+    path: 'policemans/:policemanId/tickets/:id',
+    component: TicketDetailsComponent,
+  },
+  {
     path: 'policemans/:policemanId/tickets/:id/edit',
     component: TicketEditComponent,
   },

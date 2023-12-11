@@ -19,6 +19,7 @@ export class TicketDetailsComponent {
   ) {}
 
   ticketId: string = '';
+  policemanId: string = '';
   ticket: Ticket = {
     id: '',
     price: 0,
@@ -34,6 +35,7 @@ export class TicketDetailsComponent {
   ngOnInit(): void {
     this.route.params.subscribe((params) => {
       this.ticketId = params['id'];
+      this.policemanId = params['policemanId'];
     });
 
     if (this.ticketId) {
@@ -52,5 +54,15 @@ export class TicketDetailsComponent {
         }
       );
     }
+  }
+
+  onDelete() {
+    this.ticketService.deleteTicket(this.ticketId).subscribe(() => {
+      if (this.policemanId) {
+        this.router.navigate(['/policemans', this.policemanId]);
+      } else {
+        this.router.navigate(['/tickets']);
+      }
+    });
   }
 }

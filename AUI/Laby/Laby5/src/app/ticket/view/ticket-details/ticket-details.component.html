@@ -6,7 +6,11 @@ policeman.name, policeman.rank) -->
     <div class="col-md-12">
       <div class='d-flex justify-content-between align-items-center mb-3'>
         <h1>Ticket Details</h1>
-        <a [routerLink]="['/tickets', ticket.id, 'edit']" class="btn btn-primary">Edit</a>
+        <span>
+          <a [routerLink]="policemanId ? ['/policemans', policemanId, 'tickets', ticket.id, 'edit'] : ['/tickets', ticket.id, 'edit']"
+            class="btn btn-primary mx-1">Edit</a>
+          <button class="btn btn-danger mx-1" (click)="onDelete()">Delete</button>
+        </span>
       </div>
       <table class="table table-striped border text-center">
         <thead>
