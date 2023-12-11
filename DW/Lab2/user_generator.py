@@ -26,13 +26,13 @@ def generate_user_data(user_id):
     for i in range(random.randrange(0, 5, 1)):
         user_badges.append(random.choice(badges))
 
-    return [user_id, first_name, last_name, gender, birth_date, address, user_badges]
+    return [user_id, first_name, last_name, gender, birth_date, address]
 
 
 # Tworzenie danych dla użytkowników i zapis do pliku CSV
 def create_users_csv(file_name, usersT1, usersT2, is_New=False):
-    header = ["ID", "Imie", "Nazwisko", "Płeć", "Data urodzenia", "Adres", "Odznaki"]
-    data = [header]
+    header = ["ID", "Imie", "Nazwisko", "Płeć", "Data urodzenia", "Adres"]
+    data = []
 
     if is_New:
         file_mode = 'a'
@@ -42,6 +42,7 @@ def create_users_csv(file_name, usersT1, usersT2, is_New=False):
         file_mode = 'w'
         start_parameter = 1
         end_parameter = usersT1
+        data.append(header)
 
     for i in range(start_parameter, end_parameter):
         user_data = generate_user_data(i)

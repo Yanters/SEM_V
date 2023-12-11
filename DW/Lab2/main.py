@@ -17,7 +17,8 @@ consultationsT1 = 50
 consultationsT2 = 2*consultationsT1
 T1 = '-1y'
 T2 = 'today'
-is_New = False
+# if is_New = True, then it will append data to existing files
+is_New = True
 
 
 create_users_csv('users.csv', usersT1, usersT2, is_New)
