@@ -2,6 +2,7 @@ package com.example.records;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.beans.factory.annotation.Value;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import org.springframework.context.annotation.Bean;
@@ -24,7 +25,7 @@ public class PolicemanApplication {
 	 * @return managed bean for configured {@link ObjectWriter}
 	 */
 	@Bean
-	public RestTemplate restTemplate(@Value("${records.policeman.url}") String baseUrl) {
-		return new RestTemplate();
+	public RestTemplate restTemplate(@Value("${records.ticket.url}") String baseUrl) {
+		return new RestTemplateBuilder().rootUri(baseUrl).build();
 	}
 }
