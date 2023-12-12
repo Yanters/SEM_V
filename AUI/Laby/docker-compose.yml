@@ -1,0 +1,70 @@
+version: '3'
+
+services:
+  ticket-service:
+    build:
+      context: ./Laby4/ticket-service/.
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      SPRING_DATASOURCE_URL: 'jdbc:postgresql://ticket-service-db:5432/ticket_db'
+      SPRING_DATASOURCE_DRIVERCLASSNAME: 'org.postgresql.Driver'
+      SPRING_DATASOURCE_USERNAME: 'user'
+      SPRING_DATASOURCE_PASSWORD: 'password'
+      SPRING_JPA_DATABASE_PLATFORM: 'org.hibernate.dialect.PostgreSQLDialect'
+
+  policeman-service:
+    build:
+      context: ./Laby4/policeman-service/.
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      RECORDS_TICKET_URL: 'http://ticket-service:8080'
+      SPRING_DATASOURCE_URL: 'jdbc:postgresql://policeman-service-db:5432/policeman_db'
+      SPRING_DATASOURCE_DRIVERCLASSNAME: 'org.postgresql.Driver'
+      SPRING_DATASOURCE_USERNAME: 'user'
+      SPRING_DATASOURCE_PASSWORD: 'password'
+      SPRING_JPA_DATABASE_PLATFORM: 'org.hibernate.dialect.PostgreSQLDialect'
+
+  records-gateway:
+    build:
+      context: ./Laby4/records-gateway/.
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      POLICEMAN_SERVICE_URL: 'http://policeman-service:8080'
+      TICKET_SERVICE_URL: 'http://ticket-service:8080'
+      RECORDS_GATEWAY_HOST: 'records-gateway:8080'
+
+  angular:
+    build:
+      context: ./Laby5/.
+      dockerfile: Dockerfile
+    restart: always
+    environment:
+      API_URL: 'http://records-gateway:8080/api'
+    ports:
+      - '8080:80'
+
+  policeman-service-db:
+    image: postgres:16.1
+    restart: always
+    environment:
+      POSTGRES_DB: 'policeman_db'
+      POSTGRES_USER: 'user'
+      POSTGRES_PASSWORD: 'password'
+    volumes:
+      - policeman_db_data:/var/lib/postgresql/data
+
+  ticket-service-db:
+    image: postgres:16.1
+    restart: always
+    environment:
+      POSTGRES_DB: 'ticket_db'
+      POSTGRES_USER: 'user'
+      POSTGRES_PASSWORD: 'password'
+    volumes:
+      - ticket_db_data:/var/lib/postgresql/data
+volumes:
+  policeman_db_data:
+  ticket_db_data:
